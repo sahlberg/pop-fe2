@@ -1,0 +1,46 @@
+pop-fe2 is a python utility to create PS2Classic PKGs on Linux
+
+WIP
+
+For now it will only create PS2Classics for games where we have
+all the assets defined in gamedb.py.
+Please add icon0/pic0/pic1/snd0 links to any entries that are
+uncommented in gamedb.py.
+
+TODO:
+add VMC support
+
+
+Installation
+============
+
+$ sudo dnf install python-is-python3
+$ sudo dnf install pip3
+$ sudo dnf install python3-devel
+$ sudo dnf install libsndfile-devel
+$ sudo dnf install ffmpeg
+$ sudo dnf install git
+$ pip3 install pycdlib  (or pip3 install pycdio)
+$ pip3 install git+https://github.com/nficano/pytube
+
+$ cd ps2classic/ps2classic-ps2classic/
+$ make
+$ cd ../..
+
+$ git clone https://github.com/dcherednik/atracdenc.git
+$ cd atracdenc/src/
+$ cmake .
+$ make
+$ cd ../..
+
+$ git clone http://github.com/sahlberg/PSL1GHT
+$ cd PSL1GHT/tools/ps3py
+$ git checkout origin/use-python3
+$ make
+$ cd ../../..
+
+$ git clone https://github.com/Sorvigolova/make_npdata.git
+$ cd make_npdata/Linux/
+$ make
+$ cd ../..
+
