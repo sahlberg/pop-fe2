@@ -736,7 +736,7 @@ def create_limg_sector(filename):
 
 def get_gameid_from_iso(path):
     def strip_bad_chars(buf):
-        bad_chars = "\\_. -"
+        bad_chars = "\\_. -;"
         for i in bad_chars:
             buf = buf.replace(i, "")
         return buf
@@ -986,6 +986,17 @@ if __name__ == "__main__":
     print('GAMEID:', gameid)
     print('TITLE:', games[gameid]['title'])
 
+    _c = 'https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/PS2CONFIG/USRDIR/CONFIG/CUSTOM/' + gameid[0:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '.CONFIG'
+    config = None
+    ret = requests.get(_c, stream=True)
+    if ret.status_code == 200:
+        config = 'config'
+        with open(config, 'wb') as f:
+            if ret.apparent_encoding:
+                f.write(ret.content.decode(ret.apparent_encoding))
+            else:
+                f.write(ret.content)
+
     cid = 'UP0000-%s_00-PS2CLASSICS00000' % gameid
     #cid = '2P0001-PS2U10000_00-0000111122223333'
     subdir = 'pop-fe2-work/' + cid
@@ -1053,22 +1064,13 @@ if __name__ == "__main__":
     with open(subdir + '/PS3LOGO.DAT', 'wb') as f:
         f.write(_logo_buffer)
 
-    # Create ISO.BIN.EDAT:
     with open('gameid', 'w') as f:
         f.write(gameid[:4] + '_' + gameid[4:9])
 
     with open('klic.bin', 'wb') as f:
         f.write(PS2_PLACEHOLDER_KEY)
-    
-    # Install CONFIG.
-    config = None
-    try:
-        _c = 'CONFIGS/CUSTOM/' + gameid[:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '.CONFIG'
-        os.stat(_c)
-        config = _c
-    except:
-        True
 
+    # Install CONFIG.
     if config:
         print('Installing CONFIG from', config)
         # ps2classic.exe e cex ps2.key SCES_123.45.CONFIG CONFIG CONFIG 2P0001-PS2U10000_00-0000111122223333
@@ -1079,7 +1081,8 @@ if __name__ == "__main__":
                         subdir + '/USRDIR/CONFIG', 'CONFIG',
                         '2P0001-PS2U10000_00-0000111122223333'],
                        check=True)
-        
+
+    # Create ISO.BIN.EDAT:
     print('Copy %s into %s' % (args.file, subdir + '/USRDIR/game.iso'))
     try:
         os.remove(subdir + '/USRDIR/game.iso')

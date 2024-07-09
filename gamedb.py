@@ -691,7 +691,7 @@ games = {
         'id': 'SLUS21327',
         'title': 'Atelier Iris 2 - The Azoth of Destiny',
         'icon0': 'https://images.launchbox-app.com/8dc6454e-3d78-40d6-84f8-bba1215edad7.jpg',
-        'pic0': 'https://images.launchbox-app.com/4f23623c-e507-4501-b615-e03ff1bd552c.png',
+        'pic0': 'https://images.launchbox-app.com/debbbde8-3976-4f63-9914-dded20c4b429.png',
         'pic1': 'https://images.launchbox-app.com/d1b43290-79ac-4a8b-8522-d84afb96a744.jpg',
         'snd0': 'https://www.youtube.com/watch?v=u6DIxzvecj0&list=PLIlvAC102Yff3NwzEnTjP51OO6mv4ojZu&index=1',
     },
@@ -10535,22 +10535,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21111': {
-    #    'id': 'SLUS21111',
-    #    'title': 'SCARFACE - THE WORLD IS YOURS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21492': {
-    #    'id': 'SLUS21492',
-    #    'title': 'SCARFACE - THE WORLD IS YOURS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21111': {
+        'id': 'SLUS21111',
+        'title': 'SCARFACE - THE WORLD IS YOURS',
+        'icon0': 'https://images.launchbox-app.com/2cee6bf9-ba39-4940-9342-3238b1e0d465.jpg',
+        'pic0': 'https://images.launchbox-app.com/177aba9d-5e32-41c1-b28f-b23558d6c97b.png',
+        'pic1': 'https://images.launchbox-app.com/2079fe49-adb5-4646-8c83-1cdc46063c49.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=8Lx8uHC7I4M&list=PLE25AE07E13E11795&index=1',
+    },
+    'SLUS21492': {
+        'id': 'SLUS21492',
+        'title': 'SCARFACE - THE WORLD IS YOURS',
+        'icon0': 'https://images.launchbox-app.com/2cee6bf9-ba39-4940-9342-3238b1e0d465.jpg',
+        'pic0': 'https://images.launchbox-app.com/177aba9d-5e32-41c1-b28f-b23558d6c97b.png',
+        'pic1': 'https://images.launchbox-app.com/2079fe49-adb5-4646-8c83-1cdc46063c49.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=8Lx8uHC7I4M&list=PLE25AE07E13E11795&index=1',
+    },
     #'SLUS21928': {
     #    'id': 'SLUS21928',
     #    'title': 'SCOOBY-DOO! & THE SPOOKY SWAMP',
