@@ -759,14 +759,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20642': {
-    #    'id': 'SLUS20642',
-    #    'title': 'AUTO MODELLISTA',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20642': {
+        'id': 'SLUS20642',
+        'title': 'AUTO MODELLISTA',
+        'icon0': 'https://images.launchbox-app.com/fe1d9e90-7b29-4bdd-aaff-317a8e6a3ffa.jpg',
+        'pic0': 'https://images.launchbox-app.com/5f8a56cb-e2d4-4b78-8675-287101b58e3d.png',
+        'pic1': 'https://images.launchbox-app.com/a9c7138e-2f3c-4575-97f3-760a1349dd3a.png',
+        'snd0': 'https://www.youtube.com/watch?v=6q5ZOfcCM9k&list=PL577EB417A7C2CCF8&index=1',
+    },
     #'SLUS21395': {
     #    'id': 'SLUS21395',
     #    'title': 'Avatar - The Last Airbender',
@@ -1375,46 +1375,46 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20307': {
-    #    'id': 'SLUS20307',
-    #    'title': 'Burnout',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21596': {
-    #    'id': 'SLUS21596',
-    #    'title': 'Burnout - Dominator',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20497': {
-    #    'id': 'SLUS20497',
-    #    'title': 'Burnout 2 - Point of Impact',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21050': {
-    #    'id': 'SLUS21050',
-    #    'title': 'Burnout 3 - Takedown',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21242': {
-    #    'id': 'SLUS21242',
-    #    'title': 'Burnout Revenge',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20307': {
+        'id': 'SLUS20307',
+        'title': 'Burnout',
+        'icon0': 'https://images.launchbox-app.com/1248e7a9-3f69-4931-9949-a3f471ad947e.jpg',
+        'pic0': 'https://images.launchbox-app.com/4175597c-8fe8-443a-9788-8cd5c0aa227f.png',
+        'pic1': 'https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/05/Burnout-3-PS2-Intro.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=XBEtGNoQXms&list=PLEitUNTs_kIFuIvia6_tYKNN31YkJC6Re&index=1',
+    },
+    'SLUS21596': {
+        'id': 'SLUS21596',
+        'title': 'Burnout - Dominator',
+        'icon0': 'https://images.launchbox-app.com/514a8fe5-ee85-4453-ae6a-3d417dbfa4e5.jpg',
+        'pic0': 'https://images.launchbox-app.com/1bdc13f6-7612-4512-a276-a952951201d3.png',
+        'pic1': 'https://images.launchbox-app.com/92a6df04-aa5c-4895-8f49-51237a8c7c16.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Bxvw_VgJfOs&list=PLg_46xJq8ckvdJcJF5Wox4k2ASun8DhxT&index=1',
+    },
+    'SLUS20497': {
+        'id': 'SLUS20497',
+        'title': 'Burnout 2 - Point of Impact',
+        'icon0': 'https://images.launchbox-app.com/f1c61902-77ac-4912-9757-e6791fa27f6b.jpg',
+        'pic0': 'https://images.launchbox-app.com/389d16d3-2088-48e5-b239-cfeb3c1c690c.png',
+        'pic1': 'https://www.kotaku.com.au/wp-content/uploads/2023/05/18/be329bdd7d7534b4b47866c6f4bd9ac3.jpg?quality=75&w=640&h=360&crop=1',
+        'snd0': 'https://www.youtube.com/watch?v=2BVw71eqYg4&list=PLTX0IGQXrBQIf3A576dRy5kTn6xTaNogF&index=1',
+    },
+    'SLUS21050': {
+        'id': 'SLUS21050',
+        'title': 'Burnout 3 - Takedown',
+        'icon0': 'https://images.launchbox-app.com/58b3d988-8d18-4f56-a1c3-d87ca0808918.jpg',
+        'pic0': 'https://images.launchbox-app.com/7f37fec4-9480-46ac-9314-95e85a5f8fb4.png',
+        'pic1': 'https://images.launchbox-app.com/dc5ff6c9-fec5-4e7b-8491-77623c46f13d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=7M4-Snfd65I&list=PLeTrn4AsfVQwFcfxIGP1XkTTsShi2CiUp&index=1',
+    },
+    'SLUS21242': {
+        'id': 'SLUS21242',
+        'title': 'Burnout Revenge',
+        'icon0': 'https://images.launchbox-app.com/066b2358-ac86-4b63-97b7-93be6fff4323.png',
+        'pic0': 'https://images.launchbox-app.com/3297e37c-ec37-447f-964c-83c33683dee9.png',
+        'pic1': 'https://images.launchbox-app.com/7ff75700-94c3-422d-8745-aa78b214fded.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Gx_hiRqOzpI&list=PLwT_cPIGQU_VvkfcM7FZsLY-nwyhMEVAD&index=1',
+    },
     #'SLUS20527': {
     #    'id': 'SLUS20527',
     #    'title': 'Butt Ugly Martians - Zoom or Doom!',
