@@ -14791,22 +14791,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21348': {
-    #    'id': 'SLUS21348',
-    #    'title': 'YAKUZA',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21769': {
-    #    'id': 'SLUS21769',
-    #    'title': 'Yakuza 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21348': {
+        'id': 'SLUS21348',
+        'title': 'YAKUZA',
+        'icon0': 'https://images.launchbox-app.com/01aa0b9d-52d1-4931-ba3c-5ff3688d6681.jpg',
+        'pic0': 'https://images.launchbox-app.com/1067c941-cac8-493d-a839-2aa0c0fba2ec.png',
+        'pic1': 'https://images.launchbox-app.com/8d4ff8fe-3c0d-4977-b0a3-cbf3e6556961.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=lEtkXhAklfI&list=PLU_iZ-e4vsqzpu5vfvc6DyxlzLDmY9pKZ&index=1',
+    },
+    'SLUS21769': {
+        'id': 'SLUS21769',
+        'title': 'Yakuza 2',
+        'icon0': 'https://images.launchbox-app.com/512222ad-9f81-460e-9a4d-86896b29e191.jpg',
+        'pic0': 'https://images.launchbox-app.com/0a8afa8c-0eab-4e31-a01c-78043baaa79f.png',
+        'pic1': 'https://images.launchbox-app.com/07eebe80-7344-4973-a436-8327dc7ceb71.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=gcoG_zL1r4U&list=PLg10XkQAvVGAhX_qktf20gLzS_WNpDvWn&index=1',
+    },
     #'SLUS20278': {
     #    'id': 'SLUS20278',
     #    'title': 'YANYA CABALLISTA - CITY SKATER',
