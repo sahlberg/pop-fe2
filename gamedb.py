@@ -4767,22 +4767,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21006': {
-    #    'id': 'SLUS21006',
-    #    'title': 'GHOST IN THE SHELL - STAND ALONE COMPLEX',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21306': {
-    #    'id': 'SLUS21306',
-    #    'title': 'GHOST RIDER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21006': {
+        'id': 'SLUS21006',
+        'title': 'GHOST IN THE SHELL - STAND ALONE COMPLEX',
+        'icon0': 'https://images.launchbox-app.com/c3b63639-34cf-4960-b8a7-f95a697e9937.jpg',
+        'pic0': 'https://images.launchbox-app.com/1ae20100-3f7d-4ef9-94cf-caf68acc23df.png',
+        'pic1': 'https://images.launchbox-app.com/ac6f77dd-643e-4c80-b864-2d3ee9a38971.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=X5vkklDpb8g&list=PLHDDlQ-zPM1AxolpTCHlrkkq-oGiUUSW1&index=1',
+    },
+    'SLUS21306': {
+        'id': 'SLUS21306',
+        'title': 'GHOST RIDER',
+        'icon0': 'https://images.launchbox-app.com/b3a831d5-5857-495b-a8af-dd03af9aef55.jpg',
+        'pic0': 'https://images.launchbox-app.com/26a493be-a712-4654-b732-a77799c41bb0.png',
+        'pic1': 'https://images.launchbox-app.com/420d0e5f-89b0-4f0b-93cf-d90b685494aa.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=ZO5z5In30VE&list=PLO4jlmGoc6uB-L-e_7yVU8KyUSde8e_Nh&index=1',
+    },
     #'SLUS21882': {
     #    'id': 'SLUS21882',
     #    'title': 'GHOSTBUSTERS - THE VIDEO GAME',
@@ -7135,54 +7135,54 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20144': {
-    #    'id': 'SLUS20144',
-    #    'title': 'METAL GEAR SOLID 2 - SONS OF LIBERTY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20554': {
-    #    'id': 'SLUS20554',
-    #    'title': 'Metal Gear Solid 2 - Substance',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20915': {
-    #    'id': 'SLUS20915',
-    #    'title': 'METAL GEAR SOLID 3 - SNAKE EATER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21243': {
-    #    'id': 'SLUS21243',
-    #    'title': 'METAL GEAR SOLID 3 - SUBSISTENCE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21359': {
-    #    'id': 'SLUS21359',
-    #    'title': 'METAL GEAR SOLID 3 - SUBSISTENCE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21360': {
-    #    'id': 'SLUS21360',
-    #    'title': 'METAL GEAR SOLID 3 - SUBSISTENCE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20144': {
+        'id': 'SLUS20144',
+        'title': 'METAL GEAR SOLID 2 - SONS OF LIBERTY',
+        'icon0': 'https://images.launchbox-app.com/7b0dcae8-5931-41e2-bdca-40f0cc20778e.jpg',
+        'pic0': 'https://images.launchbox-app.com/df7897e2-acff-4d9f-a526-3157531d1150.png',
+        'pic1': 'https://images.launchbox-app.com/ef03cb91-9df2-48fe-9e0e-bf9e68bd74ba.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=jmZsY344Sr8&list=PL3-Zr0Ym0Fgz1DnslyLMORmuulDTJavDV&index=2',
+    },
+    'SLUS20554': {
+        'id': 'SLUS20554',
+        'title': 'Metal Gear Solid 2 - Substance',
+        'icon0': 'https://images.launchbox-app.com/5f156f2b-a44b-461e-8699-6e5314ce40a6.png',
+        'pic0': 'https://images.launchbox-app.com/ff45c599-2ef1-4c92-b73a-cc3dca7e0409.png',
+        'pic1': 'https://images.launchbox-app.com/4c4d519e-a169-4c85-9826-64617b016d50.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=jmZsY344Sr8&list=PL3-Zr0Ym0Fgz1DnslyLMORmuulDTJavDV&index=2',
+    },
+    'SLUS20915': {
+        'id': 'SLUS20915',
+        'title': 'METAL GEAR SOLID 3 - SNAKE EATER',
+        'icon0': 'https://images.launchbox-app.com/e8fb6be7-937e-4147-b64c-2002381bf024.jpg',
+        'pic0': 'https://images.launchbox-app.com/f1cd6f8f-3b14-41fb-a48e-258b0349f500.png',
+        'pic1': 'https://images.launchbox-app.com/e635fc6b-433f-4c99-a42b-f0086ed1900b.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=jaxJQ6CifHw&list=PL3-Zr0Ym0Fgzv5gOwlnBoRubRAH7CGjja&index=1',
+    },
+    'SLUS21243': {
+        'id': 'SLUS21243',
+        'title': 'METAL GEAR SOLID 3 - SUBSISTENCE',
+        'icon0': 'https://images.launchbox-app.com/391529f7-9dac-471b-bb8f-6f32fb0b4bc6.jpg',
+        'pic0': 'https://images.launchbox-app.com/afc3a292-1e70-4b3b-aa3f-6af0adcd5c47.png',
+        'pic1': 'https://images.launchbox-app.com/3363cf77-f9e8-47f2-ae41-f7096e8a8470.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=jaxJQ6CifHw&list=PL3-Zr0Ym0Fgzv5gOwlnBoRubRAH7CGjja&index=1',
+    },
+    'SLUS21359': {
+        'id': 'SLUS21359',
+        'title': 'METAL GEAR SOLID 3 - SUBSISTENCE',
+        'icon0': 'https://images.launchbox-app.com/391529f7-9dac-471b-bb8f-6f32fb0b4bc6.jpg',
+        'pic0': 'https://images.launchbox-app.com/afc3a292-1e70-4b3b-aa3f-6af0adcd5c47.png',
+        'pic1': 'https://images.launchbox-app.com/3363cf77-f9e8-47f2-ae41-f7096e8a8470.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=jaxJQ6CifHw&list=PL3-Zr0Ym0Fgzv5gOwlnBoRubRAH7CGjja&index=1',
+    },
+    'SLUS21360': {
+        'id': 'SLUS21360',
+        'title': 'METAL GEAR SOLID 3 - SUBSISTENCE',
+        'icon0': 'https://images.launchbox-app.com/391529f7-9dac-471b-bb8f-6f32fb0b4bc6.jpg',
+        'pic0': 'https://images.launchbox-app.com/afc3a292-1e70-4b3b-aa3f-6af0adcd5c47.png',
+        'pic1': 'https://images.launchbox-app.com/3363cf77-f9e8-47f2-ae41-f7096e8a8470.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=jaxJQ6CifHw&list=PL3-Zr0Ym0Fgzv5gOwlnBoRubRAH7CGjja&index=1',
+    },
     #'SLUS21293': {
     #    'id': 'SLUS21293',
     #    'title': 'METAL SAGA',
