@@ -447,22 +447,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21445': {
-    #    'id': 'SLUS21445',
-    #    'title': 'Ar Tornelico',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21788': {
-    #    'id': 'SLUS21788',
-    #    'title': 'Ar Tornelico 2 - Melody of Metafalica',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21445': {
+        'id': 'SLUS21445',
+        'title': 'Ar Tonelico',
+        'icon0': 'https://images.launchbox-app.com/a5d5b237-2350-4f8d-8992-63477fb179b2.jpg',
+        'pic0': 'https://images.launchbox-app.com/c8e9b4b7-e207-47f0-89ee-bfaa2d4b8937.png',
+        'pic1': 'https://images.launchbox-app.com/c55cc2a2-2a59-45a3-b420-25c46ed7729d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=eoicX3RPf5Q&list=PLYUmjIUAN03qly6Z1AhqM6CAHvtewKM-J&index=1',
+    },
+    'SLUS21788': {
+        'id': 'SLUS21788',
+        'title': 'Ar Tonelico 2 - Melody of Metafalica',
+        'icon0': 'https://images.launchbox-app.com/4794679f-be79-4857-8099-efcd94310b5f.jpg',
+        'pic0': 'https://images.launchbox-app.com/d8dca774-1868-4d91-b781-ed7b4fd325e5.png',
+        'pic1': 'https://images.launchbox-app.com/d8bc7715-80f2-4981-8f3a-328cb35d6bf6.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=kbTZtCGVHas&list=PLdZj77TevUQ-HelFPLMk8CS2ba3sLuY6U&index=5',
+    },
     #'SLUS21165': {
     #    'id': 'SLUS21165',
     #    'title': 'Arc the Lad - End of Darkness',
@@ -4975,14 +4975,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20062': {
-    #    'id': 'SLUS20062',
-    #    'title': 'GRAND THEFT AUTO III',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20062': {
+        'id': 'SLUS20062',
+        'title': 'GRAND THEFT AUTO III',
+        'icon0': 'https://images.launchbox-app.com/cf73a1a9-002f-4513-b9ef-c575adf8b683.jpg',
+        'pic0': 'https://images.launchbox-app.com/627c511a-03e7-414e-a711-64fba321e2c8.png',
+        'pic1': 'https://images.launchbox-app.com/d60f5180-6a02-4872-8216-c2c1921abeea.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=znFpxo61WUg&list=PLffQpMcmLcI9y40MYLnLdapLAGvNGWIKC',
+    },
     #'SLUS27003': {
     #    'id': 'SLUS27003',
     #    'title': 'H 	 GRAND THEFT AUTO - DOUBLE PACK',
@@ -4991,14 +4991,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20946': {
-    #    'id': 'SLUS20946',
-    #    'title': 'Grand Theft Auto - San Andreas',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20946': {
+        'id': 'SLUS20946',
+        'title': 'Grand Theft Auto - San Andreas',
+        'icon0': 'https://images.launchbox-app.com/56b5479a-bba5-43d6-b458-0fcd00bf10ba.png',
+        'pic0': 'https://images.launchbox-app.com/c826b558-d917-44ee-bfdf-6fed1bc475d5.png',
+        'pic1': 'https://images.launchbox-app.com/ba975eec-3610-4b15-8096-25ac99fe544d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=W4VTq0sa9yg',
+    },
     #'SLUS21423': {
     #    'id': 'SLUS21423',
     #    'title': 'Grand Theft Auto - Liberty City Stories',
