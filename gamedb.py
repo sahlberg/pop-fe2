@@ -4863,30 +4863,30 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21503': {
-    #    'id': 'SLUS21503',
-    #    'title': 'GOD HAND',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97399': {
-    #    'id': 'SCUS97399',
-    #    'title': 'GOD OF WAR',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97481': {
-    #    'id': 'SCUS97481',
-    #    'title': 'GOD OF WAR II',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21503': {
+        'id': 'SLUS21503',
+        'title': 'GOD HAND',
+        'icon0': 'https://images.launchbox-app.com/d7b23878-152e-4f2a-9cee-8199ab9578bc.jpg',
+        'pic0': 'https://images.launchbox-app.com/9f337eb9-7d2c-4ec9-871a-492ad32c4968.png',
+        'pic1': 'https://images.launchbox-app.com/117cf538-816c-4a23-a031-eb8d974d99b8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=f3zPH3ePyuk&list=PLYD_fG4xADjqlOBREFEgWYQqpwvgP_zFW&index=1',
+    },
+    'SCUS97399': {
+        'id': 'SCUS97399',
+        'title': 'GOD OF WAR',
+        'icon0': 'https://images.launchbox-app.com/e0525716-30ba-4c1d-8522-669e10bf21f4.jpg',
+        'pic0': 'https://images.launchbox-app.com/cae50f8a-7dff-487c-89cd-d01c03b0d26e.png',
+        'pic1': 'https://images.launchbox-app.com/d9cde9a3-ba87-480e-8cee-705c72469d78.png',
+        'snd0': 'https://www.youtube.com/watch?v=2pdRUtncwrc&list=PLoU4WVLV2MKFX9AqSuqi94RjnvrbEmGeb&index=1',
+    },
+    'SCUS97481': {
+        'id': 'SCUS97481',
+        'title': 'GOD OF WAR II',
+        'icon0': 'https://images.launchbox-app.com/2b06034c-9d15-4bdd-8e20-b564027cd957.jpg',
+        'pic0': 'https://images.launchbox-app.com/2f5c6eb8-4cfd-4ef7-90a4-4ac53ccd7168.png',
+        'pic1': 'https://images.launchbox-app.com/b0eeaece-eda9-4596-b7c4-7b6443a16f51.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=zNCQahZU6BQ&list=PLCToLibb1EqPVC06ajmSo-zA2isJGEoma&index=1',
+    },
     #'SLUS20288': {
     #    'id': 'SLUS20288',
     #    'title': 'Godai - Elemental Force',
@@ -4999,54 +4999,54 @@ games = {
         'pic1': 'https://images.launchbox-app.com/ba975eec-3610-4b15-8096-25ac99fe544d.jpg',
         'snd0': 'https://www.youtube.com/watch?v=W4VTq0sa9yg',
     },
-    #'SLUS21423': {
-    #    'id': 'SLUS21423',
-    #    'title': 'Grand Theft Auto - Liberty City Stories',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20552': {
-    #    'id': 'SLUS20552',
-    #    'title': 'GRAND THEFT AUTO - VICE CITY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21590': {
-    #    'id': 'SLUS21590',
-    #    'title': 'GRAND THEFT AUTO - VICE CITY STORIES',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20194': {
-    #    'id': 'SLUS20194',
-    #    'title': 'GRANDIA II',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21334': {
-    #    'id': 'SLUS21334',
-    #    'title': 'GRANDIA III',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21345': {
-    #    'id': 'SLUS21345',
-    #    'title': 'GRANDIA III',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21423': {
+        'id': 'SLUS21423',
+        'title': 'Grand Theft Auto - Liberty City Stories',
+        'icon0': 'https://images.launchbox-app.com/c7eafb27-b97f-4a11-9d3b-afd3c82c7a64.jpg',
+        'pic0': 'https://images.launchbox-app.com/84e8f0a8-4350-474e-91d9-8c477d4ff630.png',
+        'pic1': 'https://images.launchbox-app.com/8437583e-0fb0-46ca-b9b3-d073f4e4c02a.png',
+        'snd0': 'https://www.youtube.com/watch?v=aChfrnm9I5o&list=PLffQpMcmLcI9ZQycQbQsA-YI4w38tZwTd&index=1',
+    },
+    'SLUS20552': {
+        'id': 'SLUS20552',
+        'title': 'GRAND THEFT AUTO - VICE CITY',
+        'icon0': 'https://images.launchbox-app.com/9ab89a02-8481-495f-b16b-f669573a34a0.jpg',
+        'pic0': 'https://images.launchbox-app.com/9306f954-ae1a-4b4c-a642-b5362a25389a.png',
+        'pic1': 'https://images.launchbox-app.com/f4765e75-550a-4ef1-a9c8-9dfca78675b0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=PE485kpuqrs&list=PLffQpMcmLcI-3REhsGllOcwoAsYrQ9bra&index=1',
+    },
+    'SLUS21590': {
+        'id': 'SLUS21590',
+        'title': 'GRAND THEFT AUTO - VICE CITY STORIES',
+        'icon0': 'https://images.launchbox-app.com/fa6f21ab-8535-4234-9977-a20e6ba90fb7.jpg',
+        'pic0': 'https://images.launchbox-app.com/e1e1515c-b659-40db-a77b-848b8689ac71.png',
+        'pic1': 'https://images.launchbox-app.com/1727f2a8-1946-4357-a34a-6659f9f6f07e.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=9gv2QwwfhPI&list=PLffQpMcmLcI8T57IvBjm1aAozJW7ANrbx&index=1',
+    },
+    'SLUS20194': {
+        'id': 'SLUS20194',
+        'title': 'GRANDIA II',
+        'icon0': 'https://images.launchbox-app.com/72825709-0ea5-4a70-b781-9aa3946d3413.jpg',
+        'pic0': 'https://images.launchbox-app.com/1d939ac0-7629-4147-9e6b-cd9f55e24448.png',
+        'pic1': 'https://images.launchbox-app.com/66de7915-bfd4-49d3-95cc-8258d6bdca5d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Tz3TCTkT4XY&list=PLp_nLDzWK5NW9E0JlDm6IwzPVAQ7qRrgM&index=1',
+    },
+    'SLUS21334': {
+        'id': 'SLUS21334',
+        'title': 'GRANDIA III',
+        'icon0': 'https://images.launchbox-app.com/d95b3fad-e50b-4e54-a95b-9c73988e7506.jpg',
+        'pic0': 'https://images.launchbox-app.com/1e7d53ff-a7f3-4435-a4c0-e8fe5584e666.png',
+        'pic1': 'https://images.launchbox-app.com/ae17c3f6-c260-4b8d-8a2b-48c86fba31f8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=xi-pR_auhTM&list=PLqPwat9R5kaRcSlj2KkdBqvM2w4-agp0E&index=1',
+    },
+    'SLUS21345': {
+        'id': 'SLUS21345',
+        'title': 'GRANDIA III',
+        'icon0': 'https://images.launchbox-app.com/d95b3fad-e50b-4e54-a95b-9c73988e7506.jpg',
+        'pic0': 'https://images.launchbox-app.com/1e7d53ff-a7f3-4435-a4c0-e8fe5584e666.png',
+        'pic1': 'https://images.launchbox-app.com/ae17c3f6-c260-4b8d-8a2b-48c86fba31f8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=xi-pR_auhTM&list=PLqPwat9R5kaRcSlj2KkdBqvM2w4-agp0E&index=1',
+    },
     #'SLUS20417': {
     #    'id': 'SLUS20417',
     #    'title': 'GRANDIA XTREME',
