@@ -4887,94 +4887,94 @@ games = {
         'pic1': 'https://images.launchbox-app.com/b0eeaece-eda9-4596-b7c4-7b6443a16f51.jpg',
         'snd0': 'https://www.youtube.com/watch?v=zNCQahZU6BQ&list=PLCToLibb1EqPVC06ajmSo-zA2isJGEoma&index=1',
     },
-    #'SLUS20288': {
-    #    'id': 'SLUS20288',
-    #    'title': 'Godai - Elemental Force',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20809': {
-    #    'id': 'SLUS20809',
-    #    'title': 'GODZILLA - SAVE THE EARTH',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21707': {
-    #    'id': 'SLUS21707',
-    #    'title': 'Godzilla Unleashed',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21834': {
-    #    'id': 'SLUS21834',
-    #    'title': 'GOOSEBUMPS - HORRORLAND',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20040': {
-    #    'id': 'SLUS20040',
-    #    'title': 'GRADIUS III & IV',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20712': {
-    #    'id': 'SLUS20712',
-    #    'title': 'GRADIUS V',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21136': {
-    #    'id': 'SLUS21136',
-    #    'title': 'GRAFFITI KINGDOM',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97102': {
-    #    'id': 'SCUS97102',
-    #    'title': 'GRAN TURISMO 3 A-SPEC',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'PBPX95503': {
-    #    'id': 'PBPX95503',
-    #    'title': 'GRAN TURISMO 3 A-SPEC',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97328': {
-    #    'id': 'SCUS97328',
-    #    'title': 'Gran Turismo 4',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20630': {
-    #    'id': 'SLUS20630',
-    #    'title': 'Grand Prix Challenge',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20288': {
+        'id': 'SLUS20288',
+        'title': 'Godai - Elemental Force',
+        'icon0': 'https://images.launchbox-app.com/4f9cc2b8-9c38-48dd-85b0-ee47d43bbb96.jpg',
+        'pic0': 'https://images.launchbox-app.com/ffdae0dc-d9bd-4165-bb87-5bcbe523b63b.png',
+        'pic1': 'https://images.launchbox-app.com/e9ce9ab2-2789-4531-bd9b-395530448b4b.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Cphzlbs14LA',
+    },
+    'SLUS20809': {
+        'id': 'SLUS20809',
+        'title': 'GODZILLA - SAVE THE EARTH',
+        'icon0': 'https://images.launchbox-app.com/0e554b73-ebaf-4e42-a5e9-34ab8ff4cc93.jpg',
+        'pic0': 'https://images.launchbox-app.com/f9ed1302-6a58-4a4c-924a-b25309895b6c.png',
+        'pic1': 'https://images.launchbox-app.com/a6ecb9b3-53a7-44cc-acdc-d45515840b67.png',
+        'snd0': 'https://www.youtube.com/watch?v=su4qvxJL8nk&list=PLAJL-TY-HAFAIsLsSgvfHNuLGmVDtnpJ2&index=1',
+    },
+    'SLUS21707': {
+        'id': 'SLUS21707',
+        'title': 'Godzilla Unleashed',
+        'icon0': 'https://images.launchbox-app.com/0423dcba-25ac-4a4d-80cb-b196817a5394.jpg',
+        'pic0': 'https://images.launchbox-app.com/3851a4a6-f2bd-465b-a894-1e202091351f.png',
+        'pic1': 'https://images.launchbox-app.com/f8d17734-2b2d-4b21-b8cc-c16cd454d8dc.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=eXlnKHbykws&list=PL5501E63A12D2B390&index=1',
+    },
+    'SLUS21834': {
+        'id': 'SLUS21834',
+        'title': 'GOOSEBUMPS - HORRORLAND',
+        'icon0': 'https://images.launchbox-app.com/80820d4c-412d-48c1-8984-ef04ef8535bb.jpg',
+        'pic0': 'https://images.launchbox-app.com/e3213ada-ce66-48f8-9f8f-86b984923ba9.png',
+        'pic1': 'https://m.media-amazon.com/images/I/51D+lxxmMtL._AC_.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=iDSzWnzKFo4&list=PLNe4LbuydVDg4XPYbqCZfag5AKOyL75si&index=1',
+    },
+    'SLUS20040': {
+        'id': 'SLUS20040',
+        'title': 'GRADIUS III & IV',
+        'icon0': 'https://images.launchbox-app.com/c33ac414-1837-42e4-8ade-0326c2083af3.jpg',
+        'pic0': 'https://images.launchbox-app.com/332fbaf9-6685-4aa8-be9b-d151732b450a.png',
+        'pic1': 'https://images.launchbox-app.com/8d4c9476-03ce-4949-a72e-4f40b39bb582.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=l6TI-iSYpy8&list=PLedYfplhHf2NtVxmG1ud_YmSIrtX2Ld8h&index=1',
+    },
+    'SLUS20712': {
+        'id': 'SLUS20712',
+        'title': 'GRADIUS V',
+        'icon0': 'https://images.launchbox-app.com/8aeb0e61-aa39-4737-b586-7f62cdf36fea.jpg',
+        'pic0': 'https://images.launchbox-app.com/7b6a41ea-8b86-4c87-b4ba-b7a31d6f5b5b.png',
+        'pic1': 'https://images.launchbox-app.com/3bd2e92d-e5d3-4970-9715-0c00b3aa7947.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=bBeITEr5-Ds&list=PL2DF473A1136666B3&index=1',
+    },
+    'SLUS21136': {
+        'id': 'SLUS21136',
+        'title': 'GRAFFITI KINGDOM',
+        'icon0': 'https://images.launchbox-app.com/d8860359-190d-4ac6-a81a-8bbf28b4fb35.jpg',
+        'pic0': 'https://images.launchbox-app.com/21f67dea-8bcb-4b35-bbc0-3918626ef95c.png',
+        'pic1': 'https://static1.srcdn.com/wordpress/wp-content/uploads/2021/02/graffiti-kingdom-ps2.jpg?q=50&fit=crop&w=1000&h=560',
+        'snd0': 'https://www.youtube.com/watch?v=NbCBanYcyNI&list=PL_AtSQWvmsUH-lhyGhf26VtP6Dja2D0Pg&index=1',
+    },
+    'SCUS97102': {
+        'id': 'SCUS97102',
+        'title': 'GRAN TURISMO 3 A-SPEC',
+        'icon0': 'https://images.launchbox-app.com/0ddd7338-258c-4d71-926a-ec623f573218.jpg',
+        'pic0': 'https://images.launchbox-app.com/5673cf64-1b11-42f5-8cc0-c6ce881c0efa.png',
+        'pic1': 'https://images.launchbox-app.com/d40efb5f-ffd1-49d2-8b5b-8593794f3587.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=4XDGy60sRWY&list=PLg_46xJq8cksvhAGEIjZhxaL2M-EaxZUT&index=1',
+    },
+    'PBPX95503': {
+        'id': 'PBPX95503',
+        'title': 'GRAN TURISMO 3 A-SPEC',
+        'icon0': 'https://images.launchbox-app.com/0ddd7338-258c-4d71-926a-ec623f573218.jpg',
+        'pic0': 'https://images.launchbox-app.com/5673cf64-1b11-42f5-8cc0-c6ce881c0efa.png',
+        'pic1': 'https://images.launchbox-app.com/d40efb5f-ffd1-49d2-8b5b-8593794f3587.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=4XDGy60sRWY&list=PLg_46xJq8cksvhAGEIjZhxaL2M-EaxZUT&index=1',
+    },
+    'SCUS97328': {
+        'id': 'SCUS97328',
+        'title': 'Gran Turismo 4',
+        'icon0': 'https://images.launchbox-app.com/5654012a-2918-4d54-b075-daf3532155e2.jpg',
+        'pic0': 'https://images.launchbox-app.com/e9a064f7-4e28-49b1-b842-fbad640f384b.png',
+        'pic1': 'https://images.launchbox-app.com/9d54df1b-7e6b-4c59-9235-db5ee6786197.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=6aK_H-64IfA&list=PL_9Tt48wI1KbjnaZS_0H3x9Msk-8TNK66&index=1',
+    },
+    'SLUS20630': {
+        'id': 'SLUS20630',
+        'title': 'Grand Prix Challenge',
+        'icon0': 'https://images.launchbox-app.com/73002377-a778-4fa8-bffe-b30a81e5f5c0.jpg',
+        'pic0': 'https://images.launchbox-app.com/faab0d0c-0942-4060-ba67-f3cdcd1901cb.png',
+        'pic1': 'https://podiumlife.com/wp-content/uploads/2023/08/Screenshot-2023-08-22-at-10.15.04-PM.png',
+        'snd0': 'https://www.youtube.com/watch?v=c5rttPyLzXA',
+    },
     'SLUS20062': {
         'id': 'SLUS20062',
         'title': 'GRAND THEFT AUTO III',
@@ -4985,7 +4985,7 @@ games = {
     },
     #'SLUS27003': {
     #    'id': 'SLUS27003',
-    #    'title': 'H 	 GRAND THEFT AUTO - DOUBLE PACK',
+    #    'title': 'GRAND THEFT AUTO - DOUBLE PACK',
     #    'icon0': 
     #    'pic0': 
     #    'pic1': 
@@ -5095,70 +5095,70 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20758': {
-    #    'id': 'SLUS20758',
-    #    'title': 'Growlanser - Generations',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20759': {
-    #    'id': 'SLUS20759',
-    #    'title': 'Growlanser - Generations',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21571': {
-    #    'id': 'SLUS21571',
-    #    'title': 'Growlanser - Heritage of War',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20908': {
-    #    'id': 'SLUS20908',
-    #    'title': 'Guilty Gear Isuka',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20287': {
-    #    'id': 'SLUS20287',
-    #    'title': 'GUILTY GEAR X',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20436': {
-    #    'id': 'SLUS20436',
-    #    'title': 'GUILTY GEAR X2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21652': {
-    #    'id': 'SLUS21652',
-    #    'title': 'Guilty Gear XX - Accent Core',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21847': {
-    #    'id': 'SLUS21847',
-    #    'title': 'Guilty Gear XX - Accent Core Plus',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20758': {
+        'id': 'SLUS20758',
+        'title': 'Growlanser - Generations',
+        'icon0': 'https://images.launchbox-app.com/d614fc13-65f4-4365-91e8-6df616e9d18f.jpg',
+        'pic0': 'https://images.launchbox-app.com/1d5f81db-0e76-4cd2-a43d-3f3a04ada077.png',
+        'pic1': 'https://images.launchbox-app.com/32224139-b937-43ee-908e-648c0e944cc0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=KNiFjZMWS5E&list=PLSQyNnFS1oaXTeDG0Urra7NoBcdioQqFV&index=1',
+    },
+    'SLUS20759': {
+        'id': 'SLUS20759',
+        'title': 'Growlanser - Generations',
+        'icon0': 'https://images.launchbox-app.com/d614fc13-65f4-4365-91e8-6df616e9d18f.jpg',
+        'pic0': 'https://images.launchbox-app.com/1d5f81db-0e76-4cd2-a43d-3f3a04ada077.png',
+        'pic1': 'https://images.launchbox-app.com/32224139-b937-43ee-908e-648c0e944cc0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=KNiFjZMWS5E&list=PLSQyNnFS1oaXTeDG0Urra7NoBcdioQqFV&index=1',
+    },
+    'SLUS21571': {
+        'id': 'SLUS21571',
+        'title': 'Growlanser - Heritage of War',
+        'icon0': 'https://images.launchbox-app.com/1666ed01-683a-4f62-8529-d6452063513a.jpg',
+        'pic0': 'https://images.launchbox-app.com/497066d9-8222-4930-99b5-0bd3c3970751.png',
+        'pic1': 'https://images.launchbox-app.com/b0596c82-7505-44f3-bc3c-5725143ec989.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=O-UL4umzR3U&list=PLNKP1B9_kARmyNITScWkqPnfIXRIW-cWE&index=1',
+    },
+    'SLUS20908': {
+        'id': 'SLUS20908',
+        'title': 'Guilty Gear Isuka',
+        'icon0': 'https://images.launchbox-app.com/baafaf6d-16fe-474b-b7ef-4e9e7d6a4965.png',
+        'pic0': 'https://images.launchbox-app.com/32cd76a3-de90-4a7c-891b-134b6a962e6d.png',
+        'pic1': 'https://images.launchbox-app.com/fa76d952-c7d6-45ed-93fa-4cce22d0cae8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Ihy7kGcuX1M&list=PL1DC714F92AA78EDA&index=1',
+    },
+    'SLUS20287': {
+        'id': 'SLUS20287',
+        'title': 'GUILTY GEAR X',
+        'icon0': 'https://images.launchbox-app.com/e6d36a10-d822-4d85-8f93-d1d9128bf6c9.jpg',
+        'pic0': 'https://images.launchbox-app.com/a9e56d4e-c85b-4312-aabf-880245afad1f.png',
+        'pic1': 'https://images.launchbox-app.com/78667425-4a3f-460b-8dcb-861dd2c5f113.png',
+        'snd0': 'https://www.youtube.com/watch?v=FUn8sSi6d0c&list=PLBD5F622EB67AE2FF&index=1',
+    },
+    'SLUS20436': {
+        'id': 'SLUS20436',
+        'title': 'GUILTY GEAR X2',
+        'icon0': 'https://images.launchbox-app.com/72c599b3-e75a-44bf-be07-13030d72eb07.jpg',
+        'pic0': 'https://images.launchbox-app.com/b7099424-62b6-4b6a-bcc0-9ca50ff9c831.png',
+        'pic1': 'https://images.launchbox-app.com/41d2fdb6-24ea-42c9-abd4-8047edfc243e.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=sBUWLMbuTgo&list=PL5335828DBB0DD433&index=1',
+    },
+    'SLUS21652': {
+        'id': 'SLUS21652',
+        'title': 'Guilty Gear XX - Accent Core',
+        'icon0': 'https://images.launchbox-app.com/8ddae385-5fa0-4845-84b8-1566c58419b7.jpg',
+        'pic0': 'https://images.launchbox-app.com/90c905bb-9488-4285-8e01-e55b2ea98a11.png',
+        'pic1': 'https://images.timeextension.com/b0e7ecc369428/guilty-gear.large.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=48Z598z9eIU&list=PLELWXkflIIXEK9UXF-zibP8oTMTfoH7Y4&index=1',
+    },
+    'SLUS21847': {
+        'id': 'SLUS21847',
+        'title': 'Guilty Gear XX - Accent Core Plus',
+        'icon0': 'https://images.launchbox-app.com/9930e3c0-ecd8-4f64-9bc1-b32bc4b36b0c.jpg',
+        'pic0': 'https://images.launchbox-app.com/0235514e-c0c1-4aca-b30a-f9afe3f16610.png',
+        'pic1': 'https://images.launchbox-app.com/b2196715-1a81-49a8-bfc2-1cc27c649c7a.png',
+        'snd0': 'https://www.youtube.com/watch?v=48Z598z9eIU&list=PLELWXkflIIXEK9UXF-zibP8oTMTfoH7Y4&index=1',
+    },
     #'SLUS21224': {
     #    'id': 'SLUS21224',
     #    'title': 'GUITAR HERO',
@@ -5255,14 +5255,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21139': {
-    #    'id': 'SLUS21139',
-    #    'title': 'GUN',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21139': {
+        'id': 'SLUS21139',
+        'title': 'GUN',
+        'icon0': 'https://images.launchbox-app.com/7aee8041-d168-4ddd-a61c-ce3902d74193.jpg',
+        'pic0': 'https://images.launchbox-app.com/43f9e391-21d9-4107-b55f-5c4d0d2bb405.png',
+        'pic1': 'https://images.launchbox-app.com/9f9a83c8-5937-4774-8241-220a2fc81a2c.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=mx8M96zEsgk&list=PLqcGvP7TBm_nSY7dxmzRNLLUXc83JULVg&index=1',
+    },
     #'SLUS20929': {
     #    'id': 'SLUS20929',
     #    'title': 'Gundam Battle Assault 3 featuring Gundam Seed',
@@ -5271,30 +5271,30 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20493': {
-    #    'id': 'SLUS20493',
-    #    'title': 'GUNGRAVE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21020': {
-    #    'id': 'SLUS21020',
-    #    'title': 'GunGrave - OverDose',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20080': {
-    #    'id': 'SLUS20080',
-    #    'title': 'GunGriffon Blaze',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20493': {
+        'id': 'SLUS20493',
+        'title': 'GUNGRAVE',
+        'icon0': 'https://images.launchbox-app.com/3134c40f-b8dc-48ab-96b1-910e93bc7ece.jpg',
+        'pic0': 'https://images.launchbox-app.com/c098faf0-905c-493c-b3c1-b7ef70254c00.png',
+        'pic1': 'https://images.launchbox-app.com/5b8abd9e-81f1-4aee-b14c-da6026fd8d07.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=DlDPlXU-KeA&list=PLP8_sGncyT5RuTRIo6_FOva32Y3UaG9zK&index=1',
+    },
+    'SLUS21020': {
+        'id': 'SLUS21020',
+        'title': 'GunGrave - OverDose',
+        'icon0': 'https://images.launchbox-app.com/20d3034e-647a-4852-9395-055a592595a9.jpg',
+        'pic0': 'https://images.launchbox-app.com/a358882f-7fe0-4374-ad02-e97513993668.png',
+        'pic1': 'https://images.launchbox-app.com/15d54440-6a8d-4be3-a746-8fb797e244b4.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=A1o2bxZkVW0&list=PL93E2EB4A31962282&index=1',
+    },
+    'SLUS20080': {
+        'id': 'SLUS20080',
+        'title': 'GunGriffon Blaze',
+        'icon0': 'https://images.launchbox-app.com/a17e11a1-8626-4146-8228-4299d5b064eb.jpg',
+        'pic0': 'https://images.launchbox-app.com/2eb3dfc5-5023-40a3-bae2-3ad54a62fcaf.png',
+        'pic1': 'https://assetsio.gnwcdn.com/01b_oUwdlTm.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp',
+        'snd0': 'https://www.youtube.com/watch?v=8qg0pnIq2Xc&list=PL75080C9FE9C4869B&index=1',
+    },
     #'SLUS20066': {
     #    'id': 'SLUS20066',
     #    'title': 'HALF-LIFE',
