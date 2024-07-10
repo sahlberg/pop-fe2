@@ -14719,46 +14719,46 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20469': {
-    #    'id': 'SLUS20469',
-    #    'title': 'Xenosaga - Episode I - Der Wille zur Macht',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20892': {
-    #    'id': 'SLUS20892',
-    #    'title': 'Xenosaga - Episode II - Jenseits von Gut und Böse',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21133': {
-    #    'id': 'SLUS21133',
-    #    'title': 'Xenosaga - Episode II - Jenseits von Gut und Böse',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21389': {
-    #    'id': 'SLUS21389',
-    #    'title': 'Xenosaga - Episode III - Also Sprach Zarathustra',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21417': {
-    #    'id': 'SLUS21417',
-    #    'title': 'Xenosaga - Episode III - Also Sprach Zarathustra',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20469': {
+        'id': 'SLUS20469',
+        'title': 'Xenosaga - Episode I - Der Wille zur Macht',
+        'icon0': 'https://images.launchbox-app.com/d080499f-313b-4f34-a463-0db6f22bbf98.jpg',
+        'pic0': 'https://images.launchbox-app.com/55eead4c-998b-4826-b81b-0ee299ee4946.png',
+        'pic1': 'https://images.launchbox-app.com/36d804aa-2660-4114-a20b-4ccb27cb7c98.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=mawsXOEbne4&list=PL75103D71E579CE86&index=1',
+    },
+    'SLUS20892': {
+        'id': 'SLUS20892',
+        'title': 'Xenosaga - Episode II - Jenseits von Gut und Böse',
+        'icon0': 'https://images.launchbox-app.com/315fe028-cc0b-4642-9631-d7525c1d435a.jpg',
+        'pic0': 'https://images.launchbox-app.com/452d5648-2f78-4861-a584-4881dc18a74f.png',
+        'pic1': 'https://images.launchbox-app.com/aaa2c1c4-351f-4f20-b954-7dcda0639f0f.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=iAsPGwT6tXg&list=PLBEE5E94FBCDE98B3&index=1',
+    },
+    'SLUS21133': {
+        'id': 'SLUS21133',
+        'title': 'Xenosaga - Episode II - Jenseits von Gut und Böse',
+        'icon0': 'https://images.launchbox-app.com/315fe028-cc0b-4642-9631-d7525c1d435a.jpg',
+        'pic0': 'https://images.launchbox-app.com/452d5648-2f78-4861-a584-4881dc18a74f.png',
+        'pic1': 'https://images.launchbox-app.com/aaa2c1c4-351f-4f20-b954-7dcda0639f0f.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=iAsPGwT6tXg&list=PLBEE5E94FBCDE98B3&index=1',
+    },
+    'SLUS21389': {
+        'id': 'SLUS21389',
+        'title': 'Xenosaga - Episode III - Also Sprach Zarathustra',
+        'icon0': 'https://images.launchbox-app.com/781dd7b7-341d-4d00-954b-4d60b3baf92d.jpg',
+        'pic0': 'https://images.launchbox-app.com/68ddfc06-cce8-45cb-8160-33401f1545ff.png',
+        'pic1': 'https://images.launchbox-app.com/a6f58bb1-8dfd-483f-8838-11889f1c90b8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=VlBFeuoEEkI&list=PL0OqPrU0Et4V_8DZD5WyS8Tq4YOmXWM4Z&index=1',
+    },
+    'SLUS21417': {
+        'id': 'SLUS21417',
+        'title': 'Xenosaga - Episode III - Also Sprach Zarathustra',
+        'icon0': 'https://images.launchbox-app.com/781dd7b7-341d-4d00-954b-4d60b3baf92d.jpg',
+        'pic0': 'https://images.launchbox-app.com/68ddfc06-cce8-45cb-8160-33401f1545ff.png',
+        'pic1': 'https://images.launchbox-app.com/a6f58bb1-8dfd-483f-8838-11889f1c90b8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=VlBFeuoEEkI&list=PL0OqPrU0Et4V_8DZD5WyS8Tq4YOmXWM4Z&index=1',
+    },
     #'SLUS20302': {
     #    'id': 'SLUS20302',
     #    'title': 'XG3 - Extreme-G Racing',
