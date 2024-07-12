@@ -10975,54 +10975,46 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21731': {
-    #    'id': 'SLUS21731',
-    #    'title': 'SILENT HILL - ORIGINS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21899': {
-    #    'id': 'SLUS21899',
-    #    'title': 'SILENT HILL - SHATTERED MEMORIES',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20228': {
-    #    'id': 'SLUS20228',
-    #    'title': 'SILENT HILL 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20228': {
-    #    'id': 'SLUS20228',
-    #    'title': 'SILENT HILL 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20622': {
-    #    'id': 'SLUS20622',
-    #    'title': 'SILENT HILL 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20873': {
-    #    'id': 'SLUS20873',
-    #    'title': 'SILENT HILL 4 - THE ROOM',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21731': {
+        'id': 'SLUS21731',
+        'title': 'SILENT HILL - ORIGINS',
+        'icon0': 'https://images.launchbox-app.com/07024c1d-b076-4bf8-90e4-c3d943ed720d.JPG',
+        'pic0': 'https://images.launchbox-app.com/545e82f0-4d6b-4c13-94d0-10d33bddbea7.png',
+        'pic1': 'https://images.launchbox-app.com/061b07e7-b8d5-4449-a02c-29f78552458a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=5XwpsKl7TZ4&list=PLOEAs04auvicnFmMWlbfCnk8s_ovb9EPV&index=1',
+    },
+    'SLUS21899': {
+        'id': 'SLUS21899',
+        'title': 'SILENT HILL - SHATTERED MEMORIES',
+        'icon0': 'https://images.launchbox-app.com/2661f18d-1b6c-4217-96ce-aa61de190d7e.jpg',
+        'pic0': 'https://images.launchbox-app.com/8e55c9f2-dd89-48ba-9e7b-c24e4464e729.png',
+        'pic1': 'https://images.launchbox-app.com/a394f82b-4e4c-429b-a327-c6ddd3e09799.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=2Sl7lkKWI_M&list=PLkC1g1Ei7UgRkmJrih1HtwIlPe3cLYCVE&index=1',
+    },
+    'SLUS20228': {
+        'id': 'SLUS20228',
+        'title': 'SILENT HILL 2',
+        'icon0': 'https://images.launchbox-app.com/c4007fff-9166-4389-83b6-e338c2278a29.jpg',
+        'pic0': 'https://images.launchbox-app.com/5c6fcd7c-7726-4c41-824d-c5e63300160f.png',
+        'pic1': 'https://images.launchbox-app.com/bafebfb0-faf4-4b11-aa9b-6653e06d03ac.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=BMkLwDBY0e0&list=PLOEAs04auvietkxFG-8hjc80IIVBItX2r&index=2',
+    },
+    'SLUS20622': {
+        'id': 'SLUS20622',
+        'title': 'SILENT HILL 3',
+        'icon0': 'https://images.launchbox-app.com/a8aab3eb-1b9b-4dcc-9d5e-f0445374fc71.jpg',
+        'pic0': 'https://images.launchbox-app.com/35ee76bd-24f8-491c-a7eb-b38106e63e16.png',
+        'pic1': 'https://images.launchbox-app.com/5bda82af-e135-4710-a076-63c971c1297f.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=5fO1e2MT2pk&list=PL5SMXYhIcZ5JYW6LyQ20XIcX8Vyn0pABb&index=1',
+    },
+    'SLUS20873': {
+        'id': 'SLUS20873',
+        'title': 'SILENT HILL 4 - THE ROOM',
+        'icon0': 'https://images.launchbox-app.com/ac56d34f-d676-48d9-9c72-4827a5ca8ea5.png',
+        'pic0': 'https://images.launchbox-app.com/f2f930ba-c33c-456c-b40a-86014794d78d.png',
+        'pic1': 'https://images.launchbox-app.com/24f2caa7-b5ba-42e0-a639-11e2dcd60a51.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=-KNqndgBG5o&list=PL5SMXYhIcZ5KdXzfrqqpjO0QzuZB65_cd&index=1',
+    },
     #'SLUS20078': {
     #    'id': 'SLUS20078',
     #    'title': 'SILENT SCOPE',
@@ -13663,14 +13655,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21283': {
-    #    'id': 'SLUS21283',
-    #    'title': 'TOTAL OVERDOSE - A GUNSLINGER'S TALE IN MEXICO',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21283': {
+        'id': 'SLUS21283',
+        'title': 'TOTAL OVERDOSE - A GUNSLINGER\'S TALE IN MEXICO',
+        'icon0': 'https://images.launchbox-app.com/468257d3-fe2d-4004-ae4c-f625f91dee64.jpg',
+        'pic0': 'https://images.launchbox-app.com/61ba8e57-4db5-4dc8-a0f6-365286d4c8a6.png',
+        'pic1': 'https://images.launchbox-app.com/05636829-ef8c-40d6-9ff0-52af187d2bfe.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=J-wwwh4emC4&list=PLE671917269750427&index=23',
+    },
     #'SLUS21795': {
     #    'id': 'SLUS21795',
     #    'title': 'Totally Spies! - Totally Party',
