@@ -1879,14 +1879,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21047': {
-    #    'id': 'SLUS21047',
-    #    'title': 'COLD FEAR',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21047': {
+        'id': 'SLUS21047',
+        'title': 'COLD FEAR',
+        'icon0': 'https://images.launchbox-app.com/251c71dc-15a8-47ef-b2fb-5f9d91e146c7.jpg',
+        'pic0': 'https://images.launchbox-app.com/ec218c0f-5d44-44bf-b310-5f07926c89cb.png',
+        'pic1': 'https://images.launchbox-app.com/d0be7afe-2588-446c-88e3-f0d83a139073.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=mQ29jTnJOAY&list=PLO4jlmGoc6uD5ZaDSZjYYW5uVdpL-UWdr&index=5',
+    },
     #'SLUS20845': {
     #    'id': 'SLUS20845',
     #    'title': 'Cold Winter',
@@ -9543,30 +9543,30 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20743': {
-    #    'id': 'SLUS20743',
-    #    'title': 'PRINCE OF PERSIA - THE SANDS OF TIME',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21287': {
-    #    'id': 'SLUS21287',
-    #    'title': 'PRINCE OF PERSIA - THE TWO THRONES',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21022': {
-    #    'id': 'SLUS21022',
-    #    'title': 'PRINCE OF PERSIA - WARRIOR WITHIN',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20743': {
+        'id': 'SLUS20743',
+        'title': 'PRINCE OF PERSIA - THE SANDS OF TIME',
+        'icon0': 'https://images.launchbox-app.com/dc45e88c-da7d-452b-9748-94801a9b3801.jpg',
+        'pic0': 'https://images.launchbox-app.com/239e5191-6e3a-447e-b6a7-962b59ce729c.png',
+        'pic1': 'https://images.launchbox-app.com/d5836c2a-4845-4766-9b33-b9d16105b281.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=jYPh-T8S35g&list=PL6649E8FCE8340113&index=1',
+    },
+    'SLUS21287': {
+        'id': 'SLUS21287',
+        'title': 'PRINCE OF PERSIA - THE TWO THRONES',
+        'icon0': 'https://images.launchbox-app.com/23cf005f-41df-431e-be35-a25d6dcad176.jpg',
+        'pic0': 'https://images.launchbox-app.com/4cf5a70e-db46-4a7a-a02c-63740d210758.png',
+        'pic1': 'https://images.launchbox-app.com/af5d04c7-8529-45a6-b417-873016841f23.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=lGxkatgF4Hw&list=PL8F539E8889530247&index=1',
+    },
+    'SLUS21022': {
+        'id': 'SLUS21022',
+        'title': 'PRINCE OF PERSIA - WARRIOR WITHIN',
+        'icon0': 'https://images.launchbox-app.com/73394275-fa19-4388-956b-faaea2207889.jpg',
+        'pic0': 'https://images.launchbox-app.com/cac7b0b3-12fa-4700-a69f-13c46635c95c.png',
+        'pic1': 'https://images.launchbox-app.com/f4589ebe-1d49-48db-a88a-85c4473591ef.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=tezcBWAT0nU&list=PL39A80E0ABBF9D3B8&index=2',
+    },
     #'SLUS21685': {
     #    'id': 'SLUS21685',
     #    'title': 'Pro Evolution Soccer 2008',
@@ -10007,14 +10007,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21134': {
-    #    'id': 'SLUS21134',
-    #    'title': 'RESIDENT EVIL 4',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21134': {
+        'id': 'SLUS21134',
+        'title': 'RESIDENT EVIL 4',
+        'icon0': 'https://images.launchbox-app.com/02c16fe4-39cb-4c0a-81bd-e707afc0634e.png',
+        'pic0': 'https://images.launchbox-app.com/b3e0c1ca-e287-40cd-bc15-2ec1d6f8774d.png',
+        'pic1': 'https://images.launchbox-app.com/29040f35-0540-4998-8196-64ac72191507.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=hNQ7Li2vfis&list=PLAs1Kha_R9dIvc0eE-BYV765HqlUTLni6&index=1',
+    },
     #'SLUS20297': {
     #    'id': 'SLUS20297',
     #    'title': 'RETURN TO CASTLE WOLFENSTEIN - OPERATION RESURRECTION',
