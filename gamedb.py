@@ -10855,70 +10855,70 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21431': {
-    #    'id': 'SLUS21431',
-    #    'title': 'Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. The Soulless Army',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21845': {
-    #    'id': 'SLUS21845',
-    #    'title': 'Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20974': {
-    #    'id': 'SLUS20974',
-    #    'title': 'Shin Megami Tensei - Digital Devil Saga',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21152': {
-    #    'id': 'SLUS21152',
-    #    'title': 'Shin Megami Tensei - Digital Devil Saga 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20911': {
-    #    'id': 'SLUS20911',
-    #    'title': 'SHIN MEGAMI TENSEI - NOCTURNE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21569': {
-    #    'id': 'SLUS21569',
-    #    'title': 'SHIN MEGAMI TENSEI - PERSONA 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21621': {
-    #    'id': 'SLUS21621',
-    #    'title': 'SHIN MEGAMI TENSEI - PERSONA 3 FES',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21782': {
-    #    'id': 'SLUS21782',
-    #    'title': 'Shin Megami Tensei - Persona 4',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21431': {
+        'id': 'SLUS21431',
+        'title': 'Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. The Soulless Army',
+        'icon0': 'https://images.launchbox-app.com/d2992a3b-3a52-45aa-b4a3-74ed6342ae94.jpg',
+        'pic0': 'https://images.launchbox-app.com/4e5e88a5-9909-4093-8939-bc1fc9cd43ec.png',
+        'pic1': 'https://images.launchbox-app.com/c047f4cb-9303-4240-aad9-cb5646780f68.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=tdFxBQQdDm4&list=PL9mEmJrD9B_9uyxmc9QaUxjtcWoWShxa2&index=1',
+    },
+    'SLUS21845': {
+        'id': 'SLUS21845',
+        'title': 'Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon',
+        'icon0': 'https://images.launchbox-app.com/4b60d513-a8b1-4f8a-ba09-6738640e0932.jpg',
+        'pic0': 'https://images.launchbox-app.com/5aec9630-9791-4d1f-bab6-ac2d9025e8a9.png',
+        'pic1': 'https://images.launchbox-app.com/80da5740-67c6-48ec-9240-9f0a9576e034.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Um_n7PvoQuo&list=PLjdSC-ENw035vvtznyh34CZEFPz52hmpL&index=1',
+    },
+    'SLUS20974': {
+        'id': 'SLUS20974',
+        'title': 'Shin Megami Tensei - Digital Devil Saga',
+        'icon0': 'https://images.launchbox-app.com/435ae98e-53e5-479a-8b8c-c286c32e3e7c.jpg',
+        'pic0': 'https://images.launchbox-app.com/a501dbdc-fac0-4d7b-9516-c26b1093903d.png',
+        'pic1': 'https://images.launchbox-app.com/4aef0da0-34cb-4641-8c03-406132df5101.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=wxFlSc_jwSc&list=PLjdSC-ENw036lEmAU-pYSA4Cx2O4P7teA&index=1',
+    },
+    'SLUS21152': {
+        'id': 'SLUS21152',
+        'title': 'Shin Megami Tensei - Digital Devil Saga 2',
+        'icon0': 'https://images.launchbox-app.com/0fdbc62e-5072-4c12-904d-48fdce095341.jpg',
+        'pic0': 'https://images.launchbox-app.com/b1fcb3da-3a6c-46e1-bd9f-61ae1cc0983e.png',
+        'pic1': 'https://images.launchbox-app.com/edfe2ea4-ce52-4dc5-b1da-5c3569af9f10.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=71Up84h81fI&list=PLjdSC-ENw0347sLigA_XfOwtBY-fAwU9P&index=1',
+    },
+    'SLUS20911': {
+        'id': 'SLUS20911',
+        'title': 'SHIN MEGAMI TENSEI - NOCTURNE',
+        'icon0': 'https://images.launchbox-app.com/8baa1044-c16c-4333-b279-b3f503e44a33.jpg',
+        'pic0': 'https://images.launchbox-app.com/57132b27-ee2c-4d9b-9411-ce6a882913f6.png',
+        'pic1': 'https://images.launchbox-app.com/4abbb3fb-9090-449a-9028-45652424da8b.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=B0kzF7FN4Bo&list=PLm7EAh2SbstY3OVf1Cp_WRyCLa1X5W7mg&index=1',
+    },
+    'SLUS21569': {
+        'id': 'SLUS21569',
+        'title': 'SHIN MEGAMI TENSEI - PERSONA 3',
+        'icon0': 'https://images.launchbox-app.com/bc2ec7b2-2f53-47c0-a48e-d3aa886188a5.jpg',
+        'pic0': 'https://images.launchbox-app.com/a86cb347-ec72-489b-811e-0b959c879f23.png',
+        'pic1': 'https://images.launchbox-app.com/b32575e1-0012-4cf7-b0c6-053cefe4d846.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=AcCoPQE6g10&list=PLSTGnKiOrGu6AjKEao_YeNd1dU1izbH41&index=1',
+    },
+    'SLUS21621': {
+        'id': 'SLUS21621',
+        'title': 'SHIN MEGAMI TENSEI - PERSONA 3 FES',
+        'icon0': 'https://images.launchbox-app.com/20ecf2a3-c89c-478f-afe1-57c47d976c8a.jpg',
+        'pic0': 'https://images.launchbox-app.com/7aa85da3-418e-4712-8d8e-07145cf4421d.png',
+        'pic1': 'https://images.launchbox-app.com/b32575e1-0012-4cf7-b0c6-053cefe4d846.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=AcCoPQE6g10&list=PLSTGnKiOrGu6AjKEao_YeNd1dU1izbH41&index=1',
+    },
+    'SLUS21782': {
+        'id': 'SLUS21782',
+        'title': 'Shin Megami Tensei - Persona 4',
+        'icon0': 'https://images.launchbox-app.com/88dd3c72-663f-4262-a85d-0ba96f2a99ab.jpg',
+        'pic0': 'https://images.launchbox-app.com/ff2643f2-42a9-4ac3-b1a3-c671071616da.png',
+        'pic1': 'https://images.launchbox-app.com/678d30f2-5e9e-4efd-8cb3-e3d0497f3831.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=cBWmvxc4L5I&list=PLBAF8C0CDA4778263&index=1',
+    },
     #'SLUS21567': {
     #    'id': 'SLUS21567',
     #    'title': 'SHINING FORCE EXA',
