@@ -9103,14 +9103,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21577': {
-    #    'id': 'SLUS21577',
-    #    'title': 'ODIN SPHERE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21577': {
+        'id': 'SLUS21577',
+        'title': 'ODIN SPHERE',
+        'icon0': 'https://images.launchbox-app.com/50731788-474d-4551-ae93-761974866847.png',
+        'pic0': 'https://images.launchbox-app.com/52a8c99a-5cb8-4350-bd99-7906ab7f225c.png',
+        'pic1': 'https://images.launchbox-app.com/44966cfe-9c83-4647-8157-d5146f1e45ce.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=VI3zDIpLVjk&list=PLWdUkdaN3GL21Pm3S_FoTTJvt_iMxP50A&index=1',
+    },
     #'SCUS97129': {
     #    'id': 'SCUS97129',
     #    'title': 'OKAGE - SHADOW KING',
@@ -9119,14 +9119,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21115': {
-    #    'id': 'SLUS21115',
-    #    'title': 'OKAMI',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21115': {
+        'id': 'SLUS21115',
+        'title': 'OKAMI',
+        'icon0': 'https://images.launchbox-app.com/fa7e3762-87ac-489f-9ce4-6571d9117709.jpg',
+        'pic0': 'https://images.launchbox-app.com/1ab5873a-5809-47ff-97cf-d0ede801322a.png',
+        'pic1': 'https://images.launchbox-app.com/14c29649-5cdc-41ce-8265-7826eaeec028.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=G3-ojrsg1cY&list=PL1AC584471FD4F040&index=1',
+    },
     #'SLUS21435': {
     #    'id': 'SLUS21435',
     #    'title': 'One Piece - Grand Adventure',
@@ -11743,22 +11743,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20488': {
-    #    'id': 'SLUS20488',
-    #    'title': 'STAR OCEAN - TILL THE END OF TIME',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20891': {
-    #    'id': 'SLUS20891',
-    #    'title': 'STAR OCEAN - TILL THE END OF TIME',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20488': {
+        'id': 'SLUS20488',
+        'title': 'STAR OCEAN - TILL THE END OF TIME',
+        'icon0': 'https://images.launchbox-app.com/ad0ee291-f7a8-4af5-b5cf-54b1f7790b83.jpg',
+        'pic0': 'https://images.launchbox-app.com/b64d4cf7-948f-4217-8a28-2b36cf656b76.png',
+        'pic1': 'https://images.launchbox-app.com/24f2713e-4933-4b80-bcb7-bcca72615952.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=pEMr9waZaaw&list=PLeQ8lYZtvUXMAlt_yJZ1idTy7FtkzsImu&index=1',
+    },
+    'SLUS20891': {
+        'id': 'SLUS20891',
+        'title': 'STAR OCEAN - TILL THE END OF TIME',
+        'icon0': 'https://images.launchbox-app.com/ad0ee291-f7a8-4af5-b5cf-54b1f7790b83.jpg',
+        'pic0': 'https://images.launchbox-app.com/b64d4cf7-948f-4217-8a28-2b36cf656b76.png',
+        'pic1': 'https://images.launchbox-app.com/24f2713e-4933-4b80-bcb7-bcca72615952.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=pEMr9waZaaw&list=PLeQ8lYZtvUXMAlt_yJZ1idTy7FtkzsImu&index=1',
+    },
     #'SLUS21630': {
     #    'id': 'SLUS21630',
     #    'title': 'Star Trek - Conquest',
@@ -12023,30 +12023,30 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20387': {
-    #    'id': 'SLUS20387',
-    #    'title': 'Suikoden III',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20979': {
-    #    'id': 'SLUS20979',
-    #    'title': 'Suikoden IV',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21291': {
-    #    'id': 'SLUS21291',
-    #    'title': 'Suikoden V',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20387': {
+        'id': 'SLUS20387',
+        'title': 'Suikoden III',
+        'icon0': 'https://images.launchbox-app.com/7c0ff254-d652-48ae-8ecd-a00ce5cc20a4.jpg',
+        'pic0': 'https://images.launchbox-app.com/b6676e5d-7c16-45a7-a702-f664ae4dc1ad.png',
+        'pic1': 'https://images.launchbox-app.com/95033451-affa-4936-9df0-0bd6c0f52282.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=7wOotwsvk1E&list=PLjyLjyXJQJUP7ma3lt7lk5n30Yht8LjCm&index=1',
+    },
+    'SLUS20979': {
+        'id': 'SLUS20979',
+        'title': 'Suikoden IV',
+        'icon0': 'https://images.launchbox-app.com/5fdfa82e-48af-45e4-9144-c8ffda538a48.jpg',
+        'pic0': 'https://images.launchbox-app.com/fa217023-33e5-4fcc-ab33-132465ece05a.png',
+        'pic1': 'https://images.launchbox-app.com/e6da1f46-66bb-4a32-993a-8a7ef5ac1d04.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=u8LVViFSSXY&list=PLp_nLDzWK5NU-I5cWz8EM7L0Fw6ReAE0Z&index=1',
+    },
+    'SLUS21291': {
+        'id': 'SLUS21291',
+        'title': 'Suikoden V',
+        'icon0': 'https://images.launchbox-app.com/8db9de2f-94b5-4f5f-9a17-f3f175b40578.jpg',
+        'pic0': 'https://images.launchbox-app.com/c0313789-b1cd-4685-8795-b289816e935a.png',
+        'pic1': 'https://images.launchbox-app.com/25f13258-8044-4cdf-93d2-b9196553692a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Vp4yWb9h2Og&list=PLhPt7n-ALrSBZSqpb7uql8EG7eJufteu_&index=1',
+    },
     #'SLUS22145': {
     #    'id': 'SLUS22145',
     #    'title': 'Suikoden Tactics',
