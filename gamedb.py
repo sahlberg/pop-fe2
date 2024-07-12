@@ -583,14 +583,14 @@ games = {
         'pic1': 'https://images.launchbox-app.com/295fa8ed-73df-4cf0-8d7c-36231f29567c.jpg',
         'snd0': 'https://www.youtube.com/watch?v=4-BamISde_M&list=PLF3B8ECB22D92FF14&index=1',
     },
-    #'SLUS21079': {
-    #    'id': 'SLUS21079',
-    #    'title': 'Armored Core Nexus (Revolution Disc)',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21079': {
+        'id': 'SLUS21079',
+        'title': 'Armored Core Nexus (Revolution Disc)',
+        'icon0': 'https://images.launchbox-app.com/4c84d08f-5448-4ac3-b9f8-91c29088f69c.jpg',
+        'pic0': 'https://images.launchbox-app.com/5783686e-db5f-4b29-a477-db27c2d887e2.png',
+        'pic1': 'https://images.launchbox-app.com/295fa8ed-73df-4cf0-8d7c-36231f29567c.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=4-BamISde_M&list=PLF3B8ECB22D92FF14&index=1',
+    },
     #'SLUS20004': {
     #    'id': 'SLUS20004',
     #    'title': 'Army Men - Air Attack 2',
@@ -1151,14 +1151,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21376': {
-    #    'id': 'SLUS21376',
-    #    'title': 'BLACK',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21376': {
+        'id': 'SLUS21376',
+        'title': 'BLACK',
+        'icon0': 'https://images.launchbox-app.com/8f6d5b2a-438e-4318-b983-62ec58e8208c.jpg',
+        'pic0': 'https://images.launchbox-app.com/a3a008d1-d3df-462b-892d-7bd204c95770.png',
+        'pic1': 'https://images.launchbox-app.com/4b1d5651-cd78-43e8-b497-f1d1ce006383.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=L7TbG_vNdcY&list=PLaoclNLi3IsWFy2fd2BBv5z3WiWWDlKD8&index=1',
+    },
     #'SLUS20506': {
     #    'id': 'SLUS20506',
     #    'title': 'Black & Bruised',
@@ -1303,14 +1303,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20499': {
-    #    'id': 'SLUS20499',
-    #    'title': 'BREATH OF FIRE - DRAGON QUARTER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20499': {
+        'id': 'SLUS20499',
+        'title': 'BREATH OF FIRE - DRAGON QUARTER',
+        'icon0': 'https://images.launchbox-app.com/ce0fde51-3510-4682-85d9-91fd0769d5f7.jpg',
+        'pic0': 'https://images.launchbox-app.com/0e832082-6769-437f-b30b-c8f8fbde90e6.png',
+        'pic1': 'https://images.launchbox-app.com/6d095f39-3a52-44a3-8e4f-28f751059780.png',
+        'snd0': 'https://www.youtube.com/watch?v=7v4Oo3MjBFc&list=PLc4-Ng-MoubRssN0olrjEyW0BLtKRqEST&index=1'
+    },
     #'SLUS21195': {
     #    'id': 'SLUS21195',
     #    'title': 'BREEDERS' CUP WORLD THOROUGHBRED CHAMPIONSHIPS',
@@ -9967,46 +9967,46 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21479': {
-    #    'id': 'SLUS21479',
-    #    'title': 'RESERVOIR DOGS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20184': {
-    #    'id': 'SLUS20184',
-    #    'title': 'RESIDENT EVIL - CODE - VERONICA X',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20669': {
-    #    'id': 'SLUS20669',
-    #    'title': 'RESIDENT EVIL - DEAD AIM',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20765': {
-    #    'id': 'SLUS20765',
-    #    'title': 'RESIDENT EVIL - OUTBREAK',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20984': {
-    #    'id': 'SLUS20984',
-    #    'title': 'Resident Evil - Outbreak File #2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21479': {
+        'id': 'SLUS21479',
+        'title': 'RESERVOIR DOGS',
+        'icon0': 'https://images.launchbox-app.com/1a15df11-1e16-48d4-abf1-a19682fb7911.jpg',
+        'pic0': 'https://images.launchbox-app.com/d7c837b9-0093-44eb-964a-2de2de18e131.png',
+        'pic1': 'https://images.launchbox-app.com/f6a340dc-5f84-4cd9-b070-b5e179216098.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=anGYFI_hmII&list=PL16143ABFF88F1EA7&index=2',
+    },
+    'SLUS20184': {
+        'id': 'SLUS20184',
+        'title': 'RESIDENT EVIL - CODE - VERONICA X',
+        'icon0': 'https://images.launchbox-app.com/13569f00-2072-4b81-87c5-b29bba16aaff.jpg',
+        'pic0': 'https://images.launchbox-app.com/417b02fd-65f4-45b2-85e8-95b953adace2.png',
+        'pic1': 'https://images.launchbox-app.com/6dbc7bc4-be7b-4bb3-b846-e7037219f8a5.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=_iQXXqpIgsY&list=PLmAjrkj1KHpKezCMrDT2xWiRe0nlo5eFU&index=1',
+    },
+    'SLUS20669': {
+        'id': 'SLUS20669',
+        'title': 'RESIDENT EVIL - DEAD AIM',
+        'icon0': 'https://images.launchbox-app.com/0242d323-4e89-4d54-b69a-15bdba135b99.jpg',
+        'pic0': 'https://images.launchbox-app.com/3e8b18d4-71d7-43c6-ad4b-dd10dae4345f.png',
+        'pic1': 'https://images.launchbox-app.com/15c586ea-415b-4f84-b65d-c502bf2d5d04.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=6E3NUirqDPY&list=PLB69F2DE844696453&index=1',
+    },
+    'SLUS20765': {
+        'id': 'SLUS20765',
+        'title': 'RESIDENT EVIL - OUTBREAK',
+        'icon0': 'https://images.launchbox-app.com/9bcd3917-ee47-4c25-a66b-5123855416bc.png',
+        'pic0': 'https://images.launchbox-app.com/383007d8-1f01-4e8c-b0b6-c9afa301d20d.png',
+        'pic1': 'https://images.launchbox-app.com/b29cf055-f5e8-4503-881d-e0247ac568d2.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=KFVYCDnafwo&list=PLCAE88F4BE9EB70B6&index=2',
+    },
+    'SLUS20984': {
+        'id': 'SLUS20984',
+        'title': 'Resident Evil - Outbreak File #2',
+        'icon0': 'https://images.launchbox-app.com/f99b8df0-2424-4643-8cf3-8a9108fb44a9.JPG',
+        'pic0': 'https://images.launchbox-app.com/11de07c7-27ec-449f-9eb1-0bf0c1f67e0a.png',
+        'pic1': 'https://images.launchbox-app.com/b0ea18a0-a401-4d50-838c-007cb5415ead.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=YBzoEOieJFk&list=PL-EPbsmkjR1u1faBnT9hUaKeddXy8UEyQ&index=1',
+    },
     'SLUS21134': {
         'id': 'SLUS21134',
         'title': 'RESIDENT EVIL 4',
