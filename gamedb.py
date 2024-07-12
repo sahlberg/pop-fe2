@@ -4247,58 +4247,58 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20312': {
-    #    'id': 'SLUS20312',
-    #    'title': 'FINAL FANTASY X',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20672': {
-    #    'id': 'SLUS20672',
-    #    'title': 'FINAL FANTASY X-2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97266': {
-    #    'id': 'SCUS97266',
-    #    'title': 'Final Fantasy XI',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97269': {
-    #    'id': 'SCUS97269',
-    #    'title': 'Final Fantasy XI',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97395': {
-    #    'id': 'SCUS97395',
-    #    'title': 'Final Fantasy XI',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21070': {
-    #    'id': 'SLUS21070',
-    #    'title': 'Final Fantasy XI - Chains of Promathia',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20312': {
+        'id': 'SLUS20312',
+        'title': 'FINAL FANTASY X',
+        'icon0': 'https://images.launchbox-app.com/0ac3558d-5e4a-4515-8384-a9939928610c.jpg',
+        'pic0': 'https://images.launchbox-app.com/9e348ef0-fedf-4343-932c-51d4c9a17c0f.png',
+        'pic1': 'https://images.launchbox-app.com/ade3abff-cb1e-4258-a256-a8fabee18854.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=0dTIDLZukqA&list=PLAA9BB4B3A9A0E516',
+    },
+    'SLUS20672': {
+        'id': 'SLUS20672',
+        'title': 'FINAL FANTASY X-2',
+        'icon0': 'https://images.launchbox-app.com/2bacd4ba-fcdd-4fc1-a5e4-c8c72ed9d0f8.jpg',
+        'pic0': 'https://images.launchbox-app.com/147b9d2e-aa0e-4ee3-b9a3-0cf494ba876f.png',
+        'pic1': 'https://images.launchbox-app.com/15d24617-0280-435a-8b74-3b5f44fb12ce.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=1EKcCBnaHgI&list=PLVoerqML4MHhsWnDY_9ok4kV87Ug2V9_J&index=1',
+    },
+    'SCUS97266': {
+        'id': 'SCUS97266',
+        'title': 'Final Fantasy XI',
+        'icon0': 'https://images.launchbox-app.com/9bbab328-ff37-469b-b0b9-d2453dc92143.jpg',
+        'pic0': 'https://images.launchbox-app.com/f4cb4ba2-e6b6-4458-ab81-59854875b2f6.png',
+        'pic1': 'https://images.launchbox-app.com/5ab15c41-262b-4ed3-962a-658d56f00674.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=DllaeCST4Mg&list=PLG2sTRwTx8ZnnhTKBSAzVoqEZ-LgXdRNa&index=1',
+    },
+    'SCUS97269': {
+        'id': 'SCUS97269',
+        'title': 'Final Fantasy XI',
+        'icon0': 'https://images.launchbox-app.com/9bbab328-ff37-469b-b0b9-d2453dc92143.jpg',
+        'pic0': 'https://images.launchbox-app.com/f4cb4ba2-e6b6-4458-ab81-59854875b2f6.png',
+        'pic1': 'https://images.launchbox-app.com/5ab15c41-262b-4ed3-962a-658d56f00674.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=DllaeCST4Mg&list=PLG2sTRwTx8ZnnhTKBSAzVoqEZ-LgXdRNa&index=1',
+    },
+    'SCUS97395': {
+        'id': 'SCUS97395',
+        'title': 'Final Fantasy XI',
+        'icon0': 'https://images.launchbox-app.com/9bbab328-ff37-469b-b0b9-d2453dc92143.jpg',
+        'pic0': 'https://images.launchbox-app.com/f4cb4ba2-e6b6-4458-ab81-59854875b2f6.png',
+        'pic1': 'https://images.launchbox-app.com/5ab15c41-262b-4ed3-962a-658d56f00674.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=DllaeCST4Mg&list=PLG2sTRwTx8ZnnhTKBSAzVoqEZ-LgXdRNa&index=1',
+    },
+    'SLUS21070': {
+        'id': 'SLUS21070',
+        'title': 'Final Fantasy XI - Chains of Promathia',
+        'icon0': 'https://images.launchbox-app.com/8095d404-0666-466f-91a5-7b51d26d41d3.jpg',
+        'pic0': 'https://images.launchbox-app.com/afbfd869-dc92-40d6-8877-3db652901e01.png',
+        'pic1': 'https://images.launchbox-app.com/5ab15c41-262b-4ed3-962a-658d56f00674.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=DllaeCST4Mg&list=PLG2sTRwTx8ZnnhTKBSAzVoqEZ-LgXdRNa&index=1',
+    },
     #'SLUS21704': {
     #    'id': 'SLUS21704',
     #    'title': 'Final Fantasy XI - The Vana'diel Collection 2008',
-    #    'icon0': 
+    #    'icon0': 'https://images.launchbox-app.com/d322a352-6b45-4c02-8827-8dda09fb5d9d.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -4306,7 +4306,7 @@ games = {
     #'SLUS21404': {
     #    'id': 'SLUS21404',
     #    'title': 'Final Fantasy XI - Treasures of Aht Urhgan',
-    #    'icon0': 
+    #    'icon0': 'https://images.launchbox-app.com/d268c24a-6439-487c-a898-81e6969ca921.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -4314,27 +4314,27 @@ games = {
     #'SLUS21694': {
     #    'id': 'SLUS21694',
     #    'title': 'Final Fantasy XI - Wings of the Goddess',
-    #    'icon0': 
+    #    'icon0': 'https://images.launchbox-app.com/fe478352-f15d-45e0-8d38-48f7a07a32e9.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20963': {
-    #    'id': 'SLUS20963',
-    #    'title': 'FINAL FANTASY XII',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21475': {
-    #    'id': 'SLUS21475',
-    #    'title': 'FINAL FANTASY XII',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20963': {
+        'id': 'SLUS20963',
+        'title': 'FINAL FANTASY XII',
+        'icon0': 'https://images.launchbox-app.com/818500c9-de4b-4185-9f83-e700cf056318.png',
+        'pic0': 'https://images.launchbox-app.com/695d89ba-19f7-4b43-bbb1-39d1611defcb.png',
+        'pic1': 'https://images.launchbox-app.com/87a0bc2b-d87c-4b39-97b9-1ff9be64c4bd.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=OxXeejVk2Xg&list=PLp_nLDzWK5NVlo4e-cd2HA02ts0HjtsKP&index=1',
+    },
+    'SLUS21475': {
+        'id': 'SLUS21475',
+        'title': 'FINAL FANTASY XII',
+        'icon0': 'https://images.launchbox-app.com/818500c9-de4b-4185-9f83-e700cf056318.png',
+        'pic0': 'https://images.launchbox-app.com/695d89ba-19f7-4b43-bbb1-39d1611defcb.png',
+        'pic1': 'https://images.launchbox-app.com/87a0bc2b-d87c-4b39-97b9-1ff9be64c4bd.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=OxXeejVk2Xg&list=PLp_nLDzWK5NVlo4e-cd2HA02ts0HjtsKP&index=1',
+    },
     #'SLUS21238': {
     #    'id': 'SLUS21238',
     #    'title': 'FINAL FIGHT STREETWISE',
