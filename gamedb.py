@@ -2295,22 +2295,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SCUS97111': {
-    #    'id': 'SCUS97111',
-    #    'title': 'DARK CLOUD',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97213': {
-    #    'id': 'SCUS97213',
-    #    'title': 'DARK CLOUD 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SCUS97111': {
+        'id': 'SCUS97111',
+        'title': 'DARK CLOUD',
+        'icon0': 'https://images.launchbox-app.com/ef6aac77-6f95-4bfb-a160-cdbb05dd0be2.jpg',
+        'pic0': 'https://images.launchbox-app.com/37954c28-ef54-452f-aa0e-d11bba07d7bc.png',
+        'pic1': 'https://images.launchbox-app.com/c3569359-d9fe-4f5a-aa07-83cd0faa60ef.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=5gJ3qHyqCa4&list=PL37347BD7EE891CD6&index=1',
+    },
+    'SCUS97213': {
+        'id': 'SCUS97213',
+        'title': 'DARK CLOUD 2',
+        'icon0': 'https://images.launchbox-app.com/07fa28c1-9b78-4337-b82a-be116642b465.jpg',
+        'pic0': 'https://images.launchbox-app.com/69150c61-e9ef-47ca-83f1-43c553c95bb5.png',
+        'pic1': 'https://images.launchbox-app.com/f7297f60-9676-4a83-a900-c0990fab5e0f.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=PgUhYFkVdSY&list=PL7704DD431172739B&index=1',
+    },
     #'SLUS20300': {
     #    'id': 'SLUS20300',
     #    'title': 'Dark Summit',
@@ -2575,22 +2575,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20666': {
-    #    'id': 'SLUS20666',
-    #    'title': 'Disgaea - Hour of Darkness',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21397': {
-    #    'id': 'SLUS21397',
-    #    'title': 'Disgaea 2 - Cursed Memories',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20666': {
+        'id': 'SLUS20666',
+        'title': 'Disgaea - Hour of Darkness',
+        'icon0': 'https://images.launchbox-app.com/b60383ad-7582-484f-af39-9744c682568d.jpg',
+        'pic0': 'https://images.launchbox-app.com/6abfbded-b7e7-455d-a079-8fc69981032c.png',
+        'pic1': 'https://images.launchbox-app.com/0bbc4a6e-0880-4372-934a-66749f6d65b0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=GGI227erV_s&list=PL9F401D088DD1B19C&index=1',
+    },
+    'SLUS21397': {
+        'id': 'SLUS21397',
+        'title': 'Disgaea 2 - Cursed Memories',
+        'icon0': 'https://images.launchbox-app.com/394986bf-2a15-465f-9c92-60f6fb31270b.jpg',
+        'pic0': 'https://images.launchbox-app.com/551d740f-46bb-4442-a336-06bc13d9b283.png',
+        'pic1': 'https://images.launchbox-app.com/348a0295-4fd5-4734-9024-c44b3c593e38.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=nW9US4zCBeg&list=PLF4_jdwmJSA06zc5v50LK_yIt24S5QqW7&index=1',
+    },
     #'SLUS20532': {
     #    'id': 'SLUS20532',
     #    'title': 'DISNEY GOLF',
