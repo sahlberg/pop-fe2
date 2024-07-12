@@ -527,62 +527,62 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21338': {
-    #    'id': 'SLUS21338',
-    #    'title': 'Armored Core - Last Raven',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21200': {
-    #    'id': 'SLUS21200',
-    #    'title': 'Armored Core - Nine Breaker',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20644': {
-    #    'id': 'SLUS20644',
-    #    'title': 'Armored Core - Silent Line',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20014': {
-    #    'id': 'SLUS20014',
-    #    'title': 'Armored Core 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20249': {
-    #    'id': 'SLUS20249',
-    #    'title': 'Armored Core 2 - Another Age',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20435': {
-    #    'id': 'SLUS20435',
-    #    'title': 'Armored Core 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20986': {
-    #    'id': 'SLUS20986',
-    #    'title': 'Armored Core Nexus (Evolution Disc)',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21338': {
+        'id': 'SLUS21338',
+        'title': 'Armored Core - Last Raven',
+        'icon0': 'https://images.launchbox-app.com/35ba466e-39cb-4292-aa21-ccbb36bc3836.jpg',
+        'pic0': 'https://images.launchbox-app.com/6c4c0bff-015c-4ef9-ab50-61111ad1fa57.png',
+        'pic1': 'https://images.launchbox-app.com/695a4414-c49a-418c-83b0-bf5025c1ca1f.png',
+        'snd0': 'https://www.youtube.com/watch?v=phwnXJNQgUg&list=PL95528CC0C1553043&index=1',
+    },
+    'SLUS21200': {
+        'id': 'SLUS21200',
+        'title': 'Armored Core - Nine Breaker',
+        'icon0': 'https://images.launchbox-app.com/63bea39e-b551-4eb3-81b8-ede102de00b0.jpg',
+        'pic0': 'https://images.launchbox-app.com/b38e1c4e-c27b-406c-bcc6-f85327d744ae.png',
+        'pic1': 'https://images.launchbox-app.com/f59bcd4b-346a-4310-a402-d3c43116153d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=yqwhIdrWDTU&list=PL7YuVu11Ud-JCVFr-9Toq6T3PlzaBP5Qi&index=1',
+    },
+    'SLUS20644': {
+        'id': 'SLUS20644',
+        'title': 'Armored Core - Silent Line',
+        'icon0': 'https://images.launchbox-app.com/73c33809-a7fe-40fc-8b1a-daae1d14f185.jpg',
+        'pic0': 'https://images.launchbox-app.com/1d582006-679d-4a5e-9d82-a5be2cd1551b.png',
+        'pic1': 'https://images.launchbox-app.com/51366f36-3e03-42c6-a36f-8e8883683a26.png',
+        'snd0': 'https://www.youtube.com/watch?v=nG4LLe-p9i8&list=PL21CA9A739E54E8C8&index=1',
+    },
+    'SLUS20014': {
+        'id': 'SLUS20014',
+        'title': 'Armored Core 2',
+        'icon0': 'https://images.launchbox-app.com/554aeb3f-9811-4791-ab3c-7197948bad83.jpg',
+        'pic0': 'https://images.launchbox-app.com/3a8bc5ee-5535-4cb4-b1f6-0484ee2a1550.png',
+        'pic1': 'https://images.launchbox-app.com/30ea59f5-163b-47f6-8e7a-da2a4532b6ce.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=X_ENAJhhxJs&list=PL46819FAB420F5241&index=1',
+    },
+    'SLUS20249': {
+        'id': 'SLUS20249',
+        'title': 'Armored Core 2 - Another Age',
+        'icon0': 'https://images.launchbox-app.com/2cff6be3-6fec-47d2-9d61-4eeae98a3cde.jpg',
+        'pic0': 'https://images.launchbox-app.com/e37da306-5a3d-4659-893f-c3d688380c86.png',
+        'pic1': 'https://images.launchbox-app.com/d08c497b-c829-410e-a4b7-380c7ac21556.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=np2GFpInihQ&list=PLhPt7n-ALrSCAnhOx-k_u7-3WNsrDN7cT&index=4',
+    },
+    'SLUS20435': {
+        'id': 'SLUS20435',
+        'title': 'Armored Core 3',
+        'icon0': 'https://images.launchbox-app.com/9dc70679-3e96-4654-9fec-a7840d512df1.jpg',
+        'pic0': 'https://images.launchbox-app.com/ab0603df-2239-4ef6-b117-efae877060d6.png',
+        'pic1': 'https://images.launchbox-app.com/862d3988-b7be-4e03-86d2-59635ca8fdad.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=-huNmW3uY-E&list=PL69D9ECF0C849DF62&index=1',
+    },
+    'SLUS20986': {
+        'id': 'SLUS20986',
+        'title': 'Armored Core Nexus (Evolution Disc)',
+        'icon0': 'https://images.launchbox-app.com/4c84d08f-5448-4ac3-b9f8-91c29088f69c.jpg',
+        'pic0': 'https://images.launchbox-app.com/5783686e-db5f-4b29-a477-db27c2d887e2.png',
+        'pic1': 'https://images.launchbox-app.com/295fa8ed-73df-4cf0-8d7c-36231f29567c.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=4-BamISde_M&list=PLF3B8ECB22D92FF14&index=1',
+    },
     #'SLUS21079': {
     #    'id': 'SLUS21079',
     #    'title': 'Armored Core Nexus (Revolution Disc)',
@@ -14521,7 +14521,7 @@ games = {
     #},
     #'SLUS21093': {
     #    'id': 'SLUS21093',
-    #    'title': 'Worms Forts - Under Siege! 	 [',
+    #    'title': 'Worms Forts - Under Siege!',
     #    'icon0': 
     #    'pic0': 
     #    'pic1': 
