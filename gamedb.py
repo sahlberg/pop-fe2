@@ -9943,14 +9943,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20714': {
-    #    'id': 'SLUS20714',
-    #    'title': 'RED NINJA - END OF HONOR',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20714': {
+        'id': 'SLUS20714',
+        'title': 'RED NINJA - END OF HONOR',
+        'icon0': 'https://images.launchbox-app.com/c405db3a-a6a7-4af8-8196-f89ea0678acb.jpg',
+        'pic0': 'https://images.launchbox-app.com/e8c5f35e-2d6e-4453-8943-530e3412f00b.png',
+        'pic1': 'https://images.launchbox-app.com/35b5622c-ecc2-463f-9471-b00a16f89346.png',
+        'snd0': 'https://www.youtube.com/watch?v=UAUKinUWBbg&list=PL7MYbpTxLNEOFFrpK8PLPv1NeEH7TLMSP&index=1',
+    },
     #'SLUS20555': {
     #    'id': 'SLUS20555',
     #    'title': 'Reel Fishing III',
@@ -13967,14 +13967,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21452': {
-    #    'id': 'SLUS21452',
-    #    'title': 'Valkyrie Profile 2 - Silmeria',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21452': {
+        'id': 'SLUS21452',
+        'title': 'Valkyrie Profile 2 - Silmeria',
+        'icon0': 'https://images.launchbox-app.com/1d11f0d8-8d6f-4cf5-9c22-19b87ad3d939.jpg',
+        'pic0': 'https://images.launchbox-app.com/550cf26d-7a49-40ae-8d84-c102bec903a2.png',
+        'pic1': 'https://images.launchbox-app.com/ccef3541-8085-4f98-b387-5b62a6a78b71.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=xGmMAVneqfk&list=PL0889103227470300&index=1',
+    },
     #'SLUS20221': {
     #    'id': 'SLUS20221',
     #    'title': 'Vampire Night',
