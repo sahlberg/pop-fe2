@@ -2439,22 +2439,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20945': {
-    #    'id': 'SLUS20945',
-    #    'title': 'DESTROY ALL HUMANS!',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21439': {
-    #    'id': 'SLUS21439',
-    #    'title': 'Destroy All Humans! 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20945': {
+        'id': 'SLUS20945',
+        'title': 'DESTROY ALL HUMANS!',
+        'icon0': 'https://images.launchbox-app.com/a873fbb6-e11b-412c-a210-7d26b3a3b1b1.jpg',
+        'pic0': 'https://images.launchbox-app.com/b713e0a9-f6d8-4043-914b-d605532b6bd7.png',
+        'pic1': 'https://images.launchbox-app.com/ccbffb83-c176-499a-8302-5cfac690b8b7.png',
+        'snd0': 'https://www.youtube.com/watch?v=EmkXYXCh7NI&list=PLO4jlmGoc6uCHvQ0eYfDUQSDrIaS7OQje&index=2',
+    },
+    'SLUS21439': {
+        'id': 'SLUS21439',
+        'title': 'Destroy All Humans! 2',
+        'icon0': 'https://images.launchbox-app.com/6f520a6c-44d0-4d07-943a-1953d88385ba.jpg',
+        'pic0': 'https://images.launchbox-app.com/d6ce5645-4ed7-4956-affc-743db2bab0c9.png',
+        'pic1': 'https://images.launchbox-app.com/19cf27f8-d56c-4fe1-936c-f07caec9ecc0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=fHu8z2OcDTo&list=PLO4jlmGoc6uDtLZdwrOnMeI-_Cu467AIP&index=1',
+    },
     #'SLUS20855': {
     #    'id': 'SLUS20855',
     #    'title': 'Destruction Derby Arenas',
