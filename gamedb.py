@@ -1,68 +1,68 @@
 games = {
-    #'SLUS21258': {
-    #    'id': 'SLUS21258',
-    #    'title': '.Hack - G.U. Vol.1 - Rebirth + Terminal Disc',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21480': {
-    #    'id': 'SLUS21480',
-    #    'title': '.Hack - G.U. Vol.1 - Rebirth + Terminal Disc',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21488': {
-    #    'id': 'SLUS21488',
-    #    'title': '.Hack - G.U. Vol.2 - Reminisce',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21489': {
-    #    'id': 'SLUS21489',
-    #    'title': '.Hack - G.U. Vol.3 - Redemption',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20267': {
-    #    'id': 'SLUS20267',
-    #    'title': '.HACK - PART 1 - INFECTION',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20562': {
-    #    'id': 'SLUS20562',
-    #    'title': '.Hack - Part 2 – Mutation',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20563': {
-    #    'id': 'SLUS20563',
-    #    'title': '.Hack - Part 3 – Outbreak',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20564': {
-    #    'id': 'SLUS20564',
-    #    'title': '.Hack - Part 4 – Quarantine',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21258': {
+        'id': 'SLUS21258',
+        'title': '.Hack - G.U. Vol.1 - Rebirth + Terminal Disc',
+        'icon0': 'https://images.launchbox-app.com/7c8c40b5-8225-490a-bc19-e82e7b8eb240.jpg',
+        'pic0': 'https://images.launchbox-app.com/8a10d243-0d60-41c1-be01-bc44f1c95358.png',
+        'pic1': 'https://images.launchbox-app.com/f964a38f-7e8e-4ae1-8302-c5a74dfa6ff6.png',
+        'snd0': 'https://www.youtube.com/watch?v=2mdMu9_8i38&list=PLh9hcS0tfUw2LHokf4Dt-pBJ-kfPbfbTj&index=1',
+    },
+    'SLUS21480': {
+        'id': 'SLUS21480',
+        'title': '.Hack - G.U. Vol.1 - Rebirth + Terminal Disc',
+        'icon0': 'https://images.launchbox-app.com/7c8c40b5-8225-490a-bc19-e82e7b8eb240.jpg',
+        'pic0': 'https://images.launchbox-app.com/8a10d243-0d60-41c1-be01-bc44f1c95358.png',
+        'pic1': 'https://images.launchbox-app.com/f964a38f-7e8e-4ae1-8302-c5a74dfa6ff6.png',
+        'snd0': 'https://www.youtube.com/watch?v=2mdMu9_8i38&list=PLh9hcS0tfUw2LHokf4Dt-pBJ-kfPbfbTj&index=1',
+    },
+    'SLUS21488': {
+        'id': 'SLUS21488',
+        'title': '.Hack - G.U. Vol.2 - Reminisce',
+        'icon0': 'https://images.launchbox-app.com/080117a9-be6d-46cb-bdc7-c9b73e8b5bf1.jpg',
+        'pic0': 'https://images.launchbox-app.com/8144b9a1-9ee3-413a-825e-48add3c8b42e.png',
+        'pic1': 'https://images.launchbox-app.com/96162ae9-8be9-476b-8353-a101dd4507db.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=nELXuADD9rI',
+    },
+    'SLUS21489': {
+        'id': 'SLUS21489',
+        'title': '.Hack - G.U. Vol.3 - Redemption',
+        'icon0': 'https://images.launchbox-app.com/989dcdb7-60f8-4763-bfce-e6aded7d749b.jpg',
+        'pic0': 'https://images.launchbox-app.com/a6c809f6-a51c-431c-86c9-ada72c85f346.png',
+        'pic1': 'https://images.launchbox-app.com/68540c9d-057e-4848-b9e5-2dfedb786018.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=2mdMu9_8i38&list=PLhPt7n-ALrSABB_Eckm-jAfZx-RP_TLKE&index=1',
+    },
+    'SLUS20267': {
+        'id': 'SLUS20267',
+        'title': '.HACK - PART 1 - INFECTION',
+        'icon0': 'https://images.launchbox-app.com/1f5e5767-49a4-463e-af40-ff4f68e02b41.jpg',
+        'pic0': 'https://images.launchbox-app.com/862bb179-88aa-4fdb-9574-fe5377f5841a.png',
+        'pic1': 'https://images.launchbox-app.com/e42cceca-dbd4-4438-9ffc-e77811cb9495.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=5SVjVAk_ZZc&list=PLh9hcS0tfUw0aadEWKl26XeL8IrDyTVoB&index=31',
+    },
+    'SLUS20562': {
+        'id': 'SLUS20562',
+        'title': '.Hack - Part 2 – Mutation',
+        'icon0': 'https://images.launchbox-app.com/7b2420ff-993f-432f-9c29-0f3da93a32a3.jpg',
+        'pic0': 'https://images.launchbox-app.com/f28a1fe7-b6b4-4b10-9174-585480bc47fb.png',
+        'pic1': 'https://images.launchbox-app.com/f0413b84-8b48-42a3-8835-72067d8aba6d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=GIWrr3TuPXI&list=PLh9hcS0tfUw0aadEWKl26XeL8IrDyTVoB&index=43',
+    },
+    'SLUS20563': {
+        'id': 'SLUS20563',
+        'title': '.Hack - Part 3 – Outbreak',
+        'icon0': 'https://images.launchbox-app.com/fe7b1696-35ca-4122-b19b-87ff16bdb6af.jpg',
+        'pic0': 'https://images.launchbox-app.com/7a692928-39f4-465a-af0b-45ae71daef0a.png',
+        'pic1': 'https://images.launchbox-app.com/5b58c309-6eb5-4dda-8879-ab0de3e4619a.png',
+        'snd0': 'https://www.youtube.com/watch?v=fUhIV7xpKcA&list=PLh9hcS0tfUw0aadEWKl26XeL8IrDyTVoB&index=52',
+    },
+    'SLUS20564': {
+        'id': 'SLUS20564',
+        'title': '.Hack - Part 4 – Quarantine',
+        'icon0': 'https://images.launchbox-app.com/5d6dd9fb-8d52-453f-9cd3-ef21264558af.jpg',
+        'pic0': 'https://images.launchbox-app.com/65d51984-244d-4aeb-8464-136e3a48afb9.png',
+        'pic1': 'https://images.launchbox-app.com/c1530bb2-459d-4c43-9cc1-93cb57fa4736.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=eCiEtv4qqsc&list=PLh9hcS0tfUw0aadEWKl26XeL8IrDyTVoB&index=59',
+    },
     #'SLUS20265': {
     #    'id': 'SLUS20265',
     #    'title': '007 - AGENT UNDER FIRE',
@@ -11001,7 +11001,7 @@ games = {
     #},
     #'SLUS20228': {
     #    'id': 'SLUS20228',
-    #    'title': 'H 	 SILENT HILL 2',
+    #    'title': 'SILENT HILL 2',
     #    'icon0': 
     #    'pic0': 
     #    'pic1': 
