@@ -13661,7 +13661,7 @@ games = {
         'icon0': 'https://images.launchbox-app.com/468257d3-fe2d-4004-ae4c-f625f91dee64.jpg',
         'pic0': 'https://images.launchbox-app.com/61ba8e57-4db5-4dc8-a0f6-365286d4c8a6.png',
         'pic1': 'https://images.launchbox-app.com/05636829-ef8c-40d6-9ff0-52af187d2bfe.jpg',
-        'snd0': 'https://www.youtube.com/watch?v=J-wwwh4emC4&list=PLE671917269750427&index=23',
+        'snd0': 'https://www.youtube.com/watch?v=J-wwwh4emC4&list=PLE671917269750427&index=5',
     },
     #'SLUS21795': {
     #    'id': 'SLUS21795',
