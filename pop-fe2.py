@@ -2,6 +2,11 @@
 # coding: utf-8
 #
 
+#
+# Fix for youtube:
+# https://stackoverflow.com/questions/78727767/regexmatcherror-get-throttling-function-name-could-not-find-match-for-multiple
+#
+
 try:
     from PIL import Image, ImageDraw, ImageFont
 except:
