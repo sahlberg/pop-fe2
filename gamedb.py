@@ -2479,30 +2479,30 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20216': {
-    #    'id': 'SLUS20216',
-    #    'title': 'DEVIL MAY CRY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20484': {
-    #    'id': 'SLUS20484',
-    #    'title': 'DEVIL MAY CRY 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20627': {
-    #    'id': 'SLUS20627',
-    #    'title': 'DEVIL MAY CRY 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20216': {
+        'id': 'SLUS20216',
+        'title': 'DEVIL MAY CRY',
+        'icon0': 'https://images.launchbox-app.com/44bc16a9-39b7-4d8d-b94f-1284e00b3b35.jpg',
+        'pic0': 'https://images.launchbox-app.com/1b4d4313-b918-4087-9c7e-a00cb34fc5dc.png',
+        'pic1': 'https://images.launchbox-app.com/7731eb9a-5ea1-4f89-bf0a-a72202397072.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=tboyQiURWKg&list=PL04qUiNqaN1pstv3MksUtuGjii65hpMhv&index=1',
+    },
+    'SLUS20484': {
+        'id': 'SLUS20484',
+        'title': 'DEVIL MAY CRY 2',
+        'icon0': 'https://images.launchbox-app.com/29230e6b-8dc5-4762-aec1-ae8b1f71b428.jpg',
+        'pic0': 'https://images.launchbox-app.com/9aa43b11-9f52-4796-b9c3-3b91afe4731e.png',
+        'pic1': 'https://images.launchbox-app.com/6563c99f-03a9-4623-a440-1fe17f88e7de.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=XR3sIWQP45w&list=PL9410C1E516D56800&index=1',
+    },
+    'SLUS20627': {
+        'id': 'SLUS20627',
+        'title': 'DEVIL MAY CRY 2',
+        'icon0': 'https://images.launchbox-app.com/29230e6b-8dc5-4762-aec1-ae8b1f71b428.jpg',
+        'pic0': 'https://images.launchbox-app.com/9aa43b11-9f52-4796-b9c3-3b91afe4731e.png',
+        'pic1': 'https://images.launchbox-app.com/6563c99f-03a9-4623-a440-1fe17f88e7de.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=XR3sIWQP45w&list=PL9410C1E516D56800&index=1',
+    },
     #'SLUS20964': {
     #    'id': 'SLUS20964',
     #    'title': 'Devil May Cry 3',

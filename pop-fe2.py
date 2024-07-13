@@ -964,8 +964,10 @@ def GenerateSFO(sfo):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('-v', action='store_true', help='Verbose')
-    parser.add_argument('--ps3-pkg', default='game.pkg',
+    parser.add_argument('--ps3-pkg', default='title',
                     help='Name of the PS3 package to create')
+    parser.add_argument('--output-directory',
+                    help='Where to create the final PKG')
     parser.add_argument('--snd0',
                         help='WAV file to inject in PS3 PKG')
     parser.add_argument('file')
@@ -990,6 +992,11 @@ if __name__ == "__main__":
         os._exit(1)
     print('GAMEID:', gameid)
     print('TITLE:', games[gameid]['title'])
+
+    if args.ps3_pkg == 'title':
+        args.ps3_pkg = games[gameid]['title'] + '.pkg'
+    if args.ps3_pkg == 'gameid':
+        args.ps3_pkg = gameid + '.pkg'
 
     _c = 'https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/PS2CONFIG/USRDIR/CONFIG/CUSTOM/' + gameid[0:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '.CONFIG'
     config = None
@@ -1117,7 +1124,10 @@ if __name__ == "__main__":
                     '16', '2', '01', '2P0001-PS2U10000_00-0000111122223333', '8', '2P0001-PS2U10000_00-0000111122223333.rap'], check=True)
 
     # create PKG
-    print('Creating PKG', args.ps3_pkg)
+    if args.output_directory:
+        args.ps3_pkg = args.output_directory + '/' + args.ps3_pkg
+
+    print('Creating PKG "%s"' % args.ps3_pkg)
     subprocess.run(['./PSL1GHT/tools/ps3py/pkg.py', '-c', cid,
                     subdir, args.ps3_pkg], check=True)
 
