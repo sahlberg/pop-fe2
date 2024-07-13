@@ -503,14 +503,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20595': {
-    #    'id': 'SLUS20595',
-    #    'title': 'AREA 51',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20595': {
+        'id': 'SLUS20595',
+        'title': 'AREA 51',
+        'icon0': 'https://images.launchbox-app.com/46d88f20-49a6-4e7c-ac8a-d350b18de193.jpg',
+        'pic0': 'https://images.launchbox-app.com/258285d0-7bb1-4c45-ac6e-aeb81df7a2bc.png',
+        'pic1': 'https://images.launchbox-app.com/f645d497-f74b-4118-bda7-536f17491228.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=1q-2G6sUWqY&list=PLO4jlmGoc6uAe8asuAlK2RrLmFrhzP0fn&index=1',
+    },
     #'SLUS21337': {
     #    'id': 'SLUS21337',
     #    'title': 'Arena Football',
@@ -3111,22 +3111,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20732': {
-    #    'id': 'SLUS20732',
-    #    'title': 'DRAKENGARD',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21373': {
-    #    'id': 'SLUS21373',
-    #    'title': 'Drakengard 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20732': {
+        'id': 'SLUS20732',
+        'title': 'DRAKENGARD',
+        'icon0': 'https://images.launchbox-app.com/a29d6e37-6fe8-4c0e-a893-86cb9691ffb4.jpg',
+        'pic0': 'https://images.launchbox-app.com/e7e6f5f9-0a68-4f35-9982-64ba711220fc.png',
+        'pic1': 'https://images.launchbox-app.com/27fa5c06-c20f-4a10-a651-36bf8fe0218b.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=UkV2AtBXQIg&list=PLHTLRlHyRyWsZMVPfCsCAykMObLTcQFl2&index=1',
+    },
+    'SLUS21373': {
+        'id': 'SLUS21373',
+        'title': 'Drakengard 2',
+        'icon0': 'https://images.launchbox-app.com/e26f4190-9f6b-4936-9f6a-08f19d13d3f6.jpg',
+        'pic0': 'https://images.launchbox-app.com/38c4e30d-9236-4cc9-8037-3e44da388488.png',
+        'pic1': 'https://images.launchbox-app.com/c4b8d5ef-f425-45c9-be3c-2132e74d9f99.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=_fKS6UXZJfI&list=PLp_nLDzWK5NU_-EfSPXsBalArmMMXZdG1&index=1',
+    },
     #'SLUS21622': {
     #    'id': 'SLUS21622',
     #    'title': 'Dreamworks' Bee Movie - The Game',
