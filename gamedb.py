@@ -1743,22 +1743,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21168': {
-    #    'id': 'SLUS21168',
-    #    'title': 'Castlevania - Curse of Dakness',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20733': {
-    #    'id': 'SLUS20733',
-    #    'title': 'CASTLEVANIA - LAMENT OF INNOCENCE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21168': {
+        'id': 'SLUS21168',
+        'title': 'Castlevania - Curse of Dakness',
+        'icon0': 'https://images.launchbox-app.com/6b53c943-4f5e-43eb-a4b0-878da97dd96c.jpg',
+        'pic0': 'https://images.launchbox-app.com/68280c8d-f717-42c1-a585-1c27d964190c.png',
+        'pic1': 'https://images.launchbox-app.com/a1c88220-ceb8-4a8a-8640-7363b104357b.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=GiXCote6N6s&list=PL31221D00E6CF5657&index=1',
+    },
+    'SLUS20733': {
+        'id': 'SLUS20733',
+        'title': 'Castlevania - Lament of Innocence',
+        'icon0': 'https://images.launchbox-app.com/3eeef2f0-1c8d-45a9-a61e-002900d7eade.png',
+        'pic0': 'https://images.launchbox-app.com/9a4f9411-279d-48bb-815f-9abd42ba4306.png',
+        'pic1': 'https://images.launchbox-app.com/e13c19e5-f843-455b-9ba7-5dd8f2644ed4.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=ypCA6MFsuFc&list=PLFjuFokngRvja_lOLegRtcLyaZEkF2CcS',
+    },
     #'SLUS20992': {
     #    'id': 'SLUS20992',
     #    'title': 'Catwoman',
@@ -1999,14 +1999,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21142': {
-    #    'id': 'SLUS21142',
-    #    'title': 'Constantine',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21142': {
+        'id': 'SLUS21142',
+        'title': 'Constantine',
+        'icon0': 'https://images.launchbox-app.com/b828dd76-899c-4e1e-91bf-cb5df86451e0.jpg',
+        'pic0': 'https://images.launchbox-app.com/21a67782-aad8-4de2-a61f-4f7b6d88dccb.png',
+        'pic1': 'https://images.launchbox-app.com/85f0407e-f8e9-42a3-8bd8-a46687cd4536.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=y2KAED64-l4&list=PL1h9Fz6SxOkxF7Q5PbXgwGriJptKR02ou&index=1',
+    },
     #'SLUS20306': {
     #    'id': 'SLUS20306',
     #    'title': 'CONTRA - SHATTERED SOLDIER',
@@ -2335,14 +2335,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21574': {
-    #    'id': 'SLUS21574',
-    #    'title': 'DAWN OF MANA',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21574': {
+        'id': 'SLUS21574',
+        'title': 'Dawn of Mana',
+        'icon0': 'https://images.launchbox-app.com/51688583-39ed-4a4a-8758-12d594d14c39.png',
+        'pic0': 'https://images.launchbox-app.com/ea83bad5-ba5e-461c-a5f8-bf168f159706.png',
+        'pic1': 'https://images.launchbox-app.com/c36aaeff-d618-4d94-868d-6ea70dc7a41d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=LUzWUsGuYaI&list=PLQuOY1HVtJ_-w4FDW56mp-iEZutpIcru6&index=1',
+    },
     #'SLUS20437': {
     #    'id': 'SLUS20437',
     #    'title': 'DDR MAX - Dance Dance Revolution',
@@ -2513,7 +2513,7 @@ games = {
     #},
     #'SLUS21361': {
     #    'id': 'SLUS21361',
-    #    'title': 'H 	 Devil May Cry 3 - Dante's Awakening (Special Edition)',
+    #    'title': 'Devil May Cry 3 - Dante's Awakening (Special Edition)',
     #    'icon0': 
     #    'pic0': 
     #    'pic1': 
@@ -13767,22 +13767,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21106': {
-    #    'id': 'SLUS21106',
-    #    'title': 'TRUE CRIME - NEW YORK CITY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20550': {
-    #    'id': 'SLUS20550',
-    #    'title': 'True Crime - Streets of L.A.',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21106': {
+        'id': 'SLUS21106',
+        'title': 'TRUE CRIME - NEW YORK CITY',
+        'icon0': 'https://images.launchbox-app.com/476beb76-f93f-4bdb-a394-d6ec775bb267.jpg',
+        'pic0': 'https://images.launchbox-app.com/1fb96055-d7f2-4c23-8bc2-4edf30df959a.png',
+        'pic1': 'https://images.launchbox-app.com/ec8e0bf6-9a10-4186-ab42-0efd0601eccf.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=BCKR5LiUgS0&list=PLl-vhnGPY7coIxIwuQGZe-0RU-3M0j1eM&index=1',
+    },
+    'SLUS20550': {
+        'id': 'SLUS20550',
+        'title': 'True Crime - Streets of L.A.',
+        'icon0': 'https://images.launchbox-app.com/5ff5e6aa-14ff-46df-922d-c8786feec103.png',
+        'pic0': 'https://images.launchbox-app.com/19e34ebb-3882-4ff3-9f73-594e24d8d851.png',
+        'pic1': 'https://images.launchbox-app.com/4d9baa3a-9a90-42a5-9245-fdfdeeb7d3d6.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=FlXSY6XJZws&list=PLWgVF6GcXGMC2w-O68A9rDB1ydebKbiOU&index=1',
+    },
     #'SLUS20292': {
     #    'id': 'SLUS20292',
     #    'title': 'Tsugunai - Atonement',
