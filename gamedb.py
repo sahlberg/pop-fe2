@@ -6303,38 +6303,38 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21555': {
-    #    'id': 'SLUS21555',
-    #    'title': 'LARA CROFT - TOMB RAIDER - ANNIVERSARY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21203': {
-    #    'id': 'SLUS21203',
-    #    'title': 'LARA CROFT - TOMB RAIDER - LEGEND',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20467': {
-    #    'id': 'SLUS20467',
-    #    'title': 'LARA CROFT - TOMB RAIDER - THE ANGEL OF DARKNESS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21858': {
-    #    'id': 'SLUS21858',
-    #    'title': 'LARA CROFT - TOMB RAIDER - UNDERWORLD',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21555': {
+        'id': 'SLUS21555',
+        'title': 'LARA CROFT - TOMB RAIDER - ANNIVERSARY',
+        'icon0': 'https://images.launchbox-app.com/c8122eb0-ada3-4375-b497-ced2c6f30243.jpg',
+        'pic0': 'https://images.launchbox-app.com/0e208ddc-c3b0-4f3b-a5ad-41f3fcfa3308.png',
+        'pic1': 'https://images.launchbox-app.com/6c643582-0ab9-4ed7-a617-cf717b62b33d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=TPXC12k6Hlo&list=PL208D18D01BEFCF8C&index=1',
+    },
+    'SLUS21203': {
+        'id': 'SLUS21203',
+        'title': 'LARA CROFT - TOMB RAIDER - LEGEND',
+        'icon0': 'https://images.launchbox-app.com/f77dae1a-8a49-4896-9f6e-348e70dfbbc9.jpg',
+        'pic0': 'https://images.launchbox-app.com/94eed26a-f5bd-4753-b419-e1aa07dc4bc6.png',
+        'pic1': 'https://images.launchbox-app.com/b5f44510-4784-4891-be75-5e6c89d1273e.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=R-uyBViwAVw',
+    },
+    'SLUS20467': {
+        'id': 'SLUS20467',
+        'title': 'LARA CROFT - TOMB RAIDER - THE ANGEL OF DARKNESS',
+        'icon0': 'https://images.launchbox-app.com/d62d3794-4522-4a54-9753-4a0dafe4b5a9.jpg',
+        'pic0': 'https://images.launchbox-app.com/fda39652-29a5-422c-b01e-57ed519c3369.png',
+        'pic1': 'https://images.launchbox-app.com/ed366ab3-dbec-4cca-9fe7-36cc82d8e588.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=5HN4HgcrqBw&list=PL56EB04D46F50F36E&index=1',
+    },
+    'SLUS21858': {
+        'id': 'SLUS21858',
+        'title': 'LARA CROFT - TOMB RAIDER - UNDERWORLD',
+        'icon0': 'https://images.launchbox-app.com/8bdc7984-56f6-497e-af3f-f2503c5ee6e5.jpg',
+        'pic0': 'https://images.launchbox-app.com/c80df206-2983-45e5-b11d-ed40f62fc2c6.png',
+        'pic1': 'https://images.launchbox-app.com/3bce0e89-cb22-4fc8-9358-4d9d18585ec9.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=qCWa6SfuNaE&list=PL2B3A0C4B6F49ADA9&index=1',
+    },
     #'SLUS20207': {
     #    'id': 'SLUS20207',
     #    'title': 'LE MANS 24 HOURS',
