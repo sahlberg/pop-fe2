@@ -992,10 +992,7 @@ if __name__ == "__main__":
     if ret.status_code == 200:
         config = 'config'
         with open(config, 'wb') as f:
-            if ret.apparent_encoding:
-                f.write(ret.content.decode(ret.apparent_encoding))
-            else:
-                f.write(ret.content)
+            f.write(ret.content)
 
     cid = 'UP0000-%s_00-PS2CLASSICS00000' % gameid
     #cid = '2P0001-PS2U10000_00-0000111122223333'

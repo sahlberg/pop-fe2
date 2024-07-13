@@ -6007,14 +6007,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21436': {
-    #    'id': 'SLUS21436',
-    #    'title': 'JUST CAUSE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21436': {
+        'id': 'SLUS21436',
+        'title': 'JUST CAUSE',
+        'icon0': 'https://images.launchbox-app.com/65017402-7fcd-4f9b-9273-440a107e7d64.jpg',
+        'pic0': 'https://images.launchbox-app.com/9aa924da-2135-47f9-9ecc-c74a7b79b4e5.png',
+        'pic1': 'https://images.launchbox-app.com/4c9a9c94-b913-480d-b2c6-4c5610bf89f0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=ynpN_5ablLo&list=PLtqJb91oIM811Smq1qMTu3_3oTAjm-_sy&index=1',
+    },
     #'SLUS21304': {
     #    'id': 'SLUS21304',
     #    'title': 'JUSTICE LEAGUE HEROES',
@@ -6879,22 +6879,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20827': {
-    #    'id': 'SLUS20827',
-    #    'title': 'MANHUNT',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21613': {
-    #    'id': 'SLUS21613',
-    #    'title': 'MANHUNT 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20827': {
+        'id': 'SLUS20827',
+        'title': 'MANHUNT',
+        'icon0': 'https://images.launchbox-app.com/fa6c1e4a-ca6a-457c-875f-e5e824f7bf6d.jpg',
+        'pic0': 'https://images.launchbox-app.com/02176cc8-9bfb-449b-b7ef-93218be73da9.png',
+        'pic1': 'https://images.launchbox-app.com/5abbe1e3-abe0-495a-842b-4e2312ac137f.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=p4nRfwEWTRM&list=PL2369DA86C3AC059A&index=1',
+    },
+    'SLUS21613': {
+        'id': 'SLUS21613',
+        'title': 'MANHUNT 2',
+        'icon0': 'https://images.launchbox-app.com/72cfa671-a6c9-4eea-8d5b-6b5832d3f289.jpg',
+        'pic0': 'https://images.launchbox-app.com/7b14b809-e079-4231-8c01-83add411579d.png',
+        'pic1': 'https://images.launchbox-app.com/2068a25a-7c56-457d-99b2-ccbd63644a74.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=HFHT0UziWpI&list=PLWiT_LzCrRe6wQ3_DxlBBiuDCkbo69p6N&index=1',
+    },
     #'SLUS21032': {
     #    'id': 'SLUS21032',
     #    'title': 'MARC ECKO'S GETTING UP - CONTENT UNDER PRESSURE',
@@ -7103,22 +7103,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20932': {
-    #    'id': 'SLUS20932',
-    #    'title': 'MERCENARIES - PLAYGROUND OF DESTRUCTION',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21650': {
-    #    'id': 'SLUS21650',
-    #    'title': 'Mercenaries 2 - World in Flames',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20932': {
+        'id': 'SLUS20932',
+        'title': 'MERCENARIES - PLAYGROUND OF DESTRUCTION',
+        'icon0': 'https://images.launchbox-app.com/1f0a3e74-11a0-4627-bc73-be6c67a70eea.jpg',
+        'pic0': 'https://images.launchbox-app.com/76cf7109-bd95-44a1-9f66-1ee748870d7a.png',
+        'pic1': 'https://images.launchbox-app.com/8614fcaf-953e-4e46-914d-33ba21372dc4.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=szzZQwawELc&list=PL6FD1CA203DB120B9&index=1',
+    },
+    'SLUS21650': {
+        'id': 'SLUS21650',
+        'title': 'Mercenaries 2 - World in Flames',
+        'icon0': 'https://images.launchbox-app.com/afdb54e6-ef5c-4656-b7eb-1e9f647c0d8b.jpg',
+        'pic0': 'https://images.launchbox-app.com/e0d757e6-273c-4d0f-b6ba-1390d01531b7.png',
+        'pic1': 'https://images.launchbox-app.com/88516dbf-5900-46a8-898a-f02608400ad1.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=C3h2CO9-KLs&list=PLLRK3yfA89D7K_gLYjYMotwC4OlimwNJg&index=1',
+    },
     #'SLUS21548': {
     #    'id': 'SLUS21548',
     #    'title': 'MERCURY MELTDOWN REMIX',
