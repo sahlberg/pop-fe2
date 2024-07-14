@@ -961,6 +961,32 @@ def GenerateSFO(sfo):
     return hdr + index + keys + data
 
 
+def get_config(gameid):
+    def _get_config(gameid, ctype):
+        _c = 'https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/PS2CONFIG/USRDIR/CONFIG/' + ctype + '/' + gameid[0:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '.CONFIG'
+        config = None
+        ret = requests.get(_c, stream=True)
+        if ret.status_code == 200:
+            config = 'config'
+            with open(config, 'wb') as f:
+                f.write(ret.content)
+        return config
+
+    config = _get_config(gameid, 'CUSTOM')
+    if config:
+        return config
+    config = _get_config(gameid, 'NET')
+    if config:
+        return config
+    config = _get_config(gameid, 'GX')
+    if config:
+        return config
+    config = _get_config(gameid, 'SOFT')
+    if config:
+        return config
+    return none
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('-v', action='store_true', help='Verbose')
@@ -998,13 +1024,8 @@ if __name__ == "__main__":
     if args.ps3_pkg == 'gameid':
         args.ps3_pkg = gameid + '.pkg'
 
-    _c = 'https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/PS2CONFIG/USRDIR/CONFIG/CUSTOM/' + gameid[0:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '.CONFIG'
-    config = None
-    ret = requests.get(_c, stream=True)
-    if ret.status_code == 200:
-        config = 'config'
-        with open(config, 'wb') as f:
-            f.write(ret.content)
+    # get config
+    config = get_config(gameid)
 
     cid = 'UP0000-%s_00-PS2CLASSICS00000' % gameid
     #cid = '2P0001-PS2U10000_00-0000111122223333'
