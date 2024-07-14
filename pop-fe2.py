@@ -1123,6 +1123,21 @@ if __name__ == "__main__":
                     subdir + '/USRDIR/ISO.BIN.EDAT', '1', '1', '3', '0',
                     '16', '2', '01', '2P0001-PS2U10000_00-0000111122223333', '8', '2P0001-PS2U10000_00-0000111122223333.rap'], check=True)
 
+    # Create memory card images
+    os.mkdir(subdir + '/USRDIR/SAVEDATA')
+    print('Creating SCEVMC0.VME')
+    subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
+                    've', 'cex',
+                    'SCEVMC0.VMC',
+                    subdir + '/USRDIR/SAVEDATA/SCEVMC0.VME'],
+                   check=True)
+    print('Creating SCEVMC1.VME')
+    subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
+                    've', 'cex',
+                    'SCEVMC0.VMC',
+                    subdir + '/USRDIR/SAVEDATA/SCEVMC1.VME'],
+                   check=True)
+
     # create PKG
     if args.output_directory:
         args.ps3_pkg = args.output_directory + '/' + args.ps3_pkg
