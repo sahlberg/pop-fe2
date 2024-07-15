@@ -13055,30 +13055,30 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21665': {
-    #    'id': 'SLUS21665',
-    #    'title': 'The Simpsons Game',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20624': {
-    #    'id': 'SLUS20624',
-    #    'title': 'THE SIMPSONS - HIT & RUN',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20305': {
-    #    'id': 'SLUS20305',
-    #    'title': 'THE SIMPSONS - ROAD RAGE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21665': {
+        'id': 'SLUS21665',
+        'title': 'The Simpsons Game',
+        'icon0': 'https://images.launchbox-app.com/94b8dfa9-bc90-4565-a7a1-16e36ac3c1ae.png',
+        'pic0': 'https://images.launchbox-app.com/335227cd-0230-4c70-b909-6e87e0a27679.png',
+        'pic1': 'https://images.launchbox-app.com/db5a4a57-071e-4a01-a948-8851ebf668c8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=r-VyoLUErYQ',
+    },
+    'SLUS20624': {
+        'id': 'SLUS20624',
+        'title': 'THE SIMPSONS - HIT & RUN',
+        'icon0': 'https://images.launchbox-app.com/1bbb7d22-b337-439e-95e3-763fb939e40b.jpg',
+        'pic0': 'https://images.launchbox-app.com/42678445-33ae-4f9b-ae7a-0c890d0b21c5.png',
+        'pic1': 'https://images.launchbox-app.com/3e88747d-c384-4960-9b0f-4292346db547.png',
+        'snd0': 'https://www.youtube.com/watch?v=FU6EXoGSHks&list=PLO4jlmGoc6uCtYu9GNtVGt1RKb9mXEXSj&index=1',
+    },
+    'SLUS20305': {
+        'id': 'SLUS20305',
+        'title': 'THE SIMPSONS - ROAD RAGE',
+        'icon0': 'https://images.launchbox-app.com/5c3461f2-a6e0-4f41-bafa-a1eb8aafc77c.jpg',
+        'pic0': 'https://images.launchbox-app.com/35480321-7674-46d9-a3a1-57b19480378f.png',
+        'pic1': 'https://images.launchbox-app.com/ee53cfd6-6b8f-4803-b47e-d7a01e1c0dde.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=9YR2Uae5-rI&list=PLO4jlmGoc6uDVonfEWRZ7asNfcH3kfX00&index=1',
+    },
     #'SLUS20114': {
     #    'id': 'SLUS20114',
     #    'title': 'The Simpsons - Skateboarding',
