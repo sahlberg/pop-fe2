@@ -984,7 +984,60 @@ def get_config(gameid):
     config = _get_config(gameid, 'SOFT')
     if config:
         return config
-    return none
+    try:
+        os.remove('config')
+    except:
+        None
+    with open('config', 'wb') as _f:
+        print('Creating empty config')
+    return 'config'
+
+
+def append_multidisc_trailer(config, num, i, gameid):
+    with open(config, 'r+b') as _f:
+        _f.seek(-17, 2)
+        buf = _f.read(17)
+        if buf[:4] == bytes(4) and str(buf[4:8])[2:-1] == gameid[:4]:
+            return
+                
+        print('Appending multidisc tags to config')
+        _f.seek(0, 2)
+        _f.write(bytes([0, num, i]))
+
+
+def append_title(config, gameid):
+    # Create config if it does not yet exist
+    if os.stat(config).st_size == 0:
+        with open(config, 'r+b') as _f:
+            _f.write(bytes([0x3d, 0, 0, 0]))
+            _f.write(bytes(4))
+            _f.write(bytes(gameid[:4] + '-' + gameid[4:9], 'utf-8'))
+        return
+    
+    if os.stat(config).st_size >= 4:
+        with open('config', 'r+b') as _f:
+            _f.seek(-4, 2)
+            buf = _f.read(4)
+            # Already ends with a NULL. Append the game id
+            if buf[:4] == bytes(4):
+                print('Write gameid to config')
+                _f.write(bytes(gameid[:4] + '-' + gameid[4:9], 'utf-8'))
+        return
+    
+    if os.stat(config).st_size >= 17:
+        with open('config', 'r+b') as _f:
+            _f.seek(-14, 2)
+            buf = _f.read(14)
+            if buf[:4] == bytes(4) and str(buf[4:8])[2:-1] == gameid[:4]:
+                return
+            _f.seek(-17, 2)
+            buf = _f.read(17)
+            if buf[:4] == bytes(4) and str(buf[4:8])[2:-1] == gameid[:4]:
+                return
+            
+            print('Write NULL and gameid to config')
+            _f.write(bytes(4))
+            _f.write(bytes(gameid[:4] + '-' + gameid[4:9], 'utf-8'))
 
 
 if __name__ == "__main__":
@@ -996,7 +1049,7 @@ if __name__ == "__main__":
                     help='Where to create the final PKG')
     parser.add_argument('--snd0',
                         help='WAV file to inject in PS3 PKG')
-    parser.add_argument('file')
+    parser.add_argument('files', nargs='*')
     args = parser.parse_args()
 
     if args.v:
@@ -1005,14 +1058,7 @@ if __name__ == "__main__":
     shutil.rmtree('pop-fe2-work', ignore_errors=True)
     os.mkdir('pop-fe2-work')
 
-    # Check if it is a valid ISO
-    size = os.stat(args.file).st_size
-    print('Checking ISO file size:', size) if verbose else None
-    if size % 16384:
-        print('Not a valid ISO. File size is not multiple of 16kb')
-        os.exit(1)
-
-    gameid = get_gameid_from_iso(args.file)
+    gameid = get_gameid_from_iso(args.files[0])
     if not gameid:
         print('Could not identify the game')
         os._exit(1)
@@ -1024,24 +1070,21 @@ if __name__ == "__main__":
     if args.ps3_pkg == 'gameid':
         args.ps3_pkg = gameid + '.pkg'
 
-    # get config
-    config = get_config(gameid)
-
     cid = 'UP0000-%s_00-PS2CLASSICS00000' % gameid
     #cid = '2P0001-PS2U10000_00-0000111122223333'
     subdir = 'pop-fe2-work/' + cid
     os.mkdir(subdir)
     os.mkdir(subdir + '/USRDIR')
 
-    pic0 = get_pic_from_game('pic0', gameid, args.file[:-4] + '_pic0.png')
+    pic0 = get_pic_from_game('pic0', gameid, args.files[0][:-4] + '_pic0.png')
     pic0 = pic0.resize((1000, 560), Image.Resampling.NEAREST)
     pic0.save(subdir + '/PIC0.PNG', 'PNG')
 
-    pic1 = get_pic_from_game('pic1', gameid, args.file[:-4] + '_pic1.png')
+    pic1 = get_pic_from_game('pic1', gameid, args.files[0][:-4] + '_pic1.png')
     pic1 = pic1.resize((1920, 1080), Image.Resampling.NEAREST)
     pic1.save(subdir + '/PIC1.PNG', 'PNG')
     
-    icon0 = get_pic_from_game('icon0', gameid, args.file[:-4] + '_icon0.png')
+    icon0 = get_pic_from_game('icon0', gameid, args.files[0][:-4] + '_icon0.png')
     icon0 = icon0.resize((124, 176), Image.Resampling.NEAREST)
     i = Image.new(icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
     i.putalpha(0)
@@ -1100,49 +1143,78 @@ if __name__ == "__main__":
     with open('klic.bin', 'wb') as f:
         f.write(PS2_PLACEHOLDER_KEY)
 
-    # Install CONFIG.
-    if config:
-        print('Installing CONFIG from', config)
-        # ps2classic.exe e cex ps2.key SCES_123.45.CONFIG CONFIG CONFIG 2P0001-PS2U10000_00-0000111122223333
-        subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
-                        'e', 'cex',
-                        'klic.bin',
-                        config,
-                        subdir + '/USRDIR/CONFIG', 'CONFIG',
-                        '2P0001-PS2U10000_00-0000111122223333'],
-                       check=True)
-
-    # Create ISO.BIN.EDAT:
-    print('Copy %s into %s' % (args.file, subdir + '/USRDIR/game.iso'))
-    try:
-        os.remove(subdir + '/USRDIR/game.iso')
-    except:
-        True
-    shutil.copyfile(args.file, subdir + '/USRDIR/game.iso')
-
-    # Create a LIMG sector if we need one
-    create_limg_sector(subdir + '/USRDIR/game.iso')
-
-    print('Creating ISO.BIN.ENC')
-    subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
-                    'e', 'cex',
-                    'klic.bin',
-                    subdir + '/USRDIR/game.iso',
-                    subdir + '/USRDIR/ISO.BIN.ENC', 'ISO.BIN.ENC',
-                    '2P0001-PS2U10000_00-0000111122223333'],
-                   check=True)
-        
-    os.remove(subdir + '/USRDIR/game.iso')
-
     print('Creating ISO.BIN.EDAT')
     print(['./make_npdata/Linux/make_npdata', '-v', '-e',
-                    'gameid',
-                    subdir + '/USRDIR/ISO.BIN.EDAT', '1', '1', '3', '0',
-                    '16', '2', '01', '2P0001-PS2U10000_00-0000111122223333', '8', '2P0001-PS2U10000_00-0000111122223333.rap'])
+           'gameid',
+           subdir + '/USRDIR/ISO.BIN.EDAT', '1', '1', '3', '0',
+           '16', '2', '01', '2P0001-PS2U10000_00-0000111122223333', '8', '2P0001-PS2U10000_00-0000111122223333.rap'])
     subprocess.run(['./make_npdata/Linux/make_npdata', '-v', '-e',
                     'gameid',
                     subdir + '/USRDIR/ISO.BIN.EDAT', '1', '1', '3', '0',
                     '16', '2', '01', '2P0001-PS2U10000_00-0000111122223333', '8', '2P0001-PS2U10000_00-0000111122223333.rap'], check=True)
+
+    if len(args.files) > 1:
+        with open(subdir + '/USRDIR/DISC.IDX', 'wb') as _f:
+            _f.write(bytes([len(args.files), 0]))
+    
+    for i, f in enumerate(args.files):
+        _c = 'CONFIG'
+        _ibe = 'ISO.BIN.ENC'
+        if i > 0:
+            _c = _c + str(i + 1)
+            _ibe = _ibe + str(i + 1)
+
+        print('Get GAMEID from', f)
+        gameid = get_gameid_from_iso(f)
+        print('GAMEID', gameid)
+
+        # Check if it is a valid ISO
+        size = os.stat(f).st_size
+        print('Checking ISO file size:', f, size) if verbose else None
+        if size % 16384:
+            print(f, 'is not a valid ISO. File size is not multiple of 16kb')
+            #os.exit(1)
+
+        # get config
+        config = get_config(gameid)
+        #append_title(config, gameid)
+        #
+        #if len(args.files) > 1:
+        #    append_multidisc_trailer('config', len(args.files), i, gameid)
+
+        # Install CONFIG.
+        if config:
+            print('Installing CONFIG from', config)
+            # ps2classic.exe e cex ps2.key SCES_123.45.CONFIG CONFIG CONFIG 2P0001-PS2U10000_00-0000111122223333
+            subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
+                            'e', 'cex',
+                            'klic.bin',
+                            config,
+                            subdir + '/USRDIR/' + _c, _c,
+                            '2P0001-PS2U10000_00-0000111122223333'],
+                           check=True)
+
+        # Create ISO.BIN.EDAT:
+        print('Copy %s into %s' % (f, subdir + '/USRDIR/game.iso'))
+        try:
+            os.remove(subdir + '/USRDIR/game.iso')
+        except:
+            True
+        shutil.copyfile(f, subdir + '/USRDIR/game.iso')
+
+        # Create a LIMG sector if we need one
+        create_limg_sector(subdir + '/USRDIR/game.iso')
+
+        print('Creating ISO.BIN.ENC')
+        subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
+                        'e', 'cex',
+                        'klic.bin',
+                        subdir + '/USRDIR/game.iso',
+                        subdir + '/USRDIR/' + _ibe, _ibe,
+                        '2P0001-PS2U10000_00-0000111122223333'],
+                       check=True)
+        
+        os.remove(subdir + '/USRDIR/game.iso')
 
     # Create memory card images
     os.mkdir(subdir + '/USRDIR/SAVEDATA')
