@@ -27,8 +27,8 @@ from riff import copy_riff, create_riff, parse_riff
 
 have_pytube = False
 try:
-    from pytube import YouTube
-    from pytube.contrib.search import Search
+    from pytubefix import YouTube
+    from pytubefix.contrib.search import Search
     have_pytube = True
 except:
     print('PYTUBE not found. Can not download audio from youtube')

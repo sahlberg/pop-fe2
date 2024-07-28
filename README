@@ -53,12 +53,7 @@ $ sudo dnf install libsndfile-devel
 $ sudo dnf install ffmpeg
 $ sudo dnf install git
 $ pip3 install pycdlib  (or pip3 install pycdio)
-$ pip3 install git+https://github.com/nficano/pytube
-
-# PYTUBE MAY NEED THIS PATCH:
-# https://stackoverflow.com/questions/78727767/regexmatcherror-get-throttling-function-name-could-not-find-match-for-multiple
-#
-
+$ pip3 install pytubefix
 $ cd ps2classic/ps2classic-ps2classic/
 $ make
 $ cd ../..
