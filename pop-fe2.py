@@ -984,7 +984,7 @@ def get_config(gameid):
     config = _get_config(gameid, 'SOFT')
     if config:
         return config
-    return none
+    return None
 
 
 if __name__ == "__main__":
