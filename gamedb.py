@@ -63,54 +63,54 @@ games = {
         'pic1': 'https://images.launchbox-app.com/c1530bb2-459d-4c43-9cc1-93cb57fa4736.jpg',
         'snd0': 'https://www.youtube.com/watch?v=eCiEtv4qqsc&list=PLh9hcS0tfUw0aadEWKl26XeL8IrDyTVoB&index=59',
     },
-    #'SLUS20265': {
-    #    'id': 'SLUS20265',
-    #    'title': '007 - AGENT UNDER FIRE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20751': {
-    #    'id': 'SLUS20751',
-    #    'title': '007 - EVERYTHING OR NOTHING',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21282': {
-    #    'id': 'SLUS21282',
-    #    'title': '007 - FROM RUSSIA WITH LOVE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21064': {
-    #    'id': 'SLUS21064',
-    #    'title': '007 - GOLDENEYE - ROGUE AGENT',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20579': {
-    #    'id': 'SLUS20579',
-    #    'title': '007 - NIGHTFIRE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21813': {
-    #    'id': 'SLUS21813',
-    #    'title': '007 - QUANTUM OF SOLACE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20265': {
+        'id': 'SLUS20265',
+        'title': '007 - AGENT UNDER FIRE',
+        'icon0': 'https://images.launchbox-app.com/d964c938-e3b7-4436-8cb5-c76ebc4aea58.jpg',
+        'pic0': 'https://images.launchbox-app.com/931320a6-26e2-4787-a65c-becce3aecc43.png',
+        'pic1': 'https://images.launchbox-app.com/49fa229f-064c-4403-ad2d-f5fd5f62e712.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Tv0HcoVZlz4&list=PLA_6nw_SiTT0eFOx2r6T7UbdsptGH8weS&index=84',
+    },
+    'SLUS20751': {
+        'id': 'SLUS20751',
+        'title': '007 - EVERYTHING OR NOTHING',
+        'icon0': 'https://images.launchbox-app.com/4783ada9-ee1d-4fe0-8238-bb057ac52efd.jpg',
+        'pic0': 'https://images.launchbox-app.com/ccceb2d4-3794-487e-9aec-51c037b0d251.png',
+        'pic1': 'https://images.launchbox-app.com/3ccfbf77-f021-4219-ae70-2c7b8e59479a.png',
+        'snd0': 'https://www.youtube.com/watch?v=BvlMcrRniCg&list=PLAP1EKQHVw8EL5N8UXqh7h95bQVYMh1OT&index=1',
+    },
+    'SLUS21282': {
+        'id': 'SLUS21282',
+        'title': '007 - FROM RUSSIA WITH LOVE',
+        'icon0': 'https://images.launchbox-app.com/683cab51-290f-49b1-8750-02b38b4e12e9.jpg',
+        'pic0': 'https://images.launchbox-app.com/03328238-529d-425c-a4a7-169c39ef34ef.png',
+        'pic1': 'https://images.launchbox-app.com/09bf2f15-2d63-47e9-bcea-f68041058830.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=-ySthzsUZQg&list=PLA_6nw_SiTT0uMw6PAWsL2CyqecvubbJl&index=1',
+    },
+    'SLUS21064': {
+        'id': 'SLUS21064',
+        'title': '007 - GOLDENEYE - ROGUE AGENT',
+        'icon0': 'https://images.launchbox-app.com/ea230513-aad4-44cf-bfe2-e9e490ad09b6.jpg',
+        'pic0': 'https://images.launchbox-app.com/82578dcc-8607-4f3f-973c-682458bb7186.png',
+        'pic1': 'https://images.launchbox-app.com/0086daf6-fd61-48bb-b0c3-2f129acf53b9.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=5hXqSrCjcz0&list=PLqvhdas1sD1IK-wyAjiorTbux3iNNld0V',
+    },
+    'SLUS20579': {
+        'id': 'SLUS20579',
+        'title': '007 - NIGHTFIRE',
+        'icon0': 'https://images.launchbox-app.com/ae849d4a-487f-4564-8cb7-6055ea62ef53.jpg',
+        'pic0': 'https://images.launchbox-app.com/93ffe098-aada-44af-9759-1cddc797357e.png',
+        'pic1': 'https://images.launchbox-app.com/fa16a7bd-b9b4-4937-90c5-f56bbf5b68af.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Y_3CIzvqEFc&list=PLAP1EKQHVw8HNjPYvF19_RHJgrysn7SKw&index=3',
+    },
+    'SLUS21813': {
+        'id': 'SLUS21813',
+        'title': '007 - QUANTUM OF SOLACE',
+        'icon0': 'https://images.launchbox-app.com/19f0f9ac-6969-41b2-8faf-4423fbd2b855.jpg',
+        'pic0': 'https://images.launchbox-app.com/a94cab5a-d8c4-4d01-a7a7-3a0522decbec.png',
+        'pic1': 'https://images.launchbox-app.com/3a6f63ad-869c-484e-9b45-f13af1d36fff.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Iv00P5gMYmY&list=PLqcGvP7TBm_kcYZKQcbGwY4A3mUK1jhvD&index=2',
+    },
     #'SLUS20091': {
     #    'id': 'SLUS20091',
     #    'title': '4x4 Evolution',
