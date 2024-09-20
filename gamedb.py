@@ -4967,6 +4967,14 @@ games = {
         'pic1': 'https://images.launchbox-app.com/9d54df1b-7e6b-4c59-9235-db5ee6786197.jpg',
         'snd0': 'https://www.youtube.com/watch?v=6aK_H-64IfA&list=PL_9Tt48wI1KbjnaZS_0H3x9Msk-8TNK66&index=1',
     },
+    'SCES51719': {
+        'id': 'SCES51719',
+        'title': 'Gran Turismo 4',
+        'icon0': 'https://images.launchbox-app.com/5654012a-2918-4d54-b075-daf3532155e2.jpg',
+        'pic0': 'https://images.launchbox-app.com/e9a064f7-4e28-49b1-b842-fbad640f384b.png',
+        'pic1': 'https://images.launchbox-app.com/9d54df1b-7e6b-4c59-9235-db5ee6786197.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=6aK_H-64IfA&list=PL_9Tt48wI1KbjnaZS_0H3x9Msk-8TNK66&index=1',
+    },
     'SLUS20630': {
         'id': 'SLUS20630',
         'title': 'Grand Prix Challenge',
@@ -5823,6 +5831,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
+    'SLES54663': {
+        'id': 'SLES54663',
+        'title': 'Jackass - The Game',
+        'icon0': 'https://images.launchbox-app.com/c4986ebe-3d26-4999-b92a-e8d9c89c423a.jpg',
+        'pic0': 'https://images.launchbox-app.com/72407445-97af-4797-b611-dc97568e5575.png',
+        'pic1': 'https://images.launchbox-app.com/cb8e85bc-8638-4f4d-b083-d56467b8558e.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=b_9LKy0SyAc',
+    },
     #'SLUS20309': {
     #    'id': 'SLUS20309',
     #    'title': 'JADE COCOON 2',
@@ -11727,6 +11743,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
+    'SLES51697': {
+        'id': 'SLES51697',
+        'title': 'SSX 3',
+        'icon0': 'https://images.launchbox-app.com/360ae6a9-bca4-4a46-bc31-585fd4d25f7f.jpg',
+        'pic0': 'https://images.launchbox-app.com/48145249-3d39-48ff-b8d5-4c82ce61d0e2.png',
+        'pic1': 'https://images.launchbox-app.com/f70af552-5e16-4e0b-8155-fa76d942c859.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=E4GU9rmkNTY'
+    },
     #'SLUS20326': {
     #    'id': 'SLUS20326',
     #    'title': 'SSX Tricky',
@@ -12423,6 +12447,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
+    'SCES53202': {
+        'id': 'SCES53202',
+        'title': 'Tekken 5',
+        'icon0': 'https://images.launchbox-app.com/022b1705-152d-42e3-808a-c93b946faf8d.jpg',
+        'pic0': 'https://images.launchbox-app.com/34c5a7cf-2c8e-4f76-b240-583bde3739dc.png',
+        'pic1': 'https://images.launchbox-app.com/c8e949a6-1f81-4bb9-96ac-4a4988b83f66.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Yh-iRcYYIG4'
+    },
     #'SLUS20934': {
     #    'id': 'SLUS20934',
     #    'title': 'TEKKEN'S NINA WILLIAMS IN - DEATH BY DEGREES',
@@ -14791,10 +14823,26 @@ games = {
         'pic1': 'https://images.launchbox-app.com/8d4ff8fe-3c0d-4977-b0a3-cbf3e6556961.jpg',
         'snd0': 'https://www.youtube.com/watch?v=lEtkXhAklfI&list=PLU_iZ-e4vsqzpu5vfvc6DyxlzLDmY9pKZ&index=1',
     },
+    'SLES54171': {
+        'id': 'SLES54171',
+        'title': 'YAKUZA',
+        'icon0': 'https://images.launchbox-app.com/601313a8-5bd0-428f-ba9b-6641e0a6dd03.jpg',
+        'pic0': 'https://images.launchbox-app.com/1067c941-cac8-493d-a839-2aa0c0fba2ec.png',
+        'pic1': 'https://images.launchbox-app.com/8d4ff8fe-3c0d-4977-b0a3-cbf3e6556961.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=lEtkXhAklfI&list=PLU_iZ-e4vsqzpu5vfvc6DyxlzLDmY9pKZ&index=1',
+    },
     'SLUS21769': {
         'id': 'SLUS21769',
         'title': 'Yakuza 2',
         'icon0': 'https://images.launchbox-app.com/512222ad-9f81-460e-9a4d-86896b29e191.jpg',
+        'pic0': 'https://images.launchbox-app.com/0a8afa8c-0eab-4e31-a01c-78043baaa79f.png',
+        'pic1': 'https://images.launchbox-app.com/07eebe80-7344-4973-a436-8327dc7ceb71.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=gcoG_zL1r4U&list=PLg10XkQAvVGAhX_qktf20gLzS_WNpDvWn&index=1',
+    },
+    'SLES55242': {
+        'id': 'SLES55242',
+        'title': 'Yakuza 2',
+        'icon0': 'https://images.launchbox-app.com/c7a418d2-b6a8-4c74-9510-e62d60c8c936.jpg',
         'pic0': 'https://images.launchbox-app.com/0a8afa8c-0eab-4e31-a01c-78043baaa79f.png',
         'pic1': 'https://images.launchbox-app.com/07eebe80-7344-4973-a436-8327dc7ceb71.jpg',
         'snd0': 'https://www.youtube.com/watch?v=gcoG_zL1r4U&list=PLg10XkQAvVGAhX_qktf20gLzS_WNpDvWn&index=1',
