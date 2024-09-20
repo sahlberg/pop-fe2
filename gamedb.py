@@ -127,14 +127,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20210': {
-    #    'id': 'SLUS20210',
-    #    'title': '18 WHEELER - AMERICAN PRO TRUCKER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20210': {
+        'id': 'SLUS20210',
+        'title': '18 WHEELER - AMERICAN PRO TRUCKER',
+        'icon0': 'https://images.launchbox-app.com/46f7ca48-046f-4499-8339-7bedea2b8409.jpg',
+        'pic0': 'https://images.launchbox-app.com/5f2141f9-6b20-4fb2-8e15-21d47feeb82b.png',
+        'pic1': 'https://images.launchbox-app.com/fcf43f67-5df7-4042-85a3-b269310c1bd0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=ym82TIiO02A&list=PLn4LsJg-62UYw7Ke6S8NkTwiQrcbcx1jq&index=1',
+    },
     #'SLUS21268': {
     #    'id': 'SLUS21268',
     #    'title': '24 THE GAME',
@@ -143,38 +143,38 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21016': {
-    #    'id': 'SLUS21016',
-    #    'title': '25 TO LIFE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21315': {
-    #    'id': 'SLUS21315',
-    #    'title': '50 CENT BULLETPROOF',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21116': {
-    #    'id': 'SLUS21116',
-    #    'title': '187 - RIDE OR DIE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20404': {
-    #    'id': 'SLUS20404',
-    #    'title': '2002 Fifa World Cup',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21016': {
+        'id': 'SLUS21016',
+        'title': '25 TO LIFE',
+        'icon0': 'https://images.launchbox-app.com/a4dc1034-4e82-4d06-bd64-606321b864c9.jpg',
+        'pic0': 'https://images.launchbox-app.com/1c494fca-0c9f-4a66-80fd-05536629e4dd.png',
+        'pic1': 'https://images.launchbox-app.com/605a8512-9770-4375-8768-6b070adcca55.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=YZ61RGKP4wM&list=PLJBEhpTzkI-JCq_7YvspBffORADK9KCig&index=1',
+    },
+    'SLUS21315': {
+        'id': 'SLUS21315',
+        'title': '50 CENT BULLETPROOF',
+        'icon0': 'https://images.launchbox-app.com/1901885b-f5cd-48c0-9189-3d0487cec947.jpg',
+        'pic0': 'https://images.launchbox-app.com/b7fcc732-3139-4471-8b6a-f518128d8e09.png',
+        'pic1': 'https://images.launchbox-app.com/06be3103-3aff-488e-8635-e870cc9cfb9f.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=iWbUv1QgZ7k&list=PLxNSUfx3is_BFaWNSAEQqjgMLX6AXmRrc&index=1',
+    },
+    'SLUS21116': {
+        'id': 'SLUS21116',
+        'title': '187 - RIDE OR DIE',
+        'icon0': 'https://images.launchbox-app.com/6b08b7bc-949f-4554-9532-3c8dc6546095.jpg',
+        'pic0': 'https://images.launchbox-app.com/c40605cc-f070-4f24-910f-ec533e338b54.png',
+        'pic1': 'https://images.launchbox-app.com/6bdbee44-0e22-43bc-a530-c2c42602d450.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=o6PK38YXAOE&list=PLPkINIxiy2iS-JBeGIvGbB3Lm1QxF7cRP&index=2',
+    },
+    'SLUS20404': {
+        'id': 'SLUS20404',
+        'title': '2002 Fifa World Cup',
+        'icon0': 'https://images.launchbox-app.com/f413b6d0-788f-4307-9e80-a33837b7f195.jpg',
+        'pic0': 'https://images.launchbox-app.com/e40c4224-7887-4198-96a3-bc3d9652c4c1.png',
+        'pic1': 'https://images.launchbox-app.com/a3852f69-c167-4712-bfa9-73fe6496c486.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=R3kf6U5SVM0',
+    },
     #'SLUS20152': {
     #    'id': 'SLUS20152',
     #    'title': 'ACE COMBAT - SHATTERED SKIES',
