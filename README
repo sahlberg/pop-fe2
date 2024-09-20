@@ -10,6 +10,15 @@ uncommented in gamedb.py.
 TODO:
 add VMC support
 
+IMPORTANT
+=========
+MAKE_NPDATA does not build on current Linux.
+A patch for this is available at
+https://github.com/Sorvigolova/make_npdata/pull/1 
+but has not yet been  merged.
+Use this repo for the time being:
+https://github.com/masible/make_npdata/tree/wip/hadess/modern-linux
+
 
 Usage
 =====
