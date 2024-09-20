@@ -2391,14 +2391,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21004': {
-    #    'id': 'SLUS21004',
-    #    'title': 'DEF JAM - FIGHT FOR NY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21004': {
+        'id': 'SLUS21004',
+        'title': 'DEF JAM - FIGHT FOR NY',
+        'icon0': "https://images.launchbox-app.com/093aedcd-bc6c-4670-86dc-85a81f56af83.jpg",
+        'pic0': "https://images.launchbox-app.com/2d72e2f0-79b6-43b8-858b-6865c0cf56fa.png",
+        'pic1': "https://images.launchbox-app.com/2f34b1d7-a5ff-462c-9dff-027a45a709f9.jpg",
+        'snd0': "https://www.youtube.com/watch?v=6JEts9Em5-A"
+    },
     #'SLUS20639': {
     #    'id': 'SLUS20639',
     #    'title': 'DEF JAM VENDETTA',
