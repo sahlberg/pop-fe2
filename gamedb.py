@@ -13391,14 +13391,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20090': {
-    #    'id': 'SLUS20090',
-    #    'title': 'TIMESPLITTERS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20090': {
+        'id': 'SLUS20090',
+        'title': 'TIMESPLITTERS',
+        'icon0': 'https://images.launchbox-app.com/1be69cf0-8276-4fe1-9af3-4c582f830c85.jpg',
+        'pic0': 'https://images.launchbox-app.com/f13465dc-1bc1-4096-a795-8e4ebda8af59.png',
+        'pic1': 'https://images.launchbox-app.com/6f24f207-61e6-41c7-bc28-e4c5ba9045f1.png',
+        'snd0': 'https://www.youtube.com/watch?v=MoQ1qC4qafg&list=PL8B1A1FD08297B642&index=1',
+    },
     #'SLUS20314': {
     #    'id': 'SLUS20314',
     #    'title': 'TIMESPLITTERS 2',

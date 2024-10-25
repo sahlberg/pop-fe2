@@ -22,6 +22,7 @@ import shutil
 import struct
 import subprocess
 
+from bchunk import bchunk
 from gamedb import games
 from riff import copy_riff, create_riff, parse_riff
 
@@ -1005,12 +1006,11 @@ if __name__ == "__main__":
     shutil.rmtree('pop-fe2-work', ignore_errors=True)
     os.mkdir('pop-fe2-work')
 
-    # Check if it is a valid ISO
-    size = os.stat(args.file).st_size
-    print('Checking ISO file size:', size) if verbose else None
-    if size % 16384:
-        print('Not a valid ISO. File size is not multiple of 16kb')
-        os.exit(1)
+    if args.file[-4:].lower() == '.cue':
+        bc = bchunk()
+        bc.open(args.file)
+        bc.writetrack(1, 'pop-fe2-work/ISO01.iso')
+        args.file = 'pop-fe2-work/ISO01.iso'
 
     gameid = get_gameid_from_iso(args.file)
     if not gameid:
