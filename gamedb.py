@@ -3255,22 +3255,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21271': {
-    #    'id': 'SLUS21271',
-    #    'title': 'Driver - Parallel Lines',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21399': {
-    #    'id': 'SLUS21399',
-    #    'title': 'Driver - Parallel Lines (Limited Edition)',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21271': {
+        'id': 'SLUS21271',
+        'title': 'Driver - Parallel Lines',
+        'icon0': 'https://images.launchbox-app.com/a0fe636c-a256-492e-abd4-834f900e8cbd.jpg',
+        'pic0': 'https://images.launchbox-app.com/47decda5-0100-4770-8d4b-b4e47d929560.png',
+        'pic1': 'https://images.launchbox-app.com/ebf8d877-57c1-4f50-8f4b-1ac44f32a161.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=CVZKzpxHrSg&list=PL2B8880CC2EFA5D58&index=1',
+    },
+    'SLUS21399': {
+        'id': 'SLUS21399',
+        'title': 'Driver - Parallel Lines (Limited Edition)',
+        'icon0': 'https://images.launchbox-app.com/a0fe636c-a256-492e-abd4-834f900e8cbd.jpg',
+        'pic0': 'https://images.launchbox-app.com/47decda5-0100-4770-8d4b-b4e47d929560.png',
+        'pic1': 'https://images.launchbox-app.com/ebf8d877-57c1-4f50-8f4b-1ac44f32a161.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=CVZKzpxHrSg&list=PL2B8880CC2EFA5D58&index=1',
+    },
     #'SLUS20587': {
     #    'id': 'SLUS20587',
     #    'title': 'Driver 3',
@@ -4575,14 +4575,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20888': {
-    #    'id': 'SLUS20888',
-    #    'title': 'FRONT MISSION 4',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20888': {
+        'id': 'SLUS20888',
+        'title': 'FRONT MISSION 4',
+        'icon0': 'https://images.launchbox-app.com/eb65dc4b-5f67-4301-a478-bbdca15d7b3e.jpg',
+        'pic0': 'https://images.launchbox-app.com/64f50dc3-f972-499b-80b9-2ebc20a9457e.png',
+        'pic1': 'https://images.launchbox-app.com/1cb28458-8000-4eff-8785-c3fb3e7cb36a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=m4hemzlB6DY&list=PLuuldF8FtBTT90i_nlDSOwvFgVqRxvW11&index=1',
+    },
     #'SLUS20464': {
     #    'id': 'SLUS20464',
     #    'title': 'Fugitive Hunter - War on Terror',
