@@ -4607,22 +4607,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20994': {
-    #    'id': 'SLUS20994',
-    #    'title': 'FULLMETAL ALCHEMIST AND THE BROKEN ANGEL',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21166': {
-    #    'id': 'SLUS21166',
-    #    'title': 'FULLMETAL ALCHEMIST 2 - CURSE OF THE CRIMSON ELIXIR',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20994': {
+        'id': 'SLUS20994',
+        'title': 'FULLMETAL ALCHEMIST AND THE BROKEN ANGEL',
+        'icon0': 'https://images.launchbox-app.com/d6d4c74a-1eb2-4bad-82a9-e4636cb4872c.jpg',
+        'pic0': 'https://images.launchbox-app.com/5d7c9e94-9a69-4b52-9fd3-01c6122805c8.png',
+        'pic1': 'https://images.launchbox-app.com/dcf6c2a2-8b0d-44f8-a8ec-8c2e688b0cd7.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=MzfzQgKoZFs&list=PL2LI9Q2_aQ2IYEYZ4jiVEHkR0GE8rA2zs&index=1',
+    },
+    'SLUS21166': {
+        'id': 'SLUS21166',
+        'title': 'FULLMETAL ALCHEMIST 2 - CURSE OF THE CRIMSON ELIXIR',
+        'icon0': 'https://images.launchbox-app.com/029a2faa-9f3f-4258-8660-11c953c60d6d.jpg',
+        'pic0': 'https://images.launchbox-app.com/02d003da-0e61-4654-97bd-dc9872b72096.png',
+        'pic1': 'https://images.launchbox-app.com/d1f11583-9d82-46b8-83cc-d3eb2c745439.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=InAqMnmwMmM&list=PLnZc6WBQn4V87ibQbGA7CS9DGQuGzkiv0&index=2',
+    },
     #'SLUS20088': {
     #    'id': 'SLUS20088',
     #    'title': 'FUR FIGHTERS - VIGGO'S REVENGE',
