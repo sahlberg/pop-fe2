@@ -463,30 +463,30 @@ games = {
         'pic1': 'https://images.launchbox-app.com/d8bc7715-80f2-4981-8f3a-328cb35d6bf6.jpg',
         'snd0': 'https://www.youtube.com/watch?v=kbTZtCGVHas&list=PLdZj77TevUQ-HelFPLMk8CS2ba3sLuY6U&index=5',
     },
-    #'SLUS21165': {
-    #    'id': 'SLUS21165',
-    #    'title': 'Arc the Lad - End of Darkness',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97231': {
-    #    'id': 'SCUS97231',
-    #    'title': 'ARC THE LAD - TWILIGHT OF SPIRITS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21720': {
-    #    'id': 'SLUS21720',
-    #    'title': 'ARCANA HEART',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21165': {
+        'id': 'SLUS21165',
+        'title': 'Arc the Lad - End of Darkness',
+        'icon0': 'https://images.launchbox-app.com/c6ae9c9f-aca0-4055-b74a-560a6b5004ac.jpg',
+        'pic0': 'https://images.launchbox-app.com/d03e3eb4-26ea-40dc-81e6-2da7287907d1.png',
+        'pic1': 'https://www.creativeuncut.com/social/arc-the-lad-end-of-darkness.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=LZVQw09jzF8&list=PLhPt7n-ALrSCkaMuXyYBc8m3PlyQ0nvKU&index=1',
+    },
+    'SCUS97231': {
+        'id': 'SCUS97231',
+        'title': 'ARC THE LAD - TWILIGHT OF SPIRITS',
+        'icon0': 'https://images.launchbox-app.com/0184991d-de3c-4634-bbd4-ab745d6de27c.jpg',
+        'pic0': 'https://images.launchbox-app.com/1cda8c87-c184-4f10-b97d-68187403929a.png',
+        'pic1': 'https://images.launchbox-app.com/8767c4f8-1b45-4aa1-8f39-75752dc2f56d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=LZVQw09jzF8&list=PLF3B5766FB4E8CE29&index=1',
+    },
+    'SLUS21720': {
+        'id': 'SLUS21720',
+        'title': 'ARCANA HEART',
+        'icon0': 'https://images.launchbox-app.com/c084f30f-f1a4-45cf-85d2-611e0853dd25.jpg',
+        'pic0': 'https://images.launchbox-app.com/bf54e81c-e620-4b29-8b0f-57f62c0c0c45.png',
+        'pic1': 'https://images.launchbox-app.com/a23918cc-4648-445b-a014-ec27fc4ebe20.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=5y9m3cai268&list=PLFCND4El7mE4wQJtrWm_I9i3f-Y1pH3k2&index=1',
+    },
     #'SLUS20217': {
     #    'id': 'SLUS20217',
     #    'title': 'ARCTIC THUNDER',
