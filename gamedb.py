@@ -1623,46 +1623,46 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20725': {
-    #    'id': 'SLUS20725',
-    #    'title': 'CALL OF DUTY - FINEST HOUR',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21746': {
-    #    'id': 'SLUS21746',
-    #    'title': 'Call of Duty - World at War - Final Fronts',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21228': {
-    #    'id': 'SLUS21228',
-    #    'title': 'CALL OF DUTY 2 - BIG RED ONE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21318': {
-    #    'id': 'SLUS21318',
-    #    'title': 'CALL OF DUTY 2 - BIG RED ONE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21426': {
-    #    'id': 'SLUS21426',
-    #    'title': 'CALL OF DUTY 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20725': {
+        'id': 'SLUS20725',
+        'title': 'CALL OF DUTY - FINEST HOUR',
+        'icon0': 'https://images.launchbox-app.com/d8561ba5-bd9d-4ce5-8922-be502aae1bf2.jpg',
+        'pic0': 'https://images.launchbox-app.com/af2850da-cf89-4c06-8b90-53014ebcfd77.png',
+        'pic1': 'https://images.launchbox-app.com/9f0970e9-1f40-4bde-bb69-8e42a4b1c2e4.png',
+        'snd0': 'https://www.youtube.com/watch?v=TxqImKW98qE&list=PLm4Rqr5BVZfR9H732HDZyTEfRStONA7_U&index=2',
+    },
+    'SLUS21746': {
+        'id': 'SLUS21746',
+        'title': 'Call of Duty - World at War - Final Fronts',
+        'icon0': 'https://images.launchbox-app.com/b87c449d-9c50-46b3-9814-0243fbb28c86.jpg',
+        'pic0': 'https://images.launchbox-app.com/14bc6d53-faa5-40cd-9ba2-0f93b436b32f.png',
+        'pic1': 'https://images.launchbox-app.com/a4f01d63-077f-407b-9996-55c742feb1cf.png',
+        'snd0': 'https://www.youtube.com/watch?v=7chJ6HQQmYM&list=PLl-vhnGPY7coXIPKefPan4jRofZlt-jIB&index=1',
+    },
+    'SLUS21228': {
+        'id': 'SLUS21228',
+        'title': 'CALL OF DUTY 2 - BIG RED ONE',
+        'icon0': 'https://images.launchbox-app.com/8424495c-816a-4635-8eb1-9e6f50b4002b.jpg',
+        'pic0': 'https://images.launchbox-app.com/6e909a2d-a169-40f1-8e9d-266fbeb39cc0.png',
+        'pic1': 'https://images.launchbox-app.com/f781d0d4-4d13-45d1-9b30-e6f3cd924559.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=yOvqDX4Zpt8&list=PLNsKtTiwb8JFrPkG6L3MU3qnU6yzhGg5p&index=1',
+    },
+    'SLUS21318': {
+        'id': 'SLUS21318',
+        'title': 'CALL OF DUTY 2 - BIG RED ONE',
+        'icon0': 'https://images.launchbox-app.com/8424495c-816a-4635-8eb1-9e6f50b4002b.jpg',
+        'pic0': 'https://images.launchbox-app.com/6e909a2d-a169-40f1-8e9d-266fbeb39cc0.png',
+        'pic1': 'https://images.launchbox-app.com/f781d0d4-4d13-45d1-9b30-e6f3cd924559.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=yOvqDX4Zpt8&list=PLNsKtTiwb8JFrPkG6L3MU3qnU6yzhGg5p&index=1',
+    },
+    'SLUS21426': {
+        'id': 'SLUS21426',
+        'title': 'CALL OF DUTY 3',
+        'icon0': 'https://images.launchbox-app.com/356b041c-8fdc-439f-a8a1-3a64e3b7b339.jpg',
+        'pic0': 'https://images.launchbox-app.com/81d0c109-7af0-40f7-8c64-5fb44e780852.png',
+        'pic1': 'https://images.launchbox-app.com/2bd5e160-cc36-45ec-9ce5-983f8249e1af.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=88bMlnfq17s&list=PLVFu5mCs8PVjx3HgtV1nq9L5YCyEm-Y-A&index=1',
+    },
     #'SLUS21316': {
     #    'id': 'SLUS21316',
     #    'title': 'Capcom Classics Collection Vol.1',
