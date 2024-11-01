@@ -1087,14 +1087,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20763': {
-    #    'id': 'SLUS20763',
-    #    'title': 'Beyond Good and Evil',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20763': {
+        'id': 'SLUS20763',
+        'title': 'Beyond Good and Evil',
+        'icon0': 'https://images.launchbox-app.com/22d76328-116c-4794-a1c2-bd9665897431.jpg',
+        'pic0': 'https://images.launchbox-app.com/a978fd65-2920-4f10-a11e-bc6e01cf0979.png',
+        'pic1': 'https://images.launchbox-app.com/dd0504aa-6203-49f7-a2c6-6b1578131f65.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=tOWHX4f7wUw&list=PLB9C4B4E92DF754C4&index=1',
+    },
     #'SLUS21711': {
     #    'id': 'SLUS21711',
     #    'title': 'Biathlon 2008',
