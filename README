@@ -79,8 +79,11 @@ $ git checkout origin/use-python3
 $ make
 $ cd ../../..
 
-$ git clone https://github.com/Sorvigolova/make_npdata.git
+/* # $ git clone https://github.com/Sorvigolova/make_npdata.git */
+$ git clone https://github.com/masible/make_npdata.git
 $ cd make_npdata/Linux/
+$ git checkout git checkout origin/wip/hadess/modern-linux
+
 $ make
 $ cd ../..
 
