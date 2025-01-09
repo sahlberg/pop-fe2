@@ -988,60 +988,16 @@ def get_config(gameid):
     return None
 
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-v', action='store_true', help='Verbose')
-    parser.add_argument('--ps3-pkg', default='title',
-                    help='Name of the PS3 package to create')
-    parser.add_argument('--output-directory',
-                    help='Where to create the final PKG')
-    parser.add_argument('--snd0',
-                        help='WAV file to inject in PS3 PKG')
-    parser.add_argument('file')
-    args = parser.parse_args()
-
-    if args.v:
-        verbose = True
-
-    shutil.rmtree('pop-fe2-work', ignore_errors=True)
-    os.mkdir('pop-fe2-work')
-
-    if args.file[-4:].lower() == '.cue':
-        bc = bchunk()
-        bc.open(args.file)
-        bc.writetrack(1, 'pop-fe2-work/ISO01.iso')
-        args.file = 'pop-fe2-work/ISO01.iso'
-
-    gameid = get_gameid_from_iso(args.file)
-    if not gameid:
-        print('Could not identify the game')
-        os._exit(1)
-    print('GAMEID:', gameid)
-    print('TITLE:', games[gameid]['title'])
-
-    if args.ps3_pkg == 'title':
-        args.ps3_pkg = games[gameid]['title'] + '.pkg'
-    if args.ps3_pkg == 'gameid':
-        args.ps3_pkg = gameid + '.pkg'
-
+def create_pkg(iso, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'):
     # get config
     config = get_config(gameid)
 
     cid = 'UP0000-%s_00-PS2CLASSICS00000' % gameid
     #cid = '2P0001-PS2U10000_00-0000111122223333'
-    subdir = 'pop-fe2-work/' + cid
+    subdir = subdir + '/' + cid
     os.mkdir(subdir)
     os.mkdir(subdir + '/USRDIR')
 
-    pic0 = get_pic_from_game('pic0', gameid, args.file[:-4] + '_pic0.png')
-    pic0 = pic0.resize((1000, 560), Image.Resampling.NEAREST)
-    pic0.save(subdir + '/PIC0.PNG', 'PNG')
-
-    pic1 = get_pic_from_game('pic1', gameid, args.file[:-4] + '_pic1.png')
-    pic1 = pic1.resize((1920, 1080), Image.Resampling.NEAREST)
-    pic1.save(subdir + '/PIC1.PNG', 'PNG')
-    
-    icon0 = get_pic_from_game('icon0', gameid, args.file[:-4] + '_icon0.png')
     icon0 = icon0.resize((124, 176), Image.Resampling.NEAREST)
     i = Image.new(icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
     i.putalpha(0)
@@ -1049,16 +1005,12 @@ if __name__ == "__main__":
     i.paste(icon0, ns)
     icon0 = i
     icon0.save(subdir + '/ICON0.PNG', 'PNG')
-
     
-    snd0 = args.snd0
-    try:
-        os.stat(args.files[0][:-4] + '.snd0')
-        snd0 = args.files[0][:-4] + '.snd0'
-    except:
-        True
-    if not snd0:
-        snd0 = get_snd0_from_link(games[gameid]['snd0'], subdir)
+    pic0 = pic0.resize((1000, 560), Image.Resampling.NEAREST)
+    pic0.save(subdir + '/PIC0.PNG', 'PNG')
+
+    pic1 = pic1.resize((1920, 1080), Image.Resampling.NEAREST)
+    pic1.save(subdir + '/PIC1.PNG', 'PNG')
 
     # Check if it is already in ATRAC3 format
     with open(snd0, 'rb') as s:
@@ -1113,12 +1065,12 @@ if __name__ == "__main__":
                        check=True)
 
     # Create ISO.BIN.EDAT:
-    print('Copy %s into %s' % (args.file, subdir + '/USRDIR/game.iso'))
+    print('Copy %s into %s' % (iso, subdir + '/USRDIR/game.iso'))
     try:
         os.remove(subdir + '/USRDIR/game.iso')
     except:
         True
-    shutil.copyfile(args.file, subdir + '/USRDIR/game.iso')
+    shutil.copyfile(iso, subdir + '/USRDIR/game.iso')
 
     # Create a LIMG sector if we need one
     create_limg_sector(subdir + '/USRDIR/game.iso')
@@ -1160,11 +1112,66 @@ if __name__ == "__main__":
                    check=True)
 
     # create PKG
-    if args.output_directory:
-        args.ps3_pkg = args.output_directory + '/' + args.ps3_pkg
-
-    print('Creating PKG "%s"' % args.ps3_pkg)
+    print('Creating PKG "%s"' % pkg)
     subprocess.run(['./PSL1GHT/tools/ps3py/pkg.py', '-c', cid,
-                    subdir, args.ps3_pkg], check=True)
+                    subdir, pkg], check=True)
 
     
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-v', action='store_true', help='Verbose')
+    parser.add_argument('--ps3-pkg', default='title',
+                    help='Name of the PS3 package to create')
+    parser.add_argument('--output-directory',
+                    help='Where to create the final PKG')
+    parser.add_argument('--snd0',
+                        help='WAV file to inject in PS3 PKG')
+    parser.add_argument('file')
+    args = parser.parse_args()
+
+    if args.v:
+        verbose = True
+
+    shutil.rmtree('pop-fe2-work', ignore_errors=True)
+    os.mkdir('pop-fe2-work')
+    subdir = 'pop-fe2-work'
+
+    if args.file[-4:].lower() == '.cue':
+        bc = bchunk()
+        bc.open(args.file)
+        bc.writetrack(1, 'pop-fe2-work/ISO01.iso')
+        args.file = 'pop-fe2-work/ISO01.iso'
+
+    gameid = get_gameid_from_iso(args.file)
+    if not gameid:
+        print('Could not identify the game')
+        os._exit(1)
+    print('GAMEID:', gameid)
+    print('TITLE:', games[gameid]['title'])
+
+    if args.ps3_pkg == 'title':
+        args.ps3_pkg = games[gameid]['title'] + '.pkg'
+    if args.ps3_pkg == 'gameid':
+        args.ps3_pkg = gameid + '.pkg'
+
+    pic0 = get_pic_from_game('pic0', gameid, args.file[:-4] + '_pic0.png')
+
+    pic1 = get_pic_from_game('pic1', gameid, args.file[:-4] + '_pic1.png')
+    
+    icon0 = get_pic_from_game('icon0', gameid, args.file[:-4] + '_icon0.png')
+
+    
+    snd0 = args.snd0
+    try:
+        os.stat(args.file[:-4] + '.snd0')
+        snd0 = args.file[:-4] + '.snd0'
+    except:
+        True
+    if not snd0:
+        snd0 = get_snd0_from_link(games[gameid]['snd0'], subdir)
+
+    if args.output_directory:
+        args.ps3_pkg = args.output_directory + '/' + args.ps3_pkg
+        
+    create_pkg(args.file, gameid, icon0, pic0, pic1, snd0, args.ps3_pkg, subdir)
