@@ -1,0 +1,93 @@
+name: Python package
+
+on: [push, pull_request]
+
+jobs:
+  build-windows:
+    name: Windows build
+    runs-on: windows-2022
+
+    strategy:
+      matrix:
+        python-version: ["3.9"]
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v2
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install required Python packages
+        run:   |
+          pip install pillow
+          pip install pycryptodome
+          pip install requests
+          pip install pycdlib
+          pip install ecdsa
+          pip install pyinstaller
+          pip install pygubu
+          pip install tkinterDnD2
+          pip install pytubefix
+      - name: Clone make_npdata
+        run:   |
+          git clone https://github.com/sahlberg/make_npdata.git
+      - name: Install ATRACDENC
+        run:   |
+          Invoke-WebRequest -OutFile atracdenc-x86_0.1.1.zip https://github.com/dcherednik/atracdenc/releases/download/0.1.1/atracdenc-win-x86_0.1.1.zip
+          unzip -j atracdenc-x86_0.1.1 -x README.TXT
+      - name: Build PSL1GHT
+        run:   |
+          git clone http://github.com/sahlberg/PSL1GHT
+          cd PSL1GHT/tools/ps3py
+          git checkout origin/use-python3
+          make
+          cd ../../..
+          pyinstaller PSL1GHT/tools/ps3py/pkg.py
+      - name: Install FFMPEG
+        run:   |
+          Invoke-WebRequest -OutFile ffmpeg-release-essentials.zip https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
+          unzip -j ffmpeg-release-essentials.zip -x */doc/* -x */presets/* -x */README.txt -x */LICENSE -x */bin/ffplay.exe -x */bin/ffprobe.exe
+      - name: Build pop-fe2
+        run:   |
+          pyinstaller pop-fe2.py
+      - name: Build pop-fe2-ps3
+        run:   |
+          cp pop-fe2.py popfe2.py
+          pyinstaller --add-data "pop-fe2-ps3.ui;." pop-fe2-ps3.py --hidden-import pygubu.builder.tkstdwidgets --hidden-import pygubu.builder.ttkstdwidgets --hidden-import pygubu.builder.widgets.pathchooserinput --collect-all tkinterdnd2
+      - name: Update dist/pop-fe2
+        run:   |
+          mkdir dist/pop-fe2/atracdenc
+          mkdir dist/pop-fe2/atracdenc/src
+          cp dist/pkg/pkg.exe dist/pop-fe2/.
+          cp dist/pkg/pkgcrypt*.pyd dist/pop-fe2/.
+          cp atracdenc.exe dist/pop-fe2/atracdenc/src/.
+          mkdir dist/pop-fe2/make_npdata
+          mkdir dist/pop-fe2/make_npdata/Linux
+          cp make_npdata/Linux/make_npdata.exe dist/pop-fe2/make_npdata/Linux/.
+          mkdir dist/pop-fe2/ps2classic
+          mkdir dist/pop-fe2/ps2classic/ps2classic-ps2classic
+          cp ps2classic/ps2classic-ps2classic/ps2classic.exe dist/pop-fe2/ps2classic/ps2classic-ps2classic/.
+          cp ffmpeg.exe dist/pop-fe2/.
+          cp 2P0001-PS2U10000_00-0000111122223333.rap dist/pop-fe2/.
+      - name: Update dist/pop-fe2-ps3
+        run:   |
+          mkdir dist/pop-fe2-ps3/atracdenc
+          mkdir dist/pop-fe2-ps3/atracdenc/src
+          cp atracdenc.exe dist/pop-fe2-ps3/atracdenc/src/.
+          mkdir dist/pop-fe2-ps3/make_npdata
+          mkdir dist/pop-fe2-ps3/make_npdata/Linux
+          cp make_npdata/Linux/make_npdata.exe dist/pop-fe2-ps3/make_npdata/Linux/.
+          mkdir dist/pop-fe2-ps3/ps2classic
+          mkdir dist/pop-fe2-ps3/ps2classic/ps2classic-ps2classic
+          cp ps2classic/ps2classic-ps2classic/ps2classic.exe dist/pop-fe2-ps3/ps2classic/ps2classic-ps2classic/.
+          cp ffmpeg.exe dist/pop-fe2-ps3/.
+          cp 2P0001-PS2U10000_00-0000111122223333.rap dist/pop-fe2-ps3/.
+          cp -r -Force dist/pkg/* dist/pop-fe2-ps3/.
+          cp -r -Force dist/pop-fe2/* dist/pop-fe2-ps3/.
+      - name: Upload pop-fe2-ui artefact
+        uses: actions/upload-artifact@v4
+        with: 
+          name: pop-fe2-ui
+          path: dist/pop-fe2-ps3
