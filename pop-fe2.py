@@ -1113,9 +1113,12 @@ def create_pkg(iso, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work')
 
     # create PKG
     print('Creating PKG "%s"' % pkg)
-    subprocess.run(['./PSL1GHT/tools/ps3py/pkg.py', '-c', cid,
-                    subdir, pkg], check=True)
-
+    if os.name == 'posix':
+        subprocess.run(['./PSL1GHT/tools/ps3py/pkg.py', '-c', cid,
+                        subdir, pkg], check=True)
+    else:
+        subprocess.run(['pkg.exe', '-c', cid,
+                        subdir, pkg], check=True)
     
 
 if __name__ == "__main__":
