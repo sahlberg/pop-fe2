@@ -50,40 +50,16 @@ and writing them all to /path/to/my/pkgs  you can use something like:
 
 $ find /path/to/my/isos | egrep ".iso$" | while read ISO; do ./pop-fe2.py --ps3-pkg=title --output-directory=/path/to/my/pkgs ${ISO}; done
 
-
 Installation
 ============
 
-
-$ sudo dnf install python-is-python3
-$ sudo dnf install pip3
-$ sudo dnf install python3-devel
-$ sudo dnf install libsndfile-devel
-$ sudo dnf install ffmpeg
-$ sudo dnf install git
-$ pip3 install pycdlib  (or pip3 install pycdio)
-$ pip3 install pytubefix
-$ cd ps2classic/ps2classic-ps2classic/
-$ make
-$ cd ../..
-
-$ git clone https://github.com/dcherednik/atracdenc.git
-$ cd atracdenc/src/
-$ cmake .
-$ make
-$ cd ../..
-
-$ git clone http://github.com/sahlberg/PSL1GHT
-$ cd PSL1GHT/tools/ps3py
-$ git checkout origin/use-python3
-$ make
-$ cd ../../..
-
-/* # $ git clone https://github.com/Sorvigolova/make_npdata.git */
-$ git clone https://github.com/masible/make_npdata.git
-$ cd make_npdata/Linux/
-$ git checkout git checkout origin/wip/hadess/modern-linux
-
-$ make
-$ cd ../..
-
+```console
+# Make sure your system has the following packages installed:
+# git python3 libsndfile ffmpeg make cmake
+# Clone all submodules
+git submodule update --init --recursive
+# Build required tools
+make
+# Install python requirements
+pip3 install -r requirements.txt 
+```
