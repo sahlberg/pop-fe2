@@ -1,0 +1,6 @@
+requests
+distutils
+pycdio
+pycdlib
+pillow
+pytubefix
