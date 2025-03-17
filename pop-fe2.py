@@ -1023,9 +1023,15 @@ def create_pkg(iso, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work')
                 snd0 = None
     if snd0:
         print('Creating SND0')
-        subprocess.call(['ffmpeg', '-y', '-i', snd0, '-filter:a', 'atempo=1.00', '-ar', '44100', '-ac', '2', subdir + '/snd0_tmp.wav'], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        subprocess.call(['ffmpeg', '-y', '-i', snd0, '-ar', '48000', '-ac', '2', subdir + '/snd0_tmp.wav'], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         os.remove(snd0)
         snd0 = subdir + '/snd0_tmp.wav'
+        # Patch it back to 44100 to make atracdenc happy, the XMB will play it at 48000 anyway
+        with open(snd0, 'rb+') as ff:
+            _b = bytearray(4)
+            struct.pack_into('<I', _b, 0, 0xac44)
+            ff.seek(0x18)
+            ff.write(_b)
         convert_snd0_to_at3(snd0, subdir + '/SND0.AT3', 299, 2500000, subdir)
         os.remove(snd0)
 
