@@ -10375,14 +10375,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21448': {
-    #    'id': 'SLUS21448',
-    #    'title': 'RULE OF ROSE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21448': {
+        'id': 'SLUS21448',
+        'title': 'RULE OF ROSE',
+        'icon0': 'https://images.launchbox-app.com//f9359214-bfc1-44e2-9910-08ebeabd4dc0.jpg',
+        'pic0': 'https://images.launchbox-app.com//24f6ba6f-c43f-4a34-8c76-2cbee30401da.png',
+        'pic1': 'https://images.launchbox-app.com//b40407ca-5538-47c4-8de1-094793897bc1.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=cxijYc-IvbE&list=PL4UXm8TvjOPJtZ5d0iJg-fsJFOc5fCOhT&index=1',
+    },
     #'SLUS20174': {
     #    'id': 'SLUS20174',
     #    'title': 'Rumble Racing',
