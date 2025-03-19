@@ -176,7 +176,12 @@ class PopFe2Ps3App:
         else:
             Image.Image.paste(p1, p0, box=(148,79))
         i0 = None
-        i0 = self.icon0.resize((int(p1.size[0] * 0.10) , int(p1.size[0] * 0.10)), Image.Resampling.HAMMING)
+        _i = self.icon0.resize((124, 176), Image.Resampling.NEAREST)
+        i = Image.new(self.icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
+        i.putalpha(0)
+        ns = (98, 0)
+        i.paste(_i, ns)
+        i0 = i.resize((int(p1.size[0] * 0.10) , int(p1.size[0] * 0.10)), Image.Resampling.HAMMING)
         if has_transparency(i0):
             Image.Image.paste(p1, i0, box=(100,79), mask=i0)
         else:
@@ -194,22 +199,22 @@ class PopFe2Ps3App:
                 
         print('Fetching ICON0') if verbose else None
         self.icon0 = popfe2.get_pic_from_game('icon0', disc_id, self.iso[:-4] + '_icon0.png')
-        self.icon0 = self.icon0.resize((124, 176), Image.Resampling.NEAREST)
+        _i = self.icon0.resize((124, 176), Image.Resampling.NEAREST)
         i = Image.new(self.icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
         i.putalpha(0)
         ns = (98, 0)
-        i.paste(self.icon0, ns)
-        self.icon0 = i
-            
+        i.paste(_i, ns)
+        #self.icon0 = i
+        
         temp_files.append(self.subdir + 'ICON0.PNG')
-        self.icon0.resize((80,80), Image.Resampling.HAMMING).save(self.subdir + 'ICON0.PNG')
+        i.resize((80,80), Image.Resampling.HAMMING).save(self.subdir + 'ICON0.PNG')
         self.icon0_tk = tk.PhotoImage(file = self.subdir + 'ICON0.PNG')
         c = self.builder.get_object('icon0_canvas', self.master)
         c.create_image(0, 0, image=self.icon0_tk, anchor='nw')
             
         print('Fetching PIC0') if verbose else None
         self.pic0 = popfe2.get_pic_from_game('pic0', disc_id, self.iso[:-4] + '_pic0.png')
-        self.pic0 = self.pic0.resize((1000, 560), Image.Resampling.NEAREST)
+        self.pic0 = self.pic0.resize((1000, 560), Image.Resampling.BICUBIC)
         temp_files.append(self.subdir + 'PIC0.PNG')
         self.pic0.resize((128,80), Image.Resampling.HAMMING).save(self.subdir + 'PIC0.PNG')
         self.pic0_tk = tk.PhotoImage(file = self.subdir + 'PIC0.PNG')
@@ -219,7 +224,7 @@ class PopFe2Ps3App:
         
         print('Fetching PIC1') if verbose else None
         self.pic1 = popfe2.get_pic_from_game('pic1', disc_id, self.iso[:-4] + '_pic1.png')
-        self.pic1 = self.pic1.resize((1920, 1080), Image.Resampling.NEAREST)
+        self.pic1 = self.pic1.resize((1920, 1080), Image.Resampling.BICUBIC)
         temp_files.append(self.subdir + 'PIC1.PNG')
         self.pic1.resize((128,80), Image.Resampling.HAMMING).save(self.subdir + 'PIC1.PNG')
         self.pic1_tk = tk.PhotoImage(file = self.subdir + 'PIC1.PNG')
