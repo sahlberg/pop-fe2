@@ -415,14 +415,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20685': {
-    #    'id': 'SLUS20685',
-    #    'title': 'APE ESCAPE 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20685': {
+       'id': 'SLUS20685',
+       'title': 'APE ESCAPE 2',
+       'icon0': 'https://images.launchbox-app.com/baba4daf-02d7-4a37-8912-9d182205a75f.png',
+       'pic0': 'https://images.launchbox-app.com/a3d22b07-e19e-4592-9f0b-f37426354cc9.png',
+       'pic1': 'https://images.launchbox-app.com/1c5c8370-5dda-46db-be73-a587e88c304f.jpg',
+       'snd0': 'https://www.youtube.com/watch?v=RZpIFX57cnY',
+    },
     #'SCUS97501': {
     #    'id': 'SCUS97501',
     #    'title': 'APE ESCAPE 3',
