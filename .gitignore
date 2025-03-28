@@ -4,3 +4,4 @@
 # ps2classic build
 ps2classic/ps2classic-ps2classic/ps2classic
 ps2classic/ps2classic-ps2classic/*.o
+.DS_Store
