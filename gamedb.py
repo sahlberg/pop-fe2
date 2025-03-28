@@ -9311,14 +9311,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SCUS97167': {
-    #    'id': 'SCUS97167',
-    #    'title': 'PARAPPA THE RAPPER 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SCUS97167': {
+        'id': 'SCUS97167',
+        'title': 'PARAPPA THE RAPPER 2',
+        'icon0': 'https://images.launchbox-app.com//4fb2acfe-f6d5-442c-b8ff-a4689490917e.png',
+        'pic0': 'https://images.launchbox-app.com//4361b828-9246-4aba-836a-e44634f90e53.png',
+        'pic1': 'https://images.launchbox-app.com//2b1a7898-3231-4867-b18f-2af3ce4c116e.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=1orOSFIcyq4',
+    },
     #'SLUS20324': {
     #    'id': 'SLUS20324',
     #    'title': 'PARIS-DAKAR RALLY',
