@@ -423,14 +423,14 @@ games = {
        'pic1': 'https://images.launchbox-app.com/1c5c8370-5dda-46db-be73-a587e88c304f.jpg',
        'snd0': 'https://www.youtube.com/watch?v=RZpIFX57cnY',
     },
-    #'SCUS97501': {
-    #    'id': 'SCUS97501',
-    #    'title': 'APE ESCAPE 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SCUS97501': {
+       'id': 'SCUS97501',
+       'title': 'APE ESCAPE 3',
+       'icon0': 'https://images.launchbox-app.com/fe300bd2-6cc4-4c4c-bf36-4504a8cbdd3f.png',
+       'pic0': 'https://images.launchbox-app.com/b58f10d5-efe1-4d6e-8177-5dad86123549.png',
+       'pic1': 'https://images.launchbox-app.com/0a40b8a8-3d26-4329-819d-d6a17f9c793a.jpg',
+       'snd0': 'https://www.youtube.com/watch?v=ZWyFZ3XunOc',
+    },
     #'SLUS20162': {
     #    'id': 'SLUS20162',
     #    'title': 'AQUA AQUA',
