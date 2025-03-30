@@ -399,14 +399,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20392': {
-    #    'id': 'SLUS20392',
-    #    'title': 'Ant Extreme Racing',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20392': {
+       'id': 'SLUS20392',
+       'title': 'Antz Extreme Racing',
+       'icon0': 'https://images.launchbox-app.com/50db2b97-64d2-4175-b0ac-7be2842cd46e.jpg',
+       'pic0': 'https://images.launchbox-app.com/6e7487bb-9941-4d25-a0f8-4e6c39e307d3.png',
+       'pic1': 'https://images.launchbox-app.com/eff27e58-3667-4fcb-8940-798a9c90944f.jpg',
+       'snd0': https://www.youtube.com/watch?v=iFw-V31MEPY
+    },
     #'SLUS21096': {
     #    'id': 'SLUS21096',
     #    'title': 'APE ESCAPE - PUMPED & PRIMED',
