@@ -998,7 +998,7 @@ def create_pkg(iso, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work')
     os.mkdir(subdir)
     os.mkdir(subdir + '/USRDIR')
 
-    icon0 = icon0.resize((124, 176), Image.Resampling.NEAREST)
+    icon0 = icon0.resize((124, 176), Image.Resampling.LANCZOS)
     i = Image.new(icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
     i.putalpha(0)
     ns = (98, 0)
@@ -1006,10 +1006,10 @@ def create_pkg(iso, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work')
     icon0 = i
     icon0.save(subdir + '/ICON0.PNG', 'PNG')
     
-    pic0 = pic0.resize((1000, 560), Image.Resampling.NEAREST)
+    pic0 = pic0.resize((1000, 560), Image.Resampling.LANCZOS)
     pic0.save(subdir + '/PIC0.PNG', 'PNG')
 
-    pic1 = pic1.resize((1920, 1080), Image.Resampling.NEAREST)
+    pic1 = pic1.resize((1920, 1080), Image.Resampling.LANCZOS)
     pic1.save(subdir + '/PIC1.PNG', 'PNG')
 
     # Check if it is already in ATRAC3 format
