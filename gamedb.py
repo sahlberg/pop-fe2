@@ -452,7 +452,7 @@ games = {
         'title': 'Ar Tonelico',
         'icon0': 'https://images.launchbox-app.com/a5d5b237-2350-4f8d-8992-63477fb179b2.jpg',
         'pic0': 'https://images.launchbox-app.com/c8e9b4b7-e207-47f0-89ee-bfaa2d4b8937.png',
-        'pic1': 'https://images.launchbox-app.com/c55cc2a2-2a59-45a3-b420-25c46ed7729d.jpg',
+        'pic1': 'https://images.launchbox-app.com//864c2e68-c26c-49b6-ab06-5bb27519070a.jpg',
         'snd0': 'https://www.youtube.com/watch?v=eoicX3RPf5Q&list=PLYUmjIUAN03qly6Z1AhqM6CAHvtewKM-J&index=1',
     },
     'SLUS21788': {
