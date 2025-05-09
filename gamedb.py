@@ -175,14 +175,14 @@ games = {
         'pic1': 'https://images.launchbox-app.com/a3852f69-c167-4712-bfa9-73fe6496c486.jpg',
         'snd0': 'https://www.youtube.com/watch?v=R3kf6U5SVM0',
     },
-    #'SLUS20152': {
-    #    'id': 'SLUS20152',
-    #    'title': 'ACE COMBAT - SHATTERED SKIES',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20152': {
+        'id': 'SLUS20152',
+        'title': 'ACE COMBAT - SHATTERED SKIES',
+        'icon0': 'https://images.launchbox-app.com//a2bc9730-5419-4585-8057-6f2e7e1a05f8.jpg',
+        'pic0': 'https://images.launchbox-app.com//b38543f3-fe9a-49ce-8918-6138fd087245.png',
+        'pic1': 'https://images.launchbox-app.com//02b90700-e2d0-4919-b02c-bd11347329cd.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=fsxGOO6BYGU&list=PL23A635021128F21F&index=1',
+    },
     #'SLUS20851': {
     #    'id': 'SLUS20851',
     #    'title': 'ACE COMBAT 5 - THE UNSUNG WAR',
