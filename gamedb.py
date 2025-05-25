@@ -6991,22 +6991,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20230': {
-    #    'id': 'SLUS20230',
-    #    'title': 'MAX PAYNE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20814': {
-    #    'id': 'SLUS20814',
-    #    'title': 'MAX PAYNE 2 - THE FALL OF MAX PAYNE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20230': {
+        'id': 'SLUS20230',
+        'title': 'MAX PAYNE',
+        'icon0': 'https://images.launchbox-app.com//ad703964-fb3b-4088-911e-e27d83773e95.jpg',
+        'pic0': 'https://images.launchbox-app.com//4c680593-f680-4208-98fa-f3d7fe24f98e.png',
+        'pic1': 'https://images.launchbox-app.com//025a6666-8fab-48d4-a754-67fe1ca06ff3.png',
+        'snd0': 'https://www.youtube.com/watch?v=dRCQrwySZAA&list=PLE92A71C8D8BB1FFB&index=1',
+    },
+    'SLUS20814': {
+        'id': 'SLUS20814',
+        'title': 'MAX PAYNE 2 - THE FALL OF MAX PAYNE',
+        'icon0': 'https://images.launchbox-app.com//fd33bb23-6694-41c0-93e2-4d6b9713b1bd.jpg',
+        'pic0': 'https://images.launchbox-app.com//93515e0c-a8fd-4aa7-adee-6b4a48c7b7e5.png',
+        'pic1': 'https://images.launchbox-app.com//2d2d74b4-78fe-41a2-9872-d3391efcad5a.png',
+        'snd0': 'https://www.youtube.com/watch?v=NwcnujxGBhY&list=PL6FC3709FDEFE06B2&index=1',
+    },
     #'SLUS20017': {
     #    'id': 'SLUS20017',
     #    'title': 'MAXIMO - GHOSTS TO GLORY',
