@@ -2055,54 +2055,54 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21728': {
-    #    'id': 'SLUS21728',
-    #    'title': 'Crash - Mind Over Mutant',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20238': {
-    #    'id': 'SLUS20238',
-    #    'title': 'CRASH BANDICOOT - THE WRATH OF CORTEX',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20649': {
-    #    'id': 'SLUS20649',
-    #    'title': 'CRASH NITRO KART',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21583': {
-    #    'id': 'SLUS21583',
-    #    'title': 'CRASH OF THE TITANS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21191': {
-    #    'id': 'SLUS21191',
-    #    'title': 'Crash Tag Team Racing',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20909': {
-    #    'id': 'SLUS20909',
-    #    'title': 'CRASH TWINSANITY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21728': {
+        'id': 'SLUS21728',
+        'title': 'Crash - Mind Over Mutant',
+        'icon0': 'https://images.launchbox-app.com//41a047f3-ebd5-4f2c-8b21-470069fa5854.jpg',
+        'pic0': 'https://images.launchbox-app.com//d30e0f7f-7fbd-47ee-9c6c-4e041b3b05eb.png',
+        'pic1': 'https://www.crashmania.net/images/games/crash-mind-over-mutant/overview/overview-1.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=SzyjsHPUUPs&list=PLO4jlmGoc6uDzJK_uPP6BeYjMf8vH3x3U&index=1',
+    },
+    'SLUS20238': {
+        'id': 'SLUS20238',
+        'title': 'CRASH BANDICOOT - THE WRATH OF CORTEX',
+        'icon0': 'https://images.launchbox-app.com//66bda2be-c671-4da8-b2fa-e6cdeb4be010.jpg',
+        'pic0': 'https://images.launchbox-app.com//a3d38a05-bd6e-46c7-b3d0-80ecb6788657.png',
+        'pic1': 'https://images.launchbox-app.com//5f518482-088f-4e3a-978e-7136b2a139b0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=-f6_p-WyuDo&list=PLBAVkU2_A-jOIVSkIm1XJzxUW3HPuAurf&index=1',
+    },
+    'SLUS20649': {
+        'id': 'SLUS20649',
+        'title': 'CRASH NITRO KART',
+        'icon0': 'https://images.launchbox-app.com//cd2434cb-a423-46f9-a6f1-32700daadc61.jpg',
+        'pic0': 'https://images.launchbox-app.com//71a7b0c9-89d0-47c4-a811-e0367df9bb38.png',
+        'pic1': 'https://images.launchbox-app.com//7a6a50f4-2fcc-4e26-87ef-df22901c04f7.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=dlgm1nJiAis&list=PLMRXjD2VPnwRmUDMpdN8fKHK77s7Un2-s&index=1',
+    },
+    'SLUS21583': {
+        'id': 'SLUS21583',
+        'title': 'CRASH OF THE TITANS',
+        'icon0': 'https://images.launchbox-app.com//265a9008-bfd5-4605-a735-66ac5b6be328.jpg',
+        'pic0': 'https://images.launchbox-app.com//4f4e7679-bf4e-434f-99a8-fdebd7a48f0e.png',
+        'pic1': 'https://images.launchbox-app.com//147d7396-1318-416f-96eb-4b9e576d4acc.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=bl2_nxX3jWk&list=PLqdXQVLs8ag897eYydg08RtNuX3jO3_0M&index=1',
+    },
+    'SLUS21191': {
+        'id': 'SLUS21191',
+        'title': 'Crash Tag Team Racing',
+        'icon0': 'https://images.launchbox-app.com//02951fc4-ba89-4a74-b100-4c15536b387a.jpg',
+        'pic0': 'https://images.launchbox-app.com//cbb6154c-227a-4240-a86c-e1aca9130c4d.png',
+        'pic1': 'https://images.launchbox-app.com//a925be71-7a24-47ea-8d26-f158068fbe99.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=ERxqgDpl0TA&list=PL18y-mZEtF79R-Mmsdv6lxQdtHIEWIDAu&index=1',
+    },
+    'SLUS20909': {
+        'id': 'SLUS20909',
+        'title': 'CRASH TWINSANITY',
+        'icon0': 'https://images.launchbox-app.com//4c7cdbb3-acda-4455-b103-c39ba7f00db2.jpg',
+        'pic0': 'https://images.launchbox-app.com//462e0b1d-67ff-43fd-85bf-f28dfaee0d93.png',
+        'pic1': 'https://images.launchbox-app.com//d8f66636-aa63-4d90-8a5e-96b847230ee5.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=PzbnWihnBK4&list=PLnJrDuh8udCXVSoJdevjbdNWpOPVBQdvQ&index=1',
+    },
     #'SLUS21634': {
     #    'id': 'SLUS21634',
     #    'title': 'Crazy Frog Arcade Racer',
