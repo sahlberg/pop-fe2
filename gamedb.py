@@ -14239,38 +14239,38 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20937': {
-    #    'id': 'SLUS20937',
-    #    'title': 'WILD ARMS - ALTER CODE F',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97203': {
-    #    'id': 'SCUS97203',
-    #    'title': 'WILD ARMS 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21292': {
-    #    'id': 'SLUS21292',
-    #    'title': 'Wild Arms 4',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21615': {
-    #    'id': 'SLUS21615',
-    #    'title': 'Wild Arms 5',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20937': {
+        'id': 'SLUS20937',
+        'title': 'WILD ARMS - ALTER CODE F',
+        'icon0': 'https://images.launchbox-app.com//889c5454-5c95-4313-bd02-d5ebb2bb9678.jpg',
+        'pic0': 'https://images.launchbox-app.com//9566c941-9c31-4127-9c0f-2f3e49577b5a.png',
+        'pic1': 'https://images.launchbox-app.com//114d40f8-37b6-4700-97f8-efa1242c9d37.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=QFUShod65JM&list=PLhPt7n-ALrSDEmz3Fu12SfWQXPzlXUAL6&index=1',
+    },
+    'SCUS97203': {
+        'id': 'SCUS97203',
+        'title': 'WILD ARMS 3',
+        'icon0': 'https://images.launchbox-app.com//e2b43086-a473-4c7a-bb84-9ccd4ed7cb51.jpg',
+        'pic0': 'https://images.launchbox-app.com//ca2fa3a7-31f0-4761-a1b4-1295d4d5e631.png',
+        'pic1': 'https://images.launchbox-app.com//4f5b5b8f-794e-47df-8d96-94cf202c5c15.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=UNVQK3tuqsc&list=PL0SE-2dwrmrpQgLM4ZuPTTuEhf_k4WzeC&index=1',
+    },
+    'SLUS21292': {
+        'id': 'SLUS21292',
+        'title': 'Wild Arms 4',
+        'icon0': 'https://images.launchbox-app.com//aab7e5d5-7ead-453e-96e2-fee1df21dcac.jpg',
+        'pic0': 'https://images.launchbox-app.com//b651fff9-83c0-42bf-b13a-fe29c1352f2e.png',
+        'pic1': 'https://images.launchbox-app.com//4da909f0-cabe-49b4-b02a-654998836c03.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=VUlFvqje7qc&list=PLhPt7n-ALrSDqWrggZFXsMmfjIJ8FND_C&index=1',
+    },
+    'SLUS21615': {
+        'id': 'SLUS21615',
+        'title': 'Wild Arms 5',
+        'icon0': 'https://images.launchbox-app.com//0f2f3f7c-5e0f-4496-a3a8-67d6da666036.jpg',
+        'pic0': 'https://images.launchbox-app.com//f7b39617-b749-412b-942f-97cbe8b2c59d.png',
+        'pic1': 'https://images.launchbox-app.com//527c1e59-ac16-417f-8904-6e8e0b944083.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=ZUe371wt7Ac&list=PLjyLjyXJQJUMZV9uuXQLw_f_BE-UOPL2M&index=1',
+    },
     #'SLUS20108': {
     #    'id': 'SLUS20108',
     #    'title': 'Wild Wild Racing',
