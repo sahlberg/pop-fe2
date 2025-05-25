@@ -6879,22 +6879,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21735': {
-    #    'id': 'SLUS21735',
-    #    'title': 'Mana Khemia - Alchemists of Al-Revis',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21890': {
-    #    'id': 'SLUS21890',
-    #    'title': 'Mana Khemia 2 - Fall of Alchemy',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21735': {
+        'id': 'SLUS21735',
+        'title': 'Mana Khemia - Alchemists of Al-Revis',
+        'icon0': 'https://images.launchbox-app.com//b663bda0-e23a-4344-8119-eb8db32f77d9.jpg',
+        'pic0': 'https://images.launchbox-app.com//2323603d-224d-41ba-8b51-c69a36514213.png',
+        'pic1': 'https://images.launchbox-app.com//fe45c857-2c7b-4b3d-8298-84b397e0ec0a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Xitp7CiFMHw&list=PL00BBA2AFD33AA933&index=1',
+    },
+    'SLUS21890': {
+        'id': 'SLUS21890',
+        'title': 'Mana Khemia 2 - Fall of Alchemy',
+        'icon0': 'https://images.launchbox-app.com//b11f73a7-f5bd-4c4d-8d0f-bd8a5cdce028.jpg',
+        'pic0': 'https://images.launchbox-app.com//73adec09-0236-472e-af01-d138cba0d3e5.png',
+        'pic1': 'https://images.launchbox-app.com//23d86061-d789-4a87-9d76-cee630dec7ad.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=LZx0eyeT4BM&list=PLEUMLboERIGcz0XYETsaCSwaE3uWiKs58&index=1',
+    },
     'SLUS20827': {
         'id': 'SLUS20827',
         'title': 'MANHUNT',
@@ -10031,14 +10031,14 @@ games = {
         'pic1': 'https://images.launchbox-app.com/29040f35-0540-4998-8196-64ac72191507.jpg',
         'snd0': 'https://www.youtube.com/watch?v=hNQ7Li2vfis&list=PLAs1Kha_R9dIvc0eE-BYV765HqlUTLni6&index=1',
     },
-    #'SLUS20297': {
-    #    'id': 'SLUS20297',
-    #    'title': 'RETURN TO CASTLE WOLFENSTEIN - OPERATION RESURRECTION',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20297': {
+        'id': 'SLUS20297',
+        'title': 'RETURN TO CASTLE WOLFENSTEIN - OPERATION RESURRECTION',
+        'icon0': 'https://images.launchbox-app.com//de2387c4-484c-4579-95d3-046332ae547d.jpg',
+        'pic0': 'https://images.launchbox-app.com//39946f4f-b827-4853-9b03-5e5a652633b8.png',
+        'pic1': 'https://images.launchbox-app.com//ec533215-449d-4f0d-a1b5-8a7fe4fb2934.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=-wj357iAcFw&list=PLmYc9gG3yj8TcGenNQ_j-4ICy58ixohLn&index=1',
+    },
     #'SLUS20344': {
     #    'id': 'SLUS20344',
     #    'title': 'Rez',
@@ -10063,14 +10063,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20002': {
-    #    'id': 'SLUS20002',
-    #    'title': 'Ridge Racer V',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20002': {
+        'id': 'SLUS20002',
+        'title': 'Ridge Racer V',
+        'icon0': 'https://images.launchbox-app.com//687d3a9f-5b44-4fda-ba3c-934a0ef963f8.jpg',
+        'pic0': 'https://images.launchbox-app.com//589e7408-4b27-4b32-9df5-3f6f42d55de6.png',
+        'pic1': 'https://images.launchbox-app.com//8784999b-d8c8-4a8a-8a88-42be8dfa7649.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=dgW3TvN-wDY&list=PLADyQGMt3MyCPzMH8eJEcd4iaGA6STaMq&index=2',
+    },
     #'SLUS20429': {
     #    'id': 'SLUS20429',
     #    'title': 'Riding Spirits',
@@ -14941,7 +14941,7 @@ games = {
         'icon0': 'https://images.launchbox-app.com//5365ed5f-548e-4012-bce4-38649d78ffec.jpg',
         'pic0': 'https://images.launchbox-app.com//d06cef4d-42ef-4f96-9f62-70e543f25315.png',
         'pic1': 'https://images.launchbox-app.com//ea193528-d383-4f92-9ed4-e6af09fe9820.jpg',
-        'snd0': 'https://www.youtube.com/watch?v=HlmoDCeu4bY&list=PL29DA79E9A70534DC&index=1',
+        'snd0': 'https://www.youtube.com/watch?v=j6btnZbA3LU&list=PL29DA79E9A70534DC&index=2',
     },
     'SLUS20545': {
         'id': 'SLUS20545',
