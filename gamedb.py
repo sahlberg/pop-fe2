@@ -14935,20 +14935,20 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20148': {
-    #    'id': 'SLUS20148',
-    #    'title': 'Zone of the Enders',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20545': {
-    #    'id': 'SLUS20545',
-    #    'title': 'Zone of the Enders - The 2nd Runner',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20148': {
+        'id': 'SLUS20148',
+        'title': 'Zone of the Enders',
+        'icon0': 'https://images.launchbox-app.com//5365ed5f-548e-4012-bce4-38649d78ffec.jpg',
+        'pic0': 'https://images.launchbox-app.com//d06cef4d-42ef-4f96-9f62-70e543f25315.png',
+        'pic1': 'https://images.launchbox-app.com//ea193528-d383-4f92-9ed4-e6af09fe9820.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=HlmoDCeu4bY&list=PL29DA79E9A70534DC&index=1',
+    },
+    'SLUS20545': {
+        'id': 'SLUS20545',
+        'title': 'Zone of the Enders - The 2nd Runner',
+        'icon0': 'https://images.launchbox-app.com//79e21892-66d1-4f31-a361-8d5ec0ad3256.jpg',
+        'pic0': 'https://images.launchbox-app.com//118d1b6b-8710-46df-8cdc-2df82e7e943f.png',
+        'pic1': 'https://images.launchbox-app.com//34b83db8-4c01-499a-9b70-ea04b8f56e01.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=vKMBeYKhcFg&list=PL74AE21771638356A&index=1',
+    },
 }
