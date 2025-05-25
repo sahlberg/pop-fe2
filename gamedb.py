@@ -12095,22 +12095,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20074': {
-    #    'id': 'SLUS20074',
-    #    'title': 'SUMMONER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20448': {
-    #    'id': 'SLUS20448',
-    #    'title': 'Summoner 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20074': {
+        'id': 'SLUS20074',
+        'title': 'SUMMONER',
+        'icon0': 'https://images.launchbox-app.com//34778227-e668-4d82-8993-ca18d0f77a64.png',
+        'pic0': None, #'https://images.launchbox-app.com//975584ac-f949-4796-8d4e-34d3afe04453.png',
+        'pic1': 'https://images.launchbox-app.com//a65c8080-3d7b-462c-9c9b-1d3356b91dbc.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=yUc1e7oYNyM&list=PLBE93875B2F47C61F&index=1',
+    },
+    'SLUS20448': {
+        'id': 'SLUS20448',
+        'title': 'Summoner 2',
+        'icon0': 'https://images.launchbox-app.com//41dc1881-d6a1-4225-a74c-7aa2e879b57c.png',
+        'pic0': 'https://images.launchbox-app.com//d860fd7d-3645-4860-a5af-5b913bc7c6e6.png',
+        'pic1': 'https://images.launchbox-app.com//521fa5cc-e90a-43d7-84de-b0c9c3b370e6.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=mdcSJCVIp9E',
+    },
     #'SLUS20208': {
     #    'id': 'SLUS20208',
     #    'title': 'Sunny Garcia Surfing',
