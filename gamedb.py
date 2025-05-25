@@ -10983,14 +10983,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20533': {
-    #    'id': 'SLUS20533',
-    #    'title': 'ShoX',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20533': {
+        'id': 'SLUS20533',
+        'title': 'ShoX',
+        'icon0': 'https://images.launchbox-app.com//63ec39a8-1aed-47d5-b2a9-84969d005d28.png',
+        'pic0':  'https://images.launchbox-app.com//aaa4e3f8-a301-451c-a30d-93b97cc62ef9.png',
+        'pic1':  'https://cdn.mobygames.com/promos/4893863-shox-screenshot.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=uFwFjeN-bes&list=PLMIy-Q9Na5pPK1uJIdnNzuWZZgseMSoGv&index=1',
+    },
     'SLUS21731': {
         'id': 'SLUS21731',
         'title': 'SILENT HILL - ORIGINS',
