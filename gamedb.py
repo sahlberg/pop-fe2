@@ -13183,22 +13183,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20636': {
-    #    'id': 'SLUS20636',
-    #    'title': 'THE SUFFERING',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21189': {
-    #    'id': 'SLUS21189',
-    #    'title': 'The Suffering - Ties That Bind',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20636': {
+        'id': 'SLUS20636',
+        'title': 'THE SUFFERING',
+        'icon0': 'https://images.launchbox-app.com//38afb011-e31f-4695-96c0-83fa65cd9c2d.jpg',
+        'pic0': 'https://images.launchbox-app.com//52d053e3-949b-47ea-b5c2-b943f347c77f.png',
+        'pic1': 'https://images.launchbox-app.com//7901c024-cb87-4e9d-98ab-0a509108ec2b.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=cGXVkvYrxGk&list=PL5959045B453A71C1&index=1',
+    },
+    'SLUS21189': {
+        'id': 'SLUS21189',
+        'title': 'The Suffering - Ties That Bind',
+        'icon0': 'https://images.launchbox-app.com//f379c2a2-4e91-4042-a6ea-b501d06fb554.jpg',
+        'pic0': 'https://images.launchbox-app.com//809deaa4-5552-4930-8f9d-8b33450abe5c.png',
+        'pic1': 'https://images.launchbox-app.com//56ec7d8a-b627-4cab-a028-4d5068515879.png',
+        'snd0': 'https://www.youtube.com/watch?v=ClYfDSTQUNc',
+    },
     #'SLUS21852': {
     #    'id': 'SLUS21852',
     #    'title': 'The Tale of Despereaux',
