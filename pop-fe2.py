@@ -1006,7 +1006,21 @@ def create_pkg(iso, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work')
     icon0 = i
     icon0.save(subdir + '/ICON0.PNG', 'PNG')
     
-    pic0 = pic0.resize((1000, 560), Image.Resampling.LANCZOS)
+    if 'pic0-scaling' in games[gameid]:
+        sc = games[gameid]['pic0-scaling']
+    else:
+        sc = (0.6, 0.6)
+    if 'pic0-offset' in games[gameid]:
+        of = games[gameid]['pic0-offset']
+    else:
+        of = (0.38, 0.38)
+        
+    pic0 = pic0.resize((int(1000 * sc[0]), int(560 * sc[1])), Image.Resampling.LANCZOS)
+    i = Image.new(pic0.mode, (1000, 560), (0,0,0)).convert('RGBA')
+    i.putalpha(0)
+    i.paste(pic0, (int(1000 * of[0]), int(560 * of[1])))
+    pic0 = i
+
     pic0.save(subdir + '/PIC0.PNG', 'PNG')
 
     pic1 = pic1.resize((1920, 1080), Image.Resampling.LANCZOS)

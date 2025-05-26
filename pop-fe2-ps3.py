@@ -214,7 +214,7 @@ class PopFe2Ps3App:
             
         print('Fetching PIC0') if verbose else None
         self.pic0 = popfe2.get_pic_from_game('pic0', disc_id, self.iso[:-4] + '_pic0.png')
-        self.pic0 = self.pic0.resize((1000, 560), Image.Resampling.BICUBIC)
+        self.pic0 = self.pic0.resize((1000, 560), Image.Resampling.LANCZOS)
         temp_files.append(self.subdir + 'PIC0.PNG')
         self.pic0.resize((128,80), Image.Resampling.HAMMING).save(self.subdir + 'PIC0.PNG')
         self.pic0_tk = tk.PhotoImage(file = self.subdir + 'PIC0.PNG')
@@ -224,7 +224,7 @@ class PopFe2Ps3App:
         
         print('Fetching PIC1') if verbose else None
         self.pic1 = popfe2.get_pic_from_game('pic1', disc_id, self.iso[:-4] + '_pic1.png')
-        self.pic1 = self.pic1.resize((1920, 1080), Image.Resampling.BICUBIC)
+        self.pic1 = self.pic1.resize((1920, 1080), Image.Resampling.LANCZOS)
         temp_files.append(self.subdir + 'PIC1.PNG')
         self.pic1.resize((128,80), Image.Resampling.HAMMING).save(self.subdir + 'PIC1.PNG')
         self.pic1_tk = tk.PhotoImage(file = self.subdir + 'PIC1.PNG')
