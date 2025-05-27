@@ -655,22 +655,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20867': {
-    #    'id': 'SLUS20867',
-    #    'title': 'ASTRO BOY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21895': {
-    #    'id': 'SLUS21895',
-    #    'title': 'Astro Boy - The Video Game',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20867': {
+        'id': 'SLUS20867',
+        'title': 'ASTRO BOY',
+        'icon0': 'https://images.launchbox-app.com//88d34812-762f-4646-9854-3622fee87d10.jpg',
+        'pic0': None,
+        'pic1': 'https://images.launchbox-app.com//8a6ef8a0-d9fd-419a-847b-c0d71a174334.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=qwKvMg7izUk&list=PLjNtrGnm_DhjlD9nKFwqAnA2PD-fQ0km5&index=1',
+    },
+    'SLUS21895': {
+        'id': 'SLUS21895',
+        'title': 'Astro Boy - The Video Game',
+        'icon0': 'https://images.launchbox-app.com//af1fa0cf-e21a-4684-8bf2-c6af5dd346bc.jpg',
+        'pic0': None,
+        'pic1': 'https://images.launchbox-app.com//d3a08777-6f4d-490a-85d3-b5c6b82b51ba.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=mbBOwXb4_s4&list=PL_mKYXhySHn9L6V2B39-tqrOVQvVDx3z4&index=1',
+    },
     'SLUS21076': {
     	'id': 'SLUS21076',
 	'title': "Atari Anthology",
@@ -887,14 +887,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20982': {
-    #    'id': 'SLUS20982',
-    #    'title': 'Bad Boys - Miami Takedown',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20982': {
+        'id': 'SLUS20982',
+        'title': 'Bad Boys - Miami Takedown',
+        'icon0': 'https://images.launchbox-app.com//04958126-dc42-4eb8-b00b-7cb5b55d2720.jpg',
+        'pic0': 'https://images.launchbox-app.com//f3d74034-078a-4a65-bede-4feaf771e7f2.png',
+        'pic1': 'https://images.launchbox-app.com//d53b6ffc-5274-460a-8c27-02bce29f9f75.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=64OKEx1S2JM&list=PLxMiBXXAquk9ul2ZcTxCvqc8V0_6hqZ4k&index=1',
+    },
     #'SLUS21902': {
     #    'id': 'SLUS21902',
     #    'title': 'Bakugan Battle Brawlers',
@@ -975,14 +975,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21714': {
-    #    'id': 'SLUS21714',
-    #    'title': 'Baroque',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21714': {
+        'id': 'SLUS21714',
+        'title': 'Baroque',
+        'icon0': 'https://images.launchbox-app.com//89729e4d-c476-42d8-8ce7-663b4182eb9f.jpg',
+        'pic0': 'https://images.launchbox-app.com//ec4629cb-2a2a-4251-a0bf-6868fde72e12.png',
+        'pic1': 'https://images.launchbox-app.com//71c51e3c-e537-4409-a5b4-3c50fd7f9e28.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=jR4cksPWdBU&list=PLMJZ_JgbivJahj0k7R_SzZtDTwBuj9ICJ&index=1',
+    },
     #'SLUS20325': {
     #    'id': 'SLUS20325',
     #    'title': 'Bass Strike',
@@ -991,22 +991,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20709': {
-    #    'id': 'SLUS20709',
-    #    'title': 'Batman - Rise of Sin-Tzu',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21198': {
-    #    'id': 'SLUS21198',
-    #    'title': 'BATMAN BEGINS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20709': {
+        'id': 'SLUS20709',
+        'title': 'Batman - Rise of Sin-Tzu',
+        'icon0': 'https://images.launchbox-app.com//d53aa183-868a-47e3-906d-323e6502b6e7.jpg',
+        'pic0': 'https://images.launchbox-app.com//f3c7782c-7396-421d-99ae-27b74cbb227c.png',
+        'pic1': 'https://images.launchbox-app.com//6bb0f4d0-8910-4176-8aab-aba0289d74db.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=jqANCMcCPXI&list=PL59E287422412D697&index=6',
+    },
+    'SLUS21198': {
+        'id': 'SLUS21198',
+        'title': 'BATMAN BEGINS',
+        'icon0': 'https://images.launchbox-app.com//ff0c9a33-ce4a-47e6-a57a-95c2c3aa3fe1.jpg',
+        'pic0': 'https://images.launchbox-app.com//f7c40c31-5848-4338-a903-b813f3526afb.png',
+        'pic1': 'https://images.launchbox-app.com//24ef07b8-dbb4-4a20-9c12-97c87ec4339c.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=CdN7Bq-kCqg',
+    },
     #'SLUS20226': {
     #    'id': 'SLUS20226',
     #    'title': 'BATMAN VENGEANCE',
@@ -9103,22 +9103,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20777': {
-    #    'id': 'SLUS20777',
-    #    'title': 'OBSCURE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21709': {
-    #    'id': 'SLUS21709',
-    #    'title': 'OBSCURE - THE AFTERMATH',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20777': {
+        'id': 'SLUS20777',
+        'title': 'OBSCURE',
+        'icon0': 'https://images.launchbox-app.com//2dc5f8e0-e5ad-4b5f-a5d0-32e4260939e9.jpg',
+        'pic0': 'https://images.launchbox-app.com//802e53e5-7f0b-4f4e-8ece-fc7e07c5d07a.png',
+        'pic1': 'https://images.launchbox-app.com//5f2769f2-76f2-4dcc-9335-f4b4192c3b9e.png',
+        'snd0': 'https://www.youtube.com/watch?v=UcDN3KQuzAs&list=PL29CB207AB0D65227&index=1',
+    },
+    'SLUS21709': {
+        'id': 'SLUS21709',
+        'title': 'OBSCURE - THE AFTERMATH',
+        'icon0': 'https://images.launchbox-app.com//d36eff34-baaa-42ec-b44b-bb2b226aabeb.jpg',
+        'pic0': 'https://images.launchbox-app.com//02c31e16-0087-47b4-83b2-6b81093e83a7.png',
+        'pic1': 'https://images.launchbox-app.com//d8ad108f-a002-455c-8e23-d5c53afc7dfe.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=NYq-W315_uk&list=PL11B6A28DB972EE9B&index=1',
+    },
     'SLUS21577': {
         'id': 'SLUS21577',
         'title': 'ODIN SPHERE',
@@ -9727,22 +9727,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20721': {
-    #    'id': 'SLUS20721',
-    #    'title': 'R - RACING EVOLUTION',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20780': {
-    #    'id': 'SLUS20780',
-    #    'title': 'R-TYPE FINAL',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20721': {
+        'id': 'SLUS20721',
+        'title': 'R - RACING EVOLUTION',
+        'icon0': 'https://images.launchbox-app.com//707eb64d-4380-4a83-a5f6-941278cb3de7.jpg',
+        'pic0': 'https://images.launchbox-app.com//8d5c2dba-f99c-47a0-a018-ce7e6532c4fb.png',
+        'pic1': 'https://images.launchbox-app.com//5a77d61e-34ee-4f31-86ad-9fba127661a3.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Ftuhsiqz18k&list=PLADyQGMt3MyAwCUCIT6UlwN1HvEu-bNB2&index=1',
+    },
+    'SLUS20780': {
+        'id': 'SLUS20780',
+        'title': 'R-TYPE FINAL',
+        'icon0': 'https://images.launchbox-app.com//5c353bf9-ffc0-42c0-add7-a8f3304cac77.jpg',
+        'pic0': 'https://images.launchbox-app.com//c65fd915-fbb0-49fa-9ca8-0d37b6caa0ef.png',
+        'pic1': 'https://images.launchbox-app.com//e59c7e8b-d979-4cf4-a140-abc7142bbbff.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=n-IoVZMzlAk&list=PLTmomcjY1VRye3aVPpRL9zSTFzvBgXDxD&index=1',
+    },
     #'SLUS20445': {
     #    'id': 'SLUS20445',
     #    'title': 'RAD - ROBOT ALCHEMIC DRIVE',
@@ -9751,22 +9751,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21262': {
-    #    'id': 'SLUS21262',
-    #    'title': 'RADIATA STORIES',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21465': {
-    #    'id': 'SLUS21465',
-    #    'title': 'Raiden III',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21262': {
+        'id': 'SLUS21262',
+        'title': 'RADIATA STORIES',
+        'icon0': 'https://images.launchbox-app.com//b0b0680e-371e-4df1-8f79-f6044a316d84.jpg',
+        'pic0': 'https://images.launchbox-app.com//c7c33778-147b-479e-b644-f0e50dce046e.png',
+        'pic1': 'https://images.launchbox-app.com//b1be1e3b-dfb0-41e6-9039-1a15847e4b2d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=XKdRJ4Hoosc&list=PLlGnorbnEvSn-WRjYB3-o0ikljgkyoRhm&index=1',
+    },
+    'SLUS21465': {
+        'id': 'SLUS21465',
+        'title': 'Raiden III',
+        'icon0': 'https://images.launchbox-app.com//4bb45ded-75c3-44be-a978-86b4422d12d7.jpg',
+        'pic0': 'https://images.launchbox-app.com//4689930b-f195-46c2-af39-69fdb507e769.png',
+        'pic1': 'https://images.launchbox-app.com//d7277129-69f1-43df-9526-503d6d6ca1cc.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=eZ3GNGBZ3Z4&list=PLLPoOFpf98RBPwp5LkPMVmYhltfYwmqAq&index=2',
+    },
     #'SLUS20361': {
     #    'id': 'SLUS20361',
     #    'title': 'Rally Fusion - Race of Champions',
@@ -9799,54 +9799,54 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SCUS97199': {
-    #    'id': 'SCUS97199',
-    #    'title': 'RATCHET & CLANK',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97465': {
-    #    'id': 'SCUS97465',
-    #    'title': 'Ratchet – Deadlocked',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97268': {
-    #    'id': 'SCUS97268',
-    #    'title': 'Ratchet & Clank - Going Commando',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97513': {
-    #    'id': 'SCUS97513',
-    #    'title': 'Ratchet & Clank - Going Commando (Greatest Hits)',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97615': {
-    #    'id': 'SCUS97615',
-    #    'title': 'Ratchet & Clank - Size Matters',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97353': {
-    #    'id': 'SCUS97353',
-    #    'title': 'Ratchet & Clank – Up Your Arsenal',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SCUS97199': {
+        'id': 'SCUS97199',
+        'title': 'RATCHET & CLANK',
+        'icon0': 'https://images.launchbox-app.com//85d0d853-1edf-4086-a5b5-281edcb3f9ac.jpg',
+        'pic0': 'https://images.launchbox-app.com//e31b92fe-d693-4beb-aa0b-a15e0a8fabc2.png',
+        'pic1': 'https://images.launchbox-app.com//5f23971d-d991-43c3-bee9-2aabf9cfbc19.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Ti-jrTI0tpM&list=PLwxLlSv5mvIa1WGSK3wH3o2Y9I4D-rqFi&index=1',
+    },
+    'SCUS97465': {
+        'id': 'SCUS97465',
+        'title': 'Ratchet – Deadlocked',
+        'icon0': 'https://images.launchbox-app.com//aa3d34ec-0dac-4025-b91b-ba97d609dcb2.jpg',
+        'pic0': 'https://images.launchbox-app.com//4aa8c897-f861-4ba1-bea4-f0aa165948a7.png',
+        'pic1': 'https://images.launchbox-app.com//10435069-2631-452d-bb1b-2ce5f5ca3be2.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=ppeESN91cyI&list=PLwxLlSv5mvIaQ_kytE9-OugbhEEyAIImG&index=1',
+    },
+    'SCUS97268': {
+        'id': 'SCUS97268',
+        'title': 'Ratchet & Clank - Going Commando',
+        'icon0': 'https://images.launchbox-app.com//1027ee53-c3ea-43e4-8ab8-795f6e63e7a5.png',
+        'pic0': 'https://images.launchbox-app.com//5828ba42-dd7f-4859-801f-7b82fe030b98.png',
+        'pic1': 'https://images.launchbox-app.com//7a5bb3ae-57a3-485a-8e40-ecc0b9818ee7.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=bk13dtTAXgc&list=PL5D86303F0E380566&index=1',
+    },
+    'SCUS97513': {
+        'id': 'SCUS97513',
+        'title': 'Ratchet & Clank - Going Commando (Greatest Hits)',
+        'icon0': 'https://images.launchbox-app.com//bdf497c3-efab-4415-9872-b969714dc269.jpg',
+        'pic0': 'https://images.launchbox-app.com//5828ba42-dd7f-4859-801f-7b82fe030b98.png',
+        'pic1': 'https://images.launchbox-app.com//7a5bb3ae-57a3-485a-8e40-ecc0b9818ee7.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=bk13dtTAXgc&list=PL5D86303F0E380566&index=1',
+    },
+    'SCUS97615': {
+        'id': 'SCUS97615',
+        'title': 'Ratchet & Clank - Size Matters',
+        'icon0': 'https://images.launchbox-app.com//f860e430-e375-4e7b-a4fb-aa6cb175dbbe.jpg',
+        'pic0': None,
+        'pic1': 'https://images.launchbox-app.com//7094732d-a2ae-4102-9177-00e170e4d91e.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=VpbLPoS7Lpo&list=PLELtI_6_Po0axrj5ejYLdxIVFGksTwja5&index=1',
+    },
+    'SCUS97353': {
+        'id': 'SCUS97353',
+        'title': 'Ratchet & Clank – Up Your Arsenal',
+        'icon0': 'https://images.launchbox-app.com//60cddfc3-1d2a-471c-809f-fcee29d370c0.jpg',
+        'pic0': 'https://images.launchbox-app.com//aa8374d9-48cd-4189-8a8a-6d1500a86bee.png',
+        'pic1': 'https://images.launchbox-app.com//1af2a804-ff4b-4024-9efa-0677cc08f1d5.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=KNFDql4lCc8&list=PL40EC0886514E2E8A&index=2',
+    },
     #'SLUS21501': {
     #    'id': 'SLUS21501',
     #    'title': 'RAW DANGER!',
@@ -9855,38 +9855,38 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21576': {
-    #    'id': 'SLUS21576',
-    #    'title': 'RAYMAN - RAVING RABBIDS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20138': {
-    #    'id': 'SLUS20138',
-    #    'title': 'Rayman 2 - Revolution',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20601': {
-    #    'id': 'SLUS20601',
-    #    'title': 'RAYMAN 3 - HOODLUM HAVOC',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20272': {
-    #    'id': 'SLUS20272',
-    #    'title': 'Rayman Arena',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21576': {
+        'id': 'SLUS21576',
+        'title': 'RAYMAN - RAVING RABBIDS',
+        'icon0': 'https://images.launchbox-app.com//f1e3ac05-2c84-416b-8507-f7e1eb7d2f4d.jpg',
+        'pic0': 'https://images.launchbox-app.com//297e2f70-41eb-449a-bf04-c717553c3a4e.png',
+        'pic1': 'https://images.launchbox-app.com//493e43db-d37e-41fa-a716-866b3fdf1938.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=LovffOswW6U&list=PLO4jlmGoc6uDMqvnC6CL4OacPadk3YIsq&index=1',
+    },
+    'SLUS20138': {
+        'id': 'SLUS20138',
+        'title': 'Rayman 2 - Revolution',
+        'icon0': 'https://images.launchbox-app.com//f829d4f7-4616-4420-9a35-1110d8267297.png',
+        'pic0': 'https://images.launchbox-app.com//2986689b-f12c-4f3f-991f-2e48535bc826.png',
+        'pic1': 'https://images.launchbox-app.com//e7b6b782-d84d-4bdd-9e7e-151de7357b5a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=ON8Y3BzcHQs&list=PLO4jlmGoc6uDX2KheLVyKXFjtMcx5_27w&index=1',
+    },
+    'SLUS20601': {
+        'id': 'SLUS20601',
+        'title': 'RAYMAN 3 - HOODLUM HAVOC',
+        'icon0': 'https://images.launchbox-app.com//63d180f1-e13b-4c9e-a112-7b40ac91c6f4.jpg',
+        'pic0': 'https://images.launchbox-app.com//37e0826d-90ba-4d86-b457-24286039b4be.png',
+        'pic1': 'https://images.launchbox-app.com//dd5d464e-e40b-4558-9348-9d89f4b0672f.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=QRfs9K2GDBk&list=PLH834K1pkcjKh6Kj486a-AEE-GwahwJoR&index=1',
+    },
+    'SLUS20272': {
+        'id': 'SLUS20272',
+        'title': 'Rayman Arena',
+        'icon0': 'https://images.launchbox-app.com//7e337931-9fa2-405c-beec-361144692d3f.jpg',
+        'pic0': 'https://images.launchbox-app.com//f9e8ddfd-cc40-41f7-84b5-e97be66c865d.png',
+        'pic1': 'https://images.launchbox-app.com//929f9de3-290b-439a-852a-2bf5996ba2fa.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=2N2mEXdWdsY&list=PL52D7EB53ED9079E8&index=3',
+    },
     #'SLUS20153': {
     #    'id': 'SLUS20153',
     #    'title': 'RC REVENGE PRO',
@@ -9935,14 +9935,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20500': {
-    #    'id': 'SLUS20500',
-    #    'title': 'RED DEAD REVOLVER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20500': {
+        'id': 'SLUS20500',
+        'title': 'RED DEAD REVOLVER',
+        'icon0': 'https://images.launchbox-app.com//02b14519-7488-4541-862b-a4d92547c84e.jpg',
+        'pic0': 'https://images.launchbox-app.com//aee89c14-8c77-45a8-8f94-f962958565cb.png',
+        'pic1': 'https://images.launchbox-app.com//b1da7709-9f0a-4ae5-8e2c-0acc2564aed6.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=7kjbGwyMr2k&list=PL661B491F8CB94F2D&index=1',
+    },
     #'SLUS20073': {
     #    'id': 'SLUS20073',
     #    'title': 'RED FACTION',
@@ -13823,30 +13823,30 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20333': {
-    #    'id': 'SLUS20333',
-    #    'title': 'TUROK - EVOLUTION',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97101': {
-    #    'id': 'SCUS97101',
-    #    'title': 'TWISTED METAL - BLACK',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97179': {
-    #    'id': 'SCUS97179',
-    #    'title': 'TWISTED METAL - BLACK',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20333': {
+        'id': 'SLUS20333',
+        'title': 'TUROK - EVOLUTION',
+        'icon0': 'https://images.launchbox-app.com//fdf3eede-ac05-4673-bf26-430731bfe9ec.jpg',
+        'pic0': 'https://images.launchbox-app.com//b93f4ac8-10fd-4869-927f-7c31ea3a6e98.png',
+        'pic1': 'https://images.launchbox-app.com//d809716b-55d2-4767-b529-775195c75b20.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=zbKM5oe5Nfs&list=PLbYy8mitnHrOmLZ9aschN8QnFq2JLn-vu&index=1',
+    },
+    'SCUS97101': {
+        'id': 'SCUS97101',
+        'title': 'TWISTED METAL - BLACK',
+        'icon0': 'https://images.launchbox-app.com//e911b569-45c2-4516-ac8f-36d83cae3ecc.jpg',
+        'pic0': 'https://images.launchbox-app.com//9eb221b0-4170-46fa-8bfb-2b45d618ad9d.png',
+        'pic1': 'https://images.launchbox-app.com//cef2c550-04ca-4650-82d1-61e0986acc90.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=BRlveus9GJI&list=PL7sjlsgQMhAALYQJJ8ehmtrBG3JDWnZGA&index=1',
+    },
+    'SCUS97179': {
+        'id': 'SCUS97179',
+        'title': 'TWISTED METAL - BLACK',
+        'icon0': 'https://images.launchbox-app.com//e911b569-45c2-4516-ac8f-36d83cae3ecc.jpg',
+        'pic0': 'https://images.launchbox-app.com//9eb221b0-4170-46fa-8bfb-2b45d618ad9d.png',
+        'pic1': 'https://images.launchbox-app.com//cef2c550-04ca-4650-82d1-61e0986acc90.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=BRlveus9GJI&list=PL7sjlsgQMhAALYQJJ8ehmtrBG3JDWnZGA&index=1',
+    },
     #'SCUS97196': {
     #    'id': 'SCUS97196',
     #    'title': 'TWISTED METAL - BLACK ONLINE',
@@ -13855,14 +13855,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SCUS97621': {
-    #    'id': 'SCUS97621',
-    #    'title': 'Twisted Metal - Head On - Extra Twisted Edition',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SCUS97621': {
+        'id': 'SCUS97621',
+        'title': 'Twisted Metal - Head On - Extra Twisted Edition',
+        'icon0': 'https://images.launchbox-app.com//ee20a116-86e4-4764-a176-c1a6fd880b9e.jpg',
+        'pic0': 'https://images.launchbox-app.com//61bf7af5-af97-455c-be2c-8b7ae0fb2b59.png',
+        'pic1': 'https://images.launchbox-app.com//4d86d2f8-be6b-4430-9355-94cc02b4b8f2.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=bGg8S7yLm0g&list=PLDF0E5B0E3A42BAEE&index=1',
+    },
     #'SLUS20571': {
     #    'id': 'SLUS20571',
     #    'title': 'TY - THE TAZMANIAN TIGER',
@@ -13959,14 +13959,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20678': {
-    #    'id': 'SLUS20678',
-    #    'title': 'Unlimited Saga',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20678': {
+        'id': 'SLUS20678',
+        'title': 'Unlimited Saga',
+        'icon0': 'https://images.launchbox-app.com//3ac3a271-0b35-40e2-8c22-3ea7c305a100.jpg',
+        'pic0': 'https://images.launchbox-app.com//4d5b78f6-ec85-40fc-8d25-37fb5382deca.png',
+        'pic1': 'https://images.launchbox-app.com//dce8e693-3018-4b40-b330-d8301081b0d9.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=47R9VFirriM',
+    },
     #'SLUS20034': {
     #    'id': 'SLUS20034',
     #    'title': 'Unreal Tournament',
@@ -13983,14 +13983,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21209': {
-    #    'id': 'SLUS21209',
-    #    'title': 'URBAN REIGN',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21209': {
+        'id': 'SLUS21209',
+        'title': 'URBAN REIGN',
+        'icon0': 'https://images.launchbox-app.com//a32f18fe-06e7-4f80-8d79-8bf635069bc1.jpg',
+        'pic0': 'https://images.launchbox-app.com//5df166eb-ce81-4e64-b5e5-1f4411a6634b.png',
+        'pic1': 'https://images.launchbox-app.com//f2da4c0a-3531-442a-a918-9cbceb72bb6c.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=4kDxYqPzpHc&list=PLGjX0uNPAWvUzhqNSxxezYqEyLKYsAeNP&index=2',
+    },
     #'SLUS20496': {
     #    'id': 'SLUS20496',
     #    'title': 'V-Rally 3',
