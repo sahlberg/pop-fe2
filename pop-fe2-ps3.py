@@ -49,6 +49,15 @@ class FinishedDialog(tk.Toplevel):
         button = tk.Button(self, text="Continue", command=self.destroy)
         button.pack(side="bottom")
 
+class MissingArtDialog(tk.Toplevel):
+    def __init__(self, root):
+        tk.Toplevel.__init__(self, root)
+        label = tk.Label(self, text="No ART directory found. Please Doawnload and install\n\'https://archive.org/details/ps2-opl-cover-art-set\\'\nor else a lot of assets will be missing and your games will look ugly.")
+        label.pack(fill="both", expand=True, padx=20, pady=20)
+
+        button = tk.Button(self, text="Continue", command=self.destroy)
+        button.pack(side="bottom")
+
 class PopFe2Ps3App:
     def __init__(self, master=None):
         self.myrect = None
@@ -66,6 +75,12 @@ class PopFe2Ps3App:
         self.subdir = 'pop-fe2-ps3-work/'
         
         self.master = master
+
+        try:
+            os.stat('ART')
+        except:
+            MissingArtDialog(self.master)
+        
         self.builder = builder = pygubu.Builder()
         builder.add_resource_path(PROJECT_PATH)
         builder.add_from_file(PROJECT_UI)
@@ -488,6 +503,7 @@ if __name__ == "__main__":
         verbose = True
 
     root = TkinterDnD.Tk()
+
     app = PopFe2Ps3App(root)
     root.title('pop-fe PS3')
     root.mainloop()

@@ -1164,6 +1164,12 @@ if __name__ == "__main__":
     os.mkdir('pop-fe2-work')
     subdir = 'pop-fe2-work'
 
+    try:
+        os.stat('ART')
+    except:
+        print('No ART directory found. Download and install \'https://archive.org/details/ps2-opl-cover-art-set\' in the same directory as pop-fe2.py')
+        os._exit(0)
+          
     if args.file[-4:].lower() == '.cue':
         bc = bchunk()
         bc.open(args.file)
