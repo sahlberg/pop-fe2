@@ -187,11 +187,24 @@ class PopFe2Ps3App:
         if self.pic1:
             p1 = self.pic1.resize((382,216), Image.Resampling.LANCZOS)
             if self.pic0:
-                p0 = self.pic0.resize((int(p1.size[0] * 0.55) , int(p1.size[1] * 0.58)), Image.Resampling.LANCZOS)
-                if has_transparency(p0):
-                    Image.Image.paste(p1, p0, box=(148,79), mask=p0)
+                disc_id = self.disc_id
+                if 'pic0-scaling' in games[disc_id]:
+                    sc = games[disc_id]['pic0-scaling']
                 else:
-                    Image.Image.paste(p1, p0, box=(148,79))
+                    sc = (0.6, 0.6)
+                if 'pic0-offset' in games[disc_id]:
+                    of = games[disc_id]['pic0-offset']
+                else:
+                    of = (0.30, 0.30)
+                size = (int(p1.size[0] * 0.65) , int(p1.size[1] * 0.66))
+                p0 = self.pic0.resize((int(size[0] * sc[0]), int(size[1] * sc[1])), Image.Resampling.LANCZOS)
+                i = Image.new(p0.mode, size, (0,0,0)).convert('RGBA')
+                i.putalpha(0)
+                i.paste(p0, (int(size[0] * of[0]), int(size[1] * of[1])))
+                if has_transparency(p0):
+                    Image.Image.paste(p1, i, box=(148,79), mask=i)
+                else:
+                    Image.Image.paste(p1, i, box=(148,79))
             if self.icon0:
                 i0 = None
                 _i = self.icon0.resize((124, 176), Image.Resampling.LANCZOS)
