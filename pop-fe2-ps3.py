@@ -185,15 +185,16 @@ class PopFe2Ps3App:
         c = self.builder.get_object('preview_canvas', self.master)
 
         if self.pic1:
-            p1 = self.pic1.resize((382,216), Image.Resampling.HAMMING)
-            p0 = self.pic0.resize((int(p1.size[0] * 0.55) , int(p1.size[1] * 0.58)), Image.Resampling.HAMMING)
-            if has_transparency(p0):
-                Image.Image.paste(p1, p0, box=(148,79), mask=p0)
-            else:
-                Image.Image.paste(p1, p0, box=(148,79))
+            p1 = self.pic1.resize((382,216), Image.Resampling.LANCZOS)
+            if self.pic0:
+                p0 = self.pic0.resize((int(p1.size[0] * 0.55) , int(p1.size[1] * 0.58)), Image.Resampling.LANCZOS)
+                if has_transparency(p0):
+                    Image.Image.paste(p1, p0, box=(148,79), mask=p0)
+                else:
+                    Image.Image.paste(p1, p0, box=(148,79))
             if self.icon0:
                 i0 = None
-                _i = self.icon0.resize((124, 176), Image.Resampling.NEAREST)
+                _i = self.icon0.resize((124, 176), Image.Resampling.LANCZOS)
                 i = Image.new(self.icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
                 i.putalpha(0)
                 ns = (98, 0)

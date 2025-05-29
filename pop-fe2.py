@@ -814,6 +814,20 @@ def get_pic_from_game(pic, gameid, filename):
             else:
                 return Image.open(io.BytesIO(ret.content))
 
+    if gameid in games:
+        try:
+            if pic == 'icon0':
+                f = 'ART/' + gameid[:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '_COV.png'
+                return Image.open(f).convert('RGBA')
+            if pic == 'pic0':
+                f = 'ART/' + gameid[:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '_LGO.png'
+                return Image.open(f).convert('RGBA')
+            if pic == 'pic1':
+                f = 'ART/' + gameid[:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '_BG.png'
+                return Image.open(f).convert('RGBA')
+        except:
+            True
+
     return None
 
 
@@ -1191,7 +1205,7 @@ if __name__ == "__main__":
     pic0 = get_pic_from_game('pic0', gameid, args.file[:-4] + '_pic0.png')
 
     pic1 = get_pic_from_game('pic1', gameid, args.file[:-4] + '_pic1.png')
-    
+
     icon0 = get_pic_from_game('icon0', gameid, args.file[:-4] + '_icon0.png')
 
     
