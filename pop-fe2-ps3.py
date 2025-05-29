@@ -168,29 +168,32 @@ class PopFe2Ps3App:
         if self.pic0 and self.pic0.mode == 'P':
             self.pic0 = self.pic0.convert(mode='RGBA')
         c = self.builder.get_object('preview_canvas', self.master)
-        
-        p1 = self.pic1.resize((382,216), Image.Resampling.HAMMING)
-        p0 = self.pic0.resize((int(p1.size[0] * 0.55) , int(p1.size[1] * 0.58)), Image.Resampling.HAMMING)
-        if has_transparency(p0):
-            Image.Image.paste(p1, p0, box=(148,79), mask=p0)
-        else:
-            Image.Image.paste(p1, p0, box=(148,79))
-        i0 = None
-        _i = self.icon0.resize((124, 176), Image.Resampling.NEAREST)
-        i = Image.new(self.icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
-        i.putalpha(0)
-        ns = (98, 0)
-        i.paste(_i, ns)
-        i0 = i.resize((int(p1.size[0] * 0.10) , int(p1.size[0] * 0.10)), Image.Resampling.HAMMING)
-        if has_transparency(i0):
-            Image.Image.paste(p1, i0, box=(100,79), mask=i0)
-        else:
-            Image.Image.paste(p1, i0, box=(100,79))
-        temp_files.append(self.subdir + 'PREVIEW.PNG')
-        p1.save(self.subdir + 'PREVIEW.PNG')
-        self.preview_tk = tk.PhotoImage(file = self.subdir + 'PREVIEW.PNG')
-        c = self.builder.get_object('preview_canvas', self.master)
-        c.create_image(0, 0, image=self.preview_tk, anchor='nw')
+
+        if self.pic1:
+            p1 = self.pic1.resize((382,216), Image.Resampling.HAMMING)
+            p0 = self.pic0.resize((int(p1.size[0] * 0.55) , int(p1.size[1] * 0.58)), Image.Resampling.HAMMING)
+            if has_transparency(p0):
+                Image.Image.paste(p1, p0, box=(148,79), mask=p0)
+            else:
+                Image.Image.paste(p1, p0, box=(148,79))
+            if self.icon0:
+                i0 = None
+                _i = self.icon0.resize((124, 176), Image.Resampling.NEAREST)
+                i = Image.new(self.icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
+                i.putalpha(0)
+                ns = (98, 0)
+                i.paste(_i, ns)
+                i0 = i.resize((int(p1.size[0] * 0.10) , int(p1.size[0] * 0.10)), Image.Resampling.HAMMING)
+                if has_transparency(i0):
+                    Image.Image.paste(p1, i0, box=(100,79), mask=i0)
+                else:
+                    Image.Image.paste(p1, i0, box=(100,79))
+
+            temp_files.append(self.subdir + 'PREVIEW.PNG')
+            p1.save(self.subdir + 'PREVIEW.PNG')
+            self.preview_tk = tk.PhotoImage(file = self.subdir + 'PREVIEW.PNG')
+            c = self.builder.get_object('preview_canvas', self.master)
+            c.create_image(0, 0, image=self.preview_tk, anchor='nw')
 
     def update_assets(self, subdir = 'pop-fe2-work/'):
         if not self.disc_id:
@@ -199,37 +202,39 @@ class PopFe2Ps3App:
                 
         print('Fetching ICON0') if verbose else None
         self.icon0 = popfe2.get_pic_from_game('icon0', disc_id, self.iso[:-4] + '_icon0.png')
-        _i = self.icon0.resize((124, 176), Image.Resampling.NEAREST)
-        i = Image.new(self.icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
-        i.putalpha(0)
-        ns = (98, 0)
-        i.paste(_i, ns)
-        #self.icon0 = i
+        if self.icon0:
+            _i = self.icon0.resize((124, 176), Image.Resampling.NEAREST)
+            i = Image.new(self.icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
+            i.putalpha(0)
+            ns = (98, 0)
+            i.paste(_i, ns)
         
-        temp_files.append(self.subdir + 'ICON0.PNG')
-        i.resize((80,80), Image.Resampling.HAMMING).save(self.subdir + 'ICON0.PNG')
-        self.icon0_tk = tk.PhotoImage(file = self.subdir + 'ICON0.PNG')
-        c = self.builder.get_object('icon0_canvas', self.master)
-        c.create_image(0, 0, image=self.icon0_tk, anchor='nw')
+            temp_files.append(self.subdir + 'ICON0.PNG')
+            i.resize((80,80), Image.Resampling.HAMMING).save(self.subdir + 'ICON0.PNG')
+            self.icon0_tk = tk.PhotoImage(file = self.subdir + 'ICON0.PNG')
+            c = self.builder.get_object('icon0_canvas', self.master)
+            c.create_image(0, 0, image=self.icon0_tk, anchor='nw')
             
         print('Fetching PIC0') if verbose else None
         self.pic0 = popfe2.get_pic_from_game('pic0', disc_id, self.iso[:-4] + '_pic0.png')
-        self.pic0 = self.pic0.resize((1000, 560), Image.Resampling.LANCZOS)
-        temp_files.append(self.subdir + 'PIC0.PNG')
-        self.pic0.resize((128,80), Image.Resampling.HAMMING).save(self.subdir + 'PIC0.PNG')
-        self.pic0_tk = tk.PhotoImage(file = self.subdir + 'PIC0.PNG')
-        c = self.builder.get_object('pic0_canvas', self.master)
-        c.create_image(0, 0, image=self.pic0_tk, anchor='nw')
+        if self.pic0:
+            self.pic0 = self.pic0.resize((1000, 560), Image.Resampling.LANCZOS)
+            temp_files.append(self.subdir + 'PIC0.PNG')
+            self.pic0.resize((128,80), Image.Resampling.HAMMING).save(self.subdir + 'PIC0.PNG')
+            self.pic0_tk = tk.PhotoImage(file = self.subdir + 'PIC0.PNG')
+            c = self.builder.get_object('pic0_canvas', self.master)
+            c.create_image(0, 0, image=self.pic0_tk, anchor='nw')
 
         
         print('Fetching PIC1') if verbose else None
         self.pic1 = popfe2.get_pic_from_game('pic1', disc_id, self.iso[:-4] + '_pic1.png')
-        self.pic1 = self.pic1.resize((1920, 1080), Image.Resampling.LANCZOS)
-        temp_files.append(self.subdir + 'PIC1.PNG')
-        self.pic1.resize((128,80), Image.Resampling.HAMMING).save(self.subdir + 'PIC1.PNG')
-        self.pic1_tk = tk.PhotoImage(file = self.subdir + 'PIC1.PNG')
-        c = self.builder.get_object('pic1_canvas', self.master)
-        c.create_image(0, 0, image=self.pic1_tk, anchor='nw')
+        if self.pic1:
+            self.pic1 = self.pic1.resize((1920, 1080), Image.Resampling.LANCZOS)
+            temp_files.append(self.subdir + 'PIC1.PNG')
+            self.pic1.resize((128,80), Image.Resampling.HAMMING).save(self.subdir + 'PIC1.PNG')
+            self.pic1_tk = tk.PhotoImage(file = self.subdir + 'PIC1.PNG')
+            c = self.builder.get_object('pic1_canvas', self.master)
+            c.create_image(0, 0, image=self.pic1_tk, anchor='nw')
 
         self.update_preview()
         
@@ -255,7 +260,8 @@ class PopFe2Ps3App:
 
         self.builder.get_variable('title_variable').set(games[disc_id]['title'])
         self.builder.get_variable('discid1_variable').set(disc_id)
-        self.builder.get_variable('snd0_variable').set(games[disc_id]['snd0'])
+        if 'snd0' in games[disc_id]:
+            self.builder.get_variable('snd0_variable').set(games[disc_id]['snd0'])
         self.update_assets()
             
         self.builder.get_object('create_button', self.master).config(state='normal')

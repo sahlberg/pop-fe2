@@ -998,43 +998,47 @@ def create_pkg(iso, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work')
     os.mkdir(subdir)
     os.mkdir(subdir + '/USRDIR')
 
-    icon0 = icon0.resize((124, 176), Image.Resampling.LANCZOS)
-    i = Image.new(icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
-    i.putalpha(0)
-    ns = (98, 0)
-    i.paste(icon0, ns)
-    icon0 = i
-    icon0.save(subdir + '/ICON0.PNG', 'PNG')
-    
-    if 'pic0-scaling' in games[gameid]:
-        sc = games[gameid]['pic0-scaling']
-    else:
-        sc = (0.6, 0.6)
-    if 'pic0-offset' in games[gameid]:
-        of = games[gameid]['pic0-offset']
-    else:
-        of = (0.38, 0.38)
+    if icon0:
+        icon0 = icon0.resize((124, 176), Image.Resampling.LANCZOS)
+        i = Image.new(icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
+        i.putalpha(0)
+        ns = (98, 0)
+        i.paste(icon0, ns)
+        icon0 = i
+        icon0.save(subdir + '/ICON0.PNG', 'PNG')
+
+    if pic0:
+        if 'pic0-scaling' in games[gameid]:
+            sc = games[gameid]['pic0-scaling']
+        else:
+            sc = (0.6, 0.6)
+        if 'pic0-offset' in games[gameid]:
+            of = games[gameid]['pic0-offset']
+        else:
+            of = (0.38, 0.38)
         
-    pic0 = pic0.resize((int(1000 * sc[0]), int(560 * sc[1])), Image.Resampling.LANCZOS)
-    i = Image.new(pic0.mode, (1000, 560), (0,0,0)).convert('RGBA')
-    i.putalpha(0)
-    i.paste(pic0, (int(1000 * of[0]), int(560 * of[1])))
-    pic0 = i
+        pic0 = pic0.resize((int(1000 * sc[0]), int(560 * sc[1])), Image.Resampling.LANCZOS)
+        i = Image.new(pic0.mode, (1000, 560), (0,0,0)).convert('RGBA')
+        i.putalpha(0)
+        i.paste(pic0, (int(1000 * of[0]), int(560 * of[1])))
+        pic0 = i
 
-    pic0.save(subdir + '/PIC0.PNG', 'PNG')
+        pic0.save(subdir + '/PIC0.PNG', 'PNG')
 
-    pic1 = pic1.resize((1920, 1080), Image.Resampling.LANCZOS)
-    pic1.save(subdir + '/PIC1.PNG', 'PNG')
+    if pic1:
+        pic1 = pic1.resize((1920, 1080), Image.Resampling.LANCZOS)
+        pic1.save(subdir + '/PIC1.PNG', 'PNG')
 
     # Check if it is already in ATRAC3 format
-    with open(snd0, 'rb') as s:
-        buf = s.read(36)
-        if buf[:4] == b'RIFF':
-            riff = parse_riff(snd0)
-            if riff['fmt ']['compression_code'] in [624, 65534]:
-                print('SND0 is already in AT3 format. No conversion needed.')
-                os.rename(snd0, subdir + '/SND0.AT3')
-                snd0 = None
+    if snd0:
+        with open(snd0, 'rb') as s:
+            buf = s.read(36)
+            if buf[:4] == b'RIFF':
+                riff = parse_riff(snd0)
+                if riff['fmt ']['compression_code'] in [624, 65534]:
+                    print('SND0 is already in AT3 format. No conversion needed.')
+                    os.rename(snd0, subdir + '/SND0.AT3')
+                    snd0 = None
     if snd0:
         print('Creating SND0')
         subprocess.call(['ffmpeg', '-y', '-i', snd0, '-ar', '48000', '-ac', '2', subdir + '/snd0_tmp.wav'], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -1191,7 +1195,7 @@ if __name__ == "__main__":
         snd0 = args.file[:-4] + '.snd0'
     except:
         True
-    if not snd0:
+    if not snd0 and 'snd0' in games[gameid]:
         snd0 = get_snd0_from_link(games[gameid]['snd0'], subdir)
 
     if args.output_directory:
