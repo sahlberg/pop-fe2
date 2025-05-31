@@ -49,6 +49,20 @@ class FinishedDialog(tk.Toplevel):
         button = tk.Button(self, text="Continue", command=self.destroy)
         button.pack(side="bottom")
 
+class MissingAssetsDialog(tk.Toplevel):
+    def __init__(self, root):
+        tk.Toplevel.__init__(self, root)
+        label = tk.Label(self, text="Curated high-quality assets are missing for this game.\n" +
+                         "Will fall back to and try finding assets in the low-resolution ART pack.\n" +
+                         "Please help make pop-fe2 better by providing links to high quality icon0/pic0/pic1/snd0 for this game.\n\n" +
+                         "Plese locate links to good high-quality images for this game and open an issue at\n" +
+                         "\'https://github.com/sahlberg/pop-fe2\' and provide the links you want to use for this game.\n" +
+                         "Then they can be added to the next release.\n")
+        label.pack(fill="both", expand=True, padx=20, pady=20)
+
+        button = tk.Button(self, text="Continue", command=self.destroy)
+        button.pack(side="bottom")
+
 class MissingArtDialog(tk.Toplevel):
     def __init__(self, root):
         tk.Toplevel.__init__(self, root)
@@ -286,6 +300,9 @@ class PopFe2Ps3App:
 
         print('disc id', disc_id)
         print('title', games[disc_id]['title'])
+        if not 'icon0' in games[disc_id]:
+            d = MissingAssetsDialog(self.master)
+            self.master.wait_window(d)
 
         self.builder.get_variable('title_variable').set(games[disc_id]['title'])
         self.builder.get_variable('discid1_variable').set(disc_id)
