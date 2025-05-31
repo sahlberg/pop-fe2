@@ -189,18 +189,18 @@ games = {
     'SLUS20851': {
         'id': 'SLUS20851',
         'title': 'ACE COMBAT 5 - THE UNSUNG WAR',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//3da11185-5fb7-4559-95c8-f32a17445d2e.jpg',
+        'pic0': 'https://images.launchbox-app.com//0a29661a-9080-4022-bdb5-8fc1c5db3044.png',
+        'pic1': 'https://images.launchbox-app.com//08622bb1-5cd1-4a96-a805-c132a24d583d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Y6__YBUTxkI&list=PLB5A294C912C49005&index=1',
     },
     'SLUS21346': {
         'id': 'SLUS21346',
         'title': 'Ace Combat Zero - The Belkan War',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//cda02639-c6f4-4aff-8f5b-1d162e6fe288.jpg',
+        'pic0': 'https://images.launchbox-app.com//2ac3836b-b9f1-4f70-99f1-927fc9b152e9.png',
+        'pic1': 'https://images.launchbox-app.com//23832261-b0d6-47e2-97ef-634ab7c3c80a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=arEyMsfhhV8&list=PLvIijwMJJUiB8_WQrVVlIWM7A-AQ4w8zV&index=1',
     },
     'SLUS20588': {
         'id': 'SLUS20588',
@@ -213,18 +213,18 @@ games = {
     'SLUS21205': {
         'id': 'SLUS21205',
         'title': 'AEON FLUX',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//8f44cc9d-2c67-4514-87d6-5690bdccc6b6.jpg',
+        'pic0': 'https://images.launchbox-app.com//65acb5e5-9a53-43c9-8525-bb9095f6d641.png',
+        'pic1': 'https://images.launchbox-app.com//26de2b14-cc64-440a-a1d8-1ca41b406c1f.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=28wVyV4tfXw&list=PLohYzz4btpaQrMM9AqRdvbNoxgz3xZrhf&index=1',
     },
     'SLUS20614': {
         'id': 'SLUS20614',
         'title': 'Aero Elite - Combat Academy',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//a2b419ce-3f6c-4e08-8f00-a0a28db99310.jpg',
+        'pic0': 'https://images.launchbox-app.com//fabe0f47-7d37-43fc-ad1e-043e25c22925.png',
+        'pic1': 'https://images.launchbox-app.com//c7a5f1cb-2710-49f7-9667-ad1cd0b46172.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=RFykvuJl42s&list=PLP8_sGncyT5TW6xADaoawxzB5wijfnkyR&index=1',
     },
     'SLUS20446': {
         'id': 'SLUS20446',
@@ -293,10 +293,10 @@ games = {
     'SLUS20147': {
         'id': 'SLUS20147',
         'title': 'Aliens vs. Predator - Extinction',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//1243ecc0-9f66-48b5-9eba-f1c06f9a00dd.jpg',
+        'pic0': 'https://images.launchbox-app.com//2059af37-1309-4bd6-a038-4aedd6e4e07a.png',
+        'pic1': 'https://images.launchbox-app.com//1b646c0c-b222-4914-8c47-46f3e5ee0e18.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=G0KOMOpbGQw&list=PLXEKi3jJ0r_1lcdcPU2T0bmWl_m8rx53Z&index=2',
     },
     'SLUS20008': {
         'id': 'SLUS20008',
@@ -9133,10 +9133,10 @@ games = {
     'SCUS97129': {
         'id': 'SCUS97129',
         'title': 'OKAGE - SHADOW KING',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//2418e4df-2aa0-4387-8546-24b239a58522.jpg',
+        'pic0': 'https://images.launchbox-app.com//634aae88-c0ba-4c16-864f-392d8ff44268.png',
+        'pic1': 'https://images.launchbox-app.com//2ba50d7d-0778-4657-b349-44c9f01e4335.png',
+        'snd0': 'https://www.youtube.com/watch?v=1921qVZpaTQ&list=PL5E1946D922DE93F9&index=1',
     },
     'SLUS21115': {
         'id': 'SLUS21115',
@@ -9173,10 +9173,10 @@ games = {
     'SLUS20064': {
         'id': 'SLUS20064',
         'title': 'ONI',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//94246a93-5528-48f6-94cd-e2dba94b75aa.jpg',
+        'pic0': 'https://images.launchbox-app.com//14770cb0-8c3a-4b41-a0cd-c7fa2320eb8e.png',
+        'pic1': 'https://images.launchbox-app.com//8fc5c4f0-70fd-4959-98be-7470065daee3.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=YVnh2z4-tmY&list=PLlJ_g3PThN5tvsZGtPB11Vv9MaAL2ZMy8&index=1',
     },
     'SLUS20710': {
         'id': 'SLUS20710',
@@ -9229,10 +9229,10 @@ games = {
     'SLUS21467': {
         'id': 'SLUS21467',
         'title': 'OPEN SEASON',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//a7c647b2-4bcf-4fc3-a8ce-9914fe208bd4.jpg',
+        'pic0': 'https://images.launchbox-app.com//5ac54975-0f37-43ba-9970-23535e1b402f.png',
+        'pic1': 'https://images.launchbox-app.com//ef7f7126-0476-4b73-8af1-30cb4a333935.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=csmB_Am2hu4&list=PLO4jlmGoc6uDndNbkE2hOjUv-wq8ttza5&index=1',
     },
     'SLUS20011': {
         'id': 'SLUS20011',
@@ -9269,10 +9269,10 @@ games = {
     'SLUS21274': {
         'id': 'SLUS21274',
         'title': 'OUTRUN 2006 - COAST 2 COAST',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//e6b9a996-c8c7-4ce6-9c10-3f0d31defad5.jpg',
+        'pic0': 'https://images.launchbox-app.com//a166dd56-301f-4f01-b666-a41a0e5735f3.png',
+        'pic1': 'https://images.launchbox-app.com//d20eaa7d-4a6e-4424-a534-4979cb5dd88e.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=kTObxt5iFYA&list=PL_BhbJAAueZRGIUQiJttJc7Sl7OjThLIP&index=1',
     },
     'SLUS20567': {
         'id': 'SLUS20567',
@@ -9725,10 +9725,10 @@ games = {
     'SLUS20167': {
         'id': 'SLUS20167',
         'title': 'Quake III - Revolution',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//3e08f1b4-f675-42ff-a139-724171e8ec09.jpg',
+        'pic0': 'https://images.launchbox-app.com//79c7b852-dbb7-47db-b964-2698be61572a.png',
+        'pic1': 'https://images.launchbox-app.com//54ec9160-082c-4206-a400-3fcfc02285ff.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=ZH51hb7hIN0&list=PL20723923F60F926A&index=1',
     },
     'SLUS20721': {
         'id': 'SLUS20721',
@@ -10269,10 +10269,10 @@ games = {
     'SCUS97490': {
         'id': 'SCUS97490',
         'title': 'ROGUE GALAXY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//99edb02d-8bd9-4657-b457-2ee5142760c8.png',
+        'pic0': 'https://images.launchbox-app.com//cf7f8d25-cd4e-46cf-83bf-103ad3b8f530.png',
+        'pic1': 'https://images.launchbox-app.com//065d3a5c-d304-442c-a3ca-6cdf96abe937.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=2u__o9-znQU&list=PLFBFF38BB8995B23A&index=1',
     },
     'SLUS20746': {
         'id': 'SLUS20746',
@@ -10285,10 +10285,10 @@ games = {
     'SLUS21320': {
         'id': 'SLUS21320',
         'title': 'ROGUE TROOPER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//6521540a-b328-4f44-b4da-582b15ffb143.jpg',
+        'pic0': 'https://images.launchbox-app.com//d35d5730-0a07-4ce1-a903-9397915c5e76.png',
+        'pic1': 'https://images.launchbox-app.com//717aab7c-29d0-46fc-9ea4-6a0af7fcff68.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=vXNu0v5J5uE&list=PL7E44ACD3730D6900&index=1',
     },
     'SLUS20319': {
         'id': 'SLUS20319',
@@ -10813,10 +10813,10 @@ games = {
     'SCUS97472': {
         'id': 'SCUS97472',
         'title': 'SHADOW OF THE COLOSSUS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//9aebf511-d739-4c8e-b38c-133ed56e778a.jpg',
+        'pic0': 'https://images.launchbox-app.com//02479353-a3b0-468e-a2c9-1d0f24127208.png',
+        'pic1': 'https://images.launchbox-app.com//5016338d-426f-414a-85d0-4efa64931832.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Pdi1DSqBZ6Q&list=PLP305x78doI0efPOH7_cIlMXMR5WwMUOZ&index=1',
     },
     'SLUS21261': {
         'id': 'SLUS21261',
@@ -11821,42 +11821,42 @@ games = {
     'SLUS20898': {
         'id': 'SLUS20898',
         'title': 'STAR WARS - BATTLEFRONT',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//5b7ec0ab-751f-47a6-a394-864a8bcf7c25.jpg',
+        'pic0': 'https://images.launchbox-app.com//478fe84f-c79a-4cb7-9b88-d840d323d34d.png',
+        'pic1': 'https://images.launchbox-app.com//81a28eaa-beaa-4c9f-9c40-c32a945e2046.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=8Ymavqg-8no&list=PLonU6sZXHsfqsZOtXqeuKXmmXRG7pzyhL&index=3',
     },
     'SLUS21240': {
         'id': 'SLUS21240',
         'title': 'Star Wars - Battlefront II',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//5926c5cf-6736-4bdc-a4e0-683d6beddc49.jpg',
+        'pic0': 'https://images.launchbox-app.com//ad0e79a9-1cfc-4058-bda5-2e791426175e.png',
+        'pic1': 'https://images.launchbox-app.com//839342cd-4112-42c9-a3f9-1693add74a14.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=wD8ePd6kAjc&list=PLon7WNA0Cke7O1FnbEFUNJ5LjEC-tBZ2B&index=122',
     },
     'SLUS20420': {
         'id': 'SLUS20420',
         'title': 'STAR WARS - BOUNTY HUNTER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//7e1b9062-69cd-4e75-a6d5-0aa7cc7bd3cc.jpg',
+        'pic0': 'https://images.launchbox-app.com//58202bfd-9064-4ea8-b8c1-6de86465c0f3.png',
+        'pic1': 'https://images.launchbox-app.com//c879a998-bd7b-4495-aa10-7a14126a111f.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=cl1mT5jFvjY&list=PLKFCowJ7eV_tdmFKkDqSr8-qCbTfgqPTK&index=1',
     },
     'SLUS21143': {
         'id': 'SLUS21143',
         'title': 'STAR WARS - EPISODE III - REVENGE OF THE SITH',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//6a818fc0-0da5-4a29-a4bd-484a8e50018a.jpg',
+        'pic0': 'https://images.launchbox-app.com//6e953210-61ab-401f-9bce-ef9573610f33.png',
+        'pic1': 'https://images.launchbox-app.com//4f9e3895-d439-4482-87c4-9a60d4011396.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=cikS4oh6nag&list=PLqGhVyOFc2J3Lt23F5b8RctjHYDwxx_QN&index=2',
     },
     'SLUS20293': {
         'id': 'SLUS20293',
         'title': 'STAR WARS - JEDI STARFIGHTER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//902620a5-e36a-46e5-9e3e-fe09b711580a.jpg',
+        'pic0': 'https://images.launchbox-app.com//48241806-fc54-4189-a744-3b72b36d7bdc.png',
+        'pic1': 'https://images.launchbox-app.com//e9df000a-bace-426f-9171-b96f5458cd46.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=wD8ePd6kAjc&list=PLon7WNA0Cke7O1FnbEFUNJ5LjEC-tBZ2B&index=122',
     },
     'SLUS20268': {
         'id': 'SLUS20268',
@@ -12701,18 +12701,18 @@ games = {
     'SCUS97133': {
         'id': 'SCUS97133',
         'title': 'The Getaway',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//2d52ef00-caa5-4ac6-964a-121c520654d8.jpg',
+        'pic0': 'https://images.launchbox-app.com//2c0c18f9-19aa-480e-8f1e-9f2dfe35d760.png',
+        'pic1': 'https://images.launchbox-app.com//1e0a1d28-a0c9-48ae-95e9-35f20c852251.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=EKB074Vh75g&list=PLF47BA451766CEA5E&index=1',
     },
     'SCUS97408': {
         'id': 'SCUS97408',
         'title': 'THE GETAWAY - BLACK MONDAY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//7900e226-1fad-48b9-ab35-13652f42720a.jpg',
+        'pic0': 'https://images.launchbox-app.com//fdf1308a-bf3c-44e2-a685-161c34d95cd6.png',
+        'pic1': 'https://images.launchbox-app.com//34ff8941-ec20-4cca-879b-63aa2adfd4f5.png',
+        'snd0': 'https://www.youtube.com/watch?v=ETIKrCy2rr0&list=PLEl5MLiAUIIxZxB70ghVPzfgarFATmEdx&index=2',
     },
     'SLUS21385': {
         'id': 'SLUS21385',
@@ -13053,10 +13053,10 @@ games = {
     'SLUS20864': {
         'id': 'SLUS20864',
         'title': 'The Punisher',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//cd52d8e6-8f52-47a9-a983-c0fd2f49e9e2.jpg',
+        'pic0': 'https://images.launchbox-app.com//915010ab-1fdf-4120-8d06-a3c1faf80422.png',
+        'pic1': 'https://images.launchbox-app.com//4b10958b-05bc-41c9-ac6a-11d9a1c6b030.png',
+        'snd0': 'https://www.youtube.com/watch?v=XOmXi2XzvVE&list=PL9A1CAEF9DE79360C&index=1',
     },
     'SLUS20885': {
         'id': 'SLUS20885',
@@ -13221,10 +13221,10 @@ games = {
     'SLUS20371': {
         'id': 'SLUS20371',
         'title': 'The Thing',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//a862c092-e15e-4fc1-9a53-aa631a80bfbd.jpg',
+        'pic0': 'https://images.launchbox-app.com//83ea336d-d5ec-4082-84fc-811d39c3e724.png',
+        'pic1': 'https://images.launchbox-app.com//b76a1b1c-d4e2-46d2-94f4-d55cc880772f.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=6b7eGIblePU&list=PLocqHZj7MJfm2Q5wOMInoWRUqL6yAn5-h&index=2',
     },
     'SLUS21066': {
         'id': 'SLUS21066',
@@ -13237,10 +13237,10 @@ games = {
     'SLUS21215': {
         'id': 'SLUS21215',
         'title': 'The Warriors',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//27a5be4a-af56-465b-aae4-12fa6b816159.jpg',
+        'pic0': 'https://images.launchbox-app.com//fdebed0d-aea7-4af6-a474-54184cad879c.png',
+        'pic1': 'https://images.launchbox-app.com//adf085f8-8634-41f4-8ad2-71297ab6819e.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=3k4ap-76RIE&list=PLBD4374EA22622883',
     },
     'SLUS20179': {
         'id': 'SLUS20179',
