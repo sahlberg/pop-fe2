@@ -222,9 +222,9 @@ class PopFe2Ps3App:
             if self.icon0:
                 i0 = None
                 _i = self.icon0.resize((124, 176), Image.Resampling.LANCZOS)
-                i = Image.new(self.icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
+                i = Image.new(self.icon0.mode, (220, 176), (0,0,0)).convert('RGBA')
                 i.putalpha(0)
-                ns = (98, 0)
+                ns = (48, 0)
                 i.paste(_i, ns)
                 i0 = i.resize((int(p1.size[0] * 0.10) , int(p1.size[0] * 0.10)), Image.Resampling.HAMMING)
                 if has_transparency(i0):
@@ -247,9 +247,9 @@ class PopFe2Ps3App:
         self.icon0 = popfe2.get_pic_from_game('icon0', disc_id, self.iso[:-4] + '_icon0.png')
         if self.icon0:
             _i = self.icon0.resize((124, 176), Image.Resampling.NEAREST)
-            i = Image.new(self.icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
+            i = Image.new(self.icon0.mode, (220, 176), (0,0,0)).convert('RGBA')
             i.putalpha(0)
-            ns = (98, 0)
+            ns = (48, 0)
             i.paste(_i, ns)
         
             temp_files.append(self.subdir + 'ICON0.PNG')
