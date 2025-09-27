@@ -5309,10 +5309,10 @@ games = {
     'SLUS20066': {
         'id': 'SLUS20066',
         'title': 'HALF-LIFE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//89a6bd65-1c26-4051-9fec-69bf4d179d7b.jpg',
+        'pic0': 'https://images.launchbox-app.com//04fd06bc-7554-4c39-8dcf-b14c060bfa71.png',
+        'pic1': 'https://images.launchbox-app.com//fba120d0-a434-4bda-9df8-650a9bcfcdf3.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=taFEj_R_b48&list=PLB61A980FC7A2E45A&index=1',
     },
     'SLUS21656': {
         'id': 'SLUS21656',
@@ -39471,6 +39471,14 @@ games = {
         #'pic0':
         #'pic1':
         #'snd0':
+    },
+    'SLES55354': {
+        'id': 'SLES55354',
+        'title': 'SHIN MEGAMI TENSEI - PERSONA 3 FES',
+        'icon0': 'https://images.launchbox-app.com/20ecf2a3-c89c-478f-afe1-57c47d976c8a.jpg',
+        'pic0': 'https://images.launchbox-app.com/7aa85da3-418e-4712-8d8e-07145cf4421d.png',
+        'pic1': 'https://images.launchbox-app.com/b32575e1-0012-4cf7-b0c6-053cefe4d846.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=AcCoPQE6g10&list=PLSTGnKiOrGu6AjKEao_YeNd1dU1izbH41&index=1',
     },
     'SLES55364': {
         'id': 'SLES55364',
