@@ -697,6 +697,8 @@ games = {
         'pic0': 'https://images.launchbox-app.com/debbbde8-3976-4f63-9914-dded20c4b429.png',
         'pic1': 'https://images.launchbox-app.com/d1b43290-79ac-4a8b-8522-d84afb96a744.jpg',
         'snd0': 'https://www.youtube.com/watch?v=u6DIxzvecj0&list=PLIlvAC102Yff3NwzEnTjP51OO6mv4ojZu&index=1',
+        #'manual': 'Atelier Iris 2- Azoth of Destiny (USA).pdf',
+        'manual': 'https://www.videogamemanual.com/PS2/Atelier%20Iris%202-%20Azoth%20of%20Destiny%20(USA).pdf',
     },
     'SLUS21564': {
         'id': 'SLUS21564',
@@ -10385,6 +10387,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com//24f6ba6f-c43f-4a34-8c76-2cbee30401da.png',
         'pic1': 'https://images.launchbox-app.com//b40407ca-5538-47c4-8de1-094793897bc1.jpg',
         'snd0': 'https://www.youtube.com/watch?v=cxijYc-IvbE&list=PL4UXm8TvjOPJtZ5d0iJg-fsJFOc5fCOhT&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Rule%20of%20Rose%20(USA).pdf',
     },
     'SLUS20174': {
         'id': 'SLUS20174',
@@ -20800,7 +20803,7 @@ games = {
     'SLPS20010': {
         'id': 'SLPS20010',
         'title': 'Gekikuukan Pro Baseball - The End of the Century 1999',
-        #'icon0':
+        'icon0': 'https://images.launchbox-app.com//f8c449f4-fc53-47ce-94f8-9f10e9509130.jpg',
         #'pic0':
         #'pic1':
         #'snd0':

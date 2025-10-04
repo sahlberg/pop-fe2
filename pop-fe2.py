@@ -34,6 +34,10 @@ try:
 except:
     print('PYTUBE not found. Can not download audio from youtube')
 
+try:
+    import PyPDF2
+except:
+    print('PyPDF2 is not installed.\nYou should install requests by running:\npip3 install PyPDF2')
 
 
 _logo_buffer = bytes([
@@ -1002,6 +1006,134 @@ def get_config(gameid):
     return None
 
 
+def create_manual(source, dest, subdir='./pop-fe2-work/'):
+
+    print('Create manual', source)
+    files = []
+
+    if source[:8] != 'https://':
+        with open(source, 'rb') as f:
+            buf = f.read(4)
+            signature = struct.unpack_from('<I', buf, 0)[0]
+            if signature == 0x20434F44: # a PSP DOCUMENT.DAT file?
+                return source
+            if signature == 0x04034b50: # a ZIP file?
+                print('Is a zip file')
+                tmpfile = subdir + '/DOCUMENT.zip'
+                copy_file(source, tmpfile)
+                source = tmpfile
+
+    print('Create manual from', source)
+    if source[:8] == 'https://':
+        print('Download manual from', source)
+        try:
+            tmpfile = subdir + '/DOCUMENT-' + source.split('/')[-1]
+            subprocess.run(['wget', source, '-O', tmpfile], timeout=240, check=True)
+            print('Downloaded manual as', tmpfile)
+            source = tmpfile
+        except:
+            print('Failed to download manual from', source)
+            return None
+    if source[-4:] == '.zip':
+        print('Unzip manual', source, 'from ZIP')
+        subdir = subdir + '/DOCUMENT-tmp'
+        try:
+            os.mkdir(subdir)
+        except:
+            True
+
+        z = zipfile.ZipFile(source)
+        for f in z.namelist():
+            # Skip any subdirectories that might be created
+            if f[-1] == '/' or f[-1] == '\\':
+                continue
+            f = z.extract(f, path=subdir)
+            files.append(f)
+            source = subdir
+    if source[-4:] == '.cbr':
+        print('Unzip manual', source, 'from CBR')
+        subdir = subdir + '/DOCUMENT-tmp'
+        try:
+            os.mkdir(subdir)
+        except:
+            True
+
+        try:
+            r = rarfile.RarFile(source)
+            for f in r.namelist():
+                f = r.extract(f, path=subdir)
+                files.append(f)
+            source = subdir
+        except:
+            print('Failed to create SOFTWARE MANUAL. Could not extract images from CBR file. Make sure that UNRAR is installed.')
+            return None
+
+    if source[-4:] == '.pdf':
+        print('Extract manual', source, 'from PDF')
+        subdir = subdir + '/DOCUMENT-tmp'
+        try:
+            os.mkdir(subdir)
+        except:
+            True
+        try:
+            idx = 0
+            r = PyPDF2.PdfReader(source)
+            for p in r.pages:
+                for i in p.images:
+                    f = subdir + '/' + f"{idx:04d}" + '.img'
+                    with open(f, "wb") as fp:
+                        fp.write(i.data)                   
+                    idx = idx + 1
+                    files.append(f)
+            source = subdir
+        except:
+            print('Failed to parse PDF.')
+            return None
+            
+    if not os.path.isdir(source):
+        print('Can not create manual.', source, 'is not a directory')
+        return None
+
+    print('Create manual in', dest)
+    with open(dest + '/manual.idx', 'wb') as m:
+        for i, p in enumerate(sorted(files)):
+            print('Create page %03d.dxt' % (i + 1))
+            image = Image.open(p)
+            image.save(dest + '/%03d.png' % (i + 1), 'PNG')
+
+            #https://github.com/BinomialLLC/crunch        
+            if os.name == 'posix':
+                if struct.calcsize("P") == 8:
+                    cmd = os.getcwd() + '/' + '/crunch_x64.exe'
+                else:
+                    cmd = os.getcwd() + '/' + '/crunch.exe'
+                
+                subprocess.run(['wine', cmd, '/DXT1A', '/mipmode', 'None', '/fileformat', 'dds', '-file', '%03d.png' % (i + 1), '/out', '%03d.dds' % (i + 1), '/rescale', '960', '768'], check=True, cwd=dest)
+            else:
+                if struct.calcsize("P") == 8:
+                    cmd = os.getcwd() + '\\' + '/crunch_x64.exe'
+                else:
+                    cmd = os.getcwd() + '\\' + '/crunch.exe'
+                
+                subprocess.run([cmd, '/DXT1A', '/mipmode', 'None', '/fileformat', 'dds', '-file', '%03d.png' % (i + 1), '/out', '%03d.dds' % (i + 1), '/rescale', '960', '768'], check=True, cwd=dest)
+                
+            with open(dest + '/%03d.dds' % (i + 1), 'rb') as inp:
+                inp.seek(128)
+                _i = inp.read()
+                with open(dest + '/%03d.dxt' % (i + 1), 'wb') as f:
+                    _b = bytes([0xc0, 0x03, 0x00, 0x00, 0x00, 0x03, 0x00, 0x00])
+                    f.write(_b)
+                    f.write(_i)
+            
+            os.remove(dest + '/%03d.png' % (i + 1))
+            os.remove(dest + '/%03d.dds' % (i + 1))
+            
+            m.write(bytes('%03d.dxt' % (i + 1), encoding='utf-8'))
+            m.write(b'\x0a')
+
+    return
+        
+
 def create_pkg(iso, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'):
     # get config
     config = get_config(gameid)
@@ -1011,6 +1143,14 @@ def create_pkg(iso, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work')
     subdir = subdir + '/' + cid
     os.mkdir(subdir)
     os.mkdir(subdir + '/USRDIR')
+
+    try:
+        if 'manual' in games[gameid]:
+            print('Found a manual')
+            os.mkdir(subdir + '/USRDIR/CONTENT')
+            create_manual(games[gameid]['manual'], subdir + '/USRDIR/CONTENT', subdir='./pop-fe2-work/')
+    except:
+        True
 
     if icon0:
         icon0 = icon0.resize((124, 176), Image.Resampling.LANCZOS)

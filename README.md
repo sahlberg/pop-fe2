@@ -100,4 +100,11 @@ cd make_npdata/Linux/
 make
 cd ../..
 
+#
+# Optional: If you want to create Software Manual
+#
+sudo dnf install -y wine
+git clone https://github.com/BinomialLLC/crunch.git
+cp crunch/bin/crunch*.exe .
+
 ```
