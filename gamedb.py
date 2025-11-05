@@ -10757,10 +10757,10 @@ games = {
     'SLUS20347': {
         'id': 'SLUS20347',
         'title': 'SHADOW HEARTS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//d3e39e65-02ea-4487-a2e8-6fdd61bbbbfa.jpg',
+        'pic0':  'https://gamesdb-images.launchbox.gg/r2_e8b2c00c-3922-4ca5-a0f6-963bd8270ab5.png',
+        'pic1': 'https://images.launchbox-app.com//5b8ab9ff-abdb-420b-883d-9206bc37028b.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=4z6hOVx33fE&list=PL7wKx1YpR-lzDJWbsAZadAy_KNVo7GM5q&index=63',
     },
     'SLUS21326': {
         'id': 'SLUS21326',

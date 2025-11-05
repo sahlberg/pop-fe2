@@ -53,13 +53,51 @@ $ find /path/to/my/isos | egrep ".iso$" | while read ISO; do ./pop-fe2.py --ps3-
 Installation
 ============
 
+Fedora42
+--------
 ```console
-# Make sure your system has the following packages installed:
-# git python3 libsndfile ffmpeg make cmake
-# Clone all submodules
-git submodule update --init --recursive
-# Build required tools
+# Prerequisites
+sudo dnf group install -y development-tools
+sudo dnf install -y git
+sudo dnf install -y g++
+sudo dnf install -y cmake
+sudo dnf install -y python-is-python3
+sudo dnf install -y pip3
+sudo dnf install -y python3-devel
+sudo dnf install -y python-tkinter
+sudo dnf install -y libsndfile-devel
+sudo dnf install -y ffmpeg
+sudo dnf install -y nodejs
+sudo dnf install -y p7zip
+
+pip3 install pygubu
+pip3 install pillow
+pip3 install pytubefix
+pip3 install PyPDF2
+pip3 install requests
+pip3 install pycdlib
+pip3 install ecdsa
+pip3 install tkinterdnd2
+pip3 install rarfile
+
+# Clone the repository
+git clone --recursive https://github.com/sahlberg/pop-fe2.git
+cd pop-fe2
+
+wget https://archive.org/download/ps2-opl-cover-art-set/PS2_OPL_ART_kira.7z
+7za x PS2_OPL_ART_kira.7z
+
+cd ps2classic/ps2classic-ps2classic/
 make
-# Install python requirements
-pip3 install -r requirements.txt 
+cd ../..
+
+cd PSL1GHT/tools/ps3py/
+git checkout origin/use-python3
+make
+cd ../../..
+
+cd make_npdata/Linux/
+make
+cd ../..
+
 ```
