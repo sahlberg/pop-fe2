@@ -185,6 +185,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com//b38543f3-fe9a-49ce-8918-6138fd087245.png',
         'pic1': 'https://images.launchbox-app.com//02b90700-e2d0-4919-b02c-bd11347329cd.jpg',
         'snd0': 'https://www.youtube.com/watch?v=fsxGOO6BYGU&list=PL23A635021128F21F&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Ace%20Combat%2004-%20Shattered%20Skies%20(USA).pdf',
     },
     'SLUS20851': {
         'id': 'SLUS20851',
@@ -193,6 +194,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com//0a29661a-9080-4022-bdb5-8fc1c5db3044.png',
         'pic1': 'https://images.launchbox-app.com//08622bb1-5cd1-4a96-a805-c132a24d583d.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Y6__YBUTxkI&list=PLB5A294C912C49005&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Ace%20Combat%205-%20The%20Unsung%20War%20(USA).pdf',
     },
     'SLUS21346': {
         'id': 'SLUS21346',
@@ -201,6 +203,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com//2ac3836b-b9f1-4f70-99f1-927fc9b152e9.png',
         'pic1': 'https://images.launchbox-app.com//23832261-b0d6-47e2-97ef-634ab7c3c80a.jpg',
         'snd0': 'https://www.youtube.com/watch?v=arEyMsfhhV8&list=PLvIijwMJJUiB8_WQrVVlIWM7A-AQ4w8zV&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Ace%20Combat%20Zero-%20The%20Belkan%20War%20(USA).pdf',
     },
     'SLUS20588': {
         'id': 'SLUS20588',
@@ -208,7 +211,8 @@ games = {
     #    'icon0': 
     #    'pic0': 
     #    'pic1': 
-    #    'snd0': 
+    #    'snd0':
+         'manual': 'https://www.videogamemanual.com/PS2/Activision%20Anthology%20(USA).pdf',
     },
     'SLUS21205': {
         'id': 'SLUS21205',
@@ -217,6 +221,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com//65acb5e5-9a53-43c9-8525-bb9095f6d641.png',
         'pic1': 'https://images.launchbox-app.com//26de2b14-cc64-440a-a1d8-1ca41b406c1f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=28wVyV4tfXw&list=PLohYzz4btpaQrMM9AqRdvbNoxgz3xZrhf&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Aeon%20Flux%20(USA).pdf',
     },
     'SLUS20614': {
         'id': 'SLUS20614',
@@ -225,70 +230,79 @@ games = {
         'pic0': 'https://images.launchbox-app.com//fabe0f47-7d37-43fc-ad1e-043e25c22925.png',
         'pic1': 'https://images.launchbox-app.com//c7a5f1cb-2710-49f7-9667-ad1cd0b46172.jpg',
         'snd0': 'https://www.youtube.com/watch?v=RFykvuJl42s&list=PLP8_sGncyT5TW6xADaoawxzB5wijfnkyR&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Aero%20Elite-%20Combat%20Academy%20(USA).pdf',
     },
     'SLUS20446': {
         'id': 'SLUS20446',
         'title': 'Agassi - Tennis Generation',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com//fa8dc383-abb8-497a-a3b8-df1e9849408d.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Agassi%20Tennis%20Generation%20(USA).pdf',
     },
     'SLUS20327': {
         'id': 'SLUS20327',
         'title': 'AGGRESIVE INLINE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//1eda0307-a454-467f-8258-f01359d2601b.png',
+        'pic0': None,
+        'pic1': 'https://images.launchbox-app.com//d1df7d97-7d1a-4e3b-b220-f1cdd71ab485.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Aggressive%20Inline%20(USA).pdf',
     },
     'SLUS20346': {
         'id': 'SLUS20346',
         'title': 'AIRFORCE DELTA STRIKE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//33699683-eb00-4f52-a98c-600cf1cc114f.jpg',
+        'pic0': 'https://images.launchbox-app.com//03cfdefa-bb55-4fea-a57b-9913b9618e45.png',
+        'pic1': 'https://images.launchbox-app.com//c3f0b5e5-a58c-4bcc-8e84-968337ae257f.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Airforce%20Delta%20Strike%20(USA).pdf',
     },
     'SLUS20346': {
         'id': 'SLUS20346',
         'title': 'AIRBLADE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//5283b2fe-3f12-45b7-bdcd-31e6cbf88ac8.jpg',
+        'pic0': 'https://images.launchbox-app.com//157e5308-bfb5-4dba-94dd-582f4ffe3719.png',
+        'pic1': 'https://images.launchbox-app.com//10d24761-33a6-49a8-b4b3-c106cd4fa402.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Airblade%20(USA).pdf',
     },
     'SLUS21125': {
         'id': 'SLUS21125',
         'title': 'AIRBORNE TROOPS - COUNTDOWN TO D-DAY',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//ae88196b-3ec1-4de5-8124-8b6d6c2dbb4c.jpg',
+        'pic0': 'https://images.launchbox-app.com//71960733-37d8-4c17-8080-67330d744721.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Airborne%20Troops-%20Countdown%20to%20D-Day%20(USA).pdf',
     },
     'SLUS21321': {
         'id': 'SLUS21321',
         'title': 'Alfa Romeo Racing Italiano',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//c8e0aad7-122c-4b6b-9c48-7fa9e1a5dadd.png',
+        'pic0': 'https://images.launchbox-app.com//b34fcb7e-0c92-4c08-9f06-ab7cf6ab7c3d.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/ALFA%20ROMEO-%20Racing%20Italiano%20(USA).pdf',
     },
     'SLUS20673': {
         'id': 'SLUS20673',
         'title': 'ALIAS',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//56639fb5-ce31-4f37-8f26-6b4c25aa16e1.jpg',
+        'pic0': 'https://images.launchbox-app.com//c08c25ef-d5ca-45a9-8007-78bb23caab2a.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Alias%20(USA).pdf',
     },
     'SLUS21090': {
         'id': 'SLUS21090',
         'title': 'Alien Hominid',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//ceeeabc1-80ec-4cca-bb2d-e2a40b75a253.jpg',
+        'pic0': 'https://images.launchbox-app.com//98781198-8eb7-4c74-90cb-353b401eb280.png',
+        'pic1': 'https://images.launchbox-app.com//89caa90e-73a5-432a-a3c4-1a6415fa80fe.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Alien%20Hominid%20(USA).pdf',
     },
     'SLUS20147': {
         'id': 'SLUS20147',
@@ -297,30 +311,34 @@ games = {
         'pic0': 'https://images.launchbox-app.com//2059af37-1309-4bd6-a038-4aedd6e4e07a.png',
         'pic1': 'https://images.launchbox-app.com//1b646c0c-b222-4914-8c47-46f3e5ee0e18.jpg',
         'snd0': 'https://www.youtube.com/watch?v=G0KOMOpbGQw&list=PLXEKi3jJ0r_1lcdcPU2T0bmWl_m8rx53Z&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Aliens%20Versus%20Predator-%20Extinction%20(USA).pdf',
     },
     'SLUS20008': {
         'id': 'SLUS20008',
         'title': 'All-Star Baseball 2002',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//f5a4bfdc-f317-4056-a8f4-92a59b1515f7.jpg',
+        'pic0': 'https://images.launchbox-app.com//cf50f9a7-bac8-4fab-8a19-78ca03ba4bf0.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/All-Star%20Baseball%202002%20(USA).pdf',
     },
     'SLUS20311': {
         'id': 'SLUS20311',
         'title': 'All-Star Baseball 2003',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//74688ecd-dcaa-49a1-9775-e01efc8930c7.jpg',
+        'pic0': 'https://images.launchbox-app.com//1c9d1d9f-953b-4d69-bd5b-c93322d3ee0e.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/All-Star%20Baseball%202003%20(USA).pdf',
     },
     'SLUS20569': {
         'id': 'SLUS20569',
         'title': 'All-Star Baseball 2004',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//d4a0de03-001f-4916-8c6b-d96699162fed.jpg',
+        'pic0': 'https://images.launchbox-app.com//cac9875b-5c69-4842-b1ca-1b43b5241091.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/All-Star%20Baseball%202004%20(USA).pdf',
     },
     'SLUS20838': {
         'id': 'SLUS20838',
@@ -329,78 +347,88 @@ games = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/All-Star%20Baseball%202005%20(USA).pdf',
     },
     'SLUS21690': {
         'id': 'SLUS21690',
         'title': 'ALONE IN THE DARK',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//378994ff-7d64-49b3-9a9f-33f00cc68117.jpg',
+        'pic0': 'https://images.launchbox-app.com//a97662a6-1a99-4890-8bd6-29faac6b657a.png',
+        'pic1': 'https://images.launchbox-app.com//897274cc-ff95-4878-aa31-e3b87c4fe8b7.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Alone%20in%20the%20Dark%20(USA).pdf',
     },
     'SLUS20465': {
         'id': 'SLUS20465',
         'title': 'Alter Echo',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//d2bec6b4-c8dd-4eed-b943-85dacd726105.png',
+        'pic0': 'https://images.launchbox-app.com//33e40ef6-88d1-428b-8a94-aa0b8d63d430.png',
+        'pic1': 'https://images.launchbox-app.com//d811ecf0-1bf1-4243-a83f-f29db5282d49.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Alter%20Echo%20(USA).pdf',
     },
     'SLUS21706': {
         'id': 'SLUS21706',
         'title': 'Alvin and The Chipmunks',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//9e274997-a40e-49f3-bc27-0e8ed22206aa.jpg',
+        'pic0': 'https://images.launchbox-app.com//aa9fd359-d1b7-43d3-a1e9-0e9d1511ff6d.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Alvin%20and%20the%20Chipmunks%20(USA).pdf',
     },
     'SLUS21069': {
         'id': 'SLUS21069',
         'title': 'American Chopper',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//1a1261d1-df91-4345-9424-36874e4e1b68.jpg',
+        'pic0': 'https://images.launchbox-app.com//afbf51cf-be71-4636-8a34-fa9d65335fe4.png',
+        'pic1': 'https://images.launchbox-app.com//5f0e5063-e479-482d-9612-595f32110d2a.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/American%20Chopper%20(USA).pdf',
     },
     'SLUS21288': {
         'id': 'SLUS21288',
         'title': 'American Chopper 2',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//5801e13b-bf83-4a9c-9e3b-b64bd165f9bd.png',
+        'pic0': 'https://images.launchbox-app.com//432f341e-2fbf-455c-b8ec-218508e6db8b.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/American%20Chopper%202-%20Full%20Throttle%20(USA).pdf',
     },
     'SLUS20816': {
         'id': 'SLUS20816',
         'title': 'American Idol',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//84aabe52-e354-4312-a8ff-3a7c9a28d5a7.jpg',
+        'pic0': 'https://images.launchbox-app.com//bbdf395a-a44b-4a29-9e24-00eda5ad86df.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/American%20Idol%20(USA).pdf',
     },
     'SLUS21347': {
         'id': 'SLUS21347',
         'title': 'AMF Xtreme Bowling',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//626652b1-9306-4810-a69e-f3cd538875af.jpg',
+        'pic0': 'https://images.launchbox-app.com//2f73cc0b-5709-42ec-b813-19d10d9237b1.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/AMF%20Xtreme%20Bowling%20(USA).pdf',
     },
     'SCUS97258': {
         'id': 'SCUS97258',
         'title': 'Amplitude',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//82496b0a-1d7f-45f2-9c49-1f317898bb05.jpg',
+        'pic0': 'https://images.launchbox-app.com//2c77188b-10f8-4036-b8bf-4a3672c4ef4f.png',
+        'pic1': 'https://images.launchbox-app.com//e93e1a6a-7c8e-49bb-8355-d4f8839d17b9.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Amplitude%20(USA).pdf',
     },
     'SLUS21237': {
         'id': 'SLUS21237',
         'title': 'And 1 Streetball',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//2f714ef6-a194-4a63-a83d-ceacfe67e193.jpg',
+        'pic0': 'https://images.launchbox-app.com//9e9245d2-e3c2-4615-8c10-41bd2a3d4eec.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/AND%201%20Streetball%20(USA).pdf',
     },
     'SLUS20392': {
         'id': 'SLUS20392',
@@ -409,14 +437,16 @@ games = {
         'pic0': 'https://images.launchbox-app.com/6e7487bb-9941-4d25-a0f8-4e6c39e307d3.png',
         'pic1': 'https://images.launchbox-app.com/eff27e58-3667-4fcb-8940-798a9c90944f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=iFw-V31MEPY',
+        'manual': 'https://www.videogamemanual.com/PS2/Antz%20Extreme%20Racing%20(USA).pdf',
     },
     'SLUS21096': {
         'id': 'SLUS21096',
         'title': 'APE ESCAPE - PUMPED & PRIMED',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//9909ee20-dad1-4890-bdc2-b3daa08f64c7.jpg',
+        'pic0': 'https://images.launchbox-app.com//a7b0066a-93a2-4b60-8548-cbb0d26cc971.png',
+        'pic1': 'https://images.launchbox-app.com//1b2c8123-c637-427a-a4e9-9014fafc7847.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Ape%20Escape-%20Pumped%20&%20Primed%20(USA).pdf',
     },
     'SLUS20685': {
        'id': 'SLUS20685',
@@ -425,6 +455,7 @@ games = {
        'pic0': 'https://images.launchbox-app.com/a3d22b07-e19e-4592-9f0b-f37426354cc9.png',
        'pic1': 'https://images.launchbox-app.com/1c5c8370-5dda-46db-be73-a587e88c304f.jpg',
        'snd0': 'https://www.youtube.com/watch?v=RZpIFX57cnY',
+       'manual': 'https://www.videogamemanual.com/PS2/Ape%20Escape%202%20(USA).pdf',
     },
     'SCUS97501': {
        'id': 'SCUS97501',
@@ -433,22 +464,25 @@ games = {
        'pic0': 'https://images.launchbox-app.com/b58f10d5-efe1-4d6e-8177-5dad86123549.png',
        'pic1': 'https://images.launchbox-app.com/0a40b8a8-3d26-4329-819d-d6a17f9c793a.jpg',
        'snd0': 'https://www.youtube.com/watch?v=ZWyFZ3XunOc',
+       'manual': 'https://www.videogamemanual.com/PS2/Ape%20Escape%203%20(USA).pdf',
     },
     'SLUS20162': {
         'id': 'SLUS20162',
         'title': 'AQUA AQUA',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//ca74e7f6-60ce-438f-bad3-3dc4062596ca.jpg',
+        'pic0': 'https://images.launchbox-app.com//4d3e1357-6343-4fe8-af90-9adf11a13e7d.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Aqua%20Aqua%20(USA).pdf',
     },
     'SLUS21633': {
         'id': 'SLUS21633',
         'title': 'Aqua Teen Hunger Force - Zombie Ninja Pro-Am',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//27700742-be07-4213-9fe6-74e1b2b02624.jpg',
+        'pic0': 'https://images.launchbox-app.com//0f18504f-a1d3-4a4f-a976-07f144c7a303.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Aqua%20Teen%20Hunger%20Force-%20Zombie%20Ninja%20Pro-Am%20(USA).pdf',
     },
     'SLUS21445': {
         'id': 'SLUS21445',
@@ -457,6 +491,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/c8e9b4b7-e207-47f0-89ee-bfaa2d4b8937.png',
         'pic1': 'https://images.launchbox-app.com//864c2e68-c26c-49b6-ab06-5bb27519070a.jpg',
         'snd0': 'https://www.youtube.com/watch?v=eoicX3RPf5Q&list=PLYUmjIUAN03qly6Z1AhqM6CAHvtewKM-J&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Ar%20tonelico-%20Melody%20of%20Elemia%20(USA).pdf',
     },
     'SLUS21788': {
         'id': 'SLUS21788',
@@ -465,6 +500,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/d8dca774-1868-4d91-b781-ed7b4fd325e5.png',
         'pic1': 'https://images.launchbox-app.com/d8bc7715-80f2-4981-8f3a-328cb35d6bf6.jpg',
         'snd0': 'https://www.youtube.com/watch?v=kbTZtCGVHas&list=PLdZj77TevUQ-HelFPLMk8CS2ba3sLuY6U&index=5',
+        'manual': 'https://www.videogamemanual.com/PS2/Ar%20tonelico%20II-%20Melody%20of%20Metafalica%20(USA).pdf',
     },
     'SLUS21165': {
         'id': 'SLUS21165',
@@ -473,6 +509,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/d03e3eb4-26ea-40dc-81e6-2da7287907d1.png',
         'pic1': 'https://www.creativeuncut.com/social/arc-the-lad-end-of-darkness.jpg',
         'snd0': 'https://www.youtube.com/watch?v=LZVQw09jzF8&list=PLhPt7n-ALrSCkaMuXyYBc8m3PlyQ0nvKU&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Arc%20the%20Lad-%20End%20of%20Darkness%20(USA).pdf',
     },
     'SCUS97231': {
         'id': 'SCUS97231',
@@ -481,6 +518,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/1cda8c87-c184-4f10-b97d-68187403929a.png',
         'pic1': 'https://images.launchbox-app.com/8767c4f8-1b45-4aa1-8f39-75752dc2f56d.jpg',
         'snd0': 'https://www.youtube.com/watch?v=LZVQw09jzF8&list=PLF3B5766FB4E8CE29&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Arc%20the%20Lad-%20Twilight%20of%20the%20Spirits%20(USA).pdf',
     },
     'SLUS21720': {
         'id': 'SLUS21720',
@@ -489,22 +527,25 @@ games = {
         'pic0': 'https://images.launchbox-app.com/bf54e81c-e620-4b29-8b0f-57f62c0c0c45.png',
         'pic1': 'https://images.launchbox-app.com/a23918cc-4648-445b-a014-ec27fc4ebe20.jpg',
         'snd0': 'https://www.youtube.com/watch?v=5y9m3cai268&list=PLFCND4El7mE4wQJtrWm_I9i3f-Y1pH3k2&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Arcana%20Heart%20(USA).pdf',
     },
     'SLUS20217': {
         'id': 'SLUS20217',
         'title': 'ARCTIC THUNDER',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//fe06d247-45ee-49cc-8afc-4f35b925d7f8.jpg',
+        'pic0': 'https://images.launchbox-app.com//6f44f127-4a94-492d-9420-16fc440fdb67.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Arctic%20Thunder%20(USA).pdf',
     },
     'SLUS21755': {
         'id': 'SLUS21755',
         'title': 'Are You Smarter Than a 5th Grader - Make the Grade',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//81edb3c1-899a-4b19-a12b-ec91cb31d52d.jpg',
+        'pic0': 'https://images.launchbox-app.com//b2cea2b5-7c07-4bd8-855a-24fff02f677c.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Are%20You%20Smarter%20Than%20A%205th%20Grader-%20Make%20the%20Grade%20(USA).pdf',
     },
     'SLUS20595': {
         'id': 'SLUS20595',
@@ -513,22 +554,25 @@ games = {
         'pic0': 'https://images.launchbox-app.com/258285d0-7bb1-4c45-ac6e-aeb81df7a2bc.png',
         'pic1': 'https://images.launchbox-app.com/f645d497-f74b-4118-bda7-536f17491228.jpg',
         'snd0': 'https://www.youtube.com/watch?v=1q-2G6sUWqY&list=PLO4jlmGoc6uAe8asuAlK2RrLmFrhzP0fn&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Area%2051%20(USA).pdf',
     },
     'SLUS21337': {
         'id': 'SLUS21337',
         'title': 'Arena Football',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//c925fa41-8a60-4e7d-b731-a32f8d93e13a.jpg',
+        'pic0': 'https://images.launchbox-app.com//59ac66a3-bf7f-4d7e-9c40-66cecf90cf3c.png',
+        'pic1': 'https://images.launchbox-app.com//1ac5fa8e-1c16-4127-9bd4-d938c6c9fe0d.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Arena%20Football%20(USA).pdf',
     },
     'SLUS21568': {
         'id': 'SLUS21568',
         'title': 'Arena Football - Road to Glory',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//7bd8bef2-f684-49f0-8f7f-0c5314e5fd90.jpg',
+        'pic0': 'https://images.launchbox-app.com//b6f7418c-a2ce-435a-acd2-cd771c66aa15.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Arena%20Football-%20Road%20to%20Glory%20(USA).pdf',
     },
     'SLUS21338': {
         'id': 'SLUS21338',
@@ -537,6 +581,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/6c4c0bff-015c-4ef9-ab50-61111ad1fa57.png',
         'pic1': 'https://images.launchbox-app.com/695a4414-c49a-418c-83b0-bf5025c1ca1f.png',
         'snd0': 'https://www.youtube.com/watch?v=phwnXJNQgUg&list=PL95528CC0C1553043&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Armored%20Core-%20Last%20Raven%20(USA).pdf',
     },
     'SLUS21200': {
         'id': 'SLUS21200',
@@ -545,6 +590,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/b38e1c4e-c27b-406c-bcc6-f85327d744ae.png',
         'pic1': 'https://images.launchbox-app.com/f59bcd4b-346a-4310-a402-d3c43116153d.jpg',
         'snd0': 'https://www.youtube.com/watch?v=yqwhIdrWDTU&list=PL7YuVu11Ud-JCVFr-9Toq6T3PlzaBP5Qi&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Armored%20Core-%20Nine%20Breaker%20(USA).pdf',
     },
     'SLUS20644': {
         'id': 'SLUS20644',
@@ -553,6 +599,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/1d582006-679d-4a5e-9d82-a5be2cd1551b.png',
         'pic1': 'https://images.launchbox-app.com/51366f36-3e03-42c6-a36f-8e8883683a26.png',
         'snd0': 'https://www.youtube.com/watch?v=nG4LLe-p9i8&list=PL21CA9A739E54E8C8&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Armored%20Core-%20Silent%20Line%20(USA).pdf',
     },
     'SLUS20014': {
         'id': 'SLUS20014',
@@ -561,6 +608,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/3a8bc5ee-5535-4cb4-b1f6-0484ee2a1550.png',
         'pic1': 'https://images.launchbox-app.com/30ea59f5-163b-47f6-8e7a-da2a4532b6ce.jpg',
         'snd0': 'https://www.youtube.com/watch?v=X_ENAJhhxJs&list=PL46819FAB420F5241&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Armored%20Core%202%20(USA).pdf',
     },
     'SLUS20249': {
         'id': 'SLUS20249',
@@ -569,6 +617,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/e37da306-5a3d-4659-893f-c3d688380c86.png',
         'pic1': 'https://images.launchbox-app.com/d08c497b-c829-410e-a4b7-380c7ac21556.jpg',
         'snd0': 'https://www.youtube.com/watch?v=np2GFpInihQ&list=PLhPt7n-ALrSCAnhOx-k_u7-3WNsrDN7cT&index=4',
+        'manual': 'https://www.videogamemanual.com/PS2/Armored%20Core%202-%20Another%20Age%20(USA).pdf',
     },
     'SLUS20435': {
         'id': 'SLUS20435',
@@ -577,6 +626,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/ab0603df-2239-4ef6-b117-efae877060d6.png',
         'pic1': 'https://images.launchbox-app.com/862d3988-b7be-4e03-86d2-59635ca8fdad.jpg',
         'snd0': 'https://www.youtube.com/watch?v=-huNmW3uY-E&list=PL69D9ECF0C849DF62&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Armored%20Core%203%20(USA).pdf',
     },
     'SLUS20986': {
         'id': 'SLUS20986',
@@ -585,6 +635,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/5783686e-db5f-4b29-a477-db27c2d887e2.png',
         'pic1': 'https://images.launchbox-app.com/295fa8ed-73df-4cf0-8d7c-36231f29567c.jpg',
         'snd0': 'https://www.youtube.com/watch?v=4-BamISde_M&list=PLF3B8ECB22D92FF14&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Armored%20Core-%20Nexus%20(USA).pdf',
     },
     'SLUS21079': {
         'id': 'SLUS21079',
@@ -593,70 +644,79 @@ games = {
         'pic0': 'https://images.launchbox-app.com/5783686e-db5f-4b29-a477-db27c2d887e2.png',
         'pic1': 'https://images.launchbox-app.com/295fa8ed-73df-4cf0-8d7c-36231f29567c.jpg',
         'snd0': 'https://www.youtube.com/watch?v=4-BamISde_M&list=PLF3B8ECB22D92FF14&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Armored%20Core-%20Nexus%20(USA).pdf',
     },
     'SLUS20004': {
         'id': 'SLUS20004',
         'title': 'Army Men - Air Attack 2',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//77bcdc49-6580-4465-96f9-20f535381608.jpg',
+        'pic0': 'https://images.launchbox-app.com//e1b29b80-0265-4c79-b2bf-fb8edc87d911.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Army%20Men-%20Air%20Attack%202%20(USA).pdf',
     },
     'SLUS20087': {
         'id': 'SLUS20087',
         'title': 'Army Men - Green Rogue',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//9b7a1d53-0c79-4de6-b0fb-ae62886eef94.jpg',
+        'pic0': 'https://images.launchbox-app.com//6bea57e9-9b3c-4597-9b1e-102afc1d2ed3.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Army%20Men-%20Green%20Rogue%20(USA).pdf',
     },
     'SLUS20206': {
         'id': 'SLUS20206',
         'title': 'Army Men - RTS - Real Time Strategy',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//33a3cc0c-dd89-4b66-bf74-e48cd75f61d8.jpg',
+        'pic0': 'https://images.launchbox-app.com//2c3260ed-928e-4918-9aab-7b3d4ca7a19c.png',
+        'pic1': 'https://images.launchbox-app.com//49902c28-701c-441e-8ea8-153a83bb2dac.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Army%20Men-%20RTS%20(USA).pdf',
     },
     'SLUS20132': {
         'id': 'SLUS20132',
         'title': 'Army Men - Sarge\'s Heroes 2',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//b1b1a658-d264-43eb-90dd-a487eece107d.jpg',
+        'pic0': 'https://images.launchbox-app.com//dd95b5ce-4604-4f19-9982-e40603f79533.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Army%20Men-%20Sarge\'s%20Heroes%202%20(USA).pdf',
     },
     'SLUS21831': {
         'id': 'SLUS21831',
         'title': 'Army Men - Soldiers of Misfortune',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//97e2eddf-fdc1-44eb-9423-7e0374457f2f.jpg',
+        'pic0': 'https://images.launchbox-app.com//d4a029d5-3ea7-4158-bc6d-2f9895d3d219.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Army%20Men-%20Soldiers%20of%20Misfortune%20(USA).pdf',
     },
     'SLUS21487': {
         'id': 'SLUS21487',
         'title': 'ART OF FIGHTING ANTHOLOGY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//dbd41768-fe51-40f2-b479-6aa485e67c3f.jpg',
+        'pic0': 'https://images.launchbox-app.com//7d60c695-3d3c-44cd-9b45-86123bd4098c.png',
+        'pic1': 'https://images.launchbox-app.com//698ce6aa-8b8d-4e57-831a-32ba135ca0dd.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Art%20of%20Fighting%20Anthology%20(USA).pdf',
     },
     'SLUS21305': {
         'id': 'SLUS21305',
         'title': 'ARTHUR AND THE INVISIBLES - THE GAME',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//8f2ddb65-5774-4446-b193-4fb782e75464.jpg',
+        'pic0': 'https://images.launchbox-app.com//c602adac-f2b5-409e-b1fb-b47c4d365d1e.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Arthur%20and%20the%20Invisibles-%20The%20Game%20(USA).pdf',
     },
     'SLUS20866': {
         'id': 'SLUS20866',
         'title': 'ASTERIX & OBELIX XXL - KICK BUTTIX',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//91d1b0c5-cb1f-447f-aedb-c5ada0dd6f09.jpg',
+        'pic0': 'https://images.launchbox-app.com//74dee539-914c-4e9c-833b-9b49a33ea775.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Asterix%20&%20Obelix-%20Kick%20Buttix%20(USA).pdf',
     },
     'SLUS20867': {
         'id': 'SLUS20867',
@@ -665,6 +725,7 @@ games = {
         'pic0': None,
         'pic1': 'https://images.launchbox-app.com//8a6ef8a0-d9fd-419a-847b-c0d71a174334.jpg',
         'snd0': 'https://www.youtube.com/watch?v=qwKvMg7izUk&list=PLjNtrGnm_DhjlD9nKFwqAnA2PD-fQ0km5&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Astro%20Boy%20(USA).pdf',
     },
     'SLUS21895': {
         'id': 'SLUS21895',
@@ -673,6 +734,7 @@ games = {
         'pic0': None,
         'pic1': 'https://images.launchbox-app.com//d3a08777-6f4d-490a-85d3-b5c6b82b51ba.jpg',
         'snd0': 'https://www.youtube.com/watch?v=mbBOwXb4_s4&list=PL_mKYXhySHn9L6V2B39-tqrOVQvVDx3z4&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Astro%20Boy-%20The%20Video%20Game%20(USA).pdf',
     },
     'SLUS21076': {
     	'id': 'SLUS21076',
@@ -681,6 +743,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/a93fa61a-42b1-4c3a-b535-cd0330fa9192.png',
         'pic1': 'https://images.launchbox-app.com/213058f4-07ea-4622-8e7b-6fedf015fc6f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=vVgV_vnf5ww',
+        'manual': 'https://www.videogamemanual.com/PS2/Atari%20Anthology%20(USA).pdf',
     },
     'SLUS21113': {
         'id': 'SLUS21113',
@@ -689,6 +752,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/20252ccf-af92-4228-9f91-e9eb5941d8fc.png',
         'pic1': 'https://images.launchbox-app.com/ca6ce3ed-e494-4c86-99d5-665f5cb25a88.jpg',
         'snd0': 'https://www.youtube.com/watch?v=rQwqdpObf6Y&list=PLmUydSF87BIwSDOp8NQpVRkyAcmpQlHRA&index=53',
+        'manual': 'https://www.videogamemanual.com/PS2/Atelier%20Iris-%20Eternal%20Mana%20(USA).pdf',
     },
     'SLUS21327': {
         'id': 'SLUS21327',
@@ -707,62 +771,70 @@ games = {
         'pic0': 'https://images.launchbox-app.com/52c9d66f-9f3c-4ff5-bf34-e9681ffc9e3c.png',
         'pic1': 'https://images.launchbox-app.com/2f85d9bb-646c-4d7a-ac75-550cfff5fcd1.jpg',
         'snd0': 'https://www.youtube.com/watch?v=QvQ8D4pta6k&list=PLDU_M3KLdjMXZjjJtV5BTYKNPldmg5Nj-&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Atelier%20Iris%203-%20Grand%20Phantasm%20(USA).pdf',
     },
     'SCUS97379': {
         'id': 'SCUS97379',
         'title': 'ATHENS 2004',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//d6499425-4f84-4af3-ac46-d00bc160a1c0.jpg',
+        'pic0': 'https://images.launchbox-app.com//8ed49756-a3d9-4be2-985f-69449967b458.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Athens%202004%20(USA).pdf',
     },
     'SCUS97104': {
         'id': 'SCUS97104',
         'title': 'ATV Off-Road Fury',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//c08e2b48-439c-458b-9155-736d05436d53.jpg',
+        'pic0': 'https://images.launchbox-app.com//2c48a322-07a0-4725-a8ac-eeccaaf69e20.png',
+        'pic1': 'https://images.launchbox-app.com//476f2008-1cc7-4c80-82f0-d170deee6320.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/ATV%20Offroad%20Fury%20(USA).pdf',
     },
     'SCUS97211': {
         'id': 'SCUS97211',
         'title': 'ATV Off-Road Fury 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//e500fca3-b635-4665-90c4-4ae271b03d7b.jpg',
+        'pic0': 'https://images.launchbox-app.com//26b76861-814c-4943-bce6-92fad29b35c2.png',
+        'pic1': 'https://images.launchbox-app.com//3a15f66a-3b2a-4c00-8ce1-fb487670894b.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/ATV%20Offroad%20Fury%202%20(USA).pdf',
     },
     'SCUS97369': {
         'id': 'SCUS97369',
         'title': 'ATV Off-Road Fury 2 (PlayStation 2 Combo Pack)',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//e500fca3-b635-4665-90c4-4ae271b03d7b.jpg',
+        'pic0': 'https://images.launchbox-app.com//26b76861-814c-4943-bce6-92fad29b35c2.png',
+        'pic1': 'https://images.launchbox-app.com//3a15f66a-3b2a-4c00-8ce1-fb487670894b.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/ATV%20Offroad%20Fury%202%20(Not%20For%20Resale)%20(USA).pdf',
     },
     'SCUS97405': {
         'id': 'SCUS97405',
         'title': 'ATV Off-Road Fury 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//c201c1d3-14a3-48e8-8299-c1bc79414694.jpg',
+        'pic0': 'https://images.launchbox-app.com//55644e70-97c9-429d-9eab-5607d551ed5d.png',
+        'pic1': 'https://images.launchbox-app.com//3b91e1a8-5298-40de-80c0-cf93a37d4a06.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/ATV%20Offroad%20Fury%203%20(USA).pdf',
     },
     'SCUS97419': {
         'id': 'SCUS97419',
         'title': 'ATV Off-Road Fury 4',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//b0f5136f-eb61-479f-bf63-aedb0db080ab.jpg',
+        'pic0': 'https://images.launchbox-app.com//25e9bbee-4d3e-4b3f-b214-a8cdc72869fc.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/ATV%20Offroad%20Fury%204%20(USA).pdf',
     },
     'SLUS20570': {
         'id': 'SLUS20570',
         'title': 'ATV Quad Power Racing 2',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//e0af992d-c351-40b6-ade6-5c2013eb72a2.jpg',
+        'pic0': 'https://gamesdb-images.launchbox.gg/r2_2c5863fe-a372-42d2-a3cd-3ed63e5103cb.png',
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/ATV%20Quad%20Power%20Racing%202%20(USA).pdf',
     },
     'SLUS20642': {
         'id': 'SLUS20642',
@@ -771,30 +843,34 @@ games = {
         'pic0': 'https://images.launchbox-app.com/5f8a56cb-e2d4-4b78-8675-287101b58e3d.png',
         'pic1': 'https://images.launchbox-app.com/a9c7138e-2f3c-4575-97f3-760a1349dd3a.png',
         'snd0': 'https://www.youtube.com/watch?v=6q5ZOfcCM9k&list=PL577EB417A7C2CCF8&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Auto%20Modellista%20(USA).pdf',
     },
     'SLUS21395': {
         'id': 'SLUS21395',
         'title': 'Avatar - The Last Airbender',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//81814cb7-3c2d-4c66-9c80-a82c949c8ec7.jpg',
+        'pic0': 'https://images.launchbox-app.com//c8f4b900-c2f0-44b5-ad22-db8c2e3d9fc0.png',
+        'pic1': 'https://images.launchbox-app.com//b78cab45-2b2f-4cf8-bad9-ab190faa063b.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Avatar-%20The%20Last%20Airbender%20(USA).pdf',
     },
     'SLUS21804': {
         'id': 'SLUS21804',
         'title': 'AVATAR - THE LAST AIRBENDER - INTO THE INFERNO',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//c70aa96c-4330-4837-ab78-99f4e7283672.jpg',
+        'pic0': 'https://images.launchbox-app.com//92048196-37ca-4a65-85d0-aa23ed49f70a.png',
+        'pic1': 'https://images.launchbox-app.com//8e318631-9722-4cf2-9815-7c5848e2a3f7.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Avatar-%20The%20Last%20Airbender-%20Into%20the%20Inferno%20(USA).pdf',
     },
     'SLUS21588': {
         'id': 'SLUS21588',
         'title': 'Avatar - The Last Airbender - The Burning Earth 	INFO 	SLUS-21761 	 B-BOY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com//02328ede-7b4a-49be-b9ed-11c53c2b599e.jpg',
+        'pic0': 'https://images.launchbox-app.com//95981f62-a529-496b-9311-8569e85a6ff6.png',
+        'pic1': 'https://images.launchbox-app.com//54dce221-c7c8-4902-bb28-74c557a5fa9d.jpg',
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Avatar-%20The%20Last%20Airbender-%20The%20Burning%20Earth%20(USA).pdf',
     },
     'SLUS20865': {
         'id': 'SLUS20865',
@@ -12564,6 +12640,7 @@ games = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+         'manual': 'https://www.videogamemanual.com/PS2/Adventures%20of%20Cookie%20&%20Cream,%20The%20(USA).pdf',
     },
     'SLUS21592': {
         'id': 'SLUS21592',
@@ -12571,7 +12648,8 @@ games = {
     #    'icon0': 
     #    'pic0': 
     #    'pic1': 
-    #    'snd0': 
+    #    'snd0':
+         'manual': 'https://www.videogamemanual.com/PS2/Adventures%20of%20Darwin,%20The%20(USA).pdf',
     },
     'SLUS20887': {
         'id': 'SLUS20887',
