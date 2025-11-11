@@ -45,6 +45,9 @@ jobs:
           make
           cd ../../..
           pyinstaller PSL1GHT/tools/ps3py/pkg.py
+      - name: Install crunch.exe
+        run:   |
+          git clone https://github.com/BinomialLLC/crunch.git
       - name: Install FFMPEG
         run:   |
           Invoke-WebRequest -OutFile ffmpeg-release-essentials.zip https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
@@ -66,6 +69,7 @@ jobs:
           mkdir dist/pop-fe2/make_npdata
           mkdir dist/pop-fe2/make_npdata/Linux
           cp make_npdata/Linux/make_npdata.exe dist/pop-fe2/make_npdata/Linux/.
+          cp crunch/bin/crunch*.exe dist/pop-fe2/.
           mkdir dist/pop-fe2/ps2classic
           mkdir dist/pop-fe2/ps2classic/ps2classic-ps2classic
           cp ps2classic/ps2classic-ps2classic/ps2classic.exe dist/pop-fe2/ps2classic/ps2classic-ps2classic/.
@@ -79,6 +83,7 @@ jobs:
           mkdir dist/pop-fe2-ps3/make_npdata
           mkdir dist/pop-fe2-ps3/make_npdata/Linux
           cp make_npdata/Linux/make_npdata.exe dist/pop-fe2-ps3/make_npdata/Linux/.
+          cp crunch/bin/crunch*.exe dist/pop-fe2/.
           mkdir dist/pop-fe2-ps3/ps2classic
           mkdir dist/pop-fe2-ps3/ps2classic/ps2classic-ps2classic
           cp ps2classic/ps2classic-ps2classic/ps2classic.exe dist/pop-fe2-ps3/ps2classic/ps2classic-ps2classic/.
