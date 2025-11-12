@@ -1026,9 +1026,22 @@ def create_manual(source, dest, subdir='./pop-fe2-work/'):
     print('Create manual from', source)
     if source[:8] == 'https://':
         print('Download manual from', source)
+        tmpfile = subdir + '/DOCUMENT-' + source.split('/')[-1]
         try:
-            tmpfile = subdir + '/DOCUMENT-' + source.split('/')[-1]
-            subprocess.run(['wget', source, '-O', tmpfile], timeout=240, check=True)
+            os.mkdir(subdir)
+        except:
+            True
+        try:
+            ret = requests.get(source)
+            if ret.status_code != 200:
+                print('Failed to download manual from', source)
+                return None
+            if ret.apparent_encoding:
+                buf = ret.content.decode(ret.apparent_encoding)
+            else:
+                buf = ret.content
+            with open(tmpfile, 'wb') as f:
+                f.write(buf)
             print('Downloaded manual as', tmpfile)
             source = tmpfile
         except:

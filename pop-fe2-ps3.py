@@ -87,6 +87,7 @@ class PopFe2Ps3App:
         self.preview_tk = None
         self.pkgdir = None
         self.subdir = 'pop-fe2-ps3-work/'
+        self.manual = None
         
         self.master = master
 
@@ -167,6 +168,7 @@ class PopFe2Ps3App:
         self.pic1_tk = None
         self.disc = None
         self.preview_tk = None
+        self.manual = None
         
         self.builder.get_object('discid1', self.master).config(state='normal')
         self.builder.get_object('disc1', self.master).config(filetypes=[('Image files', ['.cue', '.iso']), ('All Files', ['*.*', '*'])])
@@ -177,6 +179,9 @@ class PopFe2Ps3App:
         self.builder.get_variable('title_variable').set('')
         self.builder.get_object('snd0', self.master).config(filetypes=[('Audio files', ['.wav']), ('All Files', ['*.*', '*'])])
         self.builder.get_variable('snd0_variable').set('')
+        self.builder.get_object('manual', self.master).config(state='disabled')
+        self.builder.get_object('manual', self.master).config(filetypes=[('All Files', ['*.*', '*'])])
+        self.builder.get_variable('manual_variable').set('')
 
     def update_preview(self):
         def has_transparency(img):
@@ -304,6 +309,11 @@ class PopFe2Ps3App:
             d = MissingAssetsDialog(self.master)
             self.master.wait_window(d)
 
+        if disc_id in games and 'manual' in games[disc_id]:
+            print('Found a MANUAL for', disc_id)
+            self.manual = games[disc_id]['manual']
+        self.builder.get_variable('manual_variable').set(self.manual)
+        self.builder.get_object('manual', self.master).config(state='enabled')
         self.builder.get_variable('title_variable').set(games[disc_id]['title'])
         self.builder.get_variable('discid1_variable').set(disc_id)
         if 'snd0' in games[disc_id]:
@@ -507,6 +517,13 @@ class PopFe2Ps3App:
             snd0 = popfe2.get_snd0_from_link(snd0, subdir=self.subdir)
             if snd0:
                 temp_files.append(snd0)
+
+        manual = self.builder.get_variable('manual_variable').get()
+        if manual:
+            if not len(manual) or manual == 'None':
+                manual = None
+        if manual and self.disc_id in games:
+            games[self.disc_id]['manual'] = manual
 
         pkgdir = self.builder.get_variable('pkgdir_variable').get()
         pkgfile = self.builder.get_variable('pkgfile_variable').get()
