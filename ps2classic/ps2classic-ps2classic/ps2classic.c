@@ -5,7 +5,7 @@
 /*|GPL v3,  DO NOT USE IF YOU   |*/
 /*|DISAGREE TO RELEASE SRC :P   |*/
 /*+-----------------------------+*/
-
+#define _CRT_SECURE_NO_WARNINGS
 #include "tools.h"
 #include "types.h"
 #include "iso.h"
@@ -31,7 +31,7 @@
 #define PS2_VMC_DECRYPT			0
 
 //prototypes
-void ps2_encrypt_image(char mode[], char image_name[], char data_file[], char real_out_name[], char CID[]);
+void ps2_encrypt_image(char mode[], char image_name[], char data_file[], char real_out_name[], char CID[], int disc_num);
 void ps2_decrypt_image(char mode[], char image_name[], char meta_file[], char data_file[]);
 void ps2_crypt_vmc(char mode[], char vmc_path[], char vmc_out[], u8 root_key[], int crypt_mode);
 static void build_ps2_header(u8 * buffer, int npd_type, char content_id[], char filename[], s64 iso_size);
@@ -155,7 +155,7 @@ void ps2_decrypt_image(char mode[], char image_name[], char meta_file[], char da
 
 
 	//decrypt iso
-	fseek(in, segment_size, SEEK_SET);
+	fseeko(in, segment_size, SEEK_SET);
 
 	while(read = fread(meta_buffer, 1, segment_size, in))
 	{
@@ -185,7 +185,7 @@ void ps2_decrypt_image(char mode[], char image_name[], char meta_file[], char da
 }
 
 
-void ps2_encrypt_image(char mode[], char image_name[], char data_file[], char real_out_name[], char CID[])
+void ps2_encrypt_image(char mode[], char image_name[], char data_file[], char real_out_name[], char CID[], int disc_num)
 {
 	FILE * in;
 	FILE * data_out;
@@ -207,6 +207,13 @@ void ps2_encrypt_image(char mode[], char image_name[], char data_file[], char re
 	u32 num_child_segments = 0x200;
 	u32 segment_number = 0;
 
+	//check disc number
+	if (disc_num > 9 || disc_num < 1)
+	{
+		printf("Aborting!\nUnsupported disc number: %d\nSupported range is 1-9", disc_num);
+		return;
+	}
+
 	//open files
 	in = fopen(image_name, "rb");
 	data_out = fopen(data_file, "wb");
@@ -217,7 +224,10 @@ void ps2_encrypt_image(char mode[], char image_name[], char data_file[], char re
 	data_size = ftello(in);
 	fseeko(in, 0, SEEK_SET);
 
-	printf("segment size: %x\ndata_size: %llx\nCID: %s\niso %s\nout file: %s\n", segment_size, data_size, CID, image_name, data_file);
+	printf("segment size: %x\ndata_size: %llx\nCID: %s\niso: %s\nout file: %s\ndisc number: %d\n", segment_size, data_size, CID, image_name, data_file, disc_num);
+
+	//prepare disc number
+	disc_num = (disc_num - 1) << 24;
 
 	//prepare buffers
 	data_buffer = malloc(segment_size * 0x200);
@@ -244,7 +254,6 @@ void ps2_encrypt_image(char mode[], char image_name[], char data_file[], char re
 	build_ps2_header(ps2_header, 2, CID, real_out_name, data_size);
 	fwrite(ps2_header, segment_size, 1, data_out);
 
-
 	//write encrypted image
 	while(read = fread(data_buffer, 1, segment_size*num_child_segments, in))
 	{
@@ -263,7 +272,7 @@ void ps2_encrypt_image(char mode[], char image_name[], char data_file[], char re
 		{
 			aes128cbc_enc(ps2_data_key, iv, data_buffer+(i*segment_size), segment_size, data_buffer+(i*segment_size));
 			sha1(data_buffer+(i*segment_size), segment_size, meta_buffer+(i*PS2_META_ENTRY_SIZE));
-			wbe32(meta_buffer+(i*PS2_META_ENTRY_SIZE)+0x14, segment_number);
+			wbe32(meta_buffer+(i*PS2_META_ENTRY_SIZE)+0x14, disc_num | segment_number);
 			segment_number++;
 		}
 
@@ -359,7 +368,7 @@ int main(int argc, char *argv[])
 	if(argc == 1)
 	{
 		printf("usage:\n\tiso:\n\t\t%s d [cex/dex] [klicensee] [encrypted image] [out data] [out meta]\n", argv[0]);
-		printf("\t\t%s e [cex/dex] [klicensee] [iso] [out data] [real out name] [CID]\n", argv[0]);
+		printf("\t\t%s e [cex/dex] [klicensee] [iso] [out data] [real out name] [CID] [disc number]\n", argv[0]);
 		printf("\t\nvmc:\n\t\t%s vd [cex/dex] [vme file] [out vmc] [(eid root key)]\n", argv[0]);
 		printf("\t\t%s ve [cex/dex] [vmc file] [out vme] [(eid root key)]\n", argv[0]);
 		printf("\t\nimage tools:\n\t\t%s prepare [image file]\n", argv[0]);
@@ -377,7 +386,9 @@ int main(int argc, char *argv[])
 			printf("Error: invalid number of arguments for decryption\n");
 	else if(strcmp(argv[1], "e") == 0)
 		if(argc == 8)
-			ps2_encrypt_image(argv[2], argv[4], argv[5], argv[6], argv[7]);
+			ps2_encrypt_image(argv[2], argv[4], argv[5], argv[6], argv[7], 1);
+		else if(argc == 9)
+			ps2_encrypt_image(argv[2], argv[4], argv[5], argv[6], argv[7], atoi(argv[8]));
 		else
 			printf("Error: invalid number of arguments for encryption\n");
 	else if(strcmp(argv[1], "vd") == 0 || strcmp(argv[1], "ve") == 0)
