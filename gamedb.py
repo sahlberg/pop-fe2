@@ -13416,10 +13416,11 @@ games = {
     'SLUS20179': {
         'id': 'SLUS20179',
         'title': 'THE X-FILES - RESIST OR SERVE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://gamesdb-images.launchbox.gg/r2_28dc14de-2ea0-4aad-878f-ccc01b7fc087.jpg',
+        'pic0': 'https://images.launchbox-app.com//f27bd571-72a7-4258-8585-d1d377296465.png',
+        'pic1': 'https://images.launchbox-app.com//c8613243-2069-4934-aaf2-485f7a6b962c.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=X4gdovWcm-U&list=RDX4gdovWcm-U&start_radio=1',
+        'manual': 'https://www.videogamemanual.com/PS2/X-Files-%20Resist%20or%20Serve%20(USA).pdf',
     },
     'SLUS20099': {
         'id': 'SLUS20099',
@@ -14867,55 +14868,62 @@ games = {
     #    'icon0': 
     #    'pic0': 
     #    'pic1': 
-    #    'snd0': 
+    #    'snd0':
+        'manual': 'https://www.videogamemanual.com/PS2/X-Squad%20(USA).pdf',
     },
     'SLUS20337': {
         'id': 'SLUS20337',
         'title': 'X2 - Wolverines Revenge',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//1d622de4-5026-49d7-8db0-50b11b6047c1.jpg',
+        'pic0': 'https://images.launchbox-app.com//5df6f52a-6c58-4c31-9eee-7a2af1a8cb86.png',
+        'pic1': 'https://images.launchbox-app.com//a5100671-5fc2-4416-8487-da357b7e5ada.jpg',
+    #    'snd0':
+        'manual': 'https://www.videogamemanual.com/PS2/X2-%20Wolverine\'s%20Revenge%20(USA).pdf',
     },
     'SLUS20279': {
         'id': 'SLUS20279',
         'title': 'X-MEN - NEXT DIMENSION',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//f2d0a179-6af8-46f9-a53b-02d19e266ff2.jpg',
+        'pic0': 'https://images.launchbox-app.com//51a4a1e1-b46d-4227-8cf8-19dfb06711eb.png',
+        'pic1': 'https://images.launchbox-app.com//7e1b6b1d-236e-41b8-a4ea-a885de10295c.jpg',
+    #    'snd0':
+        'manual': 'https://www.videogamemanual.com/PS2/X-Men-%20Next%20Dimension%20(USA).pdf',
     },
     'SLUS21107': {
         'id': 'SLUS21107',
         'title': 'X-Men - The Official Game',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//5d06e52b-b915-45fd-bd6a-b7746316de12.jpg',
+        'pic0': 'https://images.launchbox-app.com//99f9d74f-027e-442a-8381-796c2e815c4a.png',
+        'pic1': 'https://images.launchbox-app.com//53e05ca4-5d4c-4cd5-b01f-d194a3eaf76c.jpg',
+    #    'snd0':
+        'manual': 'https://www.videogamemanual.com/PS2/X-Men-%20The%20Official%20Game%20(USA).pdf',
     },
     'SLUS20656': {
         'id': 'SLUS20656',
         'title': 'X-Men Legends',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//5ed64d6e-3d5d-43cc-acd9-e4ef87773f9c.jpg',
+        'pic0': 'https://images.launchbox-app.com//c30e217f-490b-4565-beb6-5c914c5dd9d3.png',
+        'pic1': 'https://images.launchbox-app.com//847abd5c-3c26-475d-8952-640757708fbb.jpg',
+    #    'snd0':
+        'manual': 'https://www.videogamemanual.com/PS2/X-Men%20Legends%20(USA).pdf',
     },
     'SLUS21138': {
         'id': 'SLUS21138',
         'title': 'X-Men Legends II - Rise of Apocalypse',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//558dabb4-5f05-4f6a-b9f5-c5134feddb85.jpg',
+        'pic0': 'https://images.launchbox-app.com//d13d6da6-63a5-49b4-994d-6bcacf095e29.png',
+        'pic1': 'https://images.launchbox-app.com//55d3f2ba-21ab-460c-89c5-b4c348ea8d3e.png',
+    #    'snd0':
+        'manual': 'https://www.videogamemanual.com/PS2/X-Men%20Legends%20II-%20Rise%20of%20Apocalypse%20(USA).pdf',
     },
     'SLUS21880': {
         'id': 'SLUS21880',
         'title': 'X-Men Origins – Wolverine',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//99bf1f2d-cb39-450c-8edd-a4fb5584edb8.jpg',
+        'pic0': 'https://images.launchbox-app.com//a4ce417c-8d08-4cff-a83f-fc8aecd10352.png',
+        'pic1': 'https://images.launchbox-app.com//e9bbca79-f725-4ef7-91d7-7229639ba9c0.jpg',
+    #    'snd0':
+        'manual': 'https://www.videogamemanual.com/PS2/X-Men%20Origins-%20Wolverine%20(USA).pdf',
     },
     'SLUS20469': {
         'id': 'SLUS20469',
@@ -14965,34 +14973,38 @@ games = {
     'SLUS20302': {
         'id': 'SLUS20302',
         'title': 'XG3 - Extreme-G Racing',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//b2edcebb-11d9-46e1-bdca-2bff60ee3d11.png',
+        'pic0': 'https://images.launchbox-app.com//7c7f0ef8-179e-4132-802d-d05645a94724.png',
+        'pic1': 'https://images.launchbox-app.com//6da0c1d2-dbcc-4c91-b31f-9d7915b32578.jpg',
+    #    'snd0':
+        'manual': 'https://www.videogamemanual.com/PS2/XG3%20Extreme%20G%20Racing%20(USA).pdf',
     },
     'SLUS20632': {
         'id': 'SLUS20632',
         'title': 'XGRA - Extreme-G Racing Association',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com//c93b4c86-0e9f-4d60-8988-a7cdbdcd8fe9.png',
+        'pic0': 'https://images.launchbox-app.com//2c3060b4-d804-44b7-8803-40d193a4b350.png',
     #    'pic1': 
-    #    'snd0': 
+    #    'snd0':
+        'manual': 'https://www.videogamemanual.com/PS2/XGRA-%20Extreme-G%20Racing%20Association%20(USA).pdf',
     },
     'SLUS21405': {
         'id': 'SLUS21405',
         'title': 'XIAOLIN SHOWDOWNS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//dfc53990-146d-4caa-9aaf-aa6c1ff58186.jpg',
+        'pic0': 'https://images.launchbox-app.com//c63d2285-3447-4f1a-9e85-81f23c4aef9f.png',
+        'pic1': 'https://images.launchbox-app.com//fc3d8288-7ce3-4d0e-8b06-144e5e690f21.jpg',
+    #    'snd0':
+        'manual': 'https://www.videogamemanual.com/PS2/Xiaolin%20Showdown%20(USA).pdf',
     },
     'SLUS20677': {
         'id': 'SLUS20677',
         'title': 'XIII',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//7a06bc75-4b7d-4042-bdff-f457983d6357.jpg',
+        'pic0': 'https://images.launchbox-app.com//cc1f7925-9bcb-43c3-a245-9d66bf102fac.png',
+        'pic1': 'https://images.launchbox-app.com//58c780b9-6df6-48ba-bd25-f1c33978af7e.png',
+    #    'snd0':
+        'manual': 'https://www.videogamemanual.com/PS2/XIII%20(USA).pdf',
     },
     'SLUS21348': {
         'id': 'SLUS21348',
