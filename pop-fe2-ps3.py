@@ -531,7 +531,7 @@ class PopFe2Ps3App:
         if pkgdir and len(pkgdir):
             pkgfile = pkgdir + '/' + pkgfile
                 
-        popfe2.create_pkg(self.iso, self.disc_id, self.icon0, self.pic0, self.pic1, snd0, pkgfile, self.subdir)
+        popfe2.create_pkg([self.iso], self.disc_id, self.icon0, self.pic0, self.pic1, snd0, pkgfile, self.subdir)
         self.master.config(cursor='')
 
         d = FinishedDialog(self.master)
