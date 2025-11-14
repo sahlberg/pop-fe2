@@ -3,11 +3,12 @@
 // Segher Boessenkool  <segher@kernel.crashing.org>
 // Licensed under the terms of the GNU GPL, version 2
 // http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+#define _CRT_SECURE_NO_WARNINGS
+
 
 #include <sys/types.h>
 #include <stdio.h>
 #include <fcntl.h>
-#include <unistd.h>
 #include <sys/stat.h>
 #include <string.h>
 #include <stdarg.h>
@@ -20,8 +21,12 @@
 #include <winioctl.h>
 #include <wincrypt.h>
 #include <conio.h>
+#include "unistd.h"
 #else
 #include <sys/mman.h>
+#include <unistd.h>
+#define _open open
+#define _close close
 #endif
 
 #include "tools.h"
@@ -36,7 +41,7 @@ void *mmap_file(const char *path)
 	struct stat st;
 	void *ptr;
 
-	fd = open(path, O_RDONLY);
+	fd = _open(path, O_RDONLY);
 	if(fd == -1)
 		fail("open %s", path);
 	if(fstat(fd, &st) != 0)
@@ -45,7 +50,7 @@ void *mmap_file(const char *path)
 	ptr = mmap(0, st.st_size, PROT_READ | PROT_WRITE, MAP_PRIVATE, fd, 0);
 	if(ptr==NULL)
 		fail("mmap");
-	close(fd);
+	_close(fd);
 
 	return ptr;
 }

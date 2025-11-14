@@ -20,7 +20,7 @@
 #define MAP_SHARED 2
 #define MAP_PRIVATE 3
 
-void *mingw_mmap(void *pStart, size_t sLength, int nProt, int nFlags, int nFd, off_t oOffset);
+void *mingw_mmap(void *pStart, size_t sLength, int nProt, int nFlags, int nFd, int oOffset);
 #define mmap mingw_mmap
 
 int mingw_munmap(void *pStart, size_t sLength);

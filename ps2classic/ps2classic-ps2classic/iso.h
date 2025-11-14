@@ -59,7 +59,7 @@ struct rootDirTocHeader
 	u8	reserved[6];	//+1A
 	u8	reserved2;		//+20
 	u8	reserved3;		//+21
-} __attribute__((packed));
+};
 
 
 struct asciiDate
@@ -72,7 +72,7 @@ struct asciiDate
 	char	seconds[2];
 	char	hundreths[2];
 	char	terminator[1];
-} __attribute__((packed));
+};
 
 
 struct cdVolDesc
@@ -111,7 +111,7 @@ struct cdVolDesc
 	struct	asciiDate	expirationDate;
 	u8		reserved10;
 	u8		reserved11[1166];
-} __attribute__((packed));
+};
 
 
 

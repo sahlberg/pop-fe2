@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include "iso.h"
 
 #include <stdio.h>
@@ -19,7 +20,7 @@ void *_openfile(const char *filename, int flags)
 
 u64 _tellfile(void *handle)
 {
-	s64 cursize = ftell(handle);
+	s64 cursize = ftello(handle);
 	if (cursize == -1)
 	{
 		// try 64bit

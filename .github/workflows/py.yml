@@ -30,6 +30,11 @@ jobs:
           pip install pygubu
           pip install tkinterDnD2
           pip install pytubefix
+      - name: Build ps2classic.exe
+        run:   |
+          cd ps2classic/ps2classic-ps2classic/
+          make
+          cd ../..
       - name: Clone make_npdata
         run:   |
           git clone https://github.com/sahlberg/make_npdata.git

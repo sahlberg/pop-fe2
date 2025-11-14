@@ -13,33 +13,38 @@
 #include <stdio.h>
 #include "mingw_mmap.h"
 
-extern int getpagesize();
+int getpagesize()
+{
+    SYSTEM_INFO si;
+    GetSystemInfo(&si);
+    return si.dwPageSize;
+}
 
 /**
 * Use CreateFileMapping and MapViewOfFile to simulate POSIX mmap().
 * Why Microsoft won't just implement these is beyond everyone's comprehension.
 * @return pointer or NULL
 */
-void *mingw_mmap(void *pStart, size_t sLength, int nProt, int nFlags, int nFd, off_t oOffset) {
-  (void)nProt;
-  HANDLE hHandle;
+void* mingw_mmap(void* pStart, size_t sLength, int nProt, int nFlags, int nFd, int oOffset) {
+    (void)nProt;
+    HANDLE hHandle;
 
-  if (pStart != NULL || !(nFlags & MAP_PRIVATE)) {
-printf("Invalid usage of mingw_mmap");
-    return NULL;
-  }
+    if (pStart != NULL || !(nFlags & MAP_PRIVATE)) {
+        printf("Invalid usage of mingw_mmap");
+        return NULL;
+    }
 
-  if (oOffset % getpagesize() != 0) {
-    printf("Offset does not match the memory allocation granularity");
-    return NULL;
-  }
+    if (oOffset % getpagesize() != 0) {
+        printf("Offset does not match the memory allocation granularity");
+        return NULL;
+    }
 
-  hHandle = CreateFileMapping((HANDLE)_get_osfhandle(nFd), NULL, PAGE_WRITECOPY, 0, 0, NULL);
-  if (hHandle != NULL) {
-    pStart = MapViewOfFile(hHandle, FILE_MAP_COPY, 0, oOffset, sLength);
-  }
+    hHandle = CreateFileMapping((HANDLE)_get_osfhandle(nFd), NULL, PAGE_WRITECOPY, 0, 0, NULL);
+    if (hHandle != NULL) {
+        pStart = MapViewOfFile(hHandle, FILE_MAP_COPY, 0, oOffset, sLength);
+    }
 
-  return pStart;
+    return pStart;
 }
 
 /**

@@ -17,8 +17,8 @@ typedef int8_t s8;
 
 
 #ifdef WIN32
-	#define ftello	ftello64
-	#define fseeko	fseeko64
+	#define ftello	_ftelli64
+	#define fseeko	_fseeki64
 #endif
 
 
