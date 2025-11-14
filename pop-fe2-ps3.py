@@ -75,8 +75,8 @@ class MissingArtDialog(tk.Toplevel):
 class PopFe2Ps3App:
     def __init__(self, master=None):
         self.myrect = None
-        self.iso = None
-        self.disc_id = None
+        self.isos = []
+        self.disc_ids = []
         self.icon0 = None
         self.icon0_tk = None
         self.pic0 = None
@@ -158,8 +158,8 @@ class PopFe2Ps3App:
         shutil.rmtree(self.subdir, ignore_errors=True)
         os.mkdir(self.subdir)
 
-        self.iso = None
-        self.disc_id = None
+        self.isos = []
+        self.disc_id = []
         self.icon0 = None
         self.icon0_tk = None
         self.pic0 = None
@@ -175,6 +175,11 @@ class PopFe2Ps3App:
         self.builder.get_variable('disc1_variable').set('')
         self.builder.get_variable('discid1_variable').set('')
         self.builder.get_object('disc1', self.master).config(state='normal')
+        self.builder.get_object('discid2', self.master).config(state='disabled')
+        self.builder.get_object('disc2', self.master).config(filetypes=[('Image files', ['.cue', '.iso']), ('All Files', ['*.*', '*'])])
+        self.builder.get_variable('disc2_variable').set('')
+        self.builder.get_variable('discid2_variable').set('')
+        self.builder.get_object('disc2', self.master).config(state='disabled')
         self.builder.get_object('create_button', self.master).config(state='disabled')
         self.builder.get_variable('title_variable').set('')
         self.builder.get_object('snd0', self.master).config(filetypes=[('Audio files', ['.wav']), ('All Files', ['*.*', '*'])])
@@ -206,7 +211,7 @@ class PopFe2Ps3App:
         if self.pic1:
             p1 = self.pic1.resize((382,216), Image.Resampling.LANCZOS)
             if self.pic0:
-                disc_id = self.disc_id
+                disc_id = self.disc_ids[0]
                 if 'pic0-scaling' in games[disc_id]:
                     sc = games[disc_id]['pic0-scaling']
                 else:
@@ -244,12 +249,12 @@ class PopFe2Ps3App:
             c.create_image(0, 0, image=self.preview_tk, anchor='nw')
 
     def update_assets(self, subdir = 'pop-fe2-work/'):
-        if not self.disc_id:
+        if not len(self.disc_ids):
             return
-        disc_id = self.disc_id
+        disc_id = self.disc_ids[0]
                 
         print('Fetching ICON0') if verbose else None
-        self.icon0 = popfe2.get_pic_from_game('icon0', disc_id, self.iso[:-4] + '_icon0.png')
+        self.icon0 = popfe2.get_pic_from_game('icon0', disc_id, self.isos[0][:-4] + '_icon0.png')
         if self.icon0:
             _i = self.icon0.resize((124, 176), Image.Resampling.NEAREST)
             i = Image.new(self.icon0.mode, (220, 176), (0,0,0)).convert('RGBA')
@@ -264,7 +269,7 @@ class PopFe2Ps3App:
             c.create_image(0, 0, image=self.icon0_tk, anchor='nw')
             
         print('Fetching PIC0') if verbose else None
-        self.pic0 = popfe2.get_pic_from_game('pic0', disc_id, self.iso[:-4] + '_pic0.png')
+        self.pic0 = popfe2.get_pic_from_game('pic0', disc_id, self.isos[0][:-4] + '_pic0.png')
         if self.pic0:
             self.pic0 = self.pic0.resize((1000, 560), Image.Resampling.LANCZOS)
             temp_files.append(self.subdir + 'PIC0.PNG')
@@ -275,7 +280,7 @@ class PopFe2Ps3App:
 
         
         print('Fetching PIC1') if verbose else None
-        self.pic1 = popfe2.get_pic_from_game('pic1', disc_id, self.iso[:-4] + '_pic1.png')
+        self.pic1 = popfe2.get_pic_from_game('pic1', disc_id, self.isos[0][:-4] + '_pic1.png')
         if self.pic1:
             self.pic1 = self.pic1.resize((1920, 1080), Image.Resampling.LANCZOS)
             temp_files.append(self.subdir + 'PIC1.PNG')
@@ -291,6 +296,9 @@ class PopFe2Ps3App:
         if not len(iso):
             return
 
+        disc = event.widget.cget('title')
+        print('Disc', disc)
+
         self.master.config(cursor='watch')
         self.master.update()
         print('Processing', iso)  if verbose else None
@@ -299,31 +307,42 @@ class PopFe2Ps3App:
         if not disc_id:
             print('Could not identify the game')
             os._exit(1)
+
             
-        self.iso = iso
-        self.disc_id = disc_id
+        if disc == 'd1':
+            self.isos.insert(0, iso)
+            self.disc_ids.insert(0, disc_id)
+            self.builder.get_object('disc1', self.master).config(state='disabled')
+            self.builder.get_object('disc2', self.master).config(state='normal')
 
-        print('disc id', disc_id)
-        print('title', games[disc_id]['title'])
-        if not 'icon0' in games[disc_id]:
-            d = MissingAssetsDialog(self.master)
-            self.master.wait_window(d)
+            print('disc id', disc_id)
+            print('title', games[disc_id]['title'])
+            if not 'icon0' in games[disc_id]:
+                d = MissingAssetsDialog(self.master)
+                self.master.wait_window(d)
 
-        if disc_id in games and 'manual' in games[disc_id]:
-            print('Found a MANUAL for', disc_id)
-            self.manual = games[disc_id]['manual']
-        self.builder.get_variable('manual_variable').set(self.manual)
-        self.builder.get_object('manual', self.master).config(state='enabled')
-        self.builder.get_variable('title_variable').set(games[disc_id]['title'])
-        self.builder.get_variable('discid1_variable').set(disc_id)
-        if 'snd0' in games[disc_id]:
-            self.builder.get_variable('snd0_variable').set(games[disc_id]['snd0'])
-        self.update_assets()
+            if disc_id in games and 'manual' in games[disc_id]:
+                print('Found a MANUAL for', disc_id)
+                self.manual = games[disc_id]['manual']
+            self.builder.get_variable('manual_variable').set(self.manual)
+            self.builder.get_object('manual', self.master).config(state='enabled')
+            self.builder.get_variable('title_variable').set(games[disc_id]['title'])
+            self.builder.get_variable('discid1_variable').set(disc_id)
+            if 'snd0' in games[disc_id]:
+                self.builder.get_variable('snd0_variable').set(games[disc_id]['snd0'])
+            self.update_assets()
+            
+        if disc == 'd2':
+            self.isos.insert(1, iso)
+            self.disc_ids.insert(1, disc_id)
+            self.builder.get_object('disc2', self.master).config(state='disabled')
+            self.builder.get_variable('discid2_variable').set(disc_id)
+            self.builder.get_object('discid2', self.master).config(state='normal')
             
         self.builder.get_object('create_button', self.master).config(state='normal')
         print('Finished processing', disc_id) if verbose else None
         self.master.config(cursor='')
-
+            
 
     def on_icon0_dropped(self, event):
         self.master.config(cursor='watch')
@@ -506,7 +525,7 @@ class PopFe2Ps3App:
             pkg = pkgdir + '/' + pkg
             
         title = self.builder.get_variable('title_variable').get()
-        print('DISC', self.disc_id)
+        print('GAME', self.disc_ids[0])
         print('TITLE', title)
 
         self.master.config(cursor='watch')
@@ -522,8 +541,8 @@ class PopFe2Ps3App:
         if manual:
             if not len(manual) or manual == 'None':
                 manual = None
-        if manual and self.disc_id in games:
-            games[self.disc_id]['manual'] = manual
+        if manual and self.disc_ids[0] in games:
+            games[self.disc_ids[0]]['manual'] = manual
 
         pkgdir = self.builder.get_variable('pkgdir_variable').get()
         pkgfile = self.builder.get_variable('pkgfile_variable').get()
@@ -531,7 +550,7 @@ class PopFe2Ps3App:
         if pkgdir and len(pkgdir):
             pkgfile = pkgdir + '/' + pkgfile
                 
-        popfe2.create_pkg([self.iso], self.disc_id, self.icon0, self.pic0, self.pic1, snd0, pkgfile, self.subdir)
+        popfe2.create_pkg(self.isos, self.disc_ids[0], self.icon0, self.pic0, self.pic1, snd0, pkgfile, self.subdir)
         self.master.config(cursor='')
 
         d = FinishedDialog(self.master)

@@ -323,8 +323,31 @@
                   <property name="column">0</property>
                   <property name="columnspan">2</property>
                   <property name="pady">50</property>
-                  <property name="row">2</property>
+                  <property name="row">3</property>
                   <property name="sticky">ew</property>
+                </layout>
+              </object>
+            </child>
+            <child>
+              <object class="pygubu.builder.widgets.pathchooserinput" id="disc2" named="True">
+                <property name="state">disabled</property>
+                <property name="textvariable">string:disc2_variable</property>
+                <property name="title" translatable="yes">d2</property>
+                <property name="type">file</property>
+                <bind sequence="&lt;&lt;PathChooserPathChanged&gt;&gt;" handler="on_path_changed" add="" />
+                <layout manager="grid">
+                  <property name="column">0</property>
+                  <property name="row">2</property>
+                </layout>
+              </object>
+            </child>
+            <child>
+              <object class="ttk.Entry" id="discid2" named="True">
+                <property name="textvariable">string:discid2_variable</property>
+                <property name="width">10</property>
+                <layout manager="grid">
+                  <property name="column">1</property>
+                  <property name="row">2</property>
                 </layout>
               </object>
             </child>
