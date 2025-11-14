@@ -1003,8 +1003,8 @@ games = {
         'title': 'Baldur\'s Gate - Dark Alliance',
         'icon0': 'https://images.launchbox-app.com//8981c997-af4f-4773-9f84-4c7aee70d4fc.jpg',
         'pic0': 'https://images.launchbox-app.com//25387ddf-0c11-47fa-8d4b-cdfe464a656d.png',
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com//cdbf3c3e-f83c-4513-a400-b2db7d27d1fb.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=9PU6I9Xq8EI&list=PLEAB09BECE883B4BF&index=1',
         'manual': 'https://www.videogamemanual.com/PS2/Baldur\'s%20Gate-%20Dark%20Alliance%20(USA).pdf',
     },
     'SLUS20675': {
@@ -1013,7 +1013,7 @@ games = {
         'icon0': 'https://images.launchbox-app.com//2c9919c9-d4af-4cfa-859c-fbbd692eced4.jpg',
         'pic0': 'https://images.launchbox-app.com//6ff7f7b6-f8d4-4eea-aac0-a6894d856d39.png',
         'pic1': 'https://images.launchbox-app.com//afe5cecd-1c3d-44e5-96af-3b060d6b5fde.png',
-    #    'snd0': 
+        'snd0': 'https://www.youtube.com/watch?v=S9icd9u6D9c&list=PLGXxZD-tp6r6MalNK-NJJfLPH-7x2PnnA&index=2',
         'manual': 'https://www.videogamemanual.com/PS2/Baldur\'s%20Gate-%20Dark%20Alliance%20II%20(USA).pdf',
     },
     'SLUS21898': {
