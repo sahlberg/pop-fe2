@@ -14924,6 +14924,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/55eead4c-998b-4826-b81b-0ee299ee4946.png',
         'pic1': 'https://images.launchbox-app.com/36d804aa-2660-4114-a20b-4ccb27cb7c98.jpg',
         'snd0': 'https://www.youtube.com/watch?v=mawsXOEbne4&list=PL75103D71E579CE86&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Xenosaga%20Episode%20I-%20Der%20Wille%20zur%20Macht%20(USA).pdf',
     },
     'SLUS20892': {
         'id': 'SLUS20892',
@@ -14932,6 +14933,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/452d5648-2f78-4861-a584-4881dc18a74f.png',
         'pic1': 'https://images.launchbox-app.com/aaa2c1c4-351f-4f20-b954-7dcda0639f0f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=iAsPGwT6tXg&list=PLBEE5E94FBCDE98B3&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Xenosaga%20Episode%20II-%20Jenseits%20von%20Gut%20und%20Bose%20(USA).pdf',
     },
     'SLUS21133': {
         'id': 'SLUS21133',
@@ -14940,6 +14942,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/452d5648-2f78-4861-a584-4881dc18a74f.png',
         'pic1': 'https://images.launchbox-app.com/aaa2c1c4-351f-4f20-b954-7dcda0639f0f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=iAsPGwT6tXg&list=PLBEE5E94FBCDE98B3&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Xenosaga%20Episode%20II-%20Jenseits%20von%20Gut%20und%20Bose%20(USA).pdf',
     },
     'SLUS21389': {
         'id': 'SLUS21389',
@@ -14948,6 +14951,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/68ddfc06-cce8-45cb-8160-33401f1545ff.png',
         'pic1': 'https://images.launchbox-app.com/a6f58bb1-8dfd-483f-8838-11889f1c90b8.jpg',
         'snd0': 'https://www.youtube.com/watch?v=VlBFeuoEEkI&list=PL0OqPrU0Et4V_8DZD5WyS8Tq4YOmXWM4Z&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Xenosaga%20Episode%20III-%20Also%20sprach%20Zarathustra%20(USA).pdf',
     },
     'SLUS21417': {
         'id': 'SLUS21417',
@@ -14956,6 +14960,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/68ddfc06-cce8-45cb-8160-33401f1545ff.png',
         'pic1': 'https://images.launchbox-app.com/a6f58bb1-8dfd-483f-8838-11889f1c90b8.jpg',
         'snd0': 'https://www.youtube.com/watch?v=VlBFeuoEEkI&list=PL0OqPrU0Et4V_8DZD5WyS8Tq4YOmXWM4Z&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Xenosaga%20Episode%20III-%20Also%20sprach%20Zarathustra%20(USA).pdf',
     },
     'SLUS20302': {
         'id': 'SLUS20302',
