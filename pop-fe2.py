@@ -22,6 +22,7 @@ import shutil
 import struct
 import subprocess
 
+import ps2classic
 from bchunk import bchunk
 from gamedb import games
 from riff import copy_riff, create_riff, parse_riff
@@ -1148,9 +1149,6 @@ def create_manual(source, dest, subdir='./pop-fe2-work/'):
         
 
 def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'):
-    # get config
-    config = get_config(gameid)
-
     cid = 'UP0000-%s_00-PS2CLASSICS00000' % gameid
     #cid = '2P0001-PS2U10000_00-0000111122223333'
     subdir = subdir + '/' + cid
@@ -1164,7 +1162,7 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
             create_manual(games[gameid]['manual'], subdir + '/USRDIR/CONTENT', subdir='./pop-fe2-work/')
     except:
         True
-
+    
     if icon0:
         icon0 = icon0.resize((124, 176), Image.Resampling.LANCZOS)
         i = Image.new(icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
@@ -1270,13 +1268,6 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
         gameid = get_gameid_from_iso(f)
         print('GAMEID', gameid)
 
-        # Check if it is a valid ISO
-        size = os.stat(f).st_size
-        print('Checking ISO file size:', f, size) if verbose else None
-        if size % 16384:
-            print(f, 'is not a valid ISO. File size is not multiple of 16kb')
-            #os.exit(1)
-
         # get config
         config = get_config(gameid)
         #append_title(config, gameid)
@@ -1287,14 +1278,19 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
         # Install CONFIG.
         if config:
             print('Installing CONFIG from', config)
+            ps2classic.encrypt_image('cex', 'klic.bin',
+                                     config,
+                                     subdir + '/USRDIR/' + _c, _c,
+                                     '2P0001-PS2U10000_00-0000111122223333', i + 1)
             # ps2classic.exe e cex ps2.key SCES_123.45.CONFIG CONFIG CONFIG 2P0001-PS2U10000_00-0000111122223333
-            subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
-                            'e', 'cex',
-                            'klic.bin',
-                            config,
-                            subdir + '/USRDIR/' + _c, _c,
-                            '2P0001-PS2U10000_00-0000111122223333', str(i+1)],
-                           check=True)
+            #
+            #subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
+            #                'e', 'cex',
+            #                'klic.bin',
+            #                config,
+            #                subdir + '/USRDIR/' + _c, _c,
+            #                '2P0001-PS2U10000_00-0000111122223333', str(i+1)],
+            #               check=True)
 
         # Create ISO.BIN.EDAT:
         print('Copy %s into %s' % (f, subdir + '/USRDIR/game.iso'))
@@ -1308,13 +1304,17 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
         create_limg_sector(subdir + '/USRDIR/game.iso')
 
         print('Creating ISO.BIN.ENC')
-        subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
-                        'e', 'cex',
-                        'klic.bin',
+        ps2classic.encrypt_image('cex', 'klic.bin',
                         subdir + '/USRDIR/game.iso',
                         subdir + '/USRDIR/' + _ibe, _ibe,
-                        '2P0001-PS2U10000_00-0000111122223333', str(i+1)],
-                       check=True)
+                        '2P0001-PS2U10000_00-0000111122223333', i+1)
+        #subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
+        #                'e', 'cex',
+        #                'klic.bin',
+        #                subdir + '/USRDIR/game.iso',
+        #                subdir + '/USRDIR/' + _ibe, _ibe,
+        #                '2P0001-PS2U10000_00-0000111122223333', str(i+1)],
+        #check=True)
         
         os.remove(subdir + '/USRDIR/game.iso')
     
