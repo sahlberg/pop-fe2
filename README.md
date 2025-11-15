@@ -1,14 +1,8 @@
 pop-fe2 is a python utility to create PS2Classic PKGs on Linux
 
-WIP
-
-For now it will only create PS2Classics for games where we have
-all the assets defined in gamedb.py.
-Please add icon0/pic0/pic1/snd0 links to any entries that are
+This is a work in progress. Not all games have assets defined in the database.
+Please add icon0/pic0/pic1/snd0/manual links to any entries that are
 uncommented in gamedb.py.
-
-TODO:
-add VMC support
 
 IMPORTANT
 =========
@@ -86,10 +80,6 @@ cd pop-fe2
 
 wget https://archive.org/download/ps2-opl-cover-art-set/PS2_OPL_ART_kira.7z
 7za x PS2_OPL_ART_kira.7z
-
-cd ps2classic/ps2classic-ps2classic/
-make
-cd ../..
 
 cd PSL1GHT/tools/ps3py/
 git checkout origin/use-python3

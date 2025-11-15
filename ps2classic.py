@@ -33,6 +33,8 @@ npd_omac_key3    = bytes([0x9B, 0x51, 0x5F, 0xEA, 0xCF, 0x75, 0x06, 0x49,
                           0x81, 0xAA, 0x60, 0x4D, 0x91, 0xA5, 0x4E, 0x97])
 npd_kek          = bytes([0x72, 0xF9, 0x90, 0x78, 0x8F, 0x9C, 0xFF, 0x74,
                           0x57, 0x25, 0xF0, 0x8E, 0x4C, 0x12, 0x83, 0x87])
+ps2_per_console_seed = bytes([0xD9, 0x2D, 0x65, 0xDB, 0x05, 0x7D, 0x49, 0xE1,
+                              0xA6, 0x6F, 0x22, 0x74, 0xB8, 0xBA, 0xC5, 0x08])
        
 
 def aes_cmac(K, M):
@@ -196,3 +198,37 @@ def encrypt_image(mode, klic, image_name, data_file, real_out_name, cid, disc_nu
         meta_buffer = obj.encrypt(bytes(meta_buffer))
         out_f.write(meta_buffer)
         out_f.write(data_buffer)
+
+PS2_VMC_DECRYPT = 0
+PS2_VMC_ENCRYPT = 1
+
+def crypt_vme(mode, vmc_path, vmc_out, root_key, crypt_mode):
+    in_f = open(vmc_path, 'rb')
+    out_f = open(vmc_out, 'wb')
+    segment_size = PS2_DEFAULT_SEGMENT_SIZE
+
+    iv = ps2_iv
+
+    if mode == 'cex':
+        obj = AES.new(bytes(root_key[:32]), AES.MODE_CBC, IV=bytes(root_key[0x20:0x30]))
+        iv = obj.encrypt(bytes(ps2_per_console_seed))
+        ps2_vmc_key = ps2_key_cex_vmc
+    if mode == 'dex':
+        obj = AES.new(bytes(root_key[:32]), AES.MODE_CBC, IV=bytes(root_key[0x20:0x30]))
+        iv = obj.encrypt(bytes(ps2_per_console_seed))
+        ps2_vmc_key = ps2_key_dex_vmc
+
+    iv = bytearray(iv[:8] + bytes(8))
+
+    while True:
+        data_buffer = bytearray(in_f.read(segment_size))
+
+        if not len(data_buffer):
+            break;
+
+        if crypt_mode == PS2_VMC_ENCRYPT:
+            obj = AES.new(bytes(ps2_vmc_key), AES.MODE_CBC, IV=bytes(ps2_iv))
+            _b = obj.encrypt(bytes(data_buffer))
+            out_f.write(_b)
+
+    

@@ -1282,15 +1282,6 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
                                      config,
                                      subdir + '/USRDIR/' + _c, _c,
                                      '2P0001-PS2U10000_00-0000111122223333', i + 1)
-            # ps2classic.exe e cex ps2.key SCES_123.45.CONFIG CONFIG CONFIG 2P0001-PS2U10000_00-0000111122223333
-            #
-            #subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
-            #                'e', 'cex',
-            #                'klic.bin',
-            #                config,
-            #                subdir + '/USRDIR/' + _c, _c,
-            #                '2P0001-PS2U10000_00-0000111122223333', str(i+1)],
-            #               check=True)
 
         # Create ISO.BIN.EDAT:
         print('Copy %s into %s' % (f, subdir + '/USRDIR/game.iso'))
@@ -1308,31 +1299,19 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
                         subdir + '/USRDIR/game.iso',
                         subdir + '/USRDIR/' + _ibe, _ibe,
                         '2P0001-PS2U10000_00-0000111122223333', i+1)
-        #subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
-        #                'e', 'cex',
-        #                'klic.bin',
-        #                subdir + '/USRDIR/game.iso',
-        #                subdir + '/USRDIR/' + _ibe, _ibe,
-        #                '2P0001-PS2U10000_00-0000111122223333', str(i+1)],
-        #check=True)
         
         os.remove(subdir + '/USRDIR/game.iso')
     
 
     # Create memory card images
     os.mkdir(subdir + '/USRDIR/SAVEDATA')
+    root_key = bytearray(0x30)
+
     print('Creating SCEVMC0.VME')
-    subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
-                    've', 'cex',
-                    'SCEVMC0.VMC',
-                    subdir + '/USRDIR/SAVEDATA/SCEVMC0.VME'],
-                   check=True)
+    ps2classic.crypt_vme('cex', 'SCEVMC0.VMC', subdir + '/USRDIR/SAVEDATA/SCEVMC0.VME', root_key, ps2classic.PS2_VMC_ENCRYPT)
+
     print('Creating SCEVMC1.VME')
-    subprocess.run(['./ps2classic/ps2classic-ps2classic/ps2classic',
-                    've', 'cex',
-                    'SCEVMC0.VMC',
-                    subdir + '/USRDIR/SAVEDATA/SCEVMC1.VME'],
-                   check=True)
+    ps2classic.crypt_vme('cex', 'SCEVMC0.VMC', subdir + '/USRDIR/SAVEDATA/SCEVMC1.VME', root_key, ps2classic.PS2_VMC_ENCRYPT)
 
     # create PKG
     print('Creating PKG "%s"' % pkg)
