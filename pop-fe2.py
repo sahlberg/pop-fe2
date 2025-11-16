@@ -981,7 +981,7 @@ def GenerateSFO(sfo):
     return hdr + index + keys + data
 
 
-def get_config(gameid):
+def get_config(gameid, num_discs, disc_num, swap):
     def _get_config(gameid, ctype):
         _c = 'https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/PS2CONFIG/USRDIR/CONFIG/' + ctype + '/' + gameid[0:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '.CONFIG'
         config = None
@@ -992,19 +992,72 @@ def get_config(gameid):
                 f.write(ret.content)
         return config
 
-    config = _get_config(gameid, 'CUSTOM')
-    if config:
+    def _find_config(gameid):
+        config = _get_config(gameid, 'CUSTOM')
+        if config:
+            return config
+        config = _get_config(gameid, 'NET')
+        if config:
+            return config
+        config = _get_config(gameid, 'GX')
+        if config:
+            return config
+        config = _get_config(gameid, 'SOFT')
+        if config:
+            return config
+        return None
+
+    config = _find_config(gameid)
+    # Not a multidisc pkg  so just return what we got
+    if num_discs == 1:
         return config
-    config = _get_config(gameid, 'NET')
-    if config:
+
+    # No config, create a config with cmd0
+    if not config:
+        config = 'config'
+        with open(config, 'wb') as f:
+            f.write(bytes(4))
+            f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
+            f.write(bytes([0x00, num_discs, disc_num]))
+            if swap:
+                f.write(bytes([int(swap)]))
         return config
-    config = _get_config(gameid, 'GX')
-    if config:
+
+    with open(config, 'rb') as f:
+        _b = f.read()
+
+    # Too small to contain cmd 0, so append cmd0 to it
+    if len(_b) < 17:
+        with open(config, 'wb') as f:
+            f.write(_b)
+            f.write(bytes(4))
+            f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
+            f.write(bytes([0x00, num_discs, disc_num]))
+            if swap:
+                f.write(bytes([int(swap)]))
         return config
-    config = _get_config(gameid, 'SOFT')
-    if config:
+
+    # Config does not have cmd0  so append it
+    if _b[-17:][:4] != bytes(4):
+        with open(config, 'wb') as f:
+            f.write(_b)
+            f.write(bytes(4))
+            f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
+            f.write(bytes([0x00, num_discs, disc_num]))
+            if swap:
+                f.write(bytes([int(swap)]))
         return config
-    return None
+
+    # Config exist and has cmd0. Replace
+    _b = _b[:-17]
+    with open(config, 'wb') as f:
+        f.write(_b)
+        f.write(bytes(4))
+        f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
+        f.write(bytes([0x00, num_discs, disc_num]))
+        if swap:
+            f.write(bytes([int(swap)]))
+    return config
 
 
 def create_manual(source, dest, subdir='./pop-fe2-work/'):
@@ -1148,7 +1201,7 @@ def create_manual(source, dest, subdir='./pop-fe2-work/'):
     return
         
 
-def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'):
+def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work', swap=None):
     cid = 'UP0000-%s_00-PS2CLASSICS00000' % gameid
     #cid = '2P0001-PS2U10000_00-0000111122223333'
     subdir = subdir + '/' + cid
@@ -1269,7 +1322,7 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
         print('GAMEID', gameid)
 
         # get config
-        config = get_config(gameid)
+        config = get_config(gameid, len(isos), i, swap)
         #append_title(config, gameid)
         #
         #if len(args.files) > 1:
@@ -1332,6 +1385,8 @@ if __name__ == "__main__":
                     help='Where to create the final PKG')
     parser.add_argument('--snd0',
                         help='WAV file to inject in PS3 PKG')
+    parser.add_argument('--swap',
+                        help='Swap mode 0|1')
     parser.add_argument('files', nargs='*')
     args = parser.parse_args()
 
@@ -1386,4 +1441,9 @@ if __name__ == "__main__":
     if args.output_directory:
         args.ps3_pkg = args.output_directory + '/' + args.ps3_pkg
 
-    create_pkg(args.files, gameid, icon0, pic0, pic1, snd0, args.ps3_pkg, subdir)
+    try:
+        s = args.swap
+    except:
+        s = None
+
+    create_pkg(args.files, gameid, icon0, pic0, pic1, snd0, args.ps3_pkg, subdir, swap=s)
