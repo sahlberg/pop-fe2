@@ -10738,6 +10738,7 @@ games = {
         'pic0': 'https://images.launchbox-app.com/177aba9d-5e32-41c1-b28f-b23558d6c97b.png',
         'pic1': 'https://images.launchbox-app.com/2079fe49-adb5-4646-8c83-1cdc46063c49.jpg',
         'snd0': 'https://www.youtube.com/watch?v=8Lx8uHC7I4M&list=PLE25AE07E13E11795&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Scarface-%20The%20World%20is%20Yours%20(USA).pdf',
     },
     'SLUS21928': {
         'id': 'SLUS21928',
