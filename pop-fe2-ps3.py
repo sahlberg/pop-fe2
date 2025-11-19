@@ -175,11 +175,25 @@ class PopFe2Ps3App:
         self.builder.get_variable('disc1_variable').set('')
         self.builder.get_variable('discid1_variable').set('')
         self.builder.get_object('disc1', self.master).config(state='normal')
+
         self.builder.get_object('discid2', self.master).config(state='disabled')
-        self.builder.get_object('disc2', self.master).config(filetypes=[('Image files', ['.cue', '.iso']), ('All Files', ['*.*', '*'])])
+        self.builder.get_object('disc2', self.master).config(filetypes=[('Image files', ['.cue', '.iso']), ('All Files', ['*.*', '*'])])        
         self.builder.get_variable('disc2_variable').set('')
         self.builder.get_variable('discid2_variable').set('')
         self.builder.get_object('disc2', self.master).config(state='disabled')
+
+        self.builder.get_object('discid3', self.master).config(state='disabled')
+        self.builder.get_object('disc3', self.master).config(filetypes=[('Image files', ['.cue', '.iso']), ('All Files', ['*.*', '*'])])        
+        self.builder.get_variable('disc3_variable').set('')
+        self.builder.get_variable('discid3_variable').set('')
+        self.builder.get_object('disc3', self.master).config(state='disabled')
+
+        self.builder.get_object('discid4', self.master).config(state='disabled')
+        self.builder.get_object('disc4', self.master).config(filetypes=[('Image files', ['.cue', '.iso']), ('All Files', ['*.*', '*'])])        
+        self.builder.get_variable('disc4_variable').set('')
+        self.builder.get_variable('discid4_variable').set('')
+        self.builder.get_object('disc4', self.master).config(state='disabled')
+        
         self.builder.get_object('create_button', self.master).config(state='disabled')
         self.builder.get_variable('title_variable').set('')
         self.builder.get_object('snd0', self.master).config(filetypes=[('Audio files', ['.wav']), ('All Files', ['*.*', '*'])])
@@ -336,8 +350,22 @@ class PopFe2Ps3App:
             self.isos.insert(1, iso)
             self.disc_ids.insert(1, disc_id)
             self.builder.get_object('disc2', self.master).config(state='disabled')
+            self.builder.get_object('disc3', self.master).config(state='normal')
             self.builder.get_variable('discid2_variable').set(disc_id)
             self.builder.get_object('discid2', self.master).config(state='normal')
+        if disc == 'd3':
+            self.isos.insert(2, iso)
+            self.disc_ids.insert(2, disc_id)
+            self.builder.get_object('disc3', self.master).config(state='disabled')
+            self.builder.get_object('disc4', self.master).config(state='normal')
+            self.builder.get_variable('discid3_variable').set(disc_id)
+            self.builder.get_object('discid3', self.master).config(state='normal')
+        if disc == 'd4':
+            self.isos.insert(3, iso)
+            self.disc_ids.insert(3, disc_id)
+            self.builder.get_object('disc4', self.master).config(state='disabled')
+            self.builder.get_variable('discid4_variable').set(disc_id)
+            self.builder.get_object('discid4', self.master).config(state='normal')
             
         self.builder.get_object('create_button', self.master).config(state='normal')
         print('Finished processing', disc_id) if verbose else None
