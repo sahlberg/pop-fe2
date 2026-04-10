@@ -77,6 +77,8 @@ pip3 install rarfile
 # Clone the repository
 git clone --recursive https://github.com/sahlberg/pop-fe2.git
 cd pop-fe2
+git submodule init
+git submodule update make_npdata
 
 wget https://archive.org/download/ps2-opl-cover-art-set/PS2_OPL_ART_kira.7z
 7za x PS2_OPL_ART_kira.7z
@@ -89,6 +91,17 @@ cd ../../..
 cd make_npdata/Linux/
 make
 cd ../..
+
+git clone https://github.com/sahlberg/atracdenc.git
+cd atracdenc
+git checkout origin/cstint-fix
+git submodule init
+git submodule update
+cd src
+cmake .
+make
+cd ../..
+
 
 #
 # Optional: If you want to create Software Manual
