@@ -16,7 +16,22 @@ https://github.com/masible/make_npdata/tree/wip/hadess/modern-linux
 
 Usage
 =====
+Command line arguments are:
+-v                     : Verbose. Print additional information about what
+		         operations are performed during the game installation.
+--ps3-pkg=name         : The name of the PKG to create. Default is the title
+		         of the game.
+			 Special keywords are 'title': Title of the game and
+		 	 'gameid': Game-id.
+--output-directory=dir : Directory to write the PKG file to.
+--snd0                 : Provide an audio file to be played when this game
+		         is focused on the XMB. See the SND0.AT3 section below.
+			 To disable snd0 use --snd0=no
+--swap=<0|1>           : Swap mode 0/1
 
+
+Examples
+========
 To greate game.pkg from the iso stored in /path/to/game.iso :
 
 $ ./pop-fe2.py --ps3-pkg=game.pkg /path/to/game.iso

@@ -559,11 +559,15 @@ class PopFe2Ps3App:
         self.master.config(cursor='watch')
         self.master.update()
 
-        snd0 = self.builder.get_variable('snd0_variable').get()
-        if snd0[:24] == 'https://www.youtube.com/':
-            snd0 = popfe2.get_snd0_from_link(snd0, subdir=self.subdir)
-            if snd0:
-                temp_files.append(snd0)
+        if self.builder.get_variable('snd0_disabled_variable').get() == 'on':
+            snd0 = None
+            print('Disabled SND0')
+        else:
+            snd0 = self.builder.get_variable('snd0_variable').get()
+            if snd0[:24] == 'https://www.youtube.com/':
+                snd0 = popfe2.get_snd0_from_link(snd0, subdir=self.subdir)
+                if snd0:
+                    temp_files.append(snd0)
 
         manual = self.builder.get_variable('manual_variable').get()
         if manual:

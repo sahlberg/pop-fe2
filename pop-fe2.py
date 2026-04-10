@@ -1430,13 +1430,17 @@ if __name__ == "__main__":
 
     
     snd0 = args.snd0
-    try:
-        os.stat(args.files[0][:-4] + '.snd0')
-        snd0 = args.files[0][:-4] + '.snd0'
-    except:
-        True
-    if not snd0 and 'snd0' in games[gameid]:
-        snd0 = get_snd0_from_link(games[gameid]['snd0'], subdir)
+    if snd0 == 'no':
+        snd0 = None
+        print('Skipping SND0')
+    else:
+        try:
+            os.stat(args.files[0][:-4] + '.snd0')
+            snd0 = args.files[0][:-4] + '.snd0'
+        except:
+            True
+        if not snd0 and 'snd0' in games[gameid]:
+            snd0 = get_snd0_from_link(games[gameid]['snd0'], subdir)
 
     if args.output_directory:
         args.ps3_pkg = args.output_directory + '/' + args.ps3_pkg
