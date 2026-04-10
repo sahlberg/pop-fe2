@@ -1360,11 +1360,17 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
     os.mkdir(subdir + '/USRDIR/SAVEDATA')
     root_key = bytearray(0x30)
 
-    print('Creating SCEVMC0.VME')
-    ps2classic.crypt_vme('cex', 'SCEVMC0.VMC', subdir + '/USRDIR/SAVEDATA/SCEVMC0.VME', root_key, ps2classic.PS2_VMC_ENCRYPT)
+    try:
+        print('Creating SCEVMC0.VME')
+        ps2classic.crypt_vme('cex', 'SCEVMC0.VMC', subdir + '/USRDIR/SAVEDATA/SCEVMC0.VME', root_key, ps2classic.PS2_VMC_ENCRYPT)
+    except:
+        True
 
-    print('Creating SCEVMC1.VME')
-    ps2classic.crypt_vme('cex', 'SCEVMC0.VMC', subdir + '/USRDIR/SAVEDATA/SCEVMC1.VME', root_key, ps2classic.PS2_VMC_ENCRYPT)
+    try:
+        print('Creating SCEVMC1.VME')
+        ps2classic.crypt_vme('cex', 'SCEVMC0.VMC', subdir + '/USRDIR/SAVEDATA/SCEVMC1.VME', root_key, ps2classic.PS2_VMC_ENCRYPT)
+    except:
+        True
 
     # create PKG
     print('Creating PKG "%s"' % pkg)
