@@ -30,6 +30,7 @@ jobs:
           pip install pygubu
           pip install tkinterDnD2
           pip install pytubefix
+          pip install PyPDF2
       - name: Clone make_npdata
         run:   |
           git clone https://github.com/sahlberg/make_npdata.git

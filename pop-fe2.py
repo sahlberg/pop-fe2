@@ -21,6 +21,7 @@ import requests
 import shutil
 import struct
 import subprocess
+import zipfile
 
 import ps2classic
 from bchunk import bchunk
@@ -1062,20 +1063,7 @@ def get_config(gameid, num_discs, disc_num, swap):
 
 def create_manual(source, dest, subdir='./pop-fe2-work/'):
 
-    print('Create manual', source)
     files = []
-
-    if source[:8] != 'https://':
-        with open(source, 'rb') as f:
-            buf = f.read(4)
-            signature = struct.unpack_from('<I', buf, 0)[0]
-            if signature == 0x20434F44: # a PSP DOCUMENT.DAT file?
-                return source
-            if signature == 0x04034b50: # a ZIP file?
-                print('Is a zip file')
-                tmpfile = subdir + '/DOCUMENT.zip'
-                copy_file(source, tmpfile)
-                source = tmpfile
 
     print('Create manual from', source)
     if source[:8] == 'https://':
@@ -1156,7 +1144,7 @@ def create_manual(source, dest, subdir='./pop-fe2-work/'):
         except:
             print('Failed to parse PDF.')
             return None
-            
+
     if not os.path.isdir(source):
         print('Can not create manual.', source, 'is not a directory')
         return None
@@ -1215,7 +1203,7 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
             create_manual(games[gameid]['manual'], subdir + '/USRDIR/CONTENT', subdir='./pop-fe2-work/')
     except:
         True
-    
+
     if icon0:
         icon0 = icon0.resize((124, 176), Image.Resampling.LANCZOS)
         i = Image.new(icon0.mode, (320, 176), (0,0,0)).convert('RGBA')
