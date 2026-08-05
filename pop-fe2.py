@@ -1020,7 +1020,7 @@ def get_config(gameid, num_discs, disc_num, swap):
             f.write(bytes(4))
             f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
             f.write(bytes([0x00, num_discs, disc_num]))
-            if swap:
+            if swap != None:
                 f.write(bytes([int(swap)]))
         return config
 
@@ -1034,7 +1034,7 @@ def get_config(gameid, num_discs, disc_num, swap):
             f.write(bytes(4))
             f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
             f.write(bytes([0x00, num_discs, disc_num]))
-            if swap:
+            if swap != None:
                 f.write(bytes([int(swap)]))
         return config
 
@@ -1045,7 +1045,7 @@ def get_config(gameid, num_discs, disc_num, swap):
             f.write(bytes(4))
             f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
             f.write(bytes([0x00, num_discs, disc_num]))
-            if swap:
+            if swap != None:
                 f.write(bytes([int(swap)]))
         return config
 
@@ -1056,7 +1056,7 @@ def get_config(gameid, num_discs, disc_num, swap):
         f.write(bytes(4))
         f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
         f.write(bytes([0x00, num_discs, disc_num]))
-        if swap:
+        if swap != None:
             f.write(bytes([int(swap)]))
     return config
 
