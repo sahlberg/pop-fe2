@@ -581,8 +581,9 @@ class PopFe2Ps3App:
 
         if pkgdir and len(pkgdir):
             pkgfile = pkgdir + '/' + pkgfile
-                
-        popfe2.create_pkg(self.isos, self.disc_ids[0], self.icon0, self.pic0, self.pic1, snd0, pkgfile, self.subdir)
+
+        popfe2.create_pkg(self.isos, self.disc_ids[0], self.icon0, self.pic0, self.pic1, snd0, pkgfile, self.subdir,
+                          1 if self.builder.get_variable('swap_enabled_variable').get() == 'on' else None)
         self.master.config(cursor='')
 
         d = FinishedDialog(self.master)
