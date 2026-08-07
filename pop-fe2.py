@@ -1021,6 +1021,7 @@ def get_config(gameid, num_discs, disc_num, swap):
             f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
             f.write(bytes([0x00, num_discs, disc_num]))
             if swap != None:
+                print('Setting swap in config cmd 0 to', int(swap))
                 f.write(bytes([int(swap)]))
         return config
 
@@ -1035,6 +1036,7 @@ def get_config(gameid, num_discs, disc_num, swap):
             f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
             f.write(bytes([0x00, num_discs, disc_num]))
             if swap != None:
+                print('Setting swap in config cmd 0 to', int(swap))
                 f.write(bytes([int(swap)]))
         return config
 
@@ -1046,6 +1048,7 @@ def get_config(gameid, num_discs, disc_num, swap):
             f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
             f.write(bytes([0x00, num_discs, disc_num]))
             if swap != None:
+                print('Setting swap in config cmd 0 to', int(swap))
                 f.write(bytes([int(swap)]))
         return config
 
@@ -1057,6 +1060,7 @@ def get_config(gameid, num_discs, disc_num, swap):
         f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
         f.write(bytes([0x00, num_discs, disc_num]))
         if swap != None:
+            print('Setting swap in config cmd 0 to', int(swap))
             f.write(bytes([int(swap)]))
     return config
 
@@ -1319,6 +1323,9 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
         # Install CONFIG.
         if config:
             print('Installing CONFIG from', config)
+            with open(config, 'rb') as ff:
+                print('Config:', ff.read().hex())
+
             ps2classic.encrypt_image('cex', 'klic.bin',
                                      config,
                                      subdir + '/USRDIR/' + _c, _c,
