@@ -699,7 +699,7 @@ PS2_PLACEHOLDER_KEY = bytes([
 
 verbose = False
 
-def create_limg_sector(filename):
+def create_limg_sector(filename, media_type=None):
     limg = None
     with open(filename, 'r+b') as iso:
         iso.seek(-0x4000, 2)
@@ -713,14 +713,21 @@ def create_limg_sector(filename):
         file_size = iso.tell()
         iso.seek(0)
 
-        if file_size  > 0x2bc00000:
+        if media_type == 'cd':
+            iso.seek(0x9318 + 0x54)
+            buf = iso.read(4);
+            block_size = 0x930  # CD
+            limg_type = 2
+        elif media_type == 'dvd' or file_size > 0x2bc00000:
             iso.seek(0x8000 + 0x54)
             buf = iso.read(4);
             block_size = 0x800  # DVD
+            limg_type = 1
         else:
             iso.seek(0x9318 + 0x54)
             buf = iso.read(4);
             block_size = 0x930  # CD
+            limg_type = 2
 
         num_sectors = struct.unpack_from('>I', buf, 0)[0]
         padding = ((num_sectors) * 2048) % 0x4000
@@ -734,10 +741,7 @@ def create_limg_sector(filename):
         
         limg = bytearray(0x4000)
         limg[:4] = b'LIMG'
-        if file_size  > 0x2bc00000:
-            struct.pack_into('>I', limg, 4, 1)
-        else:
-            struct.pack_into('>I', limg, 4, 2)
+        struct.pack_into('>I', limg, 4, limg_type)
         struct.pack_into('>I', limg, 8, num_sectors)
         struct.pack_into('>I', limg, 12, block_size)
 
@@ -798,6 +802,30 @@ def get_gameid_from_iso(path):
         
     iso.close()
     return None
+
+
+def prepare_cd_image(cue_path, metadata_iso):
+    """Return a cooked metadata ISO and the original raw CD image."""
+    bc = bchunk()
+    bc.open(cue_path)
+    data_tracks = [
+        index for index, track in bc.tracks.items()
+        if track['MODE'] != 'AUDIO'
+    ]
+    if len(data_tracks) != 1 or len(bc.tracks) != 1:
+        raise RuntimeError(
+            'Only single-track PS2 CD BIN+CUE images are supported'
+        )
+
+    data_track = data_tracks[0]
+    track = bc.tracks[data_track]
+    if track['MODE'] not in ['MODE1/2352', 'MODE2/2352']:
+        raise RuntimeError('Unsupported CUE track mode: %s' % track['MODE'])
+
+    # pycdlib needs cooked 2048-byte sectors to inspect ISO9660 metadata.
+    # Keep the original 2352-byte image for PS2 Classics encryption.
+    bc.writetrack(data_track, metadata_iso)
+    return metadata_iso, track['FILE']
 
 
 def get_pic_from_game(pic, gameid, filename):
@@ -1193,7 +1221,9 @@ def create_manual(source, dest, subdir='./pop-fe2-work/'):
     return
         
 
-def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work', swap=None):
+def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg,
+               subdir='pop-fe2-work', swap=None, disc_gameids=None,
+               disc_media=None):
     cid = 'UP0000-%s_00-PS2CLASSICS00000' % gameid
     #cid = '2P0001-PS2U10000_00-0000111122223333'
     subdir = subdir + '/' + cid
@@ -1309,12 +1339,15 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
             _c = _c + str(i + 1)
             _ibe = _ibe + str(i + 1)
 
-        print('Get GAMEID from', f)
-        gameid = get_gameid_from_iso(f)
-        print('GAMEID', gameid)
+        if disc_gameids:
+            disc_gameid = disc_gameids[i]
+        else:
+            print('Get GAMEID from', f)
+            disc_gameid = get_gameid_from_iso(f)
+        print('GAMEID', disc_gameid)
 
         # get config
-        config = get_config(gameid, len(isos), i, swap)
+        config = get_config(disc_gameid, len(isos), i, swap)
         #append_title(config, gameid)
         #
         #if len(args.files) > 1:
@@ -1340,7 +1373,8 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg, subdir='pop-fe2-work'
         shutil.copyfile(f, subdir + '/USRDIR/game.iso')
 
         # Create a LIMG sector if we need one
-        create_limg_sector(subdir + '/USRDIR/game.iso')
+        media_type = disc_media[i] if disc_media else None
+        create_limg_sector(subdir + '/USRDIR/game.iso', media_type)
 
         print('Creating ISO.BIN.ENC')
         ps2classic.encrypt_image('cex', 'klic.bin',
@@ -1404,17 +1438,25 @@ if __name__ == "__main__":
         print('No ART directory found. Download and install \'https://archive.org/details/ps2-opl-cover-art-set\' in the same directory as pop-fe2.py')
         os._exit(0)
 
+    package_files = list(args.files)
+    package_media = [None] * len(args.files)
+    asset_base = os.path.splitext(args.files[0])[0]
     for i, f in enumerate(args.files):
         if f[-4:].lower() == '.cue':
-            bc = bchunk()
-            bc.open(f)
-            bc.writetrack(1, 'pop-fe2-work/ISO%02d.iso' & i)
-            args.files[i] = 'pop-fe2-work/ISO%02d.iso & i'
+            metadata_iso = 'pop-fe2-work/ISO%02d.iso' % i
+            metadata_iso, package_file = prepare_cd_image(f, metadata_iso)
+            args.files[i] = metadata_iso
+            package_files[i] = package_file
+            package_media[i] = 'cd'
 
-    gameid = get_gameid_from_iso(args.files[0])
-    if not gameid:
-        print('Could not identify the game')
-        os._exit(1)
+    disc_gameids = []
+    for metadata_file in args.files:
+        disc_gameid = get_gameid_from_iso(metadata_file)
+        if not disc_gameid:
+            print('Could not identify the game')
+            os._exit(1)
+        disc_gameids.append(disc_gameid)
+    gameid = disc_gameids[0]
     print('GAMEID:', gameid)
     print('TITLE:', games[gameid]['title'])
 
@@ -1423,11 +1465,11 @@ if __name__ == "__main__":
     if args.ps3_pkg == 'gameid':
         args.ps3_pkg = gameid + '.pkg'
 
-    pic0 = get_pic_from_game('pic0', gameid, args.files[0][:-4] + '_pic0.png')
+    pic0 = get_pic_from_game('pic0', gameid, asset_base + '_pic0.png')
 
-    pic1 = get_pic_from_game('pic1', gameid, args.files[0][:-4] + '_pic1.png')
+    pic1 = get_pic_from_game('pic1', gameid, asset_base + '_pic1.png')
 
-    icon0 = get_pic_from_game('icon0', gameid, args.files[0][:-4] + '_icon0.png')
+    icon0 = get_pic_from_game('icon0', gameid, asset_base + '_icon0.png')
 
     
     snd0 = args.snd0
@@ -1436,8 +1478,8 @@ if __name__ == "__main__":
         print('Skipping SND0')
     else:
         try:
-            os.stat(args.files[0][:-4] + '.snd0')
-            snd0 = args.files[0][:-4] + '.snd0'
+            os.stat(asset_base + '.snd0')
+            snd0 = asset_base + '.snd0'
         except:
             True
         if not snd0 and 'snd0' in games[gameid]:
@@ -1451,4 +1493,6 @@ if __name__ == "__main__":
     except:
         s = None
 
-    create_pkg(args.files, gameid, icon0, pic0, pic1, snd0, args.ps3_pkg, subdir, swap=s)
+    create_pkg(package_files, gameid, icon0, pic0, pic1, snd0,
+               args.ps3_pkg, subdir, swap=s, disc_gameids=disc_gameids,
+               disc_media=package_media)

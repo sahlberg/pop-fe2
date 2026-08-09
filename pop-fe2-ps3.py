@@ -77,6 +77,7 @@ class PopFe2Ps3App:
         self.myrect = None
         self.isos = []
         self.disc_ids = []
+        self.disc_media = []
         self.icon0 = None
         self.icon0_tk = None
         self.pic0 = None
@@ -159,7 +160,8 @@ class PopFe2Ps3App:
         os.mkdir(self.subdir)
 
         self.isos = []
-        self.disc_id = []
+        self.disc_ids = []
+        self.disc_media = []
         self.icon0 = None
         self.icon0_tk = None
         self.pic0 = None
@@ -310,12 +312,22 @@ class PopFe2Ps3App:
         if not len(iso):
             return
 
-        if iso[-4:] == '.chd':
+        package_iso = iso
+        media_type = None
+
+        if iso[-4:].lower() == '.cue':
+            metadata_iso = self.subdir + 'ISO%02d.iso' % len(self.isos)
+            iso, package_iso = popfe2.prepare_cd_image(iso, metadata_iso)
+            temp_files.append(metadata_iso)
+            media_type = 'cd'
+
+        if iso[-4:].lower() == '.chd':
             print('Extracting ISO from CHD.  This is going to take quite a while ...')
             new_path = self.subdir + iso.split(os.sep)[-1][:-4] + '.iso'
             print('Extracting to', new_path)
             subprocess.run(['chdman', 'extractdvd', '-i', iso, '-o', new_path], check=True)
             iso=new_path
+            package_iso = iso
             print('Extracted iso')
             event.widget.configure(path=iso)
             
@@ -333,8 +345,9 @@ class PopFe2Ps3App:
 
             
         if disc == 'd1':
-            self.isos.insert(0, iso)
+            self.isos.insert(0, package_iso)
             self.disc_ids.insert(0, disc_id)
+            self.disc_media.insert(0, media_type)
             self.builder.get_object('disc1', self.master).config(state='disabled')
             self.builder.get_object('disc2', self.master).config(state='normal')
 
@@ -356,22 +369,25 @@ class PopFe2Ps3App:
             self.update_assets()
             
         if disc == 'd2':
-            self.isos.insert(1, iso)
+            self.isos.insert(1, package_iso)
             self.disc_ids.insert(1, disc_id)
+            self.disc_media.insert(1, media_type)
             self.builder.get_object('disc2', self.master).config(state='disabled')
             self.builder.get_object('disc3', self.master).config(state='normal')
             self.builder.get_variable('discid2_variable').set(disc_id)
             self.builder.get_object('discid2', self.master).config(state='normal')
         if disc == 'd3':
-            self.isos.insert(2, iso)
+            self.isos.insert(2, package_iso)
             self.disc_ids.insert(2, disc_id)
+            self.disc_media.insert(2, media_type)
             self.builder.get_object('disc3', self.master).config(state='disabled')
             self.builder.get_object('disc4', self.master).config(state='normal')
             self.builder.get_variable('discid3_variable').set(disc_id)
             self.builder.get_object('discid3', self.master).config(state='normal')
         if disc == 'd4':
-            self.isos.insert(3, iso)
+            self.isos.insert(3, package_iso)
             self.disc_ids.insert(3, disc_id)
+            self.disc_media.insert(3, media_type)
             self.builder.get_object('disc4', self.master).config(state='disabled')
             self.builder.get_variable('discid4_variable').set(disc_id)
             self.builder.get_object('discid4', self.master).config(state='normal')
@@ -591,8 +607,12 @@ class PopFe2Ps3App:
         if pkgdir and len(pkgdir):
             pkgfile = pkgdir + '/' + pkgfile
 
-        popfe2.create_pkg(self.isos, self.disc_ids[0], self.icon0, self.pic0, self.pic1, snd0, pkgfile, self.subdir,
-                          0 if self.builder.get_variable('swap_enabled_variable').get() == 'on' else None)
+        popfe2.create_pkg(
+            self.isos, self.disc_ids[0], self.icon0, self.pic0, self.pic1,
+            snd0, pkgfile, self.subdir,
+            0 if self.builder.get_variable('swap_enabled_variable').get() == 'on' else None,
+            disc_gameids=self.disc_ids, disc_media=self.disc_media
+        )
         self.master.config(cursor='')
 
         d = FinishedDialog(self.master)
