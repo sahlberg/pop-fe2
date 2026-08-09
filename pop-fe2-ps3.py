@@ -171,25 +171,25 @@ class PopFe2Ps3App:
         self.manual = None
         
         self.builder.get_object('discid1', self.master).config(state='normal')
-        self.builder.get_object('disc1', self.master).config(filetypes=[('Image files', ['.cue', '.iso']), ('All Files', ['*.*', '*'])])
+        self.builder.get_object('disc1', self.master).config(filetypes=[('Image files', ['.cue', '.iso', '.chd']), ('All Files', ['*.*', '*'])])
         self.builder.get_variable('disc1_variable').set('')
         self.builder.get_variable('discid1_variable').set('')
         self.builder.get_object('disc1', self.master).config(state='normal')
 
         self.builder.get_object('discid2', self.master).config(state='disabled')
-        self.builder.get_object('disc2', self.master).config(filetypes=[('Image files', ['.cue', '.iso']), ('All Files', ['*.*', '*'])])        
+        self.builder.get_object('disc2', self.master).config(filetypes=[('Image files', ['.cue', '.iso', '.chd']), ('All Files', ['*.*', '*'])])        
         self.builder.get_variable('disc2_variable').set('')
         self.builder.get_variable('discid2_variable').set('')
         self.builder.get_object('disc2', self.master).config(state='disabled')
 
         self.builder.get_object('discid3', self.master).config(state='disabled')
-        self.builder.get_object('disc3', self.master).config(filetypes=[('Image files', ['.cue', '.iso']), ('All Files', ['*.*', '*'])])        
+        self.builder.get_object('disc3', self.master).config(filetypes=[('Image files', ['.cue', '.iso', '.chd']), ('All Files', ['*.*', '*'])])        
         self.builder.get_variable('disc3_variable').set('')
         self.builder.get_variable('discid3_variable').set('')
         self.builder.get_object('disc3', self.master).config(state='disabled')
 
         self.builder.get_object('discid4', self.master).config(state='disabled')
-        self.builder.get_object('disc4', self.master).config(filetypes=[('Image files', ['.cue', '.iso']), ('All Files', ['*.*', '*'])])        
+        self.builder.get_object('disc4', self.master).config(filetypes=[('Image files', ['.cue', '.iso', '.chd']), ('All Files', ['*.*', '*'])])        
         self.builder.get_variable('disc4_variable').set('')
         self.builder.get_variable('discid4_variable').set('')
         self.builder.get_object('disc4', self.master).config(state='disabled')
@@ -262,7 +262,7 @@ class PopFe2Ps3App:
             c = self.builder.get_object('preview_canvas', self.master)
             c.create_image(0, 0, image=self.preview_tk, anchor='nw')
 
-    def update_assets(self, subdir = 'pop-fe2-work/'):
+    def update_assets(self, subdir = 'pop-fe2-ps3-work/'):
         if not len(self.disc_ids):
             return
         disc_id = self.disc_ids[0]
@@ -306,10 +306,19 @@ class PopFe2Ps3App:
         self.update_preview()
         
     def on_path_changed(self, event):
-        iso = event.widget.cget('path')
+        iso = os.path.normpath(event.widget.cget('path'))
         if not len(iso):
             return
 
+        if iso[-4:] == '.chd':
+            print('Extracting ISO from CHD.  This is going to take quite a while ...')
+            new_path = self.subdir + iso.split(os.sep)[-1][:-4] + '.iso'
+            print('Extracting to', new_path)
+            subprocess.run(['chdman', 'extractdvd', '-i', iso, '-o', new_path], check=True)
+            iso=new_path
+            print('Extracted iso')
+            event.widget.configure(path=iso)
+            
         disc = event.widget.cget('title')
         print('Disc', disc)
 
