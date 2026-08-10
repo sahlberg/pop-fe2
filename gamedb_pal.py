@@ -11626,6 +11626,14 @@ games_pal = {
         #'pic1':
         #'snd0':
     },
+    'SLES50112': {
+        'id': 'SLES50112',
+        'title': 'Shadow of Memories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
     'SLES50113': {
         'id': 'SLES50113',
         'title': 'Ring of Red',
