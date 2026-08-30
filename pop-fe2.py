@@ -24,7 +24,9 @@ import subprocess
 import zipfile
 
 import ps2classic
+import sys
 from bchunk import bchunk
+from cue import is_abs_path, path_basename, path_dirname
 from gamedb import games
 from riff import copy_riff, create_riff, parse_riff
 
@@ -41,6 +43,82 @@ try:
 except:
     print('PyPDF2 is not installed.\nYou should install requests by running:\npip3 install PyPDF2')
 
+
+
+#
+# Where do we live?
+#
+# When we run as a pyinstaller bundle sys.executable points at the
+# generated .exe and all the bundled helper binaries (chdman, ffmpeg,
+# make_npdata, pkg, crunch, atracdenc, ART, ...) live next to it.
+# When we run from source they live next to this file instead.
+#
+# NEVER use os.getcwd() to find our helper binaries.  On windows the
+# current directory is whatever explorer felt like when the user
+# double-clicked/dragged something onto the .exe and is almost never
+# the directory we were installed into.
+#
+if getattr(sys, 'frozen', False):
+    APP_DIR = os.path.dirname(os.path.abspath(sys.executable))
+else:
+    APP_DIR = os.path.dirname(os.path.abspath(__file__))
+
+
+def app_path(*parts):
+    """Return an absolute path to a file that is installed next to us."""
+    return os.path.join(APP_DIR, *parts)
+
+
+def find_tool(name, extra_paths=None, required=True):
+    """Locate an external helper binary.
+
+    Returns an absolute path to the binary, or None if we can not find it.
+
+    We look, in order, in
+      1, the directory we were installed into  (this is where the windows
+         builds put the bundled binaries)
+      2, any extra relative paths the caller gave us, relative to the
+         directory we were installed into
+      3, the current working directory  (so that running from a source
+         checkout still works)
+      4, $PATH
+    """
+    candidates = [app_path(name)]
+    if extra_paths:
+        for e in extra_paths:
+            candidates.append(app_path(*e.split('/')))
+            candidates.append(os.path.abspath(os.path.join(*e.split('/'))))
+    candidates.append(os.path.abspath(name))
+
+    if os.name != 'posix':
+        # CreateProcess() will append .exe for us but os.path.isfile() will
+        # not, so check for both spellings.
+        candidates = [c + ext for c in candidates for ext in ['', '.exe']]
+
+    for c in candidates:
+        if os.path.isfile(c):
+            print('Found', name, 'at', c)
+            return c
+
+    c = shutil.which(name)
+    if c:
+        c = os.path.abspath(c)
+        print('Found', name, 'in PATH at', c)
+        return c
+
+    print('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+    print('Could not find', name)
+    print('Looked in:')
+    for c in candidates:
+        print('   ', c)
+    print('    and in $PATH')
+    print('Please see the README file for how to install', name)
+    print('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+    if required:
+        raise FileNotFoundError('Could not find the helper binary "%s". '
+                                'Please see the README for how to install it.'
+                                % name)
+    return None
 
 _logo_buffer = bytes([
 0x89,
@@ -757,8 +835,23 @@ def get_gameid_from_iso(path):
             buf = buf.replace(i, "")
         return buf
     
+    print('get_gameid_from_iso:', path)
+    if not os.path.isfile(path):
+        print('get_gameid_from_iso: no such file:', path)
+        print('  absolute path would be', os.path.abspath(path))
+        print('  current directory is  ', os.getcwd())
+        return None
+
     iso = pycdlib.PyCdlib()
-    iso.open(path)
+    try:
+        iso.open(path)
+    except Exception as e:
+        # Not an ISO9660 image at all. This happens if the user picks a
+        # random file with the "All Files" filter, or if we failed to
+        # extract/convert a container such as a CHD or a BIN/CUE.
+        print('Not an ISO9660 image:', path)
+        print('  ', e)
+        return None
     gameid = iso.pvd.volume_identifier.strip().decode('utf-8')
     if gameid:
         gameid = strip_bad_chars(gameid)
@@ -806,6 +899,13 @@ def get_gameid_from_iso(path):
 
 def prepare_cd_image(cue_path, metadata_iso):
     """Return a cooked metadata ISO and the original raw CD image."""
+    # parse_cue() resolves the FILE entries in the cue relative to the cue
+    # file itself, so make sure the cue path is absolute or the BIN will
+    # be looked for relative to the current directory.
+    cue_path = os.path.abspath(cue_path)
+    metadata_iso = os.path.abspath(metadata_iso)
+    print('prepare_cd_image: cue file    ', cue_path)
+    print('prepare_cd_image: metadata iso', metadata_iso)
     bc = bchunk()
     bc.open(cue_path)
     data_tracks = [
@@ -824,8 +924,14 @@ def prepare_cd_image(cue_path, metadata_iso):
 
     # pycdlib needs cooked 2048-byte sectors to inspect ISO9660 metadata.
     # Keep the original 2352-byte image for PS2 Classics encryption.
+    print('prepare_cd_image: track mode ', track['MODE'])
+    print('prepare_cd_image: track file  ', track['FILE'])
+    if not os.path.isfile(track['FILE']):
+        raise FileNotFoundError(
+            'The CUE file %s refers to %s which does not exist.'
+            % (cue_path, track['FILE']))
     bc.writetrack(data_track, metadata_iso)
-    return metadata_iso, track['FILE']
+    return metadata_iso, os.path.abspath(track['FILE'])
 
 
 def get_pic_from_game(pic, gameid, filename):
@@ -849,18 +955,16 @@ def get_pic_from_game(pic, gameid, filename):
                 return Image.open(io.BytesIO(ret.content))
 
     if gameid in games:
-        try:
-            if pic == 'icon0':
-                f = 'ART/' + gameid[:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '_COV.png'
+        # The ART pack is installed next to pop-fe2 itself, so we must not
+        # look for it relative to the current directory.
+        _suffix = {'icon0': '_COV.png', 'pic0': '_LGO.png', 'pic1': '_BG.png'}
+        if pic in _suffix:
+            f = app_path('ART', gameid[:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + _suffix[pic])
+            try:
+                print('Looking for', pic, 'in the ART pack:', f)
                 return Image.open(f).convert('RGBA')
-            if pic == 'pic0':
-                f = 'ART/' + gameid[:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '_LGO.png'
-                return Image.open(f).convert('RGBA')
-            if pic == 'pic1':
-                f = 'ART/' + gameid[:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '_BG.png'
-                return Image.open(f).convert('RGBA')
-        except:
-            True
+            except Exception as e:
+                print('No', pic, 'in the ART pack:', e)
 
     return None
 
@@ -891,7 +995,9 @@ def convert_snd0_to_at3(snd0, at3, duration, max_size, subdir):
         copy_riff(snd0, tmp_wav, max_duration_ms=duration * 1000)
         s = parse_riff(tmp_wav)
         print('Creating temporary ATRAC3 file', tmp_snd0) if verbose else None
-        subprocess.run(['./atracdenc/src/atracdenc', '--encode=atrac3', '-i', tmp_wav, '-o', tmp_snd0], check=True, stdout=subprocess.DEVNULL)
+        atracdenc = find_tool('atracdenc', ['atracdenc/src/atracdenc'])
+        print('Running', [atracdenc, '--encode=atrac3', '-i', tmp_wav, '-o', tmp_snd0])
+        subprocess.run([atracdenc, '--encode=atrac3', '-i', tmp_wav, '-o', tmp_snd0], check=True, stdout=subprocess.DEVNULL)
         print('Converting EA3 to AT3 file') if verbose else None
         create_riff(tmp_snd0, at3, number_of_samples=int(len(s['data']['data'])/4), max_data_size=0, loop=True)
         if os.stat(at3).st_size < max_size:
@@ -1010,13 +1116,18 @@ def GenerateSFO(sfo):
     return hdr + index + keys + data
 
 
-def get_config(gameid, num_discs, disc_num, swap):
+def get_config(gameid, num_discs, disc_num, swap, subdir='.'):
+    # The config file is a scratch file. Write it into the work directory,
+    # the current directory is not necessarily writable.
+    config_file = os.path.abspath(subdir) + '/config'
+    print('get_config: config file', config_file)
+
     def _get_config(gameid, ctype):
         _c = 'https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/PS2CONFIG/USRDIR/CONFIG/' + ctype + '/' + gameid[0:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + '.CONFIG'
         config = None
         ret = requests.get(_c, stream=True)
         if ret.status_code == 200:
-            config = 'config'
+            config = config_file
             with open(config, 'wb') as f:
                 f.write(ret.content)
         return config
@@ -1043,7 +1154,7 @@ def get_config(gameid, num_discs, disc_num, swap):
 
     # No config, create a config with cmd0
     if not config:
-        config = 'config'
+        config = config_file
         with open(config, 'wb') as f:
             f.write(bytes(4))
             f.write(bytes(gameid[:4].upper() + '-' + gameid[4:], encoding='utf-8'))
@@ -1097,14 +1208,15 @@ def create_manual(source, dest, subdir='./pop-fe2-work/'):
 
     files = []
 
+    subdir = os.path.abspath(subdir)
+    dest = os.path.abspath(dest)
     print('Create manual from', source)
+    print('create_manual: scratch directory', subdir)
+    print('create_manual: destination      ', dest)
+    os.makedirs(subdir, exist_ok=True)
     if source[:8] == 'https://':
         print('Download manual from', source)
-        tmpfile = subdir + '/DOCUMENT-' + source.split('/')[-1]
-        try:
-            os.mkdir(subdir)
-        except:
-            True
+        tmpfile = subdir + '/DOCUMENT-' + path_basename(source)
         try:
             ret = requests.get(source)
             if ret.status_code != 200:
@@ -1124,10 +1236,7 @@ def create_manual(source, dest, subdir='./pop-fe2-work/'):
     if source[-4:] == '.zip':
         print('Unzip manual', source, 'from ZIP')
         subdir = subdir + '/DOCUMENT-tmp'
-        try:
-            os.mkdir(subdir)
-        except:
-            True
+        os.makedirs(subdir, exist_ok=True)
 
         z = zipfile.ZipFile(source)
         for f in z.namelist():
@@ -1140,10 +1249,7 @@ def create_manual(source, dest, subdir='./pop-fe2-work/'):
     if source[-4:] == '.cbr':
         print('Unzip manual', source, 'from CBR')
         subdir = subdir + '/DOCUMENT-tmp'
-        try:
-            os.mkdir(subdir)
-        except:
-            True
+        os.makedirs(subdir, exist_ok=True)
 
         try:
             r = rarfile.RarFile(source)
@@ -1158,10 +1264,7 @@ def create_manual(source, dest, subdir='./pop-fe2-work/'):
     if source[-4:] == '.pdf':
         print('Extract manual', source, 'from PDF')
         subdir = subdir + '/DOCUMENT-tmp'
-        try:
-            os.mkdir(subdir)
-        except:
-            True
+        os.makedirs(subdir, exist_ok=True)
         try:
             idx = 0
             r = PyPDF2.PdfReader(source)
@@ -1188,21 +1291,21 @@ def create_manual(source, dest, subdir='./pop-fe2-work/'):
             image = Image.open(p)
             image.save(dest + '/%03d.png' % (i + 1), 'PNG')
 
-            #https://github.com/BinomialLLC/crunch        
-            if os.name == 'posix':
-                if struct.calcsize("P") == 8:
-                    cmd = os.getcwd() + '/' + '/crunch_x64.exe'
-                else:
-                    cmd = os.getcwd() + '/' + '/crunch.exe'
-                
-                subprocess.run(['wine', cmd, '/DXT1A', '/mipmode', 'None', '/fileformat', 'dds', '-file', '%03d.png' % (i + 1), '/out', '%03d.dds' % (i + 1), '/rescale', '960', '768'], check=True, cwd=dest)
+            #https://github.com/BinomialLLC/crunch
+            # crunch is a windows binary so we always look for the .exe,
+            # and run it under wine when we are on posix.
+            # NOTE: dest must be an absolute path here since we run crunch
+            # with cwd=dest.
+            if struct.calcsize("P") == 8:
+                cmd = find_tool('crunch_x64.exe')
             else:
-                if struct.calcsize("P") == 8:
-                    cmd = os.getcwd() + '\\' + '/crunch_x64.exe'
-                else:
-                    cmd = os.getcwd() + '\\' + '/crunch.exe'
-                
-                subprocess.run([cmd, '/DXT1A', '/mipmode', 'None', '/fileformat', 'dds', '-file', '%03d.png' % (i + 1), '/out', '%03d.dds' % (i + 1), '/rescale', '960', '768'], check=True, cwd=dest)
+                cmd = find_tool('crunch.exe')
+
+            argv = [cmd, '/DXT1A', '/mipmode', 'None', '/fileformat', 'dds', '-file', '%03d.png' % (i + 1), '/out', '%03d.dds' % (i + 1), '/rescale', '960', '768']
+            if os.name == 'posix':
+                argv = ['wine'] + argv
+            print('Running', argv, 'in', dest)
+            subprocess.run(argv, check=True, cwd=dest)
                 
             with open(dest + '/%03d.dds' % (i + 1), 'rb') as inp:
                 inp.seek(128)
@@ -1226,17 +1329,35 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg,
                disc_media=None):
     cid = 'UP0000-%s_00-PS2CLASSICS00000' % gameid
     #cid = '2P0001-PS2U10000_00-0000111122223333'
-    subdir = subdir + '/' + cid
-    os.mkdir(subdir)
-    os.mkdir(subdir + '/USRDIR')
+    # Everything below concatenates paths with '/' so normalize the work
+    # directory into an absolute path without any trailing separator.
+    # On windows the caller may well hand us something like
+    # 'C:\\Users\\me\\pop-fe2-ps3-work\\' and we do not want to end up
+    # building 'C:\\Users\\me\\pop-fe2-ps3-work\\/UP0000-...'
+    workdir = os.path.abspath(subdir)
+    subdir = workdir + '/' + cid
+    print('create_pkg: work directory  ', workdir)
+    print('create_pkg: package directory', subdir)
+    print('create_pkg: install directory', APP_DIR)
+    print('create_pkg: current directory', os.getcwd())
+    print('create_pkg: pkg file         ', pkg)
+    for _i, _f in enumerate(isos):
+        print('create_pkg: disc %d image     %s' % (_i + 1, _f))
+    os.makedirs(subdir, exist_ok=True)
+    os.makedirs(subdir + '/USRDIR', exist_ok=True)
 
     try:
         if 'manual' in games[gameid]:
             print('Found a manual')
-            os.mkdir(subdir + '/USRDIR/CONTENT')
-            create_manual(games[gameid]['manual'], subdir + '/USRDIR/CONTENT', subdir='./pop-fe2-work/')
-    except:
-        True
+            os.makedirs(subdir + '/USRDIR/CONTENT', exist_ok=True)
+            # create_manual() runs crunch with cwd=dest so dest must be
+            # absolute, and its scratch directory must be the work
+            # directory we were actually given, not a hardcoded one.
+            create_manual(games[gameid]['manual'],
+                          subdir + '/USRDIR/CONTENT',
+                          subdir=workdir)
+    except Exception as e:
+        print('Failed to create the manual:', e)
 
     if icon0:
         icon0 = icon0.resize((124, 176), Image.Resampling.LANCZOS)
@@ -1281,7 +1402,9 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg,
                     snd0 = None
     if snd0:
         print('Creating SND0')
-        subprocess.call(['ffmpeg', '-y', '-i', snd0, '-ar', '48000', '-ac', '2', subdir + '/snd0_tmp.wav'], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        ffmpeg = find_tool('ffmpeg')
+        print('Running', [ffmpeg, '-y', '-i', snd0, '-ar', '48000', '-ac', '2', subdir + '/snd0_tmp.wav'])
+        subprocess.call([ffmpeg, '-y', '-i', snd0, '-ar', '48000', '-ac', '2', subdir + '/snd0_tmp.wav'], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         os.remove(snd0)
         snd0 = subdir + '/snd0_tmp.wav'
         # Patch it back to 44100 to make atracdenc happy, the XMB will play it at 48000 anyway
@@ -1310,22 +1433,37 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg,
     with open(subdir + '/PS3LOGO.DAT', 'wb') as f:
         f.write(_logo_buffer)
 
-    with open('gameid', 'w') as f:
+    # These two are scratch files we generate for make_npdata/ps2classic.
+    # Keep them in the work directory, the current directory is not
+    # necessarily writable (and on windows is rarely where we think it is).
+    gameid_file = workdir + '/gameid'
+    klic_file = workdir + '/klic.bin'
+    # This one ships with pop-fe2 and lives next to the executable.
+    rap_file = app_path('2P0001-PS2U10000_00-0000111122223333.rap')
+    print('create_pkg: gameid file      ', gameid_file)
+    print('create_pkg: klic file        ', klic_file)
+    print('create_pkg: rap file         ', rap_file)
+
+    with open(gameid_file, 'w') as f:
         f.write(gameid[:4] + '_' + gameid[4:9])
 
-    with open('klic.bin', 'wb') as f:
+    with open(klic_file, 'wb') as f:
         f.write(PS2_PLACEHOLDER_KEY)
         
     # Create ISO.BIN.EDAT:
     print('Creating ISO.BIN.EDAT')
-    print(['./make_npdata/Linux/make_npdata', '-v', '-e',
-           'gameid',
-           subdir + '/USRDIR/ISO.BIN.EDAT', '1', '1', '3', '0',
-           '16', '2', '01', '2P0001-PS2U10000_00-0000111122223333', '8', '2P0001-PS2U10000_00-0000111122223333.rap'])
-    subprocess.run(['./make_npdata/Linux/make_npdata', '-v', '-e',
-            'gameid',
+    make_npdata = find_tool('make_npdata', ['make_npdata/Linux/make_npdata'])
+    argv = [make_npdata, '-v', '-e',
+            gameid_file,
             subdir + '/USRDIR/ISO.BIN.EDAT', '1', '1', '3', '0',
-            '16', '2', '01', '2P0001-PS2U10000_00-0000111122223333', '8', '2P0001-PS2U10000_00-0000111122223333.rap'], check=True)
+            '16', '2', '01', '2P0001-PS2U10000_00-0000111122223333',
+            '8', rap_file]
+    # make_npdata reads the custom klic from a file literally called
+    # "klic.bin" in its current directory, so it has to run in the work
+    # directory where we just created that file.  All the other arguments
+    # are absolute paths so the cwd does not affect them.
+    print('Running', argv, 'in', workdir)
+    subprocess.run(argv, check=True, cwd=workdir)
 
 
     if len(isos) > 1:
@@ -1347,7 +1485,7 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg,
         print('GAMEID', disc_gameid)
 
         # get config
-        config = get_config(disc_gameid, len(isos), i, swap)
+        config = get_config(disc_gameid, len(isos), i, swap, subdir=workdir)
         #append_title(config, gameid)
         #
         #if len(args.files) > 1:
@@ -1359,7 +1497,7 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg,
             with open(config, 'rb') as ff:
                 print('Config:', ff.read().hex())
 
-            ps2classic.encrypt_image('cex', 'klic.bin',
+            ps2classic.encrypt_image('cex', klic_file,
                                      config,
                                      subdir + '/USRDIR/' + _c, _c,
                                      '2P0001-PS2U10000_00-0000111122223333', i + 1)
@@ -1377,7 +1515,7 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg,
         create_limg_sector(subdir + '/USRDIR/game.iso', media_type)
 
         print('Creating ISO.BIN.ENC')
-        ps2classic.encrypt_image('cex', 'klic.bin',
+        ps2classic.encrypt_image('cex', klic_file,
                         subdir + '/USRDIR/game.iso',
                         subdir + '/USRDIR/' + _ibe, _ibe,
                         '2P0001-PS2U10000_00-0000111122223333', i+1)
@@ -1386,29 +1524,38 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg,
     
 
     # Create memory card images
-    os.mkdir(subdir + '/USRDIR/SAVEDATA')
+    os.makedirs(subdir + '/USRDIR/SAVEDATA', exist_ok=True)
     root_key = bytearray(0x30)
+
+    # SCEVMC0.VMC is a template that ships with pop-fe2.
+    vmc_file = app_path('SCEVMC0.VMC')
+    print('create_pkg: vmc template     ', vmc_file)
 
     try:
         print('Creating SCEVMC0.VME')
-        ps2classic.crypt_vme('cex', 'SCEVMC0.VMC', subdir + '/USRDIR/SAVEDATA/SCEVMC0.VME', root_key, ps2classic.PS2_VMC_ENCRYPT)
-    except:
-        True
+        ps2classic.crypt_vme('cex', vmc_file, subdir + '/USRDIR/SAVEDATA/SCEVMC0.VME', root_key, ps2classic.PS2_VMC_ENCRYPT)
+    except Exception as e:
+        print('Failed to create SCEVMC0.VME:', e)
 
     try:
         print('Creating SCEVMC1.VME')
-        ps2classic.crypt_vme('cex', 'SCEVMC0.VMC', subdir + '/USRDIR/SAVEDATA/SCEVMC1.VME', root_key, ps2classic.PS2_VMC_ENCRYPT)
-    except:
-        True
+        ps2classic.crypt_vme('cex', vmc_file, subdir + '/USRDIR/SAVEDATA/SCEVMC1.VME', root_key, ps2classic.PS2_VMC_ENCRYPT)
+    except Exception as e:
+        print('Failed to create SCEVMC1.VME:', e)
 
     # create PKG
+    pkg = os.path.abspath(pkg)
+    pkgdir = os.path.dirname(pkg)
     print('Creating PKG "%s"' % pkg)
+    print('create_pkg: pkg directory    ', pkgdir)
+    os.makedirs(pkgdir, exist_ok=True)
     if os.name == 'posix':
-        subprocess.run(['./PSL1GHT/tools/ps3py/pkg.py', '-c', cid,
-                        subdir, pkg], check=True)
+        pkgtool = find_tool('pkg.py', ['PSL1GHT/tools/ps3py/pkg.py'])
     else:
-        subprocess.run(['pkg.exe', '-c', cid,
-                        subdir, pkg], check=True)
+        pkgtool = find_tool('pkg.exe')
+    argv = [pkgtool, '-c', cid, subdir, pkg]
+    print('Running', argv)
+    subprocess.run(argv, check=True)
     
 
 if __name__ == "__main__":
@@ -1428,22 +1575,32 @@ if __name__ == "__main__":
     if args.v:
         verbose = True
 
-    shutil.rmtree('pop-fe2-work', ignore_errors=True)
-    os.mkdir('pop-fe2-work')
-    subdir = 'pop-fe2-work'
+    subdir = os.path.abspath('pop-fe2-work')
+    shutil.rmtree(subdir, ignore_errors=True)
+    os.makedirs(subdir, exist_ok=True)
+    print('Install directory:', APP_DIR)
+    print('Current directory:', os.getcwd())
+    print('Work directory   :', subdir)
 
-    try:
-        os.stat('ART')
-    except:
-        print('No ART directory found. Download and install \'https://archive.org/details/ps2-opl-cover-art-set\' in the same directory as pop-fe2.py')
+    # The ART pack is installed next to pop-fe2, not in whatever the
+    # current directory happens to be.
+    art = app_path('ART')
+    print('ART pack         :', art)
+    if not os.path.isdir(art):
+        print('No ART directory found. Download and install \'https://archive.org/details/ps2-opl-cover-art-set\' in', APP_DIR)
         os._exit(0)
 
     package_files = list(args.files)
     package_media = [None] * len(args.files)
-    asset_base = os.path.splitext(args.files[0])[0]
+    asset_base = os.path.splitext(os.path.abspath(args.files[0]))[0]
+    print('Asset base name  :', asset_base)
     for i, f in enumerate(args.files):
+        f = os.path.abspath(f)
+        args.files[i] = f
+        package_files[i] = f
+        print('Disc %d           : %s' % (i + 1, f))
         if f[-4:].lower() == '.cue':
-            metadata_iso = 'pop-fe2-work/ISO%02d.iso' % i
+            metadata_iso = subdir + '/ISO%02d.iso' % i
             metadata_iso, package_file = prepare_cd_image(f, metadata_iso)
             args.files[i] = metadata_iso
             package_files[i] = package_file
@@ -1486,7 +1643,9 @@ if __name__ == "__main__":
             snd0 = get_snd0_from_link(games[gameid]['snd0'], subdir)
 
     if args.output_directory:
-        args.ps3_pkg = args.output_directory + '/' + args.ps3_pkg
+        args.ps3_pkg = os.path.join(args.output_directory, args.ps3_pkg)
+    args.ps3_pkg = os.path.abspath(args.ps3_pkg)
+    print('PKG file         :', args.ps3_pkg)
 
     try:
         s = args.swap
