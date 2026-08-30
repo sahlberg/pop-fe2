@@ -79,6 +79,9 @@ sudo dnf install -y ffmpeg
 sudo dnf install -y nodejs
 sudo dnf install -y p7zip
 
+# Only needed if you want to use .chd compressed disc images
+sudo dnf install -y mame-tools
+
 pip3 install pygubu
 pip3 install pillow
 pip3 install pytubefix
@@ -126,3 +129,18 @@ git clone https://github.com/BinomialLLC/crunch.git
 cp crunch/bin/crunch*.exe .
 
 ```
+
+CHD support
+-----------
+To use .chd compressed disc images pop-fe2 needs `chdman`, which is part of
+MAME.  The windows builds ship `chdman.exe` next to `pop-fe2-ps3.exe` so
+there is nothing to do there.  On linux install it with your package manager
+(`mame-tools` on Fedora, `mame-tools` on Debian/Ubuntu) or drop a `chdman`
+binary in the same directory as `pop-fe2.py`.
+
+pop-fe2 looks for all of its helper binaries (`chdman`, `ffmpeg`,
+`make_npdata`, `pkg`, `crunch`, `atracdenc`) and for the `ART` pack in the
+directory it was installed into, i.e. next to `pop-fe2-ps3.exe` or next to
+`pop-fe2.py`, and only falls back to `$PATH` after that.  It never looks in
+the current working directory for them, since on windows that is whichever
+directory explorer happened to start it from.
