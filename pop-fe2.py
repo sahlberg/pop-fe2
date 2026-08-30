@@ -14,6 +14,7 @@ except:
 
 import argparse
 import binascii
+import glob
 import io
 import os
 import pycdlib
@@ -30,13 +31,14 @@ from cue import is_abs_path, path_basename, path_dirname
 from gamedb import games
 from riff import copy_riff, create_riff, parse_riff
 
-have_pytube = False
+have_ytdlp = False
+ytdlp = None
 try:
-    from pytubefix import YouTube
-    from pytubefix.contrib.search import Search
-    have_pytube = True
+    import yt_dlp as ytdlp
+    have_ytdlp = True
 except:
-    print('PYTUBE not found. Can not download audio from youtube')
+    print('The yt_dlp python module was not found. Will fall back to the')
+    print('yt-dlp command line tool when downloading audio from youtube.')
 
 try:
     import PyPDF2
@@ -969,15 +971,62 @@ def get_pic_from_game(pic, gameid, filename):
     return None
 
 
-def get_snd0_from_link(link, subdir):
-    if not have_pytube:
-        return None
-    try:
-        fn = YouTube(link).streams.filter(only_audio=True)[0].download(subdir)
-    except:
+def download_youtube_audio(link, subdir):
+    """Download the audio track for a youtube link using yt-dlp.
+
+    We prefer the yt_dlp python module but fall back to the yt-dlp command
+    line tool if the module is not installed.
+    Returns the name of the downloaded file, or None.
+    """
+    tmpl = os.path.join(subdir, 'snd0-youtube')
+    # clean out anything left behind by an earlier run
+    for f in glob.glob(tmpl + '.*'):
+        try:
+            os.unlink(f)
+        except:
+            True
+
+    if have_ytdlp:
+        opts = {
+            'format': 'bestaudio/best',
+            'outtmpl': tmpl + '.%(ext)s',
+            'noplaylist': True,
+            'noprogress': True,
+            'quiet': not verbose,
+            'no_warnings': not verbose,
+        }
+        try:
+            with ytdlp.YoutubeDL(opts) as ydl:
+                ydl.extract_info(link, download=True)
+        except Exception as e:
+            print('Failed to download', link, e)
+    else:
+        # find_tool() prints its own diagnostics if it can not find it
+        cli = find_tool('yt-dlp', required=False)
+        if not cli:
+            return None
+        cmd = [cli, '--no-playlist', '--no-progress',
+               '-f', 'bestaudio/best', '-o', tmpl + '.%(ext)s', link]
+        if not verbose:
+            cmd.insert(1, '--quiet')
+        try:
+            subprocess.run(cmd, check=True,
+                           stdout=None if verbose else subprocess.DEVNULL)
+        except Exception as e:
+            print('Failed to download', link, e)
+
+    # ignore any .part/.ytdl fragments from an aborted download
+    fn = [f for f in glob.glob(tmpl + '.*')
+          if os.path.splitext(f)[1] not in ['.part', '.ytdl', '.temp']]
+    if not fn:
         print('Failed to download', link)
         return None
-    return fn;
+    print('Downloaded', fn[0]) if verbose else None
+    return fn[0]
+
+
+def get_snd0_from_link(link, subdir):
+    return download_youtube_audio(link, subdir)
 
 
 def convert_snd0_to_at3(snd0, at3, duration, max_size, subdir):

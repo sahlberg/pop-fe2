@@ -76,7 +76,6 @@ sudo dnf install -y python3-devel
 sudo dnf install -y python-tkinter
 sudo dnf install -y libsndfile-devel
 sudo dnf install -y ffmpeg
-sudo dnf install -y nodejs
 sudo dnf install -y p7zip
 
 # Only needed if you want to use .chd compressed disc images
@@ -84,7 +83,9 @@ sudo dnf install -y mame-tools
 
 pip3 install pygubu
 pip3 install pillow
-pip3 install pytubefix
+# yt-dlp sometimes needs a javascript runtime. It uses deno by default,
+# so if downloading audio from youtube starts failing, installing deno may help.
+pip3 install yt-dlp
 pip3 install PyPDF2
 pip3 install requests
 pip3 install pycdlib

@@ -18,13 +18,6 @@ import tkinter.ttk as ttk
 from tkinterdnd2 import *
 
 
-have_pytube = False
-try:
-    import pytubefix as pytube
-    have_pytube = True
-except:
-    True
-
 from PIL import Image, ImageDraw
 from bchunk import bchunk
 import importlib  
