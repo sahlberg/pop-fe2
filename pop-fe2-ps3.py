@@ -11,6 +11,8 @@ import re
 import requests
 import shutil
 import subprocess
+import tempfile
+import traceback
 import tkinter as tk
 import tkinter.ttk as ttk
 from tkinterdnd2 import *
@@ -31,7 +33,7 @@ try:
     import popfe2
 except:
     popfe2 = importlib.import_module("pop-fe2")
-from cue import parse_ccd, ccd2cue, write_cue
+from cue import parse_ccd, ccd2cue, write_cue, is_abs_path, path_basename, path_dirname
 
 verbose = False
 temp_files = []
@@ -63,6 +65,17 @@ class MissingAssetsDialog(tk.Toplevel):
         button = tk.Button(self, text="Continue", command=self.destroy)
         button.pack(side="bottom")
 
+class ErrorDialog(tk.Toplevel):
+    def __init__(self, root, message):
+        tk.Toplevel.__init__(self, root)
+        self.title('pop-fe2 error')
+        label = tk.Label(self, text=message, justify='left')
+        label.pack(fill="both", expand=True, padx=20, pady=20)
+
+        button = tk.Button(self, text="Continue", command=self.destroy)
+        button.pack(side="bottom")
+
+
 class MissingArtDialog(tk.Toplevel):
     def __init__(self, root):
         tk.Toplevel.__init__(self, root)
@@ -87,14 +100,18 @@ class PopFe2Ps3App:
         self.disc = None
         self.preview_tk = None
         self.pkgdir = None
-        self.subdir = 'pop-fe2-ps3-work/'
+        self.subdir = self.pick_work_directory()
         self.manual = None
         
         self.master = master
 
-        try:
-            os.stat('ART')
-        except:
+        # The ART pack is installed next to pop-fe2-ps3 itself.  Do not
+        # look for it relative to the current directory, on windows that
+        # is wherever explorer happened to start us from.
+        art = popfe2.app_path('ART')
+        print('Looking for the ART pack in', art)
+        if not os.path.isdir(art):
+            print('No ART pack found in', art)
             MissingArtDialog(self.master)
         
         self.builder = builder = pygubu.Builder()
@@ -128,6 +145,138 @@ class PopFe2Ps3App:
 
         self.init_data()
 
+    def pick_work_directory(self):
+        """Return an absolute path (with a trailing separator) to scratch space.
+
+        We keep the work directory next to wherever we were started from,
+        but that is not always writable, so fall back to the system temp
+        directory if we can not create it.  Everything downstream expects
+        an absolute path.  Relative paths are a trap on windows since the
+        current directory is whatever explorer felt like when the user
+        double-clicked us, and it can be a read-only location.
+        """
+        candidates = [os.path.abspath('pop-fe2-ps3-work'),
+                      os.path.join(tempfile.gettempdir(), 'pop-fe2-ps3-work')]
+        for d in candidates:
+            try:
+                os.makedirs(d, exist_ok=True)
+                probe = os.path.join(d, '.writable')
+                with open(probe, 'w') as f:
+                    f.write('')
+                os.unlink(probe)
+                print('Using work directory', d)
+                return d + os.sep
+            except Exception as e:
+                print('Can not use', d, 'as the work directory:', e)
+        raise RuntimeError('Could not create a writable work directory. '
+                           'Tried: %s' % ', '.join(candidates))
+
+    def dropped_file(self, event):
+        """Return the path of a file dropped onto us, or None.
+
+        tkinterdnd2 hands us a Tcl list, not a plain path.  On windows a
+        path that contains spaces, which is most of them,
+        'C:/Users/me/My Pictures/cover.png', arrives wrapped in braces as
+        '{C:/Users/me/My Pictures/cover.png}'.  If we just os.stat() that
+        string it fails and we silently ignore the drop, which is why
+        dropping an image used to do nothing at all on windows.
+        Let Tcl split the list for us instead of trying to guess.
+        """
+        print('Dropped data:', repr(event.data))
+        try:
+            files = self.master.tk.splitlist(event.data)
+        except Exception as e:
+            print('Could not split the dropped data as a Tcl list:', e)
+            files = [event.data]
+        for f in files:
+            f = os.path.abspath(f)
+            print('Dropped file:', f)
+            if os.path.isfile(f):
+                return f
+            print('  ... not an existing file')
+        return None
+
+    def chd_is_cd(self, chdman, chd):
+        """Is this CHD a CD image (2352/2448 byte sectors) or a DVD image?
+
+        A PS2 game can be either, and chdman needs "extractcd" for the
+        former and "extractdvd" for the latter.  "chdman info" tells us
+        which one we have:  CD images carry a CHT2/CHTR/CHCD track
+        metadata tag, DVD images carry a 'DVD ' tag.
+        """
+        argv = [chdman, 'info', '-i', chd]
+        print('Running', argv)
+        try:
+            r = subprocess.run(argv, capture_output=True, text=True,
+                               errors='replace')
+        except Exception as e:
+            print('Could not run chdman info:', e)
+            return None
+        info = (r.stdout or '') + (r.stderr or '')
+        print(info)
+        for tag in ["Tag='CHT2'", "Tag='CHTR'", "Tag='CHCD'",
+                    "Tag='CHGT'", "Tag='CHGD'"]:
+            if tag in info:
+                print('CHD contains CD track metadata', tag, '-> CD image')
+                return True
+        if "Tag='DVD '" in info:
+            print("CHD contains a 'DVD ' tag -> DVD image")
+            return False
+        print('Could not tell from "chdman info" whether this is a CD or a DVD')
+        return None
+
+    def extract_chd(self, chd):
+        """Uncompress a CHD into the work directory.
+
+        Returns the path to either an .iso (DVD based game) or a .cue
+        (CD based game) in the work directory.
+        """
+        chdman = popfe2.find_tool('chdman')
+
+        # path_basename() rather than split(os.sep) since the path may
+        # well contain the "wrong" separator for the OS we run on.
+        base = self.subdir + os.path.splitext(path_basename(chd))[0]
+        iso_path = base + '.iso'
+        cue_path = base + '.cue'
+        bin_path = base + '.bin'
+        print('CHD input   :', chd)
+        print('CHD basename:', path_basename(chd))
+        print('Work dir    :', self.subdir)
+        print('Extract to  :', iso_path, 'or', cue_path)
+
+        is_cd = self.chd_is_cd(chdman, chd)
+
+        print('Extracting the disc image from the CHD.  This is going to take quite a while ...')
+
+        if not is_cd:
+            argv = [chdman, 'extractdvd', '-f', '-i', chd, '-o', iso_path]
+            print('Running', argv)
+            r = subprocess.run(argv)
+            if r.returncode == 0:
+                print('Extracted', iso_path)
+                temp_files.append(iso_path)
+                return iso_path
+            # extractdvd only handles 2048 byte sectors, so if it failed
+            # this was probably a CD image after all.
+            print('chdman extractdvd failed (returncode %d).' % r.returncode)
+            print('Retrying as a CD image ...')
+            try:
+                os.unlink(iso_path)
+            except:
+                True
+
+        argv = [chdman, 'extractcd', '-f', '-i', chd, '-ob', bin_path, '-o', cue_path]
+        print('Running', argv)
+        r = subprocess.run(argv)
+        if r.returncode != 0:
+            raise RuntimeError('chdman could not extract\n%s\n'
+                               'Neither "extractdvd" nor "extractcd" worked.'
+                               % chd)
+        print('Extracted', cue_path, 'and', bin_path)
+        temp_files.append(cue_path)
+        temp_files.append(bin_path)
+        return cue_path
+
     def __del__(self):
         global temp_files
         print('Delete temporary files') if verbose else None
@@ -156,8 +305,9 @@ class PopFe2Ps3App:
 
         temp_files = []  
         temp_files.append(self.subdir)
+        print('Resetting work directory', self.subdir)
         shutil.rmtree(self.subdir, ignore_errors=True)
-        os.mkdir(self.subdir)
+        os.makedirs(self.subdir, exist_ok=True)
 
         self.isos = []
         self.disc_ids = []
@@ -308,40 +458,89 @@ class PopFe2Ps3App:
         self.update_preview()
         
     def on_path_changed(self, event):
-        iso = os.path.normpath(event.widget.cget('path'))
-        if not len(iso):
+        # tkinter swallows the traceback and leaves the UI wedged if we
+        # let an exception escape a callback, so catch everything here and
+        # tell the user what went wrong instead.
+        try:
+            self.process_disc_image(event)
+        except Exception as e:
+            self.master.config(cursor='')
+            print('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+            print('Failed to process the disc image')
+            traceback.print_exc()
+            print('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+            try:
+                event.widget.configure(path='')
+            except:
+                True
+            d = ErrorDialog(self.master,
+                            'Failed to process the disc image:\n\n%s\n\n'
+                            'See the console output for more details.' % e)
+            self.master.wait_window(d)
+
+    def process_disc_image(self, event):
+        raw_path = event.widget.cget('path')
+        print('===== Disc image selected =====')
+        print('Path from the file chooser:', repr(raw_path))
+        if not len(raw_path):
             return
+
+        # Always work with an absolute path.  The file chooser hands us
+        # whatever the OS gave it, which on windows is 'C:\dir\file.chd'
+        # and may use either separator.  Everything below concatenates
+        # paths and hands them to external tools, and a relative path
+        # would silently be resolved against the current directory,
+        # which is not necessarily the directory we were installed into.
+        iso = os.path.abspath(os.path.normpath(raw_path))
+        print('Absolute path             :', iso)
+        print('Directory part            :', path_dirname(iso))
+        print('File name part            :', path_basename(iso))
+        print('Current directory         :', os.getcwd())
+        print('Install directory         :', popfe2.APP_DIR)
+        print('Work directory            :', self.subdir)
+        print('os.sep / os.name          : %r / %s' % (os.sep, os.name))
+
+        if not os.path.isfile(iso):
+            raise FileNotFoundError('No such file: %s' % iso)
 
         package_iso = iso
         media_type = None
 
-        if iso[-4:].lower() == '.cue':
+        # A CHD is just a container. Unpack it first, it may turn into
+        # either an ISO (DVD based game) or a CUE/BIN (CD based game)
+        # and we then fall through to the handling for those below.
+        if os.path.splitext(iso)[1].lower() == '.chd':
+            iso = self.extract_chd(iso)
+            package_iso = iso
+            print('CHD extracted to          :', iso)
+            event.widget.configure(path=iso)
+
+        if os.path.splitext(iso)[1].lower() == '.cue':
             metadata_iso = self.subdir + 'ISO%02d.iso' % len(self.isos)
+            print('CD image. Cooking metadata ISO to', metadata_iso)
             iso, package_iso = popfe2.prepare_cd_image(iso, metadata_iso)
             temp_files.append(metadata_iso)
             media_type = 'cd'
+            print('Metadata ISO              :', iso)
+            print('Image to package          :', package_iso)
 
-        if iso[-4:].lower() == '.chd':
-            print('Extracting ISO from CHD.  This is going to take quite a while ...')
-            new_path = self.subdir + iso.split(os.sep)[-1][:-4] + '.iso'
-            print('Extracting to', new_path)
-            subprocess.run(['chdman', 'extractdvd', '-i', iso, '-o', new_path], check=True)
-            iso=new_path
-            package_iso = iso
-            print('Extracted iso')
-            event.widget.configure(path=iso)
-            
         disc = event.widget.cget('title')
         print('Disc', disc)
 
         self.master.config(cursor='watch')
         self.master.update()
-        print('Processing', iso)  if verbose else None
+        print('Processing', iso)
 
         disc_id = popfe2.get_gameid_from_iso(iso)
         if not disc_id:
-            print('Could not identify the game')
-            os._exit(1)
+            self.master.config(cursor='')
+            print('Could not identify the game in', iso)
+            event.widget.configure(path='')
+            d = ErrorDialog(self.master,
+                            'Could not identify the game in\n\n%s\n\n'
+                            'Is this really a PS2 disc image?' % iso)
+            self.master.wait_window(d)
+            return
 
             
         if disc == 'd1':
@@ -402,11 +601,13 @@ class PopFe2Ps3App:
         self.master.update()
         # try to open it as a file
         self.icon0_tk = None
-        try:
-            os.stat(event.data)
-            self.icon0 = Image.open(event.data)
-        except:
-            self.icon0 = None
+        self.icon0 = None
+        f = self.dropped_file(event)
+        if f:
+            try:
+                self.icon0 = Image.open(f)
+            except Exception as e:
+                print('Could not open', f, 'as an image:', e)
         # if that failed, check if it was a link
         if not self.icon0:
             try:
@@ -458,11 +659,13 @@ class PopFe2Ps3App:
         self.master.update()
         # try to open it as a file
         self.pic0_tk = None
-        try:
-            os.stat(event.data)
-            self.pic0 = Image.open(event.data)
-        except:
-            self.pic0 = None
+        self.pic0 = None
+        f = self.dropped_file(event)
+        if f:
+            try:
+                self.pic0 = Image.open(f)
+            except Exception as e:
+                print('Could not open', f, 'as an image:', e)
         # if that failed, check if it was a link
         if not self.pic0:
             try:
@@ -514,11 +717,13 @@ class PopFe2Ps3App:
         self.master.update()
         # try to open it as a file
         self.pic1_tk = None
-        try:
-            os.stat(event.data)
-            self.pic1 = Image.open(event.data)
-        except:
-            self.pic1 = None
+        self.pic1 = None
+        f = self.dropped_file(event)
+        if f:
+            try:
+                self.pic1 = Image.open(f)
+            except Exception as e:
+                print('Could not open', f, 'as an image:', e)
         # if that failed, check if it was a link
         if not self.pic1:
             try:
@@ -567,16 +772,23 @@ class PopFe2Ps3App:
             
     def on_dir_changed(self, event):
         self.pkgdir = event.widget.cget('path')
-        # PKG in print()
+        print('PKG output directory:', self.pkgdir)
 
-    def on_create_pkg(self):        
-        pkg = self.builder.get_variable('pkgfile_variable').get()
-        pkgdir = self.builder.get_variable('pkgdir_variable').get()
-        if len(pkg) == 0:
-            pkg = 'game.pkg'
-        if len(pkgdir):
-            pkg = pkgdir + '/' + pkg
-            
+    def on_create_pkg(self):
+        try:
+            self.create_pkg()
+        except Exception as e:
+            self.master.config(cursor='')
+            print('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+            print('Failed to create the PKG')
+            traceback.print_exc()
+            print('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+            d = ErrorDialog(self.master,
+                            'Failed to create the PKG:\n\n%s\n\n'
+                            'See the console output for more details.' % e)
+            self.master.wait_window(d)
+
+    def create_pkg(self):
         title = self.builder.get_variable('title_variable').get()
         print('GAME', self.disc_ids[0])
         print('TITLE', title)
@@ -603,9 +815,22 @@ class PopFe2Ps3App:
 
         pkgdir = self.builder.get_variable('pkgdir_variable').get()
         pkgfile = self.builder.get_variable('pkgfile_variable').get()
+        if not pkgfile or not len(pkgfile):
+            pkgfile = 'game.pkg'
 
+        # os.path.join() handles the case where pkgdir is already an
+        # absolute windows path, and where it does or does not end in a
+        # separator.
         if pkgdir and len(pkgdir):
-            pkgfile = pkgdir + '/' + pkgfile
+            pkgfile = os.path.join(pkgdir, path_basename(pkgfile))
+        pkgfile = os.path.abspath(pkgfile)
+        print('PKG output directory:', pkgdir)
+        print('PKG file            :', pkgfile)
+        print('Work directory      :', self.subdir)
+        print('Install directory   :', popfe2.APP_DIR)
+        print('Current directory   :', os.getcwd())
+        for _i, _f in enumerate(self.isos):
+            print('Disc %d image        : %s' % (_i + 1, _f))
 
         popfe2.create_pkg(
             self.isos, self.disc_ids[0], self.icon0, self.pic0, self.pic1,
