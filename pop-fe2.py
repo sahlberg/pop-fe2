@@ -779,6 +779,33 @@ PS2_PLACEHOLDER_KEY = bytes([
 
 verbose = False
 
+# The ISO9660 primary volume descriptor always lives in logical sector
+# 16, but where that ends up in the file depends on how the image stores
+# its sectors.  A cooked image, i.e. a plain ISO, holds just the 2048
+# bytes of user data.  A raw CD image holds all 2352 bytes of the sector
+# and the user data starts 16 bytes into a MODE1 sector and 24 bytes into
+# a MODE2 form1 sector.
+#     description, offset of the PVD, LIMG block size, LIMG type
+_IMAGE_LAYOUTS = [
+    ('2048 bytes/sector (ISO)', 16 * 2048,      0x800, 1),
+    ('MODE2/2352 (raw CD)',     16 * 2352 + 24, 0x930, 2),
+    ('MODE1/2352 (raw CD)',     16 * 2352 + 16, 0x930, 2),
+]
+
+
+def find_image_layout(iso):
+    """Work out how an image stores its sectors by finding the ISO9660 PVD.
+
+    Returns one of the _IMAGE_LAYOUTS entries, or None if this does not
+    look like any layout we know about.
+    """
+    for layout in _IMAGE_LAYOUTS:
+        iso.seek(layout[1])
+        if iso.read(6) == b'\x01CD001':
+            return layout
+    return None
+
+
 def create_limg_sector(filename, media_type=None):
     limg = None
     with open(filename, 'r+b') as iso:
@@ -793,24 +820,35 @@ def create_limg_sector(filename, media_type=None):
         file_size = iso.tell()
         iso.seek(0)
 
-        if media_type == 'cd':
-            iso.seek(0x9318 + 0x54)
-            buf = iso.read(4);
-            block_size = 0x930  # CD
-            limg_type = 2
-        elif media_type == 'dvd' or file_size > 0x2bc00000:
-            iso.seek(0x8000 + 0x54)
-            buf = iso.read(4);
-            block_size = 0x800  # DVD
-            limg_type = 1
+        # Reading where the volume descriptor actually is beats guessing
+        # from the media type or the file size.  A CD sized image is not
+        # necessarily a raw CD image:  a CD based game can just as well
+        # be a plain ISO, and then it has 2048 byte sectors like any DVD
+        # image does.
+        layout = find_image_layout(iso)
+        if layout:
+            description, pvd, block_size, limg_type = layout
+            print('Image layout:', description)
         else:
-            iso.seek(0x9318 + 0x54)
-            buf = iso.read(4);
-            block_size = 0x930  # CD
-            limg_type = 2
+            # No volume descriptor anywhere we looked. Fall back to the
+            # old guess so that we at least write *something*.
+            print('Could not find the ISO9660 volume descriptor in', filename)
+            if media_type == 'dvd' or (media_type != 'cd'
+                                       and file_size > 0x2bc00000):
+                description, pvd, block_size, limg_type = _IMAGE_LAYOUTS[0]
+            else:
+                description, pvd, block_size, limg_type = _IMAGE_LAYOUTS[1]
+            print('Guessing that it is', description)
 
+        iso.seek(pvd + 0x54)
+        buf = iso.read(4)
         num_sectors = struct.unpack_from('>I', buf, 0)[0]
-        padding = ((num_sectors) * 2048) % 0x4000
+
+        # Pad the image out to a 0x4000 boundary so that the LIMG sector
+        # we append lands on one.  This has to be done on the real size
+        # of the file:  num_sectors counts 2048 byte logical blocks which
+        # is not how big a sector is in a raw CD image.
+        padding = file_size % 0x4000
         if padding:
             print('Need to pad the file to 0x4000 boundary')
             iso.seek(0, 2)
@@ -900,7 +938,13 @@ def get_gameid_from_iso(path):
 
 
 def prepare_cd_image(cue_path, metadata_iso):
-    """Return a cooked metadata ISO and the original raw CD image."""
+    """Cook a CD image so we can read the ISO9660 metadata.
+
+    Returns a triplet of
+      the cooked 2048 byte/sector image we can hand to pycdlib,
+      the image we should package into the PKG, and
+      the media type to use for the LIMG sector.
+    """
     # parse_cue() resolves the FILE entries in the cue relative to the cue
     # file itself, so make sure the cue path is absolute or the BIN will
     # be looked for relative to the current directory.
@@ -921,19 +965,36 @@ def prepare_cd_image(cue_path, metadata_iso):
 
     data_track = data_tracks[0]
     track = bc.tracks[data_track]
-    if track['MODE'] not in ['MODE1/2352', 'MODE2/2352']:
-        raise RuntimeError('Unsupported CUE track mode: %s' % track['MODE'])
-
-    # pycdlib needs cooked 2048-byte sectors to inspect ISO9660 metadata.
-    # Keep the original 2352-byte image for PS2 Classics encryption.
     print('prepare_cd_image: track mode ', track['MODE'])
     print('prepare_cd_image: track file  ', track['FILE'])
     if not os.path.isfile(track['FILE']):
         raise FileNotFoundError(
             'The CUE file %s refers to %s which does not exist.'
             % (cue_path, track['FILE']))
+
+    if track['MODE'] in ['MODE1/2048', 'MODE2/2048']:
+        # This is not a raw CD image at all.  chdman writes a cue like
+        # this when the CHD was created from a plain ISO, which is what
+        # you get for a DVD based game that someone ran through
+        # "chdman createcd" instead of "chdman createdvd".  The track
+        # data is already cooked 2048 byte sectors, i.e. it *is* an ISO,
+        # so throw the cue away and use the track file as an ISO.
+        print('prepare_cd_image: 2048 byte sectors, this is really an ISO.')
+        print('prepare_cd_image: ignoring the cue and using the track file'
+              ' directly.')
+        image = os.path.abspath(track['FILE'])
+        # 'dvd' just means "2048 byte sectors" as far as the LIMG sector
+        # is concerned, which is what we have here even if the game
+        # originally shipped on a CD.
+        return image, image, 'dvd'
+
+    if track['MODE'] not in ['MODE1/2352', 'MODE2/2352']:
+        raise RuntimeError('Unsupported CUE track mode: %s' % track['MODE'])
+
+    # pycdlib needs cooked 2048-byte sectors to inspect ISO9660 metadata.
+    # Keep the original 2352-byte image for PS2 Classics encryption.
     bc.writetrack(data_track, metadata_iso)
-    return metadata_iso, os.path.abspath(track['FILE'])
+    return metadata_iso, os.path.abspath(track['FILE']), 'cd'
 
 
 def get_pic_from_game(pic, gameid, filename):
@@ -1650,10 +1711,11 @@ if __name__ == "__main__":
         print('Disc %d           : %s' % (i + 1, f))
         if f[-4:].lower() == '.cue':
             metadata_iso = subdir + '/ISO%02d.iso' % i
-            metadata_iso, package_file = prepare_cd_image(f, metadata_iso)
+            metadata_iso, package_file, media_type = prepare_cd_image(
+                f, metadata_iso)
             args.files[i] = metadata_iso
             package_files[i] = package_file
-            package_media[i] = 'cd'
+            package_media[i] = media_type
 
     disc_gameids = []
     for metadata_file in args.files:

@@ -511,11 +511,16 @@ class PopFe2Ps3App:
         if os.path.splitext(iso)[1].lower() == '.cue':
             metadata_iso = self.subdir + 'ISO%02d.iso' % len(self.isos)
             print('CD image. Cooking metadata ISO to', metadata_iso)
-            iso, package_iso = popfe2.prepare_cd_image(iso, metadata_iso)
-            temp_files.append(metadata_iso)
-            media_type = 'cd'
+            iso, package_iso, media_type = popfe2.prepare_cd_image(
+                iso, metadata_iso)
+            # prepare_cd_image() only creates the cooked metadata ISO for a
+            # real raw CD image. For a cue that just wraps an ISO it hands
+            # back the track file itself, which we must not delete.
+            if iso == metadata_iso:
+                temp_files.append(metadata_iso)
             print('Metadata ISO              :', iso)
             print('Image to package          :', package_iso)
+            print('Media type                :', media_type)
 
         disc = event.widget.cget('title')
         print('Disc', disc)
