@@ -1700,10 +1700,11 @@ games_ntsc_u = {
     'SLUS20736': {
         'id': 'SLUS20736',
         'title': 'Cabela\'s Dangerous Hunts',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/bc78a18c-383f-4bf2-ac7d-3899dd2268bd.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_5a06fd3c-985b-4397-8250-d9700ea0ba8a.png',
+        'pic1': 'https://images.launchbox-app.com/b49e809c-b0dd-45d1-ac25-1ad6b57d28d1.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=VefPioYC6ww',
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela%27s%20Dangerous%20Hunts%20(USA).pdf',
     },
     'SLUS21350': {
         'id': 'SLUS21350',
@@ -1716,10 +1717,11 @@ games_ntsc_u = {
     'SLUS21841': {
         'id': 'SLUS21841',
         'title': 'Cabela\'s Dangerous Hunts 2009',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/890661e1-a1f0-4a31-b02a-e79aa8141ecd.jpg',
+        'pic0': 'https://images.launchbox-app.com/eb371396-4468-410c-899c-991f33e11adb.png',
+        'pic1': 'https://images.launchbox-app.com/r2_3e7f4194-c284-4102-b62c-1c4bb14770ae.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=eL0NanXAydo',
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela%27s%20Dangerous%20Hunts%202009%20(USA).pdf',
     },
     'SLUS20665': {
         'id': 'SLUS20665',
@@ -1740,10 +1742,11 @@ games_ntsc_u = {
     'SLUS21789': {
         'id': 'SLUS21789',
         'title': 'Cabela\'s Legendary Adventures',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/dc346cdc-c249-44a7-a092-8b1b7d60f2f9.jpg',
+        'pic0': 'https://images.launchbox-app.com/d3a016bc-53f0-4c34-a6e9-36c290f2d5e0.png',
+        'pic1': 'https://images.launchbox-app.com/r2_ecb92c21-29ba-4679-b61a-f1b7f919e6f7.png',
+        'snd0': 'https://www.youtube.com/watch?v=yeMQipaYHL4',
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela%27s%20Legendary%20Adventures%20(USA).pdf',
     },
     'SLUS21715': {
         'id': 'SLUS21715',
@@ -1756,10 +1759,11 @@ games_ntsc_u = {
     'SLUS21935': {
         'id': 'SLUS21935',
         'title': 'Cabela\'s North American Adventures',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/ceb64fea-e152-42fb-8123-cd23786daeb0.jpg',
+        'pic0': 'https://images.launchbox-app.com/eb75fa2e-56d4-4811-8906-97eefbe41e13.png',
+        'pic1': 'https://images.launchbox-app.com/r2_fc275b30-4b6d-437a-8d32-33244e121467.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=_4cL7LLL2kE',
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela%27s%20North%20American%20Adventures%20(USA).pdf',
     },
     'SLUS21192': {
         'id': 'SLUS21192',
@@ -1772,10 +1776,11 @@ games_ntsc_u = {
     'SLUS21906': {
         'id': 'SLUS21906',
         'title': 'Cabela\'s Outdoor Adventures 2010',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/da860211-a1df-4793-968f-95ab67557ec7.jpg',
+        'pic0': 'https://images.launchbox-app.com/5d204b84-5381-4ad3-b205-68e314ef2cca.png',
+        'pic1': 'https://images.launchbox-app.com/r2_29712d05-e081-4b50-9f07-ce501963558c.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=e4Bttko2oSI',
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela%27s%20Outdoor%20Adventures%202010%20(USA).pdf',
     },
     'SLUS21624': {
         'id': 'SLUS21624',
@@ -1836,34 +1841,37 @@ games_ntsc_u = {
     'SLUS21316': {
         'id': 'SLUS21316',
         'title': 'Capcom Classics Collection Vol.1',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/ddaa7420-339d-454e-a312-335614416b9c.jpg',
+        'pic0': 'https://images.launchbox-app.com/d8dedd82-8082-4c5f-aab6-fa4453d2a7d9.png',
+        'pic1': 'https://images.launchbox-app.com/a6c79393-e6d3-4ab0-a7cd-50c055857359.png',
+        'snd0': 'https://www.youtube.com/watch?v=HPjPskYpr64',
+        'manual': 'https://www.videogamemanual.com/PS2/Capcom%20Classics%20Collection%20(USA).pdf',
     },
     'SLUS21473': {
         'id': 'SLUS21473',
         'title': 'Capcom Classics Collection Vol.2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/2cad6548-2459-49a4-8e0b-cd581d6a3df6.jpg',
+        'pic0': 'https://images.launchbox-app.com/fa72890a-0fa5-4aff-9fae-3a3980073f0e.png',
+        'pic1': 'https://images.launchbox-app.com/0f6489bb-8184-4508-84e4-7cae82fafd21.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Kf4u0Du3uFU',
+        'manual': 'https://www.videogamemanual.com/PS2/Capcom%20Classics%20Collection%20Volume%202%20(USA).pdf',
     },
     'SLUS20950': {
         'id': 'SLUS20950',
         'title': 'CAPCOM FIGHTING EVOLUTION',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/9575142a-9243-4b29-a115-d619cbfd21d3.jpg',
+        'pic0': 'https://images.launchbox-app.com/3968d89b-1352-467e-80b1-decbf0861907.png',
+        'pic1': 'https://images.launchbox-app.com/5995e722-7da6-425c-b72a-e27259f03958.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=QrTupVj2Y8s',
+        'manual': 'https://www.videogamemanual.com/PS2/Capcom%20Fighting%20Evolution%20(USA).pdf',
     },
     'SLUS20246': {
         'id': 'SLUS20246',
         'title': 'Capcom vs. SNK 2 - Mark of the Millennium 2001',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/9b7a2de7-34db-4679-89d4-3e63a300192b.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_31efa817-cc9e-4a86-a52d-5ff680782940.png',
+        'pic1': 'https://images.launchbox-app.com/87f4ea9c-c4a4-4b95-8d98-7ddb9da5565d.png',
+        'snd0': 'https://www.youtube.com/watch?v=86xzTNPZumQ',
     },
     'SLUS20849': {
         'id': 'SLUS20849',
@@ -1892,10 +1900,11 @@ games_ntsc_u = {
     'SLUS21438': {
         'id': 'SLUS21438',
         'title': 'Cartoon Network Racing',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/220060a6-5fca-4184-bb0c-6a68eb40fcfe.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_f9be3b04-f028-43c8-8c7a-7a1354d41cdc.png',
+        'pic1': 'https://images.launchbox-app.com/a25b37aa-90d2-4493-8ced-c7ef1e275da5.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=9K53CmwDz8g',
+        'manual': 'https://www.videogamemanual.com/PS2/Cartoon%20Network%20Racing%20(USA).pdf',
     },
     'SLUS20205': {
         'id': 'SLUS20205',
