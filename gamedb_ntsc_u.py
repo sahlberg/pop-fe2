@@ -208,11 +208,11 @@ games_ntsc_u = {
     'SLUS20588': {
         'id': 'SLUS20588',
         'title': 'Activision Anthology',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com/55ce45e0-d537-4877-b6c2-5e3ab93cf9e3.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_a2957e56-3849-4e2c-a530-ae52f829dac3.png',
+        'pic1': 'https://images.launchbox-app.com/268c4d10-76fd-4271-91ac-65fb672c532f.jpg',
     #    'snd0':
-         'manual': 'https://www.videogamemanual.com/PS2/Activision%20Anthology%20(USA).pdf',
+        'manual': 'https://www.videogamemanual.com/PS2/Activision%20Anthology%20(USA).pdf',
     },
     'SLUS21205': {
         'id': 'SLUS21205',
@@ -291,9 +291,9 @@ games_ntsc_u = {
         'title': 'ALIAS',
         'icon0': 'https://images.launchbox-app.com//56639fb5-ce31-4f37-8f26-6b4c25aa16e1.jpg',
         'pic0': 'https://images.launchbox-app.com//c08c25ef-d5ca-45a9-8007-78bb23caab2a.png',
-    #    'pic1': 
-    #    'snd0': 
-         'manual': 'https://www.videogamemanual.com/PS2/Alias%20(USA).pdf',
+        'pic1': 'https://images.launchbox-app.com/r2_39f49e5d-bb9c-4126-a37c-94b1f0e2d686.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=b2NZRcoxlSk&list=PLK2CXKNEjmKtXyTlhwLMb6kXBuJuoFRo1&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Alias%20(USA).pdf',
     },
     'SLUS21090': {
         'id': 'SLUS21090',
@@ -390,9 +390,9 @@ games_ntsc_u = {
         'title': 'American Chopper 2',
         'icon0': 'https://images.launchbox-app.com//5801e13b-bf83-4a9c-9e3b-b64bd165f9bd.png',
         'pic0': 'https://images.launchbox-app.com//432f341e-2fbf-455c-b8ec-218508e6db8b.png',
-    #    'pic1': 
+        'pic1': 'https://images.launchbox-app.com/c2a9703a-3292-412c-bb70-027a378bd343.jpg',
     #    'snd0': 
-         'manual': 'https://www.videogamemanual.com/PS2/American%20Chopper%202-%20Full%20Throttle%20(USA).pdf',
+        'manual': 'https://www.videogamemanual.com/PS2/American%20Chopper%202-%20Full%20Throttle%20(USA).pdf',
     },
     'SLUS20816': {
         'id': 'SLUS20816',
@@ -705,18 +705,18 @@ games_ntsc_u = {
         'title': 'ARTHUR AND THE INVISIBLES - THE GAME',
         'icon0': 'https://images.launchbox-app.com//8f2ddb65-5774-4446-b193-4fb782e75464.jpg',
         'pic0': 'https://images.launchbox-app.com//c602adac-f2b5-409e-b1fb-b47c4d365d1e.png',
-    #    'pic1': 
-    #    'snd0': 
-         'manual': 'https://www.videogamemanual.com/PS2/Arthur%20and%20the%20Invisibles-%20The%20Game%20(USA).pdf',
+        'pic1': 'https://images.launchbox-app.com/r2_aebbb314-c2e2-4b61-b01e-c9f62235e84a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=4U-gDAuemYs',
+        'manual': 'https://www.videogamemanual.com/PS2/Arthur%20and%20the%20Invisibles-%20The%20Game%20(USA).pdf',
     },
     'SLUS20866': {
         'id': 'SLUS20866',
         'title': 'ASTERIX & OBELIX XXL - KICK BUTTIX',
         'icon0': 'https://images.launchbox-app.com//91d1b0c5-cb1f-447f-aedb-c5ada0dd6f09.jpg',
         'pic0': 'https://images.launchbox-app.com//74dee539-914c-4e9c-833b-9b49a33ea775.png',
-    #    'pic1': 
-    #    'snd0': 
-         'manual': 'https://www.videogamemanual.com/PS2/Asterix%20&%20Obelix-%20Kick%20Buttix%20(USA).pdf',
+        'pic1': 'https://images.launchbox-app.com/r2_e2a77a01-a8f9-404c-8f65-9ba830620e30.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=4FkapCawKf8',
+        'manual': 'https://www.videogamemanual.com/PS2/Asterix%20&%20Obelix-%20Kick%20Buttix%20(USA).pdf',
     },
     'SLUS20867': {
         'id': 'SLUS20867',
@@ -994,8 +994,8 @@ games_ntsc_u = {
         'title': 'Bakugan Battle Brawlers',
         'icon0': 'https://images.launchbox-app.com//cb8eef59-50aa-425d-861a-e7f24511c9ee.jpg',
         'pic0': 'https://images.launchbox-app.com//fd164510-5f9e-4c50-8a54-13881dd77108.png',
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/r2_ec5fe5d7-c819-4bc9-b699-10d224b46eca.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=DSM9cbBYSp8',
         'manual': 'https://www.videogamemanual.com/PS2/Bakugan%20Battle%20Brawlers%20(USA).pdf',
     },
     'SLUS20035': {
@@ -1021,7 +1021,7 @@ games_ntsc_u = {
         'title': 'Band Hero',
         'icon0': 'https://images.launchbox-app.com//c5348a9c-bdf4-4ef2-bed0-7506d9410d5e.jpg',
         'pic0': 'https://images.launchbox-app.com//762bf96b-8e5e-4806-acab-5c31d1895012.png',
-    #    'pic1': 
+        'pic1': 'https://images.launchbox-app.com/6ec311da-7768-42f0-b3ef-f25e256b8ea6.jpg',
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Band%20Hero%20(USA).pdf',
     },
@@ -1039,8 +1039,8 @@ games_ntsc_u = {
         'title': 'Barbie as The Island Princess',
         'icon0': 'https://images.launchbox-app.com//3363d8d8-3c54-4d66-adf4-f69f5bc879fe.jpg',
         'pic0': 'https://images.launchbox-app.com//5e2735d2-5505-4d82-aa15-5ba0a7317f48.png',
-        #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/r2_f6e5e141-2db9-4d17-b5f8-b81a3cd514c4.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=KCeq9lJsRYg',
         'manual': 'https://www.videogamemanual.com/PS2/Barbie%20as%20The%20Island%20Princess%20(USA).pdf',
     },
     'SLUS21806': {
@@ -1066,8 +1066,8 @@ games_ntsc_u = {
         'title': 'Barbie in The 12 Dancing Princesses',
         'icon0': 'https://images.launchbox-app.com//630928da-6a58-468a-ba86-1f60a5907540.png',
         'pic0': 'https://images.launchbox-app.com//9354cfed-6156-479e-9c26-6b6eb07c97a8.png',
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/r2_58389df3-0645-4b49-866e-71bbb1e36b23.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=gRErDZR7gtE',
         'manual': 'https://www.videogamemanual.com/PS2/Barbie%20in%20The%2012%20Dancing%20Princesses%20(USA).pdf',
     },
     'SLUS21277': {
@@ -1120,8 +1120,8 @@ games_ntsc_u = {
         'title': 'BATMAN VENGEANCE',
         'icon0': 'https://images.launchbox-app.com//e2299398-e30a-4fd0-87c5-420be7baba4c.jpg',
         'pic0': 'https://images.launchbox-app.com//b9b44d23-1d72-4046-afbb-61b25dfee124.png',
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/70f95bcd-27c1-4b43-86ed-b065483af0b8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Je260dis2NA',
         'manual': 'https://www.videogamemanual.com/PS2/Batman-%20Vengeance%20(USA).pdf',
     },
     'SLUS20495': {
@@ -1156,8 +1156,8 @@ games_ntsc_u = {
         'title': 'BEAT DOWN - FISTS OF VENGEANCE',
         'icon0': 'https://images.launchbox-app.com//75140fdc-a3bb-4f78-8764-81083e937a35.jpg',
         'pic0': 'https://images.launchbox-app.com//0cbf1641-9933-4bc0-b9eb-896881e540da.png',
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/r2_a1b4ade7-afd7-4dc4-9930-b10480e1d595.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=22b7UscX3e8',
         'manual': 'https://www.videogamemanual.com/PS2/Beat%20Down-%20Fists%20of%20Vengeance%20(USA).pdf',
     },
     'SLUS21239': {
@@ -1226,10 +1226,10 @@ games_ntsc_u = {
     'SLUS21440': {
         'id': 'SLUS21440',
         'title': 'BIG IDEA\'S VEGGIETALES - LARRYBOY AND THE BAD APPLE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/64da0865-313a-4cd8-9e1e-c94b22e9c7dc.jpg',
+        'pic0': 'https://images.launchbox-app.com/2e832a3b-d1fc-4d05-9678-50389df8e4ba.png',
+        'pic1': 'https://images.launchbox-app.com/fb94ebae-d214-4843-a9f6-a2ec75cb494e.png',
+        'snd0': 'https://www.youtube.com/watch?v=8BIZ5WcWQ1E',
     #    'manual': '',
     },
     'SLUS20605': {
@@ -1264,8 +1264,8 @@ games_ntsc_u = {
         'title': 'Bionicle',
         'icon0': 'https://images.launchbox-app.com//2351d0d4-973b-4738-86a1-3f5244d21767.jpg',
         'pic0': 'https://images.launchbox-app.com//8db4d4b1-20a7-416b-b021-2cb6106e2a3c.png',
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/r2_aaac3359-03f4-4c75-81f6-1b61b69755a1.png',
+        'snd0': 'https://www.youtube.com/watch?v=Sls91VZciSc',
         'manual': 'https://www.videogamemanual.com/PS2/Bionicle%20(USA).pdf',
     },
     'SLUS21428': {
@@ -1291,8 +1291,8 @@ games_ntsc_u = {
         'title': 'Black & Bruised',
         'icon0': 'https://images.launchbox-app.com//a699cc9b-4cb0-40a9-9305-37eb5600458b.jpg',
         'pic0': 'https://images.launchbox-app.com//0fd297f4-27d0-4642-8c0f-52493fba435a.png',
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/bb5d64d7-7122-4387-a0ff-f04c466f3def.png',
+        'snd0': 'https://www.youtube.com/watch?v=_4f3ee3pzLs',
         'manual': 'https://www.videogamemanual.com/PS2/Black%20&%20Bruised%20(USA).pdf',
     },
     'SLUS20360': {
@@ -1309,17 +1309,17 @@ games_ntsc_u = {
         'title': 'Blitz - The League',
         'icon0': 'https://images.launchbox-app.com//9e05eecf-f9cc-4465-ac3e-eed8d1ca7744.jpg',
         'pic0': 'https://images.launchbox-app.com//197c4a30-2ff0-4aa0-a07c-35fc9071b1da.png',
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/c996b0e9-3ec3-46c6-a8ca-11044267f5bf.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=nWeoH1XEgu4',
         'manual': 'https://www.videogamemanual.com/PS2/Blitz-%20The%20League%20(USA).pdf',
     },
     'SLUS20782': {
         'id': 'SLUS20782',
         'title': 'Blood Will Tell - Osamu Tezuka\'s Dororo',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/049a622f-7555-4918-a077-50e95430de3c.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_123eaeaa-1a9d-4cf4-94f6-a8748e4e6c71.png',
+        'pic1': 'https://images.launchbox-app.com/r2_c0dc4b13-0c30-41fc-87e8-e48eeded15dd.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=u_pnTCTcaKE',
         'manual': 'https://www.videogamemanual.com/PS2/Blood%20Will%20Tell-%20Tezuka%20Osamu\'s%20Dororo%20(USA).pdf',
     },
     'SLUS20461': {
@@ -1408,8 +1408,8 @@ games_ntsc_u = {
         'title': 'Bratz - Forever Diamonds',
         'icon0': 'https://images.launchbox-app.com//0b119ccf-28b2-4db8-a458-6b7599480034.jpg',
         'pic0': 'https://images.launchbox-app.com//f85f23dc-f555-4149-baf6-004f95c27e7b.png',
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/r2_12cfd844-ddc8-4c04-b4b0-967283ceedf8.png',
+        'snd0': 'https://www.youtube.com/watch?v=WAz-ryNx170',
         'manual': 'https://www.videogamemanual.com/PS2/Bratz-%20Forever%20Diamondz%20(USA).pdf',
     },
     'SLUS21791': {
@@ -1658,20 +1658,20 @@ games_ntsc_u = {
     'SLUS21379': {
         'id': 'SLUS21379',
         'title': 'Cabela\'s African Safari',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #    'manual': '',
+        'icon0': 'https://images.launchbox-app.com/41e5b74c-96c6-4460-b81f-1031129313db.jpg',
+        'pic0': 'https://images.launchbox-app.com/8161fd25-bf68-41d1-ab57-bfc2b028f70c.png',
+        'pic1': 'https://images.launchbox-app.com/r2_d2f1a2ab-4db4-4868-8615-9d17239c963a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=ZcYv4D3rSN8',
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela%27s%20African%20Safari%20(USA).pdf',
     },
     'SLUS21384': {
         'id': 'SLUS21384',
         'title': 'Cabela\'s Alaskan Adventures',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #    'manual': '',
+        'icon0': 'https://images.launchbox-app.com/e2a112e8-1546-4243-9766-a157ea2ed7d9.jpg',
+        'pic0': 'https://images.launchbox-app.com/34e0d62e-d01c-4d8d-a24b-f0fb5b70d574.png',
+        'pic1': 'https://images.launchbox-app.com/r2_5d9b52cd-4c06-498b-80a9-ccf167c4b515.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=ZkfHwqBa_tc',
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela%27s%20Alaskan%20Adventures%20(USA).pdf',
     },
     'SLUS20534': {
         'id': 'SLUS20534',
