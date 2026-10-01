@@ -258,13 +258,21 @@ games_pal = {
         #'pic1':
         #'snd0':
     },
-    'SLES53265': {
-        'id': 'SLES53265',
+    'SLES53504': {
+        'id': 'SLES53504',
+        'title': 'Agent Hugo',
+        'icon0': 'https://cdn.mobygames.com/covers/4655783-agent-hugo-playstation-2-front-cover.jpg',
+        'pic0': 'https://images.launchbox-app.com//64b25cfb-00d0-4675-86f6-1edbd79d691f.png',
+        'pic1': 'https://images.launchbox-app.com//f87134b8-f5ca-41c4-9bb3-9a8d2f1ee654.png',
+        'snd0': 'https://www.youtube.com/watch?v=9ehbPU7Ww08&list=RD9ehbPU7Ww08&start_radio=1',
+    },
+    'SLES55365': {
+        'id': 'SLES55365',
         'title': 'Agent Hugo - Hula Holiday',
-        #'icon0':
-        #'pic0':
-        #'pic1':
-        #'snd0':
+        'icon0': 'https://images.launchbox-app.com//8eac9c1b-65a3-4779-af17-6a387f5654db.jpg',
+        'pic0': 'https://images.launchbox-app.com//f5cf383e-8f3b-45f7-bafe-623d9bfcde72.png',
+        'pic1': 'https://gamegear.net/media/canonical/console/ps2/fanart/agent-hugo-hula-holiday-europe-enfrdeesitnlpt__21143.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=jjA4pXkd5LA&list=PLJ5gtuufHGjvOSJ-ovFVeO1rI-ngVjkos&index=5',
     },
     'SLES55354': {
         'id': 'SLES55354',
@@ -292,7 +300,7 @@ games_pal = {
     },
     'SLES54917': {
         'id': 'SLES54917',
-        'title': 'Agent Hugo - Lemon Twist',
+        'title': 'Agent Hugo - Lemoon Twist',
         #'icon0':
         #'pic0':
         #'pic1':
@@ -300,15 +308,15 @@ games_pal = {
     },
     'SLES54918': {
         'id': 'SLES54918',
-        'title': 'Agent Hugo - Lemon Twist',
-        #'icon0':
-        #'pic0':
-        #'pic1':
-        #'snd0':
+        'title': 'Agent Hugo - Lemoon Twist',
+        'icon0': 'https://images.launchbox-app.com//2f5379b1-ae09-4769-8501-1405e6e5484d.jpg',
+        'pic0': 'https://images.launchbox-app.com//65868622-5709-4acb-b7a5-3f1999249e55.png',
+        'pic1': 'https://gamegear.net/media/canonical/console/ps2/fanart/agent-hugo-lemoon-twist-europe-enfrdeesitnlpt__20710.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=qs8y-HDCjXM&list=PLJ5gtuufHGju6FkX0zBb8xZNW1i1CNoH1&index=1',
     },
     'SLES54919': {
         'id': 'SLES54919',
-        'title': 'Agent Hugo - Lemon Twist',
+        'title': 'Agent Hugo - Lemoon Twist',
         #'icon0':
         #'pic0':
         #'pic1':
@@ -317,10 +325,10 @@ games_pal = {
     'SLES54212': {
         'id': 'SLES54212',
         'title': 'Agent Hugo - RoboRumble',
-        #'icon0':
-        #'pic0':
-        #'pic1':
-        #'snd0':
+        'icon0': 'https://images.launchbox-app.com//dba87e92-fed4-4b84-ba87-6c5b6ec16dfe.jpg',
+        'pic0': 'https://images.launchbox-app.com//fa3daead-32b9-4d07-8dca-d033dab5e4a5.png',
+        'pic1': 'https://gamegear.net/media/canonical/console/ps2/fanart/agent-hugo-roborumble-europe-enfrdeesitnlptsvnodafi__20567.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=PHWRsWkPiPA&list=RDPHWRsWkPiPA&start_radio=1',
     },
     'SLES53772': {
         'id': 'SLES53772',
@@ -381,10 +389,10 @@ games_pal = {
     'SLES53139': {
         'id': 'SLES53139',
         'title': 'Alien Hominid',
-        #'icon0':
-        #'pic0':
-        #'pic1':
-        #'snd0':
+        'icon0': 'https://images.launchbox-app.com//92ae0f23-0eb6-4e03-b270-cf6cf48cc4f6.jpg',
+        'pic0': 'https://gamesdb-images.launchbox.gg/r2_d1390fc2-5786-4e00-8db0-eb6fbc4c1fdc.png',
+        'pic1': 'https://gamesdb-images.launchbox.gg/r2_091e2597-de2b-4320-94f7-c075fff2791e.png',
+        'snd0': 'https://www.youtube.com/watch?v=LJZJfkOHtog&list=PL9qct0ZAu2EZ4FO00QcIq0SmB8NwVIZ2b&index=29',
     },
     'SLES55532': {
         'id': 'SLES55532',
@@ -594,6 +602,14 @@ games_pal = {
         #'pic1':
         #'snd0':
     },
+    'SLES52729': {
+        'id': 'SLES52729',
+        'title': 'Animaniacs - The Great Edgar Hunt',
+        'icon0': 'https://images.launchbox-app.com/6788c2eb-69ca-460d-a2f4-ddcab5ed189c.jpg',
+        'pic0': 'https://images.launchbox-app.com/60fc7b62-aca8-40e2-8d08-7a3e85201f7c.png',
+        'pic1': 'https://gamegear.net/media/canonical/console/ps2/fanart/animaniacs-the-great-edgar-hunt-europe-enfrdeesit__20909.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=iFP_x5pVysg&list=PLkraarV60SvxU0H73-rVrwPJKTQX9oObX',
+    },
     'SLES50964': {
         'id': 'SLES50964',
         'title': 'Antz Extreme Racing',
@@ -610,6 +626,22 @@ games_pal = {
         #'pic1':
         #'snd0':
     },
+    'SCES50885': {
+        'id': 'SCES50885',
+        'title': 'Ape Escape 2',
+        'icon0': 'https://images.launchbox-app.com//d93e4169-db8e-4ca3-95e4-8bc674e45257.jpg',
+        'pic0': 'https://images.launchbox-app.com//0d540358-995d-4e35-befd-804db0a8c117.png',
+        'pic1': 'https://images.launchbox-app.com//f03e8775-72e0-4f7f-9dea-cc9dba7f51c7.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=C8gb1IW5knc&list=PLd29fakaaB7cmeY_MEeRgDwtQ-rcHApbH&index=52',
+    },
+    'SCES53642': {
+        'id': 'SCES53642',
+        'title': 'Ape Escape 3',
+        'icon0': 'https://images.launchbox-app.com//4815287f-2659-4d7b-baf9-2cc7614b120f.jpg',
+        'pic0': 'https://images.launchbox-app.com//326272e3-6d3a-4780-b6e1-bdbf6fee2b3b.png',
+        'pic1': 'https://gamesdb-images.launchbox.gg/r2_542597b4-5b66-426b-bd8e-991aade99bb7.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=i3ynNR2qix8&list=PL_DCnpkoFGWdUkDGDxw9GLPQoelvUUdxT&index=1',
+    },
     'SLES54788': {
         'id': 'SLES54788',
         'title': 'Aqua Teen Hunger Force - Zombie Ninja Pro-Am',
@@ -621,18 +653,18 @@ games_pal = {
     'SLES54586': {
         'id': 'SLES54586',
         'title': 'Ar Tonelico - Melody of Elemia',
-        #'icon0':
-        #'pic0':
-        #'pic1':
-        #'snd0':
+        'icon0': 'https://images.launchbox-app.com//f10e039b-c259-4656-b0d2-7c33dfac397b.jpg',
+        'pic0': 'https://images.launchbox-app.com//5b515b2f-052c-412e-b637-25de6060607b.png',
+        'pic1': 'https://images.launchbox-app.com//864c2e68-c26c-49b6-ab06-5bb27519070a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=KcYja8sgM90&list=PLWdUkdaN3GL1mmGkRamNsNaPQX0-X2i7N&index=2',
     },
     'SLES55444': {
         'id': 'SLES55444',
         'title': 'Ar Tonelico II - Melody of Metafalica',
-        #'icon0':
-        #'pic0':
-        #'pic1':
-        #'snd0':
+        'icon0': 'https://images.launchbox-app.com//c5f06ed8-f3f8-4bc8-b276-cf144267c6ab.jpg',
+        'pic0': 'https://images.launchbox-app.com//933eb1ab-6f84-42c7-8b4a-c7676ca4a55f.png',
+        'pic1': 'https://images.launchbox-app.com//d8bc7715-80f2-4981-8f3a-328cb35d6bf6.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Egbb-pIKqJQ&list=PLZqI4eFICzyMhWHvNcCmH1vd8R3lRRKDO&index=4',
     },
     'SLES52949': {
         'id': 'SLES52949',
