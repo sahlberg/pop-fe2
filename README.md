@@ -131,6 +131,119 @@ cp crunch/bin/crunch*.exe .
 
 ```
 
+SteamOS (Steam Deck)
+--------------------
+Do all of this from Desktop Mode, in Konsole.
+
+### The easy way: the AppImage
+
+The AppImage (see the Linux AppImage section below) already contains
+everything pop-fe2 needs, so no packages have to be installed and nothing
+is lost when SteamOS updates.
+
+```console
+mkdir -p ~/pop-fe2
+cd ~/pop-fe2
+# Download pop-fe2-x86_64.AppImage into ~/pop-fe2, then
+chmod +x pop-fe2-x86_64.AppImage
+
+# The ART pack goes next to the AppImage.  Desktop Mode has no 7z tool on
+# the command line but Ark (the archive manager) can extract it:
+# right-click PS2_OPL_ART_kira.7z in Dolphin -> Extract -> Extract archive here
+curl -L -O https://archive.org/download/ps2-opl-cover-art-set/PS2_OPL_ART_kira.7z
+
+./pop-fe2-x86_64.AppImage
+```
+
+The only thing the AppImage does not include is wine, which is only
+needed to create Software Manuals.  Everything else works without it.
+
+### Running from source
+
+The SteamOS root filesystem is read-only and every SteamOS update resets it,
+so all the packages below have to be installed again after each update.
+
+First, if you have not done so already, set a password for the `deck` user
+so that you can use sudo:
+
+```console
+passwd
+```
+
+Then make the root filesystem writable and set up the pacman keys:
+
+```console
+sudo steamos-readonly disable
+sudo pacman-key --init
+sudo pacman-key --populate archlinux holo
+```
+
+Install the packages.  SteamOS strips the header files out of the packages
+it ships, so `glibc` and `linux-api-headers` have to be reinstalled before
+anything can be compiled:
+
+```console
+sudo pacman -S --needed glibc linux-api-headers
+sudo pacman -S --needed base-devel git cmake python python-pip tk libsndfile ffmpeg
+
+# Only needed if you want to use .chd compressed disc images
+sudo pacman -S --needed mame-tools
+
+# Only needed if you want to create Software Manuals
+sudo pacman -S --needed wine
+
+# Lock the root filesystem again
+sudo steamos-readonly enable
+```
+
+SteamOS does not let pip install into the system python, so the python
+packages go into a virtual environment in your home directory, which also
+survives SteamOS updates:
+
+```console
+python -m venv ~/pop-fe2-venv
+source ~/pop-fe2-venv/bin/activate
+pip install pygubu pillow yt-dlp PyPDF2 requests pycdlib ecdsa pycryptodome tkinterdnd2 rarfile setuptools
+```
+
+Then build pop-fe2 and the helpers.  Make sure the virtual environment is
+active, since `make` in ps3py builds a python module that has to match it:
+
+```console
+source ~/pop-fe2-venv/bin/activate
+cd ~
+git clone https://github.com/sahlberg/pop-fe2.git
+cd pop-fe2
+
+git clone -b use-python3 https://github.com/sahlberg/PSL1GHT.git
+make -C PSL1GHT/tools/ps3py
+
+git clone -b wip/hadess/modern-linux https://github.com/masible/make_npdata.git
+make -C make_npdata/Linux
+
+git clone --recursive -b cstint-fix https://github.com/sahlberg/atracdenc.git
+cd atracdenc/src
+cmake .
+make
+cd ../..
+
+# The ART pack.  Extract it here with Ark, see above.
+curl -L -O https://archive.org/download/ps2-opl-cover-art-set/PS2_OPL_ART_kira.7z
+
+# Optional: If you want to create Software Manuals
+git clone https://github.com/BinomialLLC/crunch.git
+cp crunch/bin/crunch*.exe .
+```
+
+Every time you want to run pop-fe2, activate the virtual environment first:
+
+```console
+source ~/pop-fe2-venv/bin/activate
+cd ~/pop-fe2
+python pop-fe2-ps3.py                      # the GUI
+python pop-fe2.py --ps3-pkg=title game.iso # the command line tool
+```
+
 Linux AppImage
 --------------
 `pop-fe2-x86_64.AppImage` bundles pop-fe2, the GUI and all the helper
