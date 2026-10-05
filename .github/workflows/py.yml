@@ -15,11 +15,11 @@ jobs:
         python-version: ["3.10"]
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Add msbuild to PATH
-        uses: microsoft/setup-msbuild@v2
+        uses: microsoft/setup-msbuild@v3
       - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python-version }}
       - name: Install required Python packages
@@ -97,7 +97,7 @@ jobs:
           cp -r -Force dist/pkg/* dist/pop-fe2-ps3/.
           cp -r -Force dist/pop-fe2/* dist/pop-fe2-ps3/.
       - name: Upload pop-fe2-ui artefact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with: 
           name: pop-fe2-ui
           path: dist/pop-fe2-ps3
@@ -108,9 +108,9 @@ jobs:
     runs-on: ubuntu-24.04
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Install build dependencies
@@ -128,7 +128,7 @@ jobs:
         run:   |
           PYTHON=python ./appimage/build-appimage.sh
       - name: Upload AppImage artefact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: pop-fe2-appimage
           path: dist/pop-fe2-x86_64.AppImage
