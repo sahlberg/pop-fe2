@@ -51,7 +51,7 @@ fi
 log "Installing python packages"
 "$VENV/bin/pip" install --quiet --upgrade pip
 "$VENV/bin/pip" install --quiet pillow pycryptodome requests pycdlib ecdsa \
-    pyinstaller pygubu tkinterdnd2 yt-dlp PyPDF2 rarfile setuptools
+    pyinstaller pygubu tkinterdnd2 "yt-dlp[default]" PyPDF2 rarfile setuptools
 "$VENV/bin/python" -c "import tkinter" || {
     echo "The python used to build the AppImage has no tkinter." >&2
     exit 1
