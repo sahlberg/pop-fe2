@@ -32,7 +32,7 @@ jobs:
           pip install pyinstaller
           pip install pygubu
           pip install tkinterDnD2
-          pip install yt-dlp
+          pip install "yt-dlp[default]"
           pip install PyPDF2
       - name: Clone make_npdata
         run:   |
