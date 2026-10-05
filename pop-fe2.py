@@ -71,6 +71,25 @@ def app_path(*parts):
     return os.path.join(APP_DIR, *parts)
 
 
+def art_path(*parts):
+    """Return an absolute path into the ART pack.
+
+    Normally the ART pack is installed next to us.  When we run as an
+    AppImage the install directory is a read-only mount that is gone as
+    soon as we exit, so there we also look next to the .AppImage file
+    itself and in $XDG_DATA_HOME/pop-fe2.
+    """
+    candidates = [app_path('ART')]
+    if os.environ.get('APPIMAGE'):
+        candidates.append(os.path.join(os.path.dirname(os.environ['APPIMAGE']), 'ART'))
+        data_home = os.environ.get('XDG_DATA_HOME') or os.path.expanduser('~/.local/share')
+        candidates.append(os.path.join(data_home, 'pop-fe2', 'ART'))
+    for c in candidates:
+        if os.path.isdir(c):
+            return os.path.join(c, *parts)
+    return os.path.join(candidates[-1], *parts)
+
+
 def find_tool(name, extra_paths=None, required=True):
     """Locate an external helper binary.
 
@@ -1022,7 +1041,7 @@ def get_pic_from_game(pic, gameid, filename):
         # look for it relative to the current directory.
         _suffix = {'icon0': '_COV.png', 'pic0': '_LGO.png', 'pic1': '_BG.png'}
         if pic in _suffix:
-            f = app_path('ART', gameid[:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + _suffix[pic])
+            f = art_path(gameid[:4] + '_' + gameid[4:7] + '.' + gameid[7:9] + _suffix[pic])
             try:
                 print('Looking for', pic, 'in the ART pack:', f)
                 return Image.open(f).convert('RGBA')
@@ -1659,7 +1678,11 @@ def create_pkg(isos, gameid, icon0, pic0, pic1, snd0, pkg,
     print('Creating PKG "%s"' % pkg)
     print('create_pkg: pkg directory    ', pkgdir)
     os.makedirs(pkgdir, exist_ok=True)
-    if os.name == 'posix':
+    if os.name == 'posix' and getattr(sys, 'frozen', False):
+        # The linux AppImage ships pkg.py frozen by pyinstaller, just
+        # like the windows builds do.
+        pkgtool = find_tool('pkg')
+    elif os.name == 'posix':
         pkgtool = find_tool('pkg.py', ['PSL1GHT/tools/ps3py/pkg.py'])
     else:
         pkgtool = find_tool('pkg.exe')
@@ -1694,10 +1717,10 @@ if __name__ == "__main__":
 
     # The ART pack is installed next to pop-fe2, not in whatever the
     # current directory happens to be.
-    art = app_path('ART')
+    art = art_path()
     print('ART pack         :', art)
     if not os.path.isdir(art):
-        print('No ART directory found. Download and install \'https://archive.org/details/ps2-opl-cover-art-set\' in', APP_DIR)
+        print('No ART directory found. Download and install \'https://archive.org/details/ps2-opl-cover-art-set\' in', os.path.dirname(art))
         os._exit(0)
 
     package_files = list(args.files)

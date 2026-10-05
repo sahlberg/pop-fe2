@@ -101,7 +101,7 @@ class PopFe2Ps3App:
         # The ART pack is installed next to pop-fe2-ps3 itself.  Do not
         # look for it relative to the current directory, on windows that
         # is wherever explorer happened to start us from.
-        art = popfe2.app_path('ART')
+        art = popfe2.art_path()
         print('Looking for the ART pack in', art)
         if not os.path.isdir(art):
             print('No ART pack found in', art)

@@ -1,0 +1,22 @@
+#!/bin/sh
+#
+# AppImage entry point.
+#
+#   pop-fe2-x86_64.AppImage                 start the GUI
+#   pop-fe2-x86_64.AppImage --cli ARGS...   run the command line pop-fe2
+#
+# A symlink to the AppImage named pop-fe2 also runs the command line tool.
+#
+HERE="$(dirname "$(readlink -f "$0")")"
+
+if [ "$1" = "--cli" ]; then
+    shift
+    exec "$HERE/usr/bin/pop-fe2" "$@"
+fi
+
+case "$(basename "${ARGV0:-$0}")" in
+    pop-fe2)
+        exec "$HERE/usr/bin/pop-fe2" "$@" ;;
+esac
+
+exec "$HERE/usr/bin/pop-fe2-ps3" "$@"

@@ -5,3 +5,7 @@
 ps2classic/ps2classic-ps2classic/ps2classic
 ps2classic/ps2classic-ps2classic/*.o
 .DS_Store
+
+# AppImage build
+/build/
+/dist/

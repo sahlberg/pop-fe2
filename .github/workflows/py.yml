@@ -101,3 +101,34 @@ jobs:
         with: 
           name: pop-fe2-ui
           path: dist/pop-fe2-ps3
+
+  build-linux-appimage:
+    name: Linux AppImage build
+    # The AppImage needs at least the glibc of the distro it was built on.
+    runs-on: ubuntu-24.04
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install build dependencies
+        run:   |
+          sudo apt-get update
+          sudo apt-get install -y build-essential cmake libsndfile1-dev mame-tools libtcl8.6 libtk8.6
+      - name: Clone helpers
+        run:   |
+          rm -rf atracdenc make_npdata PSL1GHT
+          git clone --recursive -b cstint-fix https://github.com/sahlberg/atracdenc.git
+          git clone -b wip/hadess/modern-linux https://github.com/masible/make_npdata.git
+          git clone -b use-python3 https://github.com/sahlberg/PSL1GHT.git
+          git clone --depth 1 https://github.com/BinomialLLC/crunch.git
+      - name: Build AppImage
+        run:   |
+          PYTHON=python ./appimage/build-appimage.sh
+      - name: Upload AppImage artefact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pop-fe2-appimage
+          path: dist/pop-fe2-x86_64.AppImage

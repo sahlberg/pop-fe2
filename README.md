@@ -131,6 +131,26 @@ cp crunch/bin/crunch*.exe .
 
 ```
 
+Linux AppImage
+--------------
+`pop-fe2-x86_64.AppImage` bundles pop-fe2, the GUI and all the helper
+binaries (atracdenc, make_npdata, pkg, ffmpeg, chdman, crunch) so nothing
+above needs to be installed.  The only thing it does not ship is wine,
+which is needed to create manuals.
+
+```console
+chmod +x pop-fe2-x86_64.AppImage
+./pop-fe2-x86_64.AppImage                                    # the GUI
+./pop-fe2-x86_64.AppImage --cli --ps3-pkg=title game.iso     # the command line tool
+```
+
+Put the `ART` pack in the same directory as the AppImage, or in
+`~/.local/share/pop-fe2/ART`.
+
+To build the AppImage yourself, check out the helpers as described in the
+Installation section above and run `./appimage/build-appimage.sh`.
+The AppImage is written to `dist/`.
+
 CHD support
 -----------
 To use .chd compressed disc images pop-fe2 needs `chdman`, which is part of

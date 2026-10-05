@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=pop-fe2
+Comment=Create PS2 Classic PKGs for the PS3
+Exec=pop-fe2-ps3
+Icon=pop-fe2
+Terminal=false
+Categories=Utility;Game;
