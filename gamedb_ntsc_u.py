@@ -9,6 +9,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/8a10d243-0d60-41c1-be01-bc44f1c95358.png',
         'pic1': 'https://images.launchbox-app.com/f964a38f-7e8e-4ae1-8302-c5a74dfa6ff6.png',
         'snd0': 'https://www.youtube.com/watch?v=2mdMu9_8i38&list=PLh9hcS0tfUw2LHokf4Dt-pBJ-kfPbfbTj&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/dot%20hack%20GU%20Vol%201%20-%20Rebirth%20(USA).pdf',
     },
     'SLUS21480': {
         'id': 'SLUS21480',
@@ -17,6 +18,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/8a10d243-0d60-41c1-be01-bc44f1c95358.png',
         'pic1': 'https://images.launchbox-app.com/f964a38f-7e8e-4ae1-8302-c5a74dfa6ff6.png',
         'snd0': 'https://www.youtube.com/watch?v=2mdMu9_8i38&list=PLh9hcS0tfUw2LHokf4Dt-pBJ-kfPbfbTj&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/dot%20hack%20GU%20Vol%201%20-%20Rebirth%20(USA).pdf',
     },
     'SLUS21488': {
         'id': 'SLUS21488',
@@ -25,6 +27,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/8144b9a1-9ee3-413a-825e-48add3c8b42e.png',
         'pic1': 'https://images.launchbox-app.com/96162ae9-8be9-476b-8353-a101dd4507db.jpg',
         'snd0': 'https://www.youtube.com/watch?v=nELXuADD9rI',
+        'manual': 'https://www.videogamemanual.com/PS2/dot%20hack%20GU%20Vol%202%20-%20Reminisce%20(USA).pdf',
     },
     'SLUS21489': {
         'id': 'SLUS21489',
@@ -33,6 +36,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/a6c809f6-a51c-431c-86c9-ada72c85f346.png',
         'pic1': 'https://images.launchbox-app.com/68540c9d-057e-4848-b9e5-2dfedb786018.jpg',
         'snd0': 'https://www.youtube.com/watch?v=2mdMu9_8i38&list=PLhPt7n-ALrSABB_Eckm-jAfZx-RP_TLKE&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/dot%20hack%20GU%20Vol%203%20-%20Redemption%20(USA).pdf',
     },
     'SLUS20267': {
         'id': 'SLUS20267',
@@ -41,6 +45,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/862bb179-88aa-4fdb-9574-fe5377f5841a.png',
         'pic1': 'https://images.launchbox-app.com/e42cceca-dbd4-4438-9ffc-e77811cb9495.jpg',
         'snd0': 'https://www.youtube.com/watch?v=5SVjVAk_ZZc&list=PLh9hcS0tfUw0aadEWKl26XeL8IrDyTVoB&index=31',
+        'manual': 'https://www.videogamemanual.com/PS2/dot%20hack%20Part%201%20-%20Infection%20(USA).pdf',
     },
     'SLUS20562': {
         'id': 'SLUS20562',
@@ -49,6 +54,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/f28a1fe7-b6b4-4b10-9174-585480bc47fb.png',
         'pic1': 'https://images.launchbox-app.com/f0413b84-8b48-42a3-8835-72067d8aba6d.jpg',
         'snd0': 'https://www.youtube.com/watch?v=GIWrr3TuPXI&list=PLh9hcS0tfUw0aadEWKl26XeL8IrDyTVoB&index=43',
+        'manual': 'https://www.videogamemanual.com/PS2/dot%20hack%20Part%202%20-%20Mutation%20(USA).pdf',
     },
     'SLUS20563': {
         'id': 'SLUS20563',
@@ -57,6 +63,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/7a692928-39f4-465a-af0b-45ae71daef0a.png',
         'pic1': 'https://images.launchbox-app.com/5b58c309-6eb5-4dda-8879-ab0de3e4619a.png',
         'snd0': 'https://www.youtube.com/watch?v=fUhIV7xpKcA&list=PLh9hcS0tfUw0aadEWKl26XeL8IrDyTVoB&index=52',
+        'manual': 'https://www.videogamemanual.com/PS2/dot%20hack%20Part%203%20-%20Outbreak%20(USA).pdf',
     },
     'SLUS20564': {
         'id': 'SLUS20564',
@@ -65,6 +72,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/65d51984-244d-4aeb-8464-136e3a48afb9.png',
         'pic1': 'https://images.launchbox-app.com/c1530bb2-459d-4c43-9cc1-93cb57fa4736.jpg',
         'snd0': 'https://www.youtube.com/watch?v=eCiEtv4qqsc&list=PLh9hcS0tfUw0aadEWKl26XeL8IrDyTVoB&index=59',
+        'manual': 'https://www.videogamemanual.com/PS2/dot%20hack%20Part%204%20-%20Quarantine%20(USA).pdf',
     },
     'SLUS20265': {
         'id': 'SLUS20265',
@@ -73,6 +81,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/931320a6-26e2-4787-a65c-becce3aecc43.png',
         'pic1': 'https://images.launchbox-app.com/49fa229f-064c-4403-ad2d-f5fd5f62e712.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Tv0HcoVZlz4&list=PLA_6nw_SiTT0eFOx2r6T7UbdsptGH8weS&index=84',
+        'manual': 'https://www.videogamemanual.com/PS2/007-%20Agent%20Under%20Fire%20(USA).pdf',
     },
     'SLUS20751': {
         'id': 'SLUS20751',
@@ -81,6 +90,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/ccceb2d4-3794-487e-9aec-51c037b0d251.png',
         'pic1': 'https://images.launchbox-app.com/3ccfbf77-f021-4219-ae70-2c7b8e59479a.png',
         'snd0': 'https://www.youtube.com/watch?v=BvlMcrRniCg&list=PLAP1EKQHVw8EL5N8UXqh7h95bQVYMh1OT&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/007-%20Everything%20or%20Nothing%20(USA).pdf',
     },
     'SLUS21282': {
         'id': 'SLUS21282',
@@ -89,6 +99,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/03328238-529d-425c-a4a7-169c39ef34ef.png',
         'pic1': 'https://images.launchbox-app.com/09bf2f15-2d63-47e9-bcea-f68041058830.jpg',
         'snd0': 'https://www.youtube.com/watch?v=-ySthzsUZQg&list=PLA_6nw_SiTT0uMw6PAWsL2CyqecvubbJl&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/007-%20From%20Russia%20With%20Love%20(USA).pdf',
     },
     'SLUS21064': {
         'id': 'SLUS21064',
@@ -97,6 +108,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/82578dcc-8607-4f3f-973c-682458bb7186.png',
         'pic1': 'https://images.launchbox-app.com/0086daf6-fd61-48bb-b0c3-2f129acf53b9.jpg',
         'snd0': 'https://www.youtube.com/watch?v=5hXqSrCjcz0&list=PLqvhdas1sD1IK-wyAjiorTbux3iNNld0V',
+        'manual': 'https://www.videogamemanual.com/PS2/GoldenEye-%20Rogue%20Agent%20(USA).pdf',
     },
     'SLUS20579': {
         'id': 'SLUS20579',
@@ -105,6 +117,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/93ffe098-aada-44af-9759-1cddc797357e.png',
         'pic1': 'https://images.launchbox-app.com/fa16a7bd-b9b4-4937-90c5-f56bbf5b68af.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Y_3CIzvqEFc&list=PLAP1EKQHVw8HNjPYvF19_RHJgrysn7SKw&index=3',
+        'manual': 'https://www.videogamemanual.com/PS2/007-%20NightFire%20(USA).pdf',
     },
     'SLUS21813': {
         'id': 'SLUS21813',
@@ -113,6 +126,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/a94cab5a-d8c4-4d01-a7a7-3a0522decbec.png',
         'pic1': 'https://images.launchbox-app.com/3a6f63ad-869c-484e-9b45-f13af1d36fff.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Iv00P5gMYmY&list=PLqcGvP7TBm_kcYZKQcbGwY4A3mUK1jhvD&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/007-%20Quantum%20of%20Solace%20(USA).pdf',
     },
     'SLUS20091': {
         'id': 'SLUS20091',
@@ -121,6 +135,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/4X4%20Evolution%20(USA).pdf',
     },
     'SLUS21693': {
         'id': 'SLUS21693',
@@ -129,6 +144,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/7%20Wonders%20of%20the%20Ancient%20World%20(USA).pdf',
     },
     'SLUS20210': {
         'id': 'SLUS20210',
@@ -137,6 +153,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/5f2141f9-6b20-4fb2-8e15-21d47feeb82b.png',
         'pic1': 'https://images.launchbox-app.com/fcf43f67-5df7-4042-85a3-b269310c1bd0.jpg',
         'snd0': 'https://www.youtube.com/watch?v=ym82TIiO02A&list=PLn4LsJg-62UYw7Ke6S8NkTwiQrcbcx1jq&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/18%20Wheeler-%20American%20Pro%20Trucker%20(USA).pdf',
     },
     'SLUS21268': {
         'id': 'SLUS21268',
@@ -145,6 +162,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/24-%20The%20Game%20(USA).pdf',
     },
     'SLUS21016': {
         'id': 'SLUS21016',
@@ -153,6 +171,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1c494fca-0c9f-4a66-80fd-05536629e4dd.png',
         'pic1': 'https://images.launchbox-app.com/605a8512-9770-4375-8768-6b070adcca55.jpg',
         'snd0': 'https://www.youtube.com/watch?v=YZ61RGKP4wM&list=PLJBEhpTzkI-JCq_7YvspBffORADK9KCig&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/25%20To%20Life%20(USA).pdf',
     },
     'SLUS21315': {
         'id': 'SLUS21315',
@@ -161,6 +180,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/b7fcc732-3139-4471-8b6a-f518128d8e09.png',
         'pic1': 'https://images.launchbox-app.com/06be3103-3aff-488e-8635-e870cc9cfb9f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=iWbUv1QgZ7k&list=PLxNSUfx3is_BFaWNSAEQqjgMLX6AXmRrc&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/50%20Cent-%20Bulletproof%20(USA).pdf',
     },
     'SLUS21116': {
         'id': 'SLUS21116',
@@ -169,6 +189,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/c40605cc-f070-4f24-910f-ec533e338b54.png',
         'pic1': 'https://images.launchbox-app.com/6bdbee44-0e22-43bc-a530-c2c42602d450.jpg',
         'snd0': 'https://www.youtube.com/watch?v=o6PK38YXAOE&list=PLPkINIxiy2iS-JBeGIvGbB3Lm1QxF7cRP&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/187-%20Ride%20or%20Die%20(USA).pdf',
     },
     'SLUS20404': {
         'id': 'SLUS20404',
@@ -177,6 +198,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/e40c4224-7887-4198-96a3-bc3d9652c4c1.png',
         'pic1': 'https://images.launchbox-app.com/a3852f69-c167-4712-bfa9-73fe6496c486.jpg',
         'snd0': 'https://www.youtube.com/watch?v=R3kf6U5SVM0',
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20World%20Cup%202002%20(USA).pdf',
     },
     'SLUS20152': {
         'id': 'SLUS20152',
@@ -1230,7 +1252,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/2e832a3b-d1fc-4d05-9678-50389df8e4ba.png',
         'pic1': 'https://images.launchbox-app.com/fb94ebae-d214-4843-a9f6-a2ec75cb494e.png',
         'snd0': 'https://www.youtube.com/watch?v=8BIZ5WcWQ1E',
-    #    'manual': '',
+        'manual': 'https://www.videogamemanual.com/PS2/Larry%20Boy%20and%20the%20Bad%20Apple%20(VeggieTales\')%20(USA).pdf',
     },
     'SLUS20605': {
         'id': 'SLUS20605',
@@ -1680,6 +1702,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Big%20Game%20Hunter%20(USA).pdf',
     },
     'SLUS21011': {
         'id': 'SLUS21011',
@@ -1688,6 +1711,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Big%20Game%20Hunter-%202005%20Adventures%20(USA).pdf',
     },
     'SLUS21625': {
         'id': 'SLUS21625',
@@ -1696,6 +1720,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Big%20Game%20Hunter%202008%20(USA).pdf',
     },
     'SLUS20736': {
         'id': 'SLUS20736',
@@ -1713,6 +1738,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Dangerous%20Hunts%202%20(USA).pdf',
     },
     'SLUS21841': {
         'id': 'SLUS21841',
@@ -1730,6 +1756,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Deer%20Hunt-%202004%20Season%20(USA).pdf',
     },
     'SLUS21021': {
         'id': 'SLUS21021',
@@ -1738,6 +1765,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Deer%20Hunt-%202005%20Season%20(USA).pdf',
     },
     'SLUS21789': {
         'id': 'SLUS21789',
@@ -1755,6 +1783,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Monster%20Bass%20(USA).pdf',
     },
     'SLUS21935': {
         'id': 'SLUS21935',
@@ -1772,6 +1801,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Outdoor%20Adventures%20(USA).pdf',
     },
     'SLUS21906': {
         'id': 'SLUS21906',
@@ -1789,6 +1819,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Trophy%20Bucks%20(USA).pdf',
     },
     'SLUS21764': {
         'id': 'SLUS21764',
@@ -1797,6 +1828,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cake%20Mania-%20Baker\'s%20Challenge%20(USA).pdf',
     },
     'SLUS20725': {
         'id': 'SLUS20725',
@@ -1805,6 +1837,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/af2850da-cf89-4c06-8b90-53014ebcfd77.png',
         'pic1': 'https://images.launchbox-app.com/9f0970e9-1f40-4bde-bb69-8e42a4b1c2e4.png',
         'snd0': 'https://www.youtube.com/watch?v=TxqImKW98qE&list=PLm4Rqr5BVZfR9H732HDZyTEfRStONA7_U&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Call%20of%20Duty-%20Finest%20Hour%20(USA).pdf',
     },
     'SLUS21746': {
         'id': 'SLUS21746',
@@ -1813,6 +1846,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/14bc6d53-faa5-40cd-9ba2-0f93b436b32f.png',
         'pic1': 'https://images.launchbox-app.com/a4f01d63-077f-407b-9996-55c742feb1cf.png',
         'snd0': 'https://www.youtube.com/watch?v=7chJ6HQQmYM&list=PLl-vhnGPY7coXIPKefPan4jRofZlt-jIB&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Call%20of%20Duty-%20World%20at%20War-%20Final%20Fronts%20(USA).pdf',
     },
     'SLUS21228': {
         'id': 'SLUS21228',
@@ -1821,6 +1855,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/6e909a2d-a169-40f1-8e9d-266fbeb39cc0.png',
         'pic1': 'https://images.launchbox-app.com/f781d0d4-4d13-45d1-9b30-e6f3cd924559.jpg',
         'snd0': 'https://www.youtube.com/watch?v=yOvqDX4Zpt8&list=PLNsKtTiwb8JFrPkG6L3MU3qnU6yzhGg5p&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Call%20of%20Duty%202-%20Big%20Red%20One%20(USA).pdf',
     },
     'SLUS21318': {
         'id': 'SLUS21318',
@@ -1829,6 +1864,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/6e909a2d-a169-40f1-8e9d-266fbeb39cc0.png',
         'pic1': 'https://images.launchbox-app.com/f781d0d4-4d13-45d1-9b30-e6f3cd924559.jpg',
         'snd0': 'https://www.youtube.com/watch?v=yOvqDX4Zpt8&list=PLNsKtTiwb8JFrPkG6L3MU3qnU6yzhGg5p&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Call%20of%20Duty%202-%20Big%20Red%20One%20(USA).pdf',
     },
     'SLUS21426': {
         'id': 'SLUS21426',
@@ -1837,6 +1873,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/81d0c109-7af0-40f7-8c64-5fb44e780852.png',
         'pic1': 'https://images.launchbox-app.com/2bd5e160-cc36-45ec-9ce5-983f8249e1af.jpg',
         'snd0': 'https://www.youtube.com/watch?v=88bMlnfq17s&list=PLVFu5mCs8PVjx3HgtV1nq9L5YCyEm-Y-A&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Call%20of%20Duty%203%20(USA).pdf',
     },
     'SLUS21316': {
         'id': 'SLUS21316',
@@ -1872,6 +1909,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/r2_31efa817-cc9e-4a86-a52d-5ff680782940.png',
         'pic1': 'https://images.launchbox-app.com/87f4ea9c-c4a4-4b95-8d98-7ddb9da5565d.png',
         'snd0': 'https://www.youtube.com/watch?v=86xzTNPZumQ',
+        'manual': 'https://www.videogamemanual.com/PS2/Capcom%20vs.%20SNK%202-%20Mark%20of%20the%20Millennium%202001%20(USA).pdf',
     },
     'SLUS20849': {
         'id': 'SLUS20849',
@@ -1880,6 +1918,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Carmen%20Sandiego-%20The%20Secret%20of%20the%20Stolen%20Drums%20(USA).pdf',
     },
     'SLUS21495': {
         'id': 'SLUS21495',
@@ -1888,6 +1927,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Carol%20Vorderman\'s%20Sudoku%20(USA).pdf',
     },
     'SLUS20141': {
         'id': 'SLUS20141',
@@ -1896,6 +1936,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/CART%20Fury-%20Championship%20Racing%20(USA).pdf',
     },
     'SLUS21438': {
         'id': 'SLUS21438',
@@ -1913,6 +1954,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Casper-%20Spirit%20Dimensions%20(USA).pdf',
     },
     'SLUS20962': {
         'id': 'SLUS20962',
@@ -1930,6 +1972,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/68280c8d-f717-42c1-a585-1c27d964190c.png',
         'pic1': 'https://images.launchbox-app.com/a1c88220-ceb8-4a8a-8640-7363b104357b.jpg',
         'snd0': 'https://www.youtube.com/watch?v=GiXCote6N6s&list=PL31221D00E6CF5657&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Castlevania-%20Curse%20of%20Darkness%20(USA).pdf',
     },
     'SLUS20733': {
         'id': 'SLUS20733',
@@ -1938,6 +1981,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/9a4f9411-279d-48bb-815f-9abd42ba4306.png',
         'pic1': 'https://images.launchbox-app.com/e13c19e5-f843-455b-9ba7-5dd8f2644ed4.jpg',
         'snd0': 'https://www.youtube.com/watch?v=ypCA6MFsuFc&list=PLFjuFokngRvja_lOLegRtcLyaZEkF2CcS',
+        'manual': 'https://www.videogamemanual.com/PS2/Castlevania-%20Lament%20of%20Innocence%20(USA).pdf',
     },
     'SLUS20992': {
         'id': 'SLUS20992',
@@ -1982,6 +2026,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Chaos%20Wars%20(USA).pdf',
     },
     'SLUS21246': {
         'id': 'SLUS21246',
@@ -1999,6 +2044,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Chessmaster%20(USA).pdf',
     },
     'SLUS20930': {
         'id': 'SLUS20930',
@@ -2007,6 +2053,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Choro%20Q%20(USA).pdf',
     },
     'SLUS20742': {
         'id': 'SLUS20742',
@@ -2015,6 +2062,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Chulip%20(USA).pdf',
     },
     'SLUS21754': {
         'id': 'SLUS21754',
@@ -2023,6 +2071,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/CID%20The%20Dummy%20(USA).pdf',
     },
     'SLUS20274': {
         'id': 'SLUS20274',
@@ -2031,6 +2080,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/City%20Crisis%20(USA).pdf',
     },
     'SLUS20633': {
         'id': 'SLUS20633',
@@ -2048,6 +2098,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cocoto%20Fishing%20Master%20(USA).pdf',
     },
     'SLUS21743': {
         'id': 'SLUS21743',
@@ -2056,6 +2107,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Code%20Lyoko-%20Quest%20For%20Infinity%20(USA).pdf',
     },
     'SLUS21155': {
         'id': 'SLUS21155',
@@ -2064,6 +2116,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Codename-%20Kids%20Next%20Door-%20Operation%20VIDEOGAME%20(USA).pdf',
     },
     'SLUS21047': {
         'id': 'SLUS21047',
@@ -2072,6 +2125,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/ec218c0f-5d44-44bf-b310-5f07926c89cb.png',
         'pic1': 'https://images.launchbox-app.com/d0be7afe-2588-446c-88e3-f0d83a139073.jpg',
         'snd0': 'https://www.youtube.com/watch?v=mQ29jTnJOAY&list=PLO4jlmGoc6uD5ZaDSZjYYW5uVdpL-UWdr&index=5',
+        'manual': 'https://www.videogamemanual.com/PS2/Cold%20Fear%20(USA).pdf',
     },
     'SLUS20845': {
         'id': 'SLUS20845',
@@ -2080,6 +2134,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cold%20Winter%20(USA).pdf',
     },
     'SLUS20502': {
         'id': 'SLUS20502',
@@ -2097,6 +2152,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/College%20Hoops%202K6%20(USA).pdf',
     },
     'SLUS21463': {
         'id': 'SLUS21463',
@@ -2105,6 +2161,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/College%20Hoops%202K7%20(USA).pdf',
     },
     'SLUS21673': {
         'id': 'SLUS21673',
@@ -2113,6 +2170,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/College%20Hoops%202K8%20(USA).pdf',
     },
     'SLUS21179': {
         'id': 'SLUS21179',
@@ -2121,6 +2179,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Colosseum-%20Road%20to%20Freedom%20(USA).pdf',
     },
     'SLUS20715': {
         'id': 'SLUS20715',
@@ -2129,6 +2188,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Combat%20Elite-%20WWII%20Paratroopers%20(USA).pdf',
     },
     'SLUS20086': {
         'id': 'SLUS20086',
@@ -2155,6 +2215,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Conflict-%20Desert%20Storm%20(USA).pdf',
     },
     'SLUS20689': {
         'id': 'SLUS20689',
@@ -2181,6 +2242,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Conflict-%20Vietnam%20(USA).pdf',
     },
     'SLUS20240': {
         'id': 'SLUS20240',
@@ -2189,6 +2251,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Conflict%20Zone-%20Modern%20War%20Strategy%20(USA).pdf',
     },
     'SLUS21142': {
         'id': 'SLUS21142',
@@ -2197,6 +2260,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/21a67782-aad8-4de2-a61f-4f7b6d88dccb.png',
         'pic1': 'https://images.launchbox-app.com/85f0407e-f8e9-42a3-8bd8-a46687cd4536.jpg',
         'snd0': 'https://www.youtube.com/watch?v=y2KAED64-l4&list=PL1h9Fz6SxOkxF7Q5PbXgwGriJptKR02ou&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Constantine%20(USA).pdf',
     },
     'SLUS20306': {
         'id': 'SLUS20306',
@@ -2214,6 +2278,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cool%20Boarders%202001%20(USA).pdf',
     },
     'SLUS21854': {
         'id': 'SLUS21854',
@@ -2231,6 +2296,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Corvette%2050th%20Anniversary%20(USA).pdf',
     },
     'SLUS21499': {
         'id': 'SLUS21499',
@@ -2239,6 +2305,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Corvette%20Evolution%20GT%20(USA).pdf',
     },
     'SLUS21013': {
         'id': 'SLUS21013',
@@ -2274,6 +2341,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//71a7b0c9-89d0-47c4-a811-e0367df9bb38.png',
         'pic1': 'https://images.launchbox-app.com//7a6a50f4-2fcc-4e26-87ef-df22901c04f7.jpg',
         'snd0': 'https://www.youtube.com/watch?v=dlgm1nJiAis&list=PLMRXjD2VPnwRmUDMpdN8fKHK77s7Un2-s&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Crash%20Bandicoot-%20Nitro%20Kart%20(USA).pdf',
     },
     'SLUS21583': {
         'id': 'SLUS21583',
@@ -2309,6 +2377,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Crazy%20Frog%20Arcade%20Racer%20(USA).pdf',
     },
     'SLUS20202': {
         'id': 'SLUS20202',
@@ -2317,6 +2386,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Crazy%20Taxi%20(USA).pdf',
     },
     'SLUS20877': {
         'id': 'SLUS20877',
@@ -2325,6 +2395,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Crimson%20Sea%202%20(USA).pdf',
     },
     'SLUS20948': {
         'id': 'SLUS20948',
@@ -2333,6 +2404,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Crimson%20Tears%20(USA).pdf',
     },
     'SLUS20523': {
         'id': 'SLUS20523',
@@ -2341,6 +2413,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Crouching%20Tiger,%20Hidden%20Dragon%20(USA).pdf',
     },
     'SLUS21655': {
         'id': 'SLUS21655',
@@ -2349,6 +2422,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/CSI-%203%20Dimensions%20of%20Murder%20(USA).pdf',
     },
     'SLUS20547': {
         'id': 'SLUS20547',
@@ -2357,6 +2431,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cubix%20Robots%20For%20Everyone-%20Showdown%20(USA).pdf',
     },
     'SLUS20774': {
         'id': 'SLUS20774',
@@ -2365,6 +2440,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Culdcept%20(USA).pdf',
     },
     'SLUS21354': {
         'id': 'SLUS21354',
@@ -2373,6 +2449,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Curious%20George%20(USA).pdf',
     },
     'SLUS20697': {
         'id': 'SLUS20697',
@@ -2381,6 +2458,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cy%20Girls%20(USA).pdf',
     },
     'SLUS20854': {
         'id': 'SLUS20854',
@@ -2389,6 +2467,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cy%20Girls%20(USA).pdf',
     },
     'SLUS20674': {
         'id': 'SLUS20674',
@@ -2397,6 +2476,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Virtual-On%20Marz%20(USA).pdf',
     },
     'SLUS21416': {
         'id': 'SLUS21416',
@@ -2405,6 +2485,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/D1-%20Professional%20Drift%20Grand%20Prix%20Series%20(USA).pdf',
     },
     'SLUS21352': {
         'id': 'SLUS21352',
@@ -2413,6 +2494,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dai%20Senryaku%20VII-%20Exceed%20(USA).pdf',
     },
     'SLUS21609': {
         'id': 'SLUS21609',
@@ -2421,6 +2503,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20Disney%20Channel%20Edition%20(USA).pdf',
     },
     'SLUS20916': {
         'id': 'SLUS20916',
@@ -2429,6 +2512,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20X%20(USA).pdf',
     },
     'SLUS21174': {
         'id': 'SLUS21174',
@@ -2437,6 +2521,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20X2%20(USA).pdf',
     },
     'SLUS21377': {
         'id': 'SLUS21377',
@@ -2445,6 +2530,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20SuperNOVA%20(USA).pdf',
     },
     'SLUS21608': {
         'id': 'SLUS21608',
@@ -2453,6 +2539,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20SuperNOVA%202%20(USA).pdf',
     },
     'SLUS21767': {
         'id': 'SLUS21767',
@@ -2461,6 +2548,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20X%20(USA).pdf',
     },
     'SLUS21917': {
         'id': 'SLUS21917',
@@ -2469,6 +2557,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20X2%20(USA).pdf',
     },
     'SLUS21296': {
         'id': 'SLUS21296',
@@ -2477,6 +2566,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dance%20Factory%20(USA).pdf',
     },
     'SLUS21676': {
         'id': 'SLUS21676',
@@ -2485,6 +2575,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dancing%20with%20the%20Stars%20(USA).pdf',
     },
     'SLUS20131': {
         'id': 'SLUS20131',
@@ -2493,6 +2584,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dark%20Angel-%20Vampire%20Apocalypse%20(USA).pdf',
     },
     'SCUS97111': {
         'id': 'SCUS97111',
@@ -2501,6 +2593,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/37954c28-ef54-452f-aa0e-d11bba07d7bc.png',
         'pic1': 'https://images.launchbox-app.com/c3569359-d9fe-4f5a-aa07-83cd0faa60ef.jpg',
         'snd0': 'https://www.youtube.com/watch?v=5gJ3qHyqCa4&list=PL37347BD7EE891CD6&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Dark%20Cloud%20(USA).pdf',
     },
     'SCUS97213': {
         'id': 'SCUS97213',
@@ -2509,6 +2602,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/69150c61-e9ef-47ca-83f1-43c553c95bb5.png',
         'pic1': 'https://images.launchbox-app.com/f7297f60-9676-4a83-a900-c0990fab5e0f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=PgUhYFkVdSY&list=PL7704DD431172739B&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Dark%20Cloud%202%20(USA).pdf',
     },
     'SLUS20300': {
         'id': 'SLUS20300',
@@ -2517,6 +2611,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dark%20Summit%20(USA).pdf',
     },
     'SLUS21042': {
         'id': 'SLUS21042',
@@ -2525,6 +2620,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Darkwatch%20(USA).pdf',
     },
     'SLUS20159': {
         'id': 'SLUS20159',
@@ -2533,6 +2629,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dave%20Mirra%20Freestyle%20BMX%202%20(Acclaim)%20(USA).pdf',
     },
     'SLUS21574': {
         'id': 'SLUS21574',
@@ -2541,6 +2638,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/ea83bad5-ba5e-461c-a5f8-bf168f159706.png',
         'pic1': 'https://images.launchbox-app.com/c36aaeff-d618-4d94-868d-6ea70dc7a41d.jpg',
         'snd0': 'https://www.youtube.com/watch?v=LUzWUsGuYaI&list=PLQuOY1HVtJ_-w4FDW56mp-iEZutpIcru6&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Dawn%20of%20Mana%20(USA).pdf',
     },
     'SLUS20437': {
         'id': 'SLUS20437',
@@ -2549,6 +2647,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/DDRMAX%20Dance%20Dance%20Revolution%20(USA).pdf',
     },
     'SLUS20711': {
         'id': 'SLUS20711',
@@ -2557,6 +2656,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/DDRMAX2%20Dance%20Dance%20Revolution%20(USA).pdf',
     },
     'SLUS20071': {
         'id': 'SLUS20071',
@@ -2565,6 +2665,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/DOA2-%20Hardcore%20(USA).pdf',
     },
     'SLUS20220': {
         'id': 'SLUS20220',
@@ -2573,6 +2674,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dead%20to%20Rights%20(USA).pdf',
     },
     'SLUS20843': {
         'id': 'SLUS20843',
@@ -2581,6 +2683,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dead%20to%20Rights%20II%20(USA).pdf',
     },
     'SLUS20626': {
         'id': 'SLUS20626',
@@ -2589,6 +2692,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Deer%20Hunter%20(USA).pdf',
     },
     'SLUS21004': {
         'id': 'SLUS21004',
@@ -2596,7 +2700,8 @@ games_ntsc_u = {
         'icon0': "https://images.launchbox-app.com/093aedcd-bc6c-4670-86dc-85a81f56af83.jpg",
         'pic0': "https://images.launchbox-app.com/2d72e2f0-79b6-43b8-858b-6865c0cf56fa.png",
         'pic1': "https://images.launchbox-app.com/2f34b1d7-a5ff-462c-9dff-027a45a709f9.jpg",
-        'snd0': "https://www.youtube.com/watch?v=6JEts9Em5-A"
+        'snd0': "https://www.youtube.com/watch?v=6JEts9Em5-A",
+        'manual': 'https://www.videogamemanual.com/PS2/Def%20Jam-%20Fight%20for%20NY%20(USA).pdf',
     },
     'SLUS20639': {
         'id': 'SLUS20639',
@@ -2605,6 +2710,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Def%20Jam%20VENDETTA%20(USA).pdf',
     },
     'SLUS20191': {
         'id': 'SLUS20191',
@@ -2613,6 +2719,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Defender%20(USA).pdf',
     },
     'SLUS21124': {
         'id': 'SLUS21124',
@@ -2621,6 +2728,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Delta%20Force-%20Black%20Hawk%20Down%20(USA).pdf',
     },
     'SLUS21414': {
         'id': 'SLUS21414',
@@ -2629,6 +2737,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Delta%20Force-%20Black%20Hawk%20Down-%20Team%20Sabre%20(USA).pdf',
     },
     'SLUS21933': {
         'id': 'SLUS21933',
@@ -2637,6 +2746,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Despicable%20Me%20-%20The%20Game%20(USA).pdf',
     },
     'SLUS20945': {
         'id': 'SLUS20945',
@@ -2645,6 +2755,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/b713e0a9-f6d8-4043-914b-d605532b6bd7.png',
         'pic1': 'https://images.launchbox-app.com/ccbffb83-c176-499a-8302-5cfac690b8b7.png',
         'snd0': 'https://www.youtube.com/watch?v=EmkXYXCh7NI&list=PLO4jlmGoc6uCHvQ0eYfDUQSDrIaS7OQje&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Destroy%20All%20Humans!%20(USA).pdf',
     },
     'SLUS21439': {
         'id': 'SLUS21439',
@@ -2661,6 +2772,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Destruction%20Derby%20Arenas%20(USA).pdf',
     },
     'SLUS20111': {
         'id': 'SLUS20111',
@@ -2669,6 +2781,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Deus%20Ex-%20The%20Conspiracy%20(USA).pdf',
     },
     'SLUS21297': {
         'id': 'SLUS21297',
@@ -2677,6 +2790,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Devil%20Kings%20(USA).pdf',
     },
     'SLUS20216': {
         'id': 'SLUS20216',
@@ -2685,6 +2799,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1b4d4313-b918-4087-9c7e-a00cb34fc5dc.png',
         'pic1': 'https://images.launchbox-app.com/7731eb9a-5ea1-4f89-bf0a-a72202397072.jpg',
         'snd0': 'https://www.youtube.com/watch?v=tboyQiURWKg&list=PL04qUiNqaN1pstv3MksUtuGjii65hpMhv&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Devil%20May%20Cry%20(USA).pdf',
     },
     'SLUS20484': {
         'id': 'SLUS20484',
@@ -2693,6 +2808,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/9aa43b11-9f52-4796-b9c3-3b91afe4731e.png',
         'pic1': 'https://images.launchbox-app.com/6563c99f-03a9-4623-a440-1fe17f88e7de.jpg',
         'snd0': 'https://www.youtube.com/watch?v=XR3sIWQP45w&list=PL9410C1E516D56800&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Devil%20May%20Cry%202%20(USA).pdf',
     },
     'SLUS20627': {
         'id': 'SLUS20627',
@@ -2701,6 +2817,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/9aa43b11-9f52-4796-b9c3-3b91afe4731e.png',
         'pic1': 'https://images.launchbox-app.com/6563c99f-03a9-4623-a440-1fe17f88e7de.jpg',
         'snd0': 'https://www.youtube.com/watch?v=XR3sIWQP45w&list=PL9410C1E516D56800&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Devil%20May%20Cry%202%20(USA).pdf',
     },
     'SLUS20964': {
         'id': 'SLUS20964',
@@ -2709,6 +2826,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Devil%20May%20Cry%203-%20Dante\'s%20Awakening%20(USA).pdf',
     },
     'SLUS21361': {
         'id': 'SLUS21361',
@@ -2717,6 +2835,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Devil%20May%20Cry%203-%20Dante\'s%20Awakening%20Special%20Edition%20(USA).pdf',
     },
     'SLUS21181': {
         'id': 'SLUS21181',
@@ -2725,6 +2844,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/DICE%20-%20DNA%20Integrated%20Cybernetic%20Enterprises%20(USA).pdf',
     },
     'SLUS21067': {
         'id': 'SLUS21067',
@@ -2733,6 +2853,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Digimon%20Rumble%20Arena%202%20(USA).pdf',
     },
     'SLUS21598': {
         'id': 'SLUS21598',
@@ -2741,6 +2862,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Digimon%20World-%20Data%20Squad%20(USA).pdf',
     },
     'SLUS20836': {
         'id': 'SLUS20836',
@@ -2749,6 +2871,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Digimon%20World%204%20(USA).pdf',
     },
     'SLUS20785': {
         'id': 'SLUS20785',
@@ -2757,6 +2880,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FunkMaster%20Flex\'s%20Digital%20Hitz%20Factory%20(USA).pdf',
     },
     'SLUS20485': {
         'id': 'SLUS20485',
@@ -2765,6 +2889,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dino%20Stalker%20(USA).pdf',
     },
     'SLUS20561': {
         'id': 'SLUS20561',
@@ -2773,6 +2898,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Disaster%20Report%20(USA).pdf',
     },
     'SLUS20666': {
         'id': 'SLUS20666',
@@ -2781,6 +2907,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/6abfbded-b7e7-455d-a079-8fc69981032c.png',
         'pic1': 'https://images.launchbox-app.com/0bbc4a6e-0880-4372-934a-66749f6d65b0.jpg',
         'snd0': 'https://www.youtube.com/watch?v=GGI227erV_s&list=PL9F401D088DD1B19C&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Disgaea-%20Hour%20of%20Darkness%20(USA).pdf',
     },
     'SLUS21397': {
         'id': 'SLUS21397',
@@ -2789,6 +2916,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/551d740f-46bb-4442-a336-06bc13d9b283.png',
         'pic1': 'https://images.launchbox-app.com/348a0295-4fd5-4734-9024-c44b3c593e38.jpg',
         'snd0': 'https://www.youtube.com/watch?v=nW9US4zCBeg&list=PLF4_jdwmJSA06zc5v50LK_yIt24S5QqW7&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Disgaea%202-%20Cursed%20Memories%20(USA).pdf',
     },
     'SLUS20532': {
         'id': 'SLUS20532',
@@ -2797,6 +2925,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Disney%20Golf%20(USA).pdf',
     },
     'SLUS21750': {
         'id': 'SLUS21750',
@@ -2805,6 +2934,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hannah%20Montana-%20Spotlight%20World%20Tour%20(USA).pdf',
     },
     'SLUS21599': {
         'id': 'SLUS21599',
@@ -2813,6 +2943,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sing%20It%20(Disney)-%20High%20School%20Musical%20(USA).pdf',
     },
     'SLUS21819': {
         'id': 'SLUS21819',
@@ -2821,6 +2952,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/High%20School%20Musical%203-%20Senior%20Year%20Dance!%20(Disney)%20(USA).pdf',
     },
     'SLUS21545': {
         'id': 'SLUS21545',
@@ -2829,6 +2961,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pirates%20of%20the%20Caribbean-%20At%20World\'s%20End%20(USA).pdf',
     },
     'SLUS21110': {
         'id': 'SLUS21110',
@@ -2837,6 +2970,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pirates%20of%20the%20Caribbean-%20The%20Legend%20of%20Jack%20Sparrow%20(USA).pdf',
     },
     'SLUS21660': {
         'id': 'SLUS21660',
@@ -2845,6 +2979,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Disney%20Princess-%20Enchanted%20Journey%20(USA).pdf',
     },
     'SLUS21826': {
         'id': 'SLUS21826',
@@ -2853,6 +2988,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sing%20It%20(Disney)%20(USA).pdf',
     },
     'SLUS21861': {
         'id': 'SLUS21861',
@@ -2861,6 +2997,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sing%20It%20(Disney)-%20High%20School%20Musical%203%20-%20Senior%20Year%20(USA).pdf',
     },
     'SLUS21920': {
         'id': 'SLUS21920',
@@ -2869,6 +3006,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sing%20It%20(Disney)-%20Pop%20Hits%20(USA).pdf',
     },
     'SLUS21844': {
         'id': 'SLUS21844',
@@ -2877,6 +3015,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Bolt%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21088': {
         'id': 'SLUS21088',
@@ -2885,6 +3024,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Chicken%20Little%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21420': {
         'id': 'SLUS21420',
@@ -2893,6 +3033,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Chicken%20Little%20(Disney\'s)-%20Ace%20in%20Action%20(USA).pdf',
     },
     'SLUS20077': {
         'id': 'SLUS20077',
@@ -2901,6 +3042,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Donald%20Duck%20Goin\'%20Quackers%20(USA).pdf',
     },
     'SLUS20607': {
         'id': 'SLUS20607',
@@ -2909,6 +3051,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Extreme%20Skate%20Adventure%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21891': {
         'id': 'SLUS21891',
@@ -2917,6 +3060,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/G-Force%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21437': {
         'id': 'SLUS21437',
@@ -2925,6 +3069,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kim%20Possible%20(Disney\'s)-%20What\'s%20The%20Switch%20(USA).pdf',
     },
     'SLUS21453': {
         'id': 'SLUS21453',
@@ -2933,6 +3078,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Meet%20the%20Robinsons%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS20659': {
         'id': 'SLUS20659',
@@ -2941,6 +3087,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Piglet\'s%20BIG%20Game%20(USA).pdf',
     },
     'SLUS20478': {
         'id': 'SLUS20478',
@@ -2949,6 +3096,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/PK%20(Disney\'s)-%20Out%20of%20the%20Shadows%20(USA).pdf',
     },
     'SCUS97145': {
         'id': 'SCUS97145',
@@ -2957,6 +3105,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Stitch%20(Disney\'s)-%20Experiment%20626%20(USA).pdf',
     },
     'SLUS21053': {
         'id': 'SLUS21053',
@@ -2965,6 +3114,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Stitch%20(Disney\'s)-%20Experiment%20626%20[Disney%20Classics]%20(USA).pdf',
     },
     'SLUS20076': {
         'id': 'SLUS20076',
@@ -2973,6 +3123,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tarzan%20Untamed%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS20681': {
         'id': 'SLUS20681',
@@ -2981,6 +3132,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Haunted%20Mansion,%20The%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21814': {
         'id': 'SLUS21814',
@@ -2989,6 +3141,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Th!nk%20Fast%20(Disney)%20(USA).pdf',
     },
     'SCUS97146': {
         'id': 'SCUS97146',
@@ -2997,6 +3150,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Treasure%20Planet%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21054': {
         'id': 'SLUS21054',
@@ -3005,6 +3159,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Treasure%20Planet%20(Disney\'s)%20[Disney%20Classics]%20(USA).pdf',
     },
     'SLUS21084': {
         'id': 'SLUS21084',
@@ -3013,6 +3168,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Winnie%20the%20Pooh\'s%20Rumbly%20Tumbly%20Adventure%20(USA).pdf',
     },
     'SLUS21151': {
         'id': 'SLUS21151',
@@ -3021,6 +3177,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cars%20(Disney-Pixar)%20(USA).pdf',
     },
     'SLUS21637': {
         'id': 'SLUS21637',
@@ -3029,6 +3186,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cars%20(Disney-Pixar)-%20Mater-National%20Championship%20(USA).pdf',
     },
     'SLUS21883': {
         'id': 'SLUS21883',
@@ -3037,6 +3195,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Cars%20(Disney-Pixar)-%20Race-O-Rama%20(USA).pdf',
     },
     'SLUS20628': {
         'id': 'SLUS20628',
@@ -3045,6 +3204,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Finding%20Nemo%20(Disney-Pixar)%20(USA).pdf',
     },
     'SCUS97123': {
         'id': 'SCUS97123',
@@ -3053,6 +3213,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monsters,%20Inc.%20(Disney-Pixar)%20(USA).pdf',
     },
     'SLUS21052': {
         'id': 'SLUS21052',
@@ -3061,6 +3222,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monsters,%20Inc.%20(Disney-Pixar)%20[Disney-Pixar%20Classics]%20(USA).pdf',
     },
     'SLUS21541': {
         'id': 'SLUS21541',
@@ -3069,6 +3231,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ratatouille%20(USA).pdf',
     },
     'SLUS20905': {
         'id': 'SLUS20905',
@@ -3077,6 +3240,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Incredibles,%20The%20(USA).pdf',
     },
     'SLUS21217': {
         'id': 'SLUS21217',
@@ -3085,6 +3249,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Incredibles,%20The-%20Rise%20of%20the%20Underminer%20(USA).pdf',
     },
     'SLUS21931': {
         'id': 'SLUS21931',
@@ -3109,6 +3274,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/UP%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21736': {
         'id': 'SLUS21736',
@@ -3117,6 +3283,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Wall-E%20(USA).pdf',
     },
     'SLUS21909': {
         'id': 'SLUS21909',
@@ -3125,6 +3292,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/DJ%20Hero%20(USA).pdf',
     },
     'SLUS21018': {
         'id': 'SLUS21018',
@@ -3133,6 +3301,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dog\'s%20Life%20(USA).pdf',
     },
     'SLUS21778': {
         'id': 'SLUS21778',
@@ -3141,6 +3310,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dokapon%20Kingdom%20(USA).pdf',
     },
     'SLUS21796': {
         'id': 'SLUS21796',
@@ -3149,6 +3319,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dora%20the%20Explorer-%20Dora%20Saves%20the%20Snow%20Princess%20(USA).pdf',
     },
     'SLUS21944': {
         'id': 'SLUS21944',
@@ -3157,6 +3328,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dora%20the%20Explorer-%20Dora\'s%20Big%20Birthday%20Adventure%20(USA).pdf',
     },
     'SLUS21923': {
         'id': 'SLUS21923',
@@ -3165,6 +3337,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dora%20the%20Explorer-%20Dora%20Saves%20the%20Crystal%20Kingdom%20(USA).pdf',
     },
     'SLUS21717': {
         'id': 'SLUS21717',
@@ -3173,6 +3346,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dora%20the%20Explorer-%20Dora%20Saves%20the%20Mermaids%20(USA).pdf',
     },
     'SLUS21173': {
         'id': 'SLUS21173',
@@ -3181,6 +3355,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dora%20the%20Explorer-%20Journey%20to%20the%20Purple%20Planet%20(USA).pdf',
     },
     'SLUS20405': {
         'id': 'SLUS20405',
@@ -3189,6 +3364,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Downforce%20(USA).pdf',
     },
     'SCUS97177': {
         'id': 'SCUS97177',
@@ -3197,6 +3373,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Downhill%20Domination%20(USA).pdf',
     },
     'SLUS20458': {
         'id': 'SLUS20458',
@@ -3205,6 +3382,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dr%20Muto%20(USA).pdf',
     },
     'SLUS20797': {
         'id': 'SLUS20797',
@@ -3213,6 +3391,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dr%20Seuss\'%20The%20Cat%20in%20the%20Hat%20(USA).pdf',
     },
     'SLUS20591': {
         'id': 'SLUS20591',
@@ -3221,6 +3400,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Ball%20Z-%20Budokai%20(USA).pdf',
     },
     'SLUS20779': {
         'id': 'SLUS20779',
@@ -3229,6 +3409,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Ball%20Z-%20Budokai%202%20(USA).pdf',
     },
     'SLUS20998': {
         'id': 'SLUS20998',
@@ -3237,6 +3418,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Ball%20Z-%20Budokai%203%20(USA).pdf',
     },
     'SLUS21123': {
         'id': 'SLUS21123',
@@ -3245,6 +3427,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Ball%20Z-%20Budokai%203%20(USA).pdf',
     },
     'SLUS21227': {
         'id': 'SLUS21227',
@@ -3253,6 +3436,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Ball%20Z-%20Budokai%20Tenkaichi%20(USA).pdf',
     },
     'SLUS21441': {
         'id': 'SLUS21441',
@@ -3261,6 +3445,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Ball%20Z-%20Budokai%20Tenkaichi%202%20(USA).pdf',
     },
     'SLUS21678': {
         'id': 'SLUS21678',
@@ -3269,6 +3454,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Ball%20Z-%20Budokai%20Tenkaichi%203%20(USA).pdf',
     },
     'SLUS21842': {
         'id': 'SLUS21842',
@@ -3277,6 +3463,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Ball%20Z-%20Infinite%20World%20(USA).pdf',
     },
     'SLUS20874': {
         'id': 'SLUS20874',
@@ -3285,6 +3472,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Ball%20Z-%20Sagas%20(USA).pdf',
     },
     'SLUS21207': {
         'id': 'SLUS21207',
@@ -3293,6 +3481,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/DragonQuest%20VIII-%20Journey%20of%20the%20Cursed%20King%20(USA).pdf',
     },
     'SLUS20195': {
         'id': 'SLUS20195',
@@ -3301,6 +3490,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Rage%20(USA).pdf',
     },
     'SCUS97128': {
         'id': 'SCUS97128',
@@ -3309,6 +3499,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Drakan-%20The%20Ancients\'%20Gates%20(USA).pdf',
     },
     'SLUS20732': {
         'id': 'SLUS20732',
@@ -3317,6 +3508,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/e7e6f5f9-0a68-4f35-9982-64ba711220fc.png',
         'pic1': 'https://images.launchbox-app.com/27fa5c06-c20f-4a10-a651-36bf8fe0218b.jpg',
         'snd0': 'https://www.youtube.com/watch?v=UkV2AtBXQIg&list=PLHTLRlHyRyWsZMVPfCsCAykMObLTcQFl2&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Drakengard%20(USA).pdf',
     },
     'SLUS21373': {
         'id': 'SLUS21373',
@@ -3325,6 +3517,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/38c4e30d-9236-4cc9-8037-3e44da388488.png',
         'pic1': 'https://images.launchbox-app.com/c4b8d5ef-f425-45c9-be3c-2132e74d9f99.jpg',
         'snd0': 'https://www.youtube.com/watch?v=_fKS6UXZJfI&list=PLp_nLDzWK5NU_-EfSPXsBalArmMMXZdG1&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Drakengard%202%20(USA).pdf',
     },
     'SLUS21622': {
         'id': 'SLUS21622',
@@ -3333,6 +3526,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Bee%20Movie%20Game%20(USA).pdf',
     },
     'SLUS21757': {
         'id': 'SLUS21757',
@@ -3341,6 +3535,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kung%20Fu%20Panda%20(USA).pdf',
     },
     'SLUS21015': {
         'id': 'SLUS21015',
@@ -3349,6 +3544,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madagascar%20(USA).pdf',
     },
     'SLUS21840': {
         'id': 'SLUS21840',
@@ -3357,6 +3553,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madagascar%202-%20Escape%202%20Africa%20(USA).pdf',
     },
     'SLUS21870': {
         'id': 'SLUS21870',
@@ -3365,6 +3562,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monsters%20vs.%20Aliens%20(Dreamworks)%20(USA).pdf',
     },
     'SLUS21300': {
         'id': 'SLUS21300',
@@ -3373,6 +3571,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Over%20the%20Hedge%20(USA).pdf',
     },
     'SLUS20925': {
         'id': 'SLUS20925',
@@ -3381,6 +3580,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shark%20Tale%20(USA).pdf',
     },
     'SLUS20745': {
         'id': 'SLUS20745',
@@ -3389,6 +3589,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shrek%202-%20The%20Game%20(USA).pdf',
     },
     'SLUS21392': {
         'id': 'SLUS21392',
@@ -3397,6 +3598,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shrek%20Smash%20N%20Crash%20Racing%20(USA).pdf',
     },
     'SLUS20516': {
         'id': 'SLUS20516',
@@ -3405,6 +3607,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shrek%20Super%20Party%20(USA).pdf',
     },
     'SLUS21790': {
         'id': 'SLUS21790',
@@ -3413,6 +3616,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shrek\'s%20Carnival%20Craze%20(USA).pdf',
     },
     'SLUS21197': {
         'id': 'SLUS21197',
@@ -3421,6 +3625,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shrek%20SuperSlam%20(USA).pdf',
     },
     'SLUS21454': {
         'id': 'SLUS21454',
@@ -3429,6 +3634,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shrek%20the%20Third%20(USA).pdf',
     },
     'SLUS21484': {
         'id': 'SLUS21484',
@@ -3437,6 +3643,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Flushed%20Away%20(USA).pdf',
     },
     'SLUS21109': {
         'id': 'SLUS21109',
@@ -3445,6 +3652,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Drive%20To%20Survive%20(USA).pdf',
     },
     'SLUS20239': {
         'id': 'SLUS20239',
@@ -3453,6 +3661,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Driven%20(USA).pdf',
     },
     'SLUS21271': {
         'id': 'SLUS21271',
@@ -3461,6 +3670,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/47decda5-0100-4770-8d4b-b4e47d929560.png',
         'pic1': 'https://images.launchbox-app.com/ebf8d877-57c1-4f50-8f4b-1ac44f32a161.jpg',
         'snd0': 'https://www.youtube.com/watch?v=CVZKzpxHrSg&list=PL2B8880CC2EFA5D58&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Driver%20Parallel%20Lines%20(USA).pdf',
     },
     'SLUS21399': {
         'id': 'SLUS21399',
@@ -3469,6 +3679,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/47decda5-0100-4770-8d4b-b4e47d929560.png',
         'pic1': 'https://images.launchbox-app.com/ebf8d877-57c1-4f50-8f4b-1ac44f32a161.jpg',
         'snd0': 'https://www.youtube.com/watch?v=CVZKzpxHrSg&list=PL2B8880CC2EFA5D58&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Driver%20Parallel%20Lines%20(Limited%20Edition)%20(USA).pdf',
     },
     'SLUS20587': {
         'id': 'SLUS20587',
@@ -3477,6 +3688,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Driv3r%20(USA).pdf',
     },
     'SLUS20113': {
         'id': 'SLUS20113',
@@ -3485,6 +3697,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Driving%20Emotion%20Type-S%20(USA).pdf',
     },
     'SLUS20577': {
         'id': 'SLUS20577',
@@ -3493,6 +3706,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Drome%20Racers%20(USA).pdf',
     },
     'SLUS20463': {
         'id': 'SLUS20463',
@@ -3501,6 +3715,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dropship-%20United%20Peace%20Force%20(USA).pdf',
     },
     'SLUS21793': {
         'id': 'SLUS21793',
@@ -3509,6 +3724,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/DT%20Carnage%20(USA).pdf',
     },
     'SLUS21095': {
         'id': 'SLUS21095',
@@ -3517,6 +3733,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/DT%20Racer%20(USA).pdf',
     },
     'SLUS20475': {
         'id': 'SLUS20475',
@@ -3525,6 +3742,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dual%20Hearts%20(USA).pdf',
     },
     'SLUS20924': {
         'id': 'SLUS20924',
@@ -3533,6 +3751,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Duel%20Masters%20(USA).pdf',
     },
     'SLUS20468': {
         'id': 'SLUS20468',
@@ -3541,6 +3760,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Tactics%20(USA).pdf',
     },
     'SLUS20761': {
         'id': 'SLUS20761',
@@ -3549,6 +3769,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Tactics%202%20(USA).pdf',
     },
     'SLUS21873': {
         'id': 'SLUS21873',
@@ -3557,6 +3778,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors-%20Gundam%202%20(USA).pdf',
     },
     'SLUS20079': {
         'id': 'SLUS20079',
@@ -3565,6 +3787,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%202%20(USA).pdf',
     },
     'SLUS20277': {
         'id': 'SLUS20277',
@@ -3573,6 +3796,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%203%20(USA).pdf',
     },
     'SLUS20617': {
         'id': 'SLUS20617',
@@ -3581,6 +3805,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%203-%20Xtreme%20Legends%20(USA).pdf',
     },
     'SLUS20653': {
         'id': 'SLUS20653',
@@ -3589,6 +3814,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%204%20(USA).pdf',
     },
     'SLUS20938': {
         'id': 'SLUS20938',
@@ -3597,6 +3823,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%204-%20Empires%20(USA).pdf',
     },
     'SLUS20812': {
         'id': 'SLUS20812',
@@ -3605,6 +3832,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%204-%20Xtreme%20Legends%20(USA).pdf',
     },
     'SLUS21153': {
         'id': 'SLUS21153',
@@ -3613,6 +3841,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%205%20(USA).pdf',
     },
     'SLUS21398': {
         'id': 'SLUS21398',
@@ -3621,6 +3850,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%205-%20Empires%20(USA).pdf',
     },
     'SLUS21299': {
         'id': 'SLUS21299',
@@ -3629,6 +3859,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%205-%20Xtreme%20Legends%20(USA).pdf',
     },
     'SLUS21774': {
         'id': 'SLUS21774',
@@ -3637,6 +3868,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%206%20(USA).pdf',
     },
     'SLUS20270': {
         'id': 'SLUS20270',
@@ -3645,6 +3877,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EOE-%20Eve%20of%20Extinction%20(USA).pdf',
     },
     'SLUS20262': {
         'id': 'SLUS20262',
@@ -3653,6 +3886,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rugby%20(EA%20Sports)%20(USA).pdf',
     },
     'SLUS21368': {
         'id': 'SLUS21368',
@@ -3661,6 +3895,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rugby%2006%20(USA).pdf',
     },
     'SLUS21640': {
         'id': 'SLUS21640',
@@ -3669,6 +3904,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rugby%2008%20(USA).pdf',
     },
     'SLUS20749': {
         'id': 'SLUS20749',
@@ -3677,6 +3913,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rugby%202004%20(USA).pdf',
     },
     'SLUS21158': {
         'id': 'SLUS21158',
@@ -3685,6 +3922,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rugby%202005%20(USA).pdf',
     },
     'SLUS21486': {
         'id': 'SLUS21486',
@@ -3693,6 +3931,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Eagle%20Eye%20Golf%20(USA).pdf',
     },
     'SLUS20394': {
         'id': 'SLUS20394',
@@ -3701,6 +3940,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ecco%20the%20Dolphin-%20Defender%20of%20the%20Future%20(USA).pdf',
     },
     'SLUS20928': {
         'id': 'SLUS20928',
@@ -3709,6 +3949,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Echo%20Night-%20Beyond%20(USA).pdf',
     },
     'SLUS21260': {
         'id': 'SLUS21260',
@@ -3717,6 +3958,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ed,%20Edd,%20\'n%20Eddy-%20The%20Mis-Edventures%20(USA).pdf',
     },
     'SLUS20452': {
         'id': 'SLUS20452',
@@ -3725,6 +3967,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Egg%20Mania-%20Eggstreme%20Madness%20(USA).pdf',
     },
     'SLUS20525': {
         'id': 'SLUS20525',
@@ -3733,6 +3976,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/eJay%20Clubworld%20(USA).pdf',
     },
     'SLUS21732': {
         'id': 'SLUS21732',
@@ -3741,6 +3985,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/El%20Tigre-%20The%20Adventures%20of%20Manny%20Rivera%20(USA).pdf',
     },
     'SLUS20389': {
         'id': 'SLUS20389',
@@ -3749,6 +3994,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Endgame%20(USA).pdf',
     },
     'SLUS20454': {
         'id': 'SLUS20454',
@@ -3757,6 +4003,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Enter%20the%20Matrix%20(Atari)%20(USA).pdf',
     },
     'SLUS20967': {
         'id': 'SLUS20967',
@@ -3765,6 +4012,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Enthusia%20Professional%20Racing%20(USA).pdf',
     },
     'SLUS20169': {
         'id': 'SLUS20169',
@@ -3773,6 +4021,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ephemeral%20Fantasia%20(USA).pdf',
     },
     'SLUS21322': {
         'id': 'SLUS21322',
@@ -3781,6 +4030,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Eragon%20(USA).pdf',
     },
     'SLUS20181': {
         'id': 'SLUS20181',
@@ -3789,6 +4039,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Escape%20from%20Monkey%20Island%20(USA).pdf',
     },
     'SLUS20729': {
         'id': 'SLUS20729',
@@ -3797,6 +4048,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20College%20Hoops%20(USA).pdf',
     },
     'SLUS20922': {
         'id': 'SLUS20922',
@@ -3805,6 +4057,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20College%20Hoops%202K5%20(USA).pdf',
     },
     'SLUS20041': {
         'id': 'SLUS20041',
@@ -3813,6 +4066,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20International%20Track%20&%20Field%20(USA).pdf',
     },
     'SLUS20320': {
         'id': 'SLUS20320',
@@ -3821,6 +4075,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20International%20Winter%20Sports%202002%20(USA).pdf',
     },
     'SLUS20794': {
         'id': 'SLUS20794',
@@ -3829,6 +4084,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20Major%20League%20Baseball%20(USA).pdf',
     },
     'SLUS20128': {
         'id': 'SLUS20128',
@@ -3837,6 +4093,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20MLS%20Extra%20Time%20(USA).pdf',
     },
     'SLUS20166': {
         'id': 'SLUS20166',
@@ -3845,6 +4102,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20National%20Hockey%20Night%20(USA).pdf',
     },
     'SLUS20143': {
         'id': 'SLUS20143',
@@ -3853,6 +4111,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NBA%202Night%20(USA).pdf',
     },
     'SLUS20261': {
         'id': 'SLUS20261',
@@ -3861,6 +4120,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NBA%202Night%202002%20(USA).pdf',
     },
     'SLUS20920': {
         'id': 'SLUS20920',
@@ -3869,6 +4129,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NBA%202K5%20(USA).pdf',
     },
     'SLUS20726': {
         'id': 'SLUS20726',
@@ -3877,6 +4138,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NBA%20Basketball%20(USA).pdf',
     },
     'SLUS20919': {
         'id': 'SLUS20919',
@@ -3885,6 +4147,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NFL%202K5%20(USA).pdf',
     },
     'SLUS20727': {
         'id': 'SLUS20727',
@@ -3893,6 +4156,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NFL%20Football%20(USA).pdf',
     },
     'SLUS20308': {
         'id': 'SLUS20308',
@@ -3901,6 +4165,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NFL%20Primetime%202002%20(USA).pdf',
     },
     'SLUS20921': {
         'id': 'SLUS20921',
@@ -3909,6 +4174,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NHL%202K5%20(USA).pdf',
     },
     'SLUS20728': {
         'id': 'SLUS20728',
@@ -3917,6 +4183,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NHL%20Hockey%20(USA).pdf',
     },
     'SLUS20089': {
         'id': 'SLUS20089',
@@ -3925,6 +4192,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20Winter%20X-Games%20Snowboarding%20(USA).pdf',
     },
     'SLUS20321': {
         'id': 'SLUS20321',
@@ -3933,6 +4201,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20Winter%20X-Games%20Snowboarding%202002%20(USA).pdf',
     },
     'SLUS20237': {
         'id': 'SLUS20237',
@@ -3941,6 +4210,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ESPN%20X%20Games%20Skateboarding%20(USA).pdf',
     },
     'SLUS21779': {
         'id': 'SLUS21779',
@@ -3949,6 +4219,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Eternal%20Poison%20(USA).pdf',
     },
     'SLUS20015': {
         'id': 'SLUS20015',
@@ -3957,6 +4228,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Eternal%20Ring%20(USA).pdf',
     },
     'SLUS21353': {
         'id': 'SLUS21353',
@@ -3965,6 +4237,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Eureka%20Seven%20Vol%201-%20The%20New%20Wave%20(USA).pdf',
     },
     'SLUS21538': {
         'id': 'SLUS21538',
@@ -3973,6 +4246,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Eureka%20Seven%20Vol%202-%20The%20New%20Vision%20(USA).pdf',
     },
     'SLUS20598': {
         'id': 'SLUS20598',
@@ -3981,6 +4255,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Everblue%202%20(USA).pdf',
     },
     'SLUS20016': {
         'id': 'SLUS20016',
@@ -3989,6 +4264,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Evergrace%20(USA).pdf',
     },
     'SLUS20470': {
         'id': 'SLUS20470',
@@ -3997,6 +4273,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EverQuest%20Online%20Adventures%20(USA).pdf',
     },
     'SLUS20744': {
         'id': 'SLUS20744',
@@ -4005,6 +4282,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EverQuest%20Online%20Adventures-%20Frontiers%20(USA).pdf',
     },
     'SLUS20403': {
         'id': 'SLUS20403',
@@ -4013,6 +4291,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Evil%20Dead-%20A%20Fistful%20of%20Boomstick%20(USA).pdf',
     },
     'SLUS21048': {
         'id': 'SLUS21048',
@@ -4021,6 +4300,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Evil%20Dead-%20Regeneration%20(USA).pdf',
     },
     'SLUS20540': {
         'id': 'SLUS20540',
@@ -4029,6 +4309,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Evolution%20Skateboarding%20(USA).pdf',
     },
     'SLUS20546': {
         'id': 'SLUS20546',
@@ -4037,6 +4318,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Evolution%20Snowboarding%20(USA).pdf',
     },
     'SCUS97112': {
         'id': 'SCUS97112',
@@ -4045,6 +4327,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Extermination%20(USA).pdf',
     },
     'SCUS97414': {
         'id': 'SCUS97414',
@@ -4053,6 +4336,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20AntiGrav%20(USA).pdf',
     },
     'SCUS97345': {
         'id': 'SCUS97345',
@@ -4061,6 +4345,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Groove%20(USA).pdf',
     },
     'SCUS97400': {
         'id': 'SCUS97400',
@@ -4069,6 +4354,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Groove%20(USA).pdf',
     },
     'SCUS97478': {
         'id': 'SCUS97478',
@@ -4077,6 +4363,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Kinetic%20(USA).pdf',
     },
     'SCUS97497': {
         'id': 'SCUS97497',
@@ -4085,6 +4372,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Kinetic%20(USA).pdf',
     },
     'SCUS97523': {
         'id': 'SCUS97523',
@@ -4093,6 +4381,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Operation%20Spy!%20(USA).pdf',
     },
     'SCUS97319': {
         'id': 'SCUS97319',
@@ -4101,6 +4390,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Play%20(USA).pdf',
     },
     'SCUS97468': {
         'id': 'SCUS97468',
@@ -4109,6 +4399,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Play%202%20(USA).pdf',
     },
     'SCUS97495': {
         'id': 'SCUS97495',
@@ -4117,6 +4408,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Play%202%20(USA).pdf',
     },
     'SLUS20264': {
         'id': 'SLUS20264',
@@ -4125,6 +4417,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/F1%202001%20(USA).pdf',
     },
     'SLUS20455': {
         'id': 'SLUS20455',
@@ -4133,6 +4426,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/F1%202002%20(USA).pdf',
     },
     'SLUS20693': {
         'id': 'SLUS20693',
@@ -4141,6 +4435,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/F1%20Career%20Challenge%20(USA).pdf',
     },
     'SLUS20103': {
         'id': 'SLUS20103',
@@ -4149,6 +4444,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/F1%202000%20Championship%20Season%20(USA).pdf',
     },
     'SLUS21734': {
         'id': 'SLUS21734',
@@ -4157,6 +4453,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Falling%20Stars%20(USA).pdf',
     },
     'SLUS20539': {
         'id': 'SLUS20539',
@@ -4165,6 +4462,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fallout-%20Brotherhood%20of%20Steel%20(USA).pdf',
     },
     'SLUS21446': {
         'id': 'SLUS21446',
@@ -4173,6 +4471,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Family%20Feud%20(USA).pdf',
     },
     'SLUS21560': {
         'id': 'SLUS21560',
@@ -4181,6 +4480,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Family%20Guy-%20The%20Video%20Game%20(USA).pdf',
     },
     'SLUS20615': {
         'id': 'SLUS20615',
@@ -4189,6 +4489,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fantastic%204%20(USA).pdf',
     },
     'SLUS21544': {
         'id': 'SLUS21544',
@@ -4197,6 +4498,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fantastic%204-%20Rise%20of%20the%20Silver%20Surfer%20(USA).pdf',
     },
     'SCUS97105': {
         'id': 'SCUS97105',
@@ -4205,6 +4507,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FantaVision%20(USA).pdf',
     },
     'SLUS20388': {
         'id': 'SLUS20388',
@@ -4213,6 +4516,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fatal%20Frame%20(USA).pdf',
     },
     'SLUS20766': {
         'id': 'SLUS20766',
@@ -4221,6 +4525,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fatal%20Frame%20II-%20Crimson%20Butterfly%20(USA).pdf',
     },
     'SLUS21244': {
         'id': 'SLUS21244',
@@ -4229,6 +4534,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fatal%20Frame%20III-%20The%20Tormented%20(USA).pdf',
     },
     'SLUS21537': {
         'id': 'SLUS21537',
@@ -4237,6 +4543,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fatal%20Fury%20Battle%20Archives%20Volume%201%20(USA).pdf',
     },
     'SLUS21723': {
         'id': 'SLUS21723',
@@ -4245,6 +4552,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fatal%20Fury%20Battle%20Archives%20Volume%202%20(USA).pdf',
     },
     'SLUS21780': {
         'id': 'SLUS21780',
@@ -4253,6 +4561,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ferrari%20Challenge%20Trofeo%20Pirelli%20(USA).pdf',
     },
     'SLUS20558': {
         'id': 'SLUS20558',
@@ -4261,6 +4570,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ferrari%20F355%20Challenge%20(USA).pdf',
     },
     'SLUS21280': {
         'id': 'SLUS21280',
@@ -4269,6 +4579,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2006%20(USA).pdf',
     },
     'SLUS21433': {
         'id': 'SLUS21433',
@@ -4277,6 +4588,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2007%20(USA).pdf',
     },
     'SLUS21648': {
         'id': 'SLUS21648',
@@ -4285,6 +4597,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2008%20(USA).pdf',
     },
     'SLUS21776': {
         'id': 'SLUS21776',
@@ -4293,6 +4606,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2009%20(USA).pdf',
     },
     'SLUS21905': {
         'id': 'SLUS21905',
@@ -4301,6 +4615,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2010%20(USA).pdf',
     },
     'SLUS21941': {
         'id': 'SLUS21941',
@@ -4309,6 +4624,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2011%20(USA).pdf',
     },
     'SLUS21947': {
         'id': 'SLUS21947',
@@ -4317,6 +4633,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2012%20(USA).pdf',
     },
     'SLUS21954': {
         'id': 'SLUS21954',
@@ -4325,6 +4642,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2013%20(USA).pdf',
     },
     'SLUS27093': {
         'id': 'SLUS27093',
@@ -4333,6 +4651,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2014%20(USA).pdf',
     },
     'SLUS20097': {
         'id': 'SLUS20097',
@@ -4341,6 +4660,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%202001%20(USA).pdf',
     },
     'SLUS20280': {
         'id': 'SLUS20280',
@@ -4349,6 +4669,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%202002%20(USA).pdf',
     },
     'SLUS20580': {
         'id': 'SLUS20580',
@@ -4357,6 +4678,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%202003%20(USA).pdf',
     },
     'SLUS20750': {
         'id': 'SLUS20750',
@@ -4365,6 +4687,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%202004%20(USA).pdf',
     },
     'SLUS21051': {
         'id': 'SLUS21051',
@@ -4373,6 +4696,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%202005%20(USA).pdf',
     },
     'SLUS21147': {
         'id': 'SLUS21147',
@@ -4381,6 +4705,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Street%20(USA).pdf',
     },
     'SLUS21369': {
         'id': 'SLUS21369',
@@ -4389,6 +4714,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Street%202%20(USA).pdf',
     },
     'SLUS21408': {
         'id': 'SLUS21408',
@@ -4397,6 +4723,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FIFA%20World%20Cup%20Germany%202006%20(USA).pdf',
     },
     'SLUS20857': {
         'id': 'SLUS20857',
@@ -4405,6 +4732,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fight%20Club%20(USA).pdf',
     },
     'SLUS20906': {
         'id': 'SLUS20906',
@@ -4413,6 +4741,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fight%20Night%202004%20(USA).pdf',
     },
     'SLUS21161': {
         'id': 'SLUS21161',
@@ -4421,6 +4750,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fight%20Night%20Round%202%20(USA).pdf',
     },
     'SLUS21383': {
         'id': 'SLUS21383',
@@ -4429,6 +4759,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fight%20Night%20Round%203%20(USA).pdf',
     },
     'SLUS20524': {
         'id': 'SLUS20524',
@@ -4437,6 +4768,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fighter%20Maker%202%20(USA).pdf',
     },
     'SLUS21419': {
         'id': 'SLUS21419',
@@ -4445,6 +4777,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Final%20Fantasy%20VII-%20Dirge%20of%20Cerberus%20(USA).pdf',
     },
     'SLUS20312': {
         'id': 'SLUS20312',
@@ -4453,6 +4786,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/9e348ef0-fedf-4343-932c-51d4c9a17c0f.png',
         'pic1': 'https://images.launchbox-app.com/ade3abff-cb1e-4258-a256-a8fabee18854.jpg',
         'snd0': 'https://www.youtube.com/watch?v=0dTIDLZukqA&list=PLAA9BB4B3A9A0E516',
+        'manual': 'https://www.videogamemanual.com/PS2/Final%20Fantasy%20X%20(SquareSoft)%20(USA).pdf',
     },
     'SLUS20672': {
         'id': 'SLUS20672',
@@ -4461,6 +4795,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/147b9d2e-aa0e-4ee3-b9a3-0cf494ba876f.png',
         'pic1': 'https://images.launchbox-app.com/15d24617-0280-435a-8b74-3b5f44fb12ce.jpg',
         'snd0': 'https://www.youtube.com/watch?v=1EKcCBnaHgI&list=PLVoerqML4MHhsWnDY_9ok4kV87Ug2V9_J&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Final%20Fantasy%20X-2%20(USA).pdf',
     },
     'SCUS97266': {
         'id': 'SCUS97266',
@@ -4493,6 +4828,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/afbfd869-dc92-40d6-8877-3db652901e01.png',
         'pic1': 'https://images.launchbox-app.com/5ab15c41-262b-4ed3-962a-658d56f00674.jpg',
         'snd0': 'https://www.youtube.com/watch?v=DllaeCST4Mg&list=PLG2sTRwTx8ZnnhTKBSAzVoqEZ-LgXdRNa&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Final%20Fantasy%20XI-%20Chains%20of%20Promathia%20(USA).pdf',
     },
     'SLUS21704': {
         'id': 'SLUS21704',
@@ -4501,6 +4837,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Final%20Fantasy%20XI-%20The%20Vana\'diel%20Collection%202008%20(USA).pdf',
     },
     'SLUS21404': {
         'id': 'SLUS21404',
@@ -4509,6 +4846,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Final%20Fantasy%20XI-%20Treasures%20of%20Aht%20Urhgan%20(USA).pdf',
     },
     'SLUS21694': {
         'id': 'SLUS21694',
@@ -4517,6 +4855,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Final%20Fantasy%20XI-%20Wings%20of%20the%20Goddess%20(USA).pdf',
     },
     'SLUS20963': {
         'id': 'SLUS20963',
@@ -4525,6 +4864,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/695d89ba-19f7-4b43-bbb1-39d1611defcb.png',
         'pic1': 'https://images.launchbox-app.com/87a0bc2b-d87c-4b39-97b9-1ff9be64c4bd.jpg',
         'snd0': 'https://www.youtube.com/watch?v=OxXeejVk2Xg&list=PLp_nLDzWK5NVlo4e-cd2HA02ts0HjtsKP&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Final%20Fantasy%20XII%20(USA).pdf',
     },
     'SLUS21475': {
         'id': 'SLUS21475',
@@ -4533,6 +4873,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/695d89ba-19f7-4b43-bbb1-39d1611defcb.png',
         'pic1': 'https://images.launchbox-app.com/87a0bc2b-d87c-4b39-97b9-1ff9be64c4bd.jpg',
         'snd0': 'https://www.youtube.com/watch?v=OxXeejVk2Xg&list=PLp_nLDzWK5NVlo4e-cd2HA02ts0HjtsKP&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Final%20Fantasy%20XII%20(USA).pdf',
     },
     'SLUS21238': {
         'id': 'SLUS21238',
@@ -4541,6 +4882,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Final%20Fight-%20Streetwise%20(USA).pdf',
     },
     'SLUS21072': {
         'id': 'SLUS21072',
@@ -4549,6 +4891,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Finny%20the%20Fish%20&%20The%20Seven%20Waters%20(USA).pdf',
     },
     'SLUS20198': {
         'id': 'SLUS20198',
@@ -4557,6 +4900,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fire%20Blade%20(USA).pdf',
     },
     'SLUS21702': {
         'id': 'SLUS21702',
@@ -4565,6 +4909,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fire%20Pro%20Wrestling%20Returns%20(USA).pdf',
     },
     'SLUS20724': {
         'id': 'SLUS20724',
@@ -4573,6 +4918,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Firefighter%20FD%2018%20(USA).pdf',
     },
     'SLUS20428': {
         'id': 'SLUS20428',
@@ -4581,6 +4927,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fisherman\'s%20Bass%20Club%20(USA).pdf',
     },
     'SLUS20553': {
         'id': 'SLUS20553',
@@ -4589,6 +4936,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fisherman\'s%20Challenge%20(USA).pdf',
     },
     'SLUS20901': {
         'id': 'SLUS20901',
@@ -4597,6 +4945,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FlatOut%20(USA).pdf',
     },
     'SLUS21251': {
         'id': 'SLUS21251',
@@ -4605,6 +4954,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/FlatOut%202%20(USA).pdf',
     },
     'SLUS21157': {
         'id': 'SLUS21157',
@@ -4613,6 +4963,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Flipnic-%20Ultimate%20Pinball%20(USA).pdf',
     },
     'SLUS21319': {
         'id': 'SLUS21319',
@@ -4621,6 +4972,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Flow-%20Urban%20Dance%20Uprising%20(USA).pdf',
     },
     'SLUS21290': {
         'id': 'SLUS21290',
@@ -4629,6 +4981,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ford%20Bold%20Moves%20Street%20Racing%20(USA).pdf',
     },
     'SLUS21162': {
         'id': 'SLUS21162',
@@ -4637,6 +4990,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ford%20Mustang%20-%20The%20Legend%20Lives%20(USA).pdf',
     },
     'SLUS20788': {
         'id': 'SLUS20788',
@@ -4645,6 +4999,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ford%20Racing%202%20(USA).pdf',
     },
     'SLUS20976': {
         'id': 'SLUS20976',
@@ -4653,6 +5008,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ford%20Racing%203%20(USA).pdf',
     },
     'SLUS21696': {
         'id': 'SLUS21696',
@@ -4661,6 +5017,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ford%20Racing-%20Off%20Road%20(USA).pdf',
     },
     'SLUS21276': {
         'id': 'SLUS21276',
@@ -4669,6 +5026,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ford%20vs%20Chevy%20(USA).pdf',
     },
     'SLUS20343': {
         'id': 'SLUS20343',
@@ -4677,6 +5035,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Forever%20Kingdom%20(USA).pdf',
     },
     'SLUS20804': {
         'id': 'SLUS20804',
@@ -4685,6 +5044,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Demon%20Stone%20(Forgotten%20Realms)%20(USA).pdf',
     },
     'SCUS97150': {
         'id': 'SCUS97150',
@@ -4693,6 +5053,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Formula%20One%202001%20(USA).pdf',
     },
     'SLUS21382': {
         'id': 'SLUS21382',
@@ -4701,6 +5062,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Franklin-%20A%20Birthday%20Surprise%20(USA).pdf',
     },
     'SLUS20284': {
         'id': 'SLUS20284',
@@ -4709,6 +5071,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Freaky%20Flyers%20(USA).pdf',
     },
     'SLUS20658': {
         'id': 'SLUS20658',
@@ -4717,6 +5080,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Freedom%20Fighters%20(USA).pdf',
     },
     'SLUS20367': {
         'id': 'SLUS20367',
@@ -4725,6 +5089,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Freekstyle%20(USA).pdf',
     },
     'SLUS20494': {
         'id': 'SLUS20494',
@@ -4733,6 +5098,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Freestyle%20Metal%20X%20(USA).pdf',
     },
     'SCUS97125': {
         'id': 'SCUS97125',
@@ -4741,6 +5107,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Frequency%20(USA).pdf',
     },
     'SLUS21313': {
         'id': 'SLUS21313',
@@ -4749,6 +5116,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Friends-%20The%20One%20With%20All%20The%20Trivia%20(USA).pdf',
     },
     'SLUS21098': {
         'id': 'SLUS21098',
@@ -4757,6 +5125,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Frogger-%20Ancient%20Shadow%20(USA).pdf',
     },
     'SLUS20257': {
         'id': 'SLUS20257',
@@ -4765,6 +5134,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Frogger-%20The%20Great%20Quest%20(USA).pdf',
     },
     'SLUS20734': {
         'id': 'SLUS20734',
@@ -4773,6 +5143,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Frogger\'s%20Adventures-%20The%20Rescue%20(USA).pdf',
     },
     'SLUS20888': {
         'id': 'SLUS20888',
@@ -4781,6 +5152,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/64f50dc3-f972-499b-80b9-2ebc20a9457e.png',
         'pic1': 'https://images.launchbox-app.com/1cb28458-8000-4eff-8785-c3fb3e7cb36a.jpg',
         'snd0': 'https://www.youtube.com/watch?v=m4hemzlB6DY&list=PLuuldF8FtBTT90i_nlDSOwvFgVqRxvW11&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Front%20Mission%204%20(USA).pdf',
     },
     'SLUS20464': {
         'id': 'SLUS20464',
@@ -4789,6 +5161,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fugitive%20Hunter-%20War%20on%20Terror%20(USA).pdf',
     },
     'SLUS21145': {
         'id': 'SLUS21145',
@@ -4797,6 +5170,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Full%20Spectrum%20Warrior%20(USA).pdf',
     },
     'SLUS21250': {
         'id': 'SLUS21250',
@@ -4805,6 +5179,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Full%20Spectrum%20Warrior-%20Ten%20Hammers%20(USA).pdf',
     },
     'SLUS20994': {
         'id': 'SLUS20994',
@@ -4813,6 +5188,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/5d7c9e94-9a69-4b52-9fd3-01c6122805c8.png',
         'pic1': 'https://images.launchbox-app.com/dcf6c2a2-8b0d-44f8-a8ec-8c2e688b0cd7.jpg',
         'snd0': 'https://www.youtube.com/watch?v=MzfzQgKoZFs&list=PL2LI9Q2_aQ2IYEYZ4jiVEHkR0GE8rA2zs&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Fullmetal%20Alchemist%20and%20the%20Broken%20Angel%20(USA).pdf',
     },
     'SLUS21166': {
         'id': 'SLUS21166',
@@ -4821,6 +5197,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/02d003da-0e61-4654-97bd-dc9872b72096.png',
         'pic1': 'https://images.launchbox-app.com/d1f11583-9d82-46b8-83cc-d3eb2c745439.jpg',
         'snd0': 'https://www.youtube.com/watch?v=InAqMnmwMmM&list=PLnZc6WBQn4V87ibQbGA7CS9DGQuGzkiv0&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Fullmetal%20Alchemist%202-%20Curse%20of%20the%20Crimson%20Elixir%20(USA).pdf',
     },
     'SLUS20088': {
         'id': 'SLUS20088',
@@ -4829,6 +5206,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fur%20Fighters-%20Viggo\'s%20Revenge%20(USA).pdf',
     },
     'SLUS20439': {
         'id': 'SLUS20439',
@@ -4837,6 +5215,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Futurama%20(USA).pdf',
     },
     'SLUS20859': {
         'id': 'SLUS20859',
@@ -4845,6 +5224,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Future%20Tactics-%20The%20Uprising%20(USA).pdf',
     },
     'SLUS21886': {
         'id': 'SLUS21886',
@@ -4853,6 +5233,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/G.I.%20JOE-%20The%20Rise%20of%20COBRA%20(USA).pdf',
     },
     'SLUS20690': {
         'id': 'SLUS20690',
@@ -4861,6 +5242,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/G1%20Jockey%203%20(USA).pdf',
     },
     'SLUS20225': {
         'id': 'SLUS20225',
@@ -4869,6 +5251,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gadget%20Racers%20(USA).pdf',
     },
     'SLUS20822': {
         'id': 'SLUS20822',
@@ -4877,6 +5260,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Galactic%20Wrestling-%20Featuring%20Ultimate%20Muscle%20(USA).pdf',
     },
     'SLUS20560': {
         'id': 'SLUS20560',
@@ -4885,6 +5269,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Galerians-%20Ash%20(USA).pdf',
     },
     'SLUS20255': {
         'id': 'SLUS20255',
@@ -4893,6 +5278,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gallop%20Racer%202001%20(USA).pdf',
     },
     'SLUS20662': {
         'id': 'SLUS20662',
@@ -4901,6 +5287,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gallop%20Racer%202003-%20A%20New%20Breed%20(USA).pdf',
     },
     'SLUS21031': {
         'id': 'SLUS21031',
@@ -4909,6 +5296,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gallop%20Racer%202004%20(USA).pdf',
     },
     'SLUS21393': {
         'id': 'SLUS21393',
@@ -4917,6 +5305,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gallop%20Racer%202006%20(USA).pdf',
     },
     'SLUS21749': {
         'id': 'SLUS21749',
@@ -4925,6 +5314,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Garfield-%20Lasagna%20World%20Tour%20(USA).pdf',
     },
     'SLUS20047': {
         'id': 'SLUS20047',
@@ -4933,6 +5323,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gauntlet-%20Dark%20Legacy%20(USA).pdf',
     },
     'SLUS21077': {
         'id': 'SLUS21077',
@@ -4941,6 +5332,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gauntlet-%20Seven%20Sorrows%20(USA).pdf',
     },
     'SCUS97471': {
         'id': 'SCUS97471',
@@ -4949,6 +5341,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Genji-%20Dawn%20of%20the%20Samurai%20(USA).pdf',
     },
     'SLUS21668': {
         'id': 'SLUS21668',
@@ -4957,6 +5350,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/George%20of%20the%20Jungle%20and%20the%20Search%20for%20the%20Secret%20(USA).pdf',
     },
     'SLUS21036': {
         'id': 'SLUS21036',
@@ -4965,6 +5359,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Get%20On%20Da%20Mic%20(USA).pdf',
     },
     'SLUS21006': {
         'id': 'SLUS21006',
@@ -4973,6 +5368,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1ae20100-3f7d-4ef9-94cf-caf68acc23df.png',
         'pic1': 'https://images.launchbox-app.com/ac6f77dd-643e-4c80-b864-2d3ee9a38971.jpg',
         'snd0': 'https://www.youtube.com/watch?v=X5vkklDpb8g&list=PLHDDlQ-zPM1AxolpTCHlrkkq-oGiUUSW1&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Ghost%20in%20the%20Shell-%20Stand%20Alone%20Complex%20(USA).pdf',
     },
     'SLUS21306': {
         'id': 'SLUS21306',
@@ -4981,6 +5377,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/26a493be-a712-4654-b732-a77799c41bb0.png',
         'pic1': 'https://images.launchbox-app.com/420d0e5f-89b0-4f0b-93cf-d90b685494aa.jpg',
         'snd0': 'https://www.youtube.com/watch?v=ZO5z5In30VE&list=PLO4jlmGoc6uB-L-e_7yVU8KyUSde8e_Nh&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Ghost%20Rider%20(USA).pdf',
     },
     'SLUS21882': {
         'id': 'SLUS21882',
@@ -4989,6 +5386,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ghostbusters-%20The%20Video%20Game%20(USA).pdf',
     },
     'SLUS20993': {
         'id': 'SLUS20993',
@@ -4997,6 +5395,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ghosthunter%20(USA).pdf',
     },
     'SLUS20178': {
         'id': 'SLUS20178',
@@ -5005,6 +5404,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Giants-%20Citizen%20Kabuto%20(USA).pdf',
     },
     'SLUS20294': {
         'id': 'SLUS20294',
@@ -5013,6 +5413,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gitaroo%20Man%20(USA).pdf',
     },
     'SLUS20793': {
         'id': 'SLUS20793',
@@ -5021,6 +5422,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gladiator-%20Sword%20of%20Vengeance%20(USA).pdf',
     },
     'SLUS20490': {
         'id': 'SLUS20490',
@@ -5029,6 +5431,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gladius%20(USA).pdf',
     },
     'SLUS20395': {
         'id': 'SLUS20395',
@@ -5037,6 +5440,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/GTC%20Africa%20(USA).pdf',
     },
     'SLUS21794': {
         'id': 'SLUS21794',
@@ -5045,6 +5449,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Go%20Diego%20Go-%20Great%20Dinosaur%20Rescue%20(USA).pdf',
     },
     'SLUS21718': {
         'id': 'SLUS21718',
@@ -5053,6 +5458,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Go%20Diego%20Go-%20Safari%20Rescue%20(USA).pdf',
     },
     'SLUS20792': {
         'id': 'SLUS20792',
@@ -5061,6 +5467,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Goblin%20Commander-%20Unleash%20the%20Horde%20(USA).pdf',
     },
     'SLUS21503': {
         'id': 'SLUS21503',
@@ -5069,6 +5476,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/9f337eb9-7d2c-4ec9-871a-492ad32c4968.png',
         'pic1': 'https://images.launchbox-app.com/117cf538-816c-4a23-a031-eb8d974d99b8.jpg',
         'snd0': 'https://www.youtube.com/watch?v=f3zPH3ePyuk&list=PLYD_fG4xADjqlOBREFEgWYQqpwvgP_zFW&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/God%20Hand%20(USA).pdf',
     },
     'SCUS97399': {
         'id': 'SCUS97399',
@@ -5077,6 +5485,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/cae50f8a-7dff-487c-89cd-d01c03b0d26e.png',
         'pic1': 'https://images.launchbox-app.com/d9cde9a3-ba87-480e-8cee-705c72469d78.png',
         'snd0': 'https://www.youtube.com/watch?v=2pdRUtncwrc&list=PLoU4WVLV2MKFX9AqSuqi94RjnvrbEmGeb&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/God%20of%20War%20(USA).pdf',
     },
     'SCUS97481': {
         'id': 'SCUS97481',
@@ -5085,6 +5494,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/2f5c6eb8-4cfd-4ef7-90a4-4ac53ccd7168.png',
         'pic1': 'https://images.launchbox-app.com/b0eeaece-eda9-4596-b7c4-7b6443a16f51.jpg',
         'snd0': 'https://www.youtube.com/watch?v=zNCQahZU6BQ&list=PLCToLibb1EqPVC06ajmSo-zA2isJGEoma&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/God%20of%20War%20II%20(USA).pdf',
     },
     'SLUS20288': {
         'id': 'SLUS20288',
@@ -5093,6 +5503,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/ffdae0dc-d9bd-4165-bb87-5bcbe523b63b.png',
         'pic1': 'https://images.launchbox-app.com/e9ce9ab2-2789-4531-bd9b-395530448b4b.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Cphzlbs14LA',
+        'manual': 'https://www.videogamemanual.com/PS2/Godai-%20Elemental%20Force%20(USA).pdf',
     },
     'SLUS20809': {
         'id': 'SLUS20809',
@@ -5101,6 +5512,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/f9ed1302-6a58-4a4c-924a-b25309895b6c.png',
         'pic1': 'https://images.launchbox-app.com/a6ecb9b3-53a7-44cc-acdc-d45515840b67.png',
         'snd0': 'https://www.youtube.com/watch?v=su4qvxJL8nk&list=PLAJL-TY-HAFAIsLsSgvfHNuLGmVDtnpJ2&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Godzilla-%20Save%20the%20Earth%20(USA).pdf',
     },
     'SLUS21707': {
         'id': 'SLUS21707',
@@ -5109,6 +5521,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/3851a4a6-f2bd-465b-a894-1e202091351f.png',
         'pic1': 'https://images.launchbox-app.com/f8d17734-2b2d-4b21-b8cc-c16cd454d8dc.jpg',
         'snd0': 'https://www.youtube.com/watch?v=eXlnKHbykws&list=PL5501E63A12D2B390&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Godzilla-%20Unleashed%20(USA).pdf',
     },
     'SLUS21834': {
         'id': 'SLUS21834',
@@ -5117,6 +5530,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/e3213ada-ce66-48f8-9f8f-86b984923ba9.png',
         'pic1': 'https://m.media-amazon.com/images/I/51D+lxxmMtL._AC_.jpg',
         'snd0': 'https://www.youtube.com/watch?v=iDSzWnzKFo4&list=PLNe4LbuydVDg4XPYbqCZfag5AKOyL75si&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Goosebumps-%20HorrorLand%20(USA).pdf',
     },
     'SLUS20040': {
         'id': 'SLUS20040',
@@ -5125,6 +5539,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/332fbaf9-6685-4aa8-be9b-d151732b450a.png',
         'pic1': 'https://images.launchbox-app.com/8d4c9476-03ce-4949-a72e-4f40b39bb582.jpg',
         'snd0': 'https://www.youtube.com/watch?v=l6TI-iSYpy8&list=PLedYfplhHf2NtVxmG1ud_YmSIrtX2Ld8h&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Gradius%20III%20and%20IV%20(USA).pdf',
     },
     'SLUS20712': {
         'id': 'SLUS20712',
@@ -5133,6 +5548,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/7b6a41ea-8b86-4c87-b4ba-b7a31d6f5b5b.png',
         'pic1': 'https://images.launchbox-app.com/3bd2e92d-e5d3-4970-9715-0c00b3aa7947.jpg',
         'snd0': 'https://www.youtube.com/watch?v=bBeITEr5-Ds&list=PL2DF473A1136666B3&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Gradius%20V%20(USA).pdf',
     },
     'SLUS21136': {
         'id': 'SLUS21136',
@@ -5141,6 +5557,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/21f67dea-8bcb-4b35-bbc0-3918626ef95c.png',
         'pic1': 'https://static1.srcdn.com/wordpress/wp-content/uploads/2021/02/graffiti-kingdom-ps2.jpg?q=50&fit=crop&w=1000&h=560',
         'snd0': 'https://www.youtube.com/watch?v=NbCBanYcyNI&list=PL_AtSQWvmsUH-lhyGhf26VtP6Dja2D0Pg&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Graffiti%20Kingdom%20(USA).pdf',
     },
     'SCUS97102': {
         'id': 'SCUS97102',
@@ -5149,6 +5566,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/5673cf64-1b11-42f5-8cc0-c6ce881c0efa.png',
         'pic1': 'https://images.launchbox-app.com/d40efb5f-ffd1-49d2-8b5b-8593794f3587.jpg',
         'snd0': 'https://www.youtube.com/watch?v=4XDGy60sRWY&list=PLg_46xJq8cksvhAGEIjZhxaL2M-EaxZUT&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Gran%20Turismo%203-%20A-Spec%20(USA).pdf',
     },
     'PBPX95503': {
         'id': 'PBPX95503',
@@ -5157,6 +5575,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/5673cf64-1b11-42f5-8cc0-c6ce881c0efa.png',
         'pic1': 'https://images.launchbox-app.com/d40efb5f-ffd1-49d2-8b5b-8593794f3587.jpg',
         'snd0': 'https://www.youtube.com/watch?v=4XDGy60sRWY&list=PLg_46xJq8cksvhAGEIjZhxaL2M-EaxZUT&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Gran%20Turismo%203-%20A-Spec%20(USA).pdf',
     },
     'SCUS97328': {
         'id': 'SCUS97328',
@@ -5165,6 +5584,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/e9a064f7-4e28-49b1-b842-fbad640f384b.png',
         'pic1': 'https://images.launchbox-app.com/9d54df1b-7e6b-4c59-9235-db5ee6786197.jpg',
         'snd0': 'https://www.youtube.com/watch?v=6aK_H-64IfA&list=PL_9Tt48wI1KbjnaZS_0H3x9Msk-8TNK66&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Gran%20Turismo%204%20(USA).pdf',
     },
     'SCES51719': {
         'id': 'SCES51719',
@@ -5173,6 +5593,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/e9a064f7-4e28-49b1-b842-fbad640f384b.png',
         'pic1': 'https://images.launchbox-app.com/9d54df1b-7e6b-4c59-9235-db5ee6786197.jpg',
         'snd0': 'https://www.youtube.com/watch?v=6aK_H-64IfA&list=PL_9Tt48wI1KbjnaZS_0H3x9Msk-8TNK66&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Gran%20Turismo%204%20(USA).pdf',
     },
     'SLUS20630': {
         'id': 'SLUS20630',
@@ -5181,6 +5602,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/faab0d0c-0942-4060-ba67-f3cdcd1901cb.png',
         'pic1': 'https://podiumlife.com/wp-content/uploads/2023/08/Screenshot-2023-08-22-at-10.15.04-PM.png',
         'snd0': 'https://www.youtube.com/watch?v=c5rttPyLzXA',
+        'manual': 'https://www.videogamemanual.com/PS2/Grand%20Prix%20Challenge%20(USA).pdf',
     },
     'SLUS20062': {
         'id': 'SLUS20062',
@@ -5189,6 +5611,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/627c511a-03e7-414e-a711-64fba321e2c8.png',
         'pic1': 'https://images.launchbox-app.com/d60f5180-6a02-4872-8216-c2c1921abeea.jpg',
         'snd0': 'https://www.youtube.com/watch?v=znFpxo61WUg&list=PLffQpMcmLcI9y40MYLnLdapLAGvNGWIKC',
+        'manual': 'https://www.videogamemanual.com/PS2/Grand%20Theft%20Auto%20III%20(USA).pdf',
     },
     'SLUS27003': {
         'id': 'SLUS27003',
@@ -5205,6 +5628,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/c826b558-d917-44ee-bfdf-6fed1bc475d5.png',
         'pic1': 'https://images.launchbox-app.com/ba975eec-3610-4b15-8096-25ac99fe544d.jpg',
         'snd0': 'https://www.youtube.com/watch?v=W4VTq0sa9yg',
+        'manual': 'https://www.videogamemanual.com/PS2/Grand%20Theft%20Auto-%20San%20Andreas%20(USA).pdf',
     },
     'SLUS21423': {
         'id': 'SLUS21423',
@@ -5213,6 +5637,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/84e8f0a8-4350-474e-91d9-8c477d4ff630.png',
         'pic1': 'https://images.launchbox-app.com/8437583e-0fb0-46ca-b9b3-d073f4e4c02a.png',
         'snd0': 'https://www.youtube.com/watch?v=aChfrnm9I5o&list=PLffQpMcmLcI9ZQycQbQsA-YI4w38tZwTd&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Grand%20Theft%20Auto-%20Liberty%20City%20Stories%20(USA).pdf',
     },
     'SLUS20552': {
         'id': 'SLUS20552',
@@ -5221,6 +5646,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/9306f954-ae1a-4b4c-a642-b5362a25389a.png',
         'pic1': 'https://images.launchbox-app.com/f4765e75-550a-4ef1-a9c8-9dfca78675b0.jpg',
         'snd0': 'https://www.youtube.com/watch?v=PE485kpuqrs&list=PLffQpMcmLcI-3REhsGllOcwoAsYrQ9bra&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Grand%20Theft%20Auto-%20Vice%20City%20(USA).pdf',
     },
     'SLUS21590': {
         'id': 'SLUS21590',
@@ -5229,6 +5655,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/e1e1515c-b659-40db-a77b-848b8689ac71.png',
         'pic1': 'https://images.launchbox-app.com/1727f2a8-1946-4357-a34a-6659f9f6f07e.jpg',
         'snd0': 'https://www.youtube.com/watch?v=9gv2QwwfhPI&list=PLffQpMcmLcI8T57IvBjm1aAozJW7ANrbx&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Grand%20Theft%20Auto-%20Vice%20City%20Stories%20(USA).pdf',
     },
     'SLUS20194': {
         'id': 'SLUS20194',
@@ -5237,6 +5664,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1d939ac0-7629-4147-9e6b-cd9f55e24448.png',
         'pic1': 'https://images.launchbox-app.com/66de7915-bfd4-49d3-95cc-8258d6bdca5d.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Tz3TCTkT4XY&list=PLp_nLDzWK5NW9E0JlDm6IwzPVAQ7qRrgM&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Grandia%20II%20(USA).pdf',
     },
     'SLUS21334': {
         'id': 'SLUS21334',
@@ -5245,6 +5673,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1e7d53ff-a7f3-4435-a4c0-e8fe5584e666.png',
         'pic1': 'https://images.launchbox-app.com/ae17c3f6-c260-4b8d-8a2b-48c86fba31f8.jpg',
         'snd0': 'https://www.youtube.com/watch?v=xi-pR_auhTM&list=PLqPwat9R5kaRcSlj2KkdBqvM2w4-agp0E&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Grandia%20III%20(USA).pdf',
     },
     'SLUS21345': {
         'id': 'SLUS21345',
@@ -5253,6 +5682,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1e7d53ff-a7f3-4435-a4c0-e8fe5584e666.png',
         'pic1': 'https://images.launchbox-app.com/ae17c3f6-c260-4b8d-8a2b-48c86fba31f8.jpg',
         'snd0': 'https://www.youtube.com/watch?v=xi-pR_auhTM&list=PLqPwat9R5kaRcSlj2KkdBqvM2w4-agp0E&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Grandia%20III%20(USA).pdf',
     },
     'SLUS20417': {
         'id': 'SLUS20417',
@@ -5261,6 +5691,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Grandia%20Xtreme%20(USA).pdf',
     },
     'SLUS20310': {
         'id': 'SLUS20310',
@@ -5269,6 +5700,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gravity%20Games%20Bike-%20Street%20Vert%20Dirt%20(USA).pdf',
     },
     'SLUS21539': {
         'id': 'SLUS21539',
@@ -5277,6 +5709,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Greg%20Hastings%20Tournament%20Paintball%20Max\'d%20(USA).pdf',
     },
     'SCUS97466': {
         'id': 'SCUS97466',
@@ -5285,6 +5718,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gretzky%20NHL%20\'06%20(USA).pdf',
     },
     'SCUS97409': {
         'id': 'SCUS97409',
@@ -5293,6 +5727,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Gretzky%20NHL%202005%20(USA).pdf',
     },
     'SLUS21604': {
         'id': 'SLUS21604',
@@ -5301,6 +5736,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Grim%20Grimoire%20(USA).pdf',
     },
     'SLUS20758': {
         'id': 'SLUS20758',
@@ -5309,6 +5745,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1d5f81db-0e76-4cd2-a43d-3f3a04ada077.png',
         'pic1': 'https://images.launchbox-app.com/32224139-b937-43ee-908e-648c0e944cc0.jpg',
         'snd0': 'https://www.youtube.com/watch?v=KNiFjZMWS5E&list=PLSQyNnFS1oaXTeDG0Urra7NoBcdioQqFV&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Growlanser-%20Generations%20(USA).pdf',
     },
     'SLUS20759': {
         'id': 'SLUS20759',
@@ -5317,6 +5754,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1d5f81db-0e76-4cd2-a43d-3f3a04ada077.png',
         'pic1': 'https://images.launchbox-app.com/32224139-b937-43ee-908e-648c0e944cc0.jpg',
         'snd0': 'https://www.youtube.com/watch?v=KNiFjZMWS5E&list=PLSQyNnFS1oaXTeDG0Urra7NoBcdioQqFV&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Growlanser-%20Generations%20(USA).pdf',
     },
     'SLUS21571': {
         'id': 'SLUS21571',
@@ -5325,6 +5763,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/497066d9-8222-4930-99b5-0bd3c3970751.png',
         'pic1': 'https://images.launchbox-app.com/b0596c82-7505-44f3-bc3c-5725143ec989.jpg',
         'snd0': 'https://www.youtube.com/watch?v=O-UL4umzR3U&list=PLNKP1B9_kARmyNITScWkqPnfIXRIW-cWE&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Growlanser-%20Heritage%20of%20War%20(USA).pdf',
     },
     'SLUS20908': {
         'id': 'SLUS20908',
@@ -5333,6 +5772,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/32cd76a3-de90-4a7c-891b-134b6a962e6d.png',
         'pic1': 'https://images.launchbox-app.com/fa76d952-c7d6-45ed-93fa-4cce22d0cae8.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Ihy7kGcuX1M&list=PL1DC714F92AA78EDA&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Guilty%20Gear%20Isuka%20(USA).pdf',
     },
     'SLUS20287': {
         'id': 'SLUS20287',
@@ -5341,6 +5781,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/a9e56d4e-c85b-4312-aabf-880245afad1f.png',
         'pic1': 'https://images.launchbox-app.com/78667425-4a3f-460b-8dcb-861dd2c5f113.png',
         'snd0': 'https://www.youtube.com/watch?v=FUn8sSi6d0c&list=PLBD5F622EB67AE2FF&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Guilty%20Gear%20X%20(USA).pdf',
     },
     'SLUS20436': {
         'id': 'SLUS20436',
@@ -5349,6 +5790,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/b7099424-62b6-4b6a-bcc0-9ca50ff9c831.png',
         'pic1': 'https://images.launchbox-app.com/41d2fdb6-24ea-42c9-abd4-8047edfc243e.jpg',
         'snd0': 'https://www.youtube.com/watch?v=sBUWLMbuTgo&list=PL5335828DBB0DD433&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Guilty%20Gear%20X2%20(USA).pdf',
     },
     'SLUS21652': {
         'id': 'SLUS21652',
@@ -5357,6 +5799,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/90c905bb-9488-4285-8e01-e55b2ea98a11.png',
         'pic1': 'https://images.timeextension.com/b0e7ecc369428/guilty-gear.large.jpg',
         'snd0': 'https://www.youtube.com/watch?v=48Z598z9eIU&list=PLELWXkflIIXEK9UXF-zibP8oTMTfoH7Y4&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Guilty%20Gear%20XX-%20Accent%20Core%20(USA).pdf',
     },
     'SLUS21847': {
         'id': 'SLUS21847',
@@ -5365,6 +5808,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/0235514e-c0c1-4aca-b30a-f9afe3f16610.png',
         'pic1': 'https://images.launchbox-app.com/b2196715-1a81-49a8-bfc2-1cc27c649c7a.png',
         'snd0': 'https://www.youtube.com/watch?v=48Z598z9eIU&list=PLELWXkflIIXEK9UXF-zibP8oTMTfoH7Y4&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Guilty%20Gear%20XX-%20Accent%20Core%20Plus%20(USA).pdf',
     },
     'SLUS21224': {
         'id': 'SLUS21224',
@@ -5381,6 +5825,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero-%20Aerosmith%20(USA).pdf',
     },
     'SLUS21843': {
         'id': 'SLUS21843',
@@ -5389,6 +5834,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero-%20Metallica%20(USA).pdf',
     },
     'SLUS21866': {
         'id': 'SLUS21866',
@@ -5397,6 +5843,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero-%20Smash%20Hits%20(USA).pdf',
     },
     'SLUS21867': {
         'id': 'SLUS21867',
@@ -5405,6 +5852,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero-%20Van%20Halen%20(USA).pdf',
     },
     'SLUS21781': {
         'id': 'SLUS21781',
@@ -5413,6 +5861,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero-%20World%20Tour%20(USA).pdf',
     },
     'SLUS21586': {
         'id': 'SLUS21586',
@@ -5421,6 +5870,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero%20Encore-%20Rocks%20the%2080\'s%20(USA).pdf',
     },
     'SLUS21224': {
         'id': 'SLUS21224',
@@ -5429,6 +5879,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero%20(Dual%20Pack)%20(USA).pdf',
     },
     'SLUS21447': {
         'id': 'SLUS21447',
@@ -5437,6 +5888,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero%20II%20(USA).pdf',
     },
     'SLUS21672': {
         'id': 'SLUS21672',
@@ -5445,6 +5897,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero%20III-%20Legends%20of%20Rock%20(USA).pdf',
     },
     'SLUS21865': {
         'id': 'SLUS21865',
@@ -5453,6 +5906,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero%205%20(USA).pdf',
     },
     'SLUS21865': {
         'id': 'SLUS21865',
@@ -5461,6 +5915,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero%205%20(USA).pdf',
     },
     'SLUS21139': {
         'id': 'SLUS21139',
@@ -5469,6 +5924,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/43f9e391-21d9-4107-b55f-5c4d0d2bb405.png',
         'pic1': 'https://images.launchbox-app.com/9f9a83c8-5937-4774-8241-220a2fc81a2c.jpg',
         'snd0': 'https://www.youtube.com/watch?v=mx8M96zEsgk&list=PLqcGvP7TBm_nSY7dxmzRNLLUXc83JULVg&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Gun%20(USA).pdf',
     },
     'SLUS20929': {
         'id': 'SLUS20929',
@@ -5477,6 +5933,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Battle%20Assault%203-%20Featuring%20Gundam%20SEED%20(USA).pdf',
     },
     'SLUS20493': {
         'id': 'SLUS20493',
@@ -5485,6 +5942,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/c098faf0-905c-493c-b3c1-b7ef70254c00.png',
         'pic1': 'https://images.launchbox-app.com/5b8abd9e-81f1-4aee-b14c-da6026fd8d07.jpg',
         'snd0': 'https://www.youtube.com/watch?v=DlDPlXU-KeA&list=PLP8_sGncyT5RuTRIo6_FOva32Y3UaG9zK&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Gungrave%20(USA).pdf',
     },
     'SLUS21020': {
         'id': 'SLUS21020',
@@ -5493,6 +5951,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/a358882f-7fe0-4374-ad02-e97513993668.png',
         'pic1': 'https://images.launchbox-app.com/15d54440-6a8d-4be3-a746-8fb797e244b4.jpg',
         'snd0': 'https://www.youtube.com/watch?v=A1o2bxZkVW0&list=PL93E2EB4A31962282&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Gungrave-%20OverDose%20(USA).pdf',
     },
     'SLUS20080': {
         'id': 'SLUS20080',
@@ -5501,6 +5960,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/2eb3dfc5-5023-40a3-bae2-3ad54a62fcaf.png',
         'pic1': 'https://assetsio.gnwcdn.com/01b_oUwdlTm.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp',
         'snd0': 'https://www.youtube.com/watch?v=8qg0pnIq2Xc&list=PL75080C9FE9C4869B&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/GunGriffon%20Blaze%20(USA).pdf',
     },
     'SLUS20066': {
         'id': 'SLUS20066',
@@ -5509,6 +5969,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//04fd06bc-7554-4c39-8dcf-b14c060bfa71.png',
         'pic1': 'https://images.launchbox-app.com//fba120d0-a434-4bda-9df8-650a9bcfcdf3.jpg',
         'snd0': 'https://www.youtube.com/watch?v=taFEj_R_b48&list=PLB61A980FC7A2E45A&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Half-Life%20(USA).pdf',
     },
     'SLUS21656': {
         'id': 'SLUS21656',
@@ -5525,6 +5986,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Happy%20Feet%20(USA).pdf',
     },
     'SLUS20568': {
         'id': 'SLUS20568',
@@ -5541,6 +6003,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hard%20Rock%20Casino%20(USA).pdf',
     },
     'SLUS21573': {
         'id': 'SLUS21573',
@@ -5549,6 +6012,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Harley-Davidson%20Motorcycles-%20Race%20to%20the%20Rally%20(USA).pdf',
     },
     'SLUS20769': {
         'id': 'SLUS20769',
@@ -5557,6 +6021,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Harry%20Potter-%20Quidditch%20World%20Cup%20(USA).pdf',
     },
     'SLUS20576': {
         'id': 'SLUS20576',
@@ -5565,6 +6030,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20(USA).pdf',
     },
     'SLUS21325': {
         'id': 'SLUS21325',
@@ -5573,6 +6039,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20(USA).pdf',
     },
     'SLUS21808': {
         'id': 'SLUS21808',
@@ -5581,6 +6048,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Harry%20Potter%20and%20the%20Half%20Blood%20Prince%20(USA).pdf',
     },
     'SLUS21619': {
         'id': 'SLUS21619',
@@ -5589,6 +6057,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20(USA).pdf',
     },
     'SLUS20926': {
         'id': 'SLUS20926',
@@ -5597,6 +6066,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20(USA).pdf',
     },
     'SLUS20826': {
         'id': 'SLUS20826',
@@ -5605,6 +6075,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Harry%20Potter%20and%20the%20Sorcerer\'s%20Stone%20(USA).pdf',
     },
     'SLUS21171': {
         'id': 'SLUS21171',
@@ -5613,6 +6084,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Harvest%20Moon-%20A%20Wonderful%20Life%20(Special%20Edition)%20(USA).pdf',
     },
     'SLUS20251': {
         'id': 'SLUS20251',
@@ -5621,6 +6093,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Harvest%20Moon-%20Save%20the%20Homeland%20(USA).pdf',
     },
     'SLUS21680': {
         'id': 'SLUS21680',
@@ -5629,6 +6102,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Harvey%20Birdman-%20Attorney%20at%20Law%20(USA).pdf',
     },
     'SLUS21805': {
         'id': 'SLUS21805',
@@ -5637,6 +6111,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hasbro%20Family%20Game%20Night%20(USA).pdf',
     },
     'SLUS21075': {
         'id': 'SLUS21075',
@@ -5645,6 +6120,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Haunting%20Ground%20(USA).pdf',
     },
     'SLUS20517': {
         'id': 'SLUS20517',
@@ -5653,6 +6129,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Haven-%20Call%20of%20the%20King%20(USA).pdf',
     },
     'SLUS20416': {
         'id': 'SLUS20416',
@@ -5661,6 +6138,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Headhunter%20(USA).pdf',
     },
     'SLUS20817': {
         'id': 'SLUS20817',
@@ -5669,6 +6147,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Headhunter-%20Redemption%20(USA).pdf',
     },
     'SLUS21570': {
         'id': 'SLUS21570',
@@ -5677,6 +6156,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Heatseeker%20(USA).pdf',
     },
     'SLUS21653': {
         'id': 'SLUS21653',
@@ -5685,6 +6165,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Heavenly%20Guardian%20(USA).pdf',
     },
     'SLUS20231': {
         'id': 'SLUS20231',
@@ -5693,6 +6174,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Herdy%20Gerdy%20(USA).pdf',
     },
     'SLUS20158': {
         'id': 'SLUS20158',
@@ -5701,6 +6183,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Heroes%20of%20Might%20and%20Magic-%20Quest%20for%20the%20DragonBone%20Staff%20(USA).pdf',
     },
     'SLUS20943': {
         'id': 'SLUS20943',
@@ -5709,6 +6192,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Heroes%20of%20the%20Pacific%20(USA).pdf',
     },
     'SLUS20301': {
         'id': 'SLUS20301',
@@ -5717,6 +6201,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hidden%20Invasion%20(USA).pdf',
     },
     'SLUS20133': {
         'id': 'SLUS20133',
@@ -5725,6 +6210,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/High%20Heat%20Major%20League%20Baseball%202002%20(USA).pdf',
     },
     'SLUS20298': {
         'id': 'SLUS20298',
@@ -5733,6 +6219,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/High%20Heat%20Major%20League%20Baseball%202003%20(USA).pdf',
     },
     'SLUS20602': {
         'id': 'SLUS20602',
@@ -5741,6 +6228,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/High%20Heat%20Major%20League%20Baseball%202004%20(USA).pdf',
     },
     'SLUS21014': {
         'id': 'SLUS21014',
@@ -5749,6 +6237,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/High%20Rollers%20Casino%20(USA).pdf',
     },
     'SLUS21108': {
         'id': 'SLUS21108',
@@ -5757,6 +6246,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hitman-%20Blood%20Money%20(USA).pdf',
     },
     'SLUS20882': {
         'id': 'SLUS20882',
@@ -5765,6 +6255,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hitman-%20Contracts%20(USA).pdf',
     },
     'SLUS20374': {
         'id': 'SLUS20374',
@@ -5773,6 +6264,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hitman%202-%20Silent%20Assassin%20(USA).pdf',
     },
     'SLUS21563': {
         'id': 'SLUS21563',
@@ -5781,6 +6273,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Petz-%20Horsez%20(USA).pdf',
     },
     'SCUS97130': {
         'id': 'SCUS97130',
@@ -5789,6 +6282,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hot%20Shots%20Golf%203%20(USA).pdf',
     },
     'SCUS97401': {
         'id': 'SCUS97401',
@@ -5797,6 +6291,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hot%20Shots%20Golf-%20FORE!%20(USA).pdf',
     },
     'SCUS97610': {
         'id': 'SCUS97610',
@@ -5805,6 +6300,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hot%20Shots%20Tennis%20(USA).pdf',
     },
     'SLUS21628': {
         'id': 'SLUS21628',
@@ -5813,6 +6309,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hot%20Wheels-%20Beat%20That!%20(USA).pdf',
     },
     'SLUS20954': {
         'id': 'SLUS20954',
@@ -5821,6 +6318,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hot%20Wheels-%20Stunt%20Track%20Challenge%20(USA).pdf',
     },
     'SLUS20412': {
         'id': 'SLUS20412',
@@ -5829,6 +6327,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hot%20Wheels-%20Velocity%20X%20-%20Maximum%20Justice%20(USA).pdf',
     },
     'SLUS20737': {
         'id': 'SLUS20737',
@@ -5837,6 +6336,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hot%20Wheels-%20World%20Race%20(USA).pdf',
     },
     'SLUS20592': {
         'id': 'SLUS20592',
@@ -5845,6 +6345,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/HSX%20HyperSonic.Xtreme%20(USA).pdf',
     },
     'SLUS20422': {
         'id': 'SLUS20422',
@@ -5853,6 +6354,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hulk,%20The%20(USA).pdf',
     },
     'SLUS21357': {
         'id': 'SLUS21357',
@@ -5861,6 +6363,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hummer-%20Badlands%20(USA).pdf',
     },
     'SLUS20511': {
         'id': 'SLUS20511',
@@ -5869,6 +6372,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hunter-%20The%20Reckoning%20-%20Wayward%20(USA).pdf',
     },
     'SLUS20705': {
         'id': 'SLUS20705',
@@ -5877,6 +6381,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/I-Ninja%20(USA).pdf',
     },
     'SLUS21878': {
         'id': 'SLUS21878',
@@ -5885,6 +6390,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ice%20Age-%20Dawn%20of%20the%20Dinosaurs%20(USA).pdf',
     },
     'SLUS21307': {
         'id': 'SLUS21307',
@@ -5893,6 +6399,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ice%20Age%202-%20The%20Meltdown%20(USA).pdf',
     },
     'SCUS97113': {
         'id': 'SCUS97113',
@@ -5901,6 +6408,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ICO%20(USA).pdf',
     },
     'SLUS21430': {
         'id': 'SLUS21430',
@@ -5909,6 +6417,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/IGPX-%20Immortal%20Grand%20Prix%20(USA).pdf',
     },
     'SLUS21256': {
         'id': 'SLUS21256',
@@ -5917,6 +6426,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/IHRA%20Drag%20Racing-%20Sportsman%20Edition%20(USA).pdf',
     },
     'SLUS20586': {
         'id': 'SLUS20586',
@@ -5925,6 +6435,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/IHRA%20Drag%20Racing%202%20(USA).pdf',
     },
     'SLUS20935': {
         'id': 'SLUS20935',
@@ -5933,6 +6444,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/IHRA%20Professional%20Drag%20Racing%202005%20(USA).pdf',
     },
     'SLUS21177': {
         'id': 'SLUS21177',
@@ -5941,6 +6453,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/In%20the%20Groove%20(USA).pdf',
     },
     'SLUS20508': {
         'id': 'SLUS20508',
@@ -5949,6 +6462,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Indiana%20Jones%20and%20the%20Emperor\'s%20Tomb%20(USA).pdf',
     },
     'SLUS21885': {
         'id': 'SLUS21885',
@@ -5957,6 +6471,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Indiana%20Jones%20and%20the%20Staff%20of%20Kings%20(USA).pdf',
     },
     'SLUS21196': {
         'id': 'SLUS21196',
@@ -5965,6 +6480,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Indigo%20Prophecy%20(USA).pdf',
     },
     'SLUS20641': {
         'id': 'SLUS20641',
@@ -5973,6 +6489,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/IndyCar%20Series%20(USA).pdf',
     },
     'SLUS21641': {
         'id': 'SLUS21641',
@@ -5981,6 +6498,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Innocent%20Life-%20A%20Futuristic%20Harvest%20Moon%20-%20Special%20Edition%20(USA).pdf',
     },
     'SLUS20830': {
         'id': 'SLUS20830',
@@ -5989,6 +6507,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Intellivision%20Lives!%20(USA).pdf',
     },
     'SLUS21193': {
         'id': 'SLUS21193',
@@ -5997,6 +6516,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/InuYasha-%20Feudal%20Combat%20(USA).pdf',
     },
     'SLUS20913': {
         'id': 'SLUS20913',
@@ -6005,6 +6525,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/InuYasha-%20The%20Secret%20of%20the%20Cursed%20Mask%20(USA).pdf',
     },
     'SLUS21697': {
         'id': 'SLUS21697',
@@ -6013,6 +6534,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Iridium%20Runners%20(USA).pdf',
     },
     'SLUS21739': {
         'id': 'SLUS21739',
@@ -6021,6 +6543,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Iron%20Man%20(USA).pdf',
     },
     'SLUS21627': {
         'id': 'SLUS21627',
@@ -6029,6 +6552,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jackass-%20The%20Game%20(USA).pdf',
     },
     'SLES54663': {
         'id': 'SLES54663',
@@ -6037,6 +6561,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/72407445-97af-4797-b611-dc97568e5575.png',
         'pic1': 'https://images.launchbox-app.com/cb8e85bc-8638-4f4d-b083-d56467b8558e.jpg',
         'snd0': 'https://www.youtube.com/watch?v=b_9LKy0SyAc',
+        'manual': 'https://www.videogamemanual.com/PS2/Jackass-%20The%20Game%20(USA).pdf',
     },
     'SLUS20309': {
         'id': 'SLUS20309',
@@ -6045,6 +6570,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jade%20Cocoon%202%20(USA).pdf',
     },
     'SCUS97265': {
         'id': 'SCUS97265',
@@ -6061,6 +6587,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jak%203%20(USA).pdf',
     },
     'SCUS97516': {
         'id': 'SCUS97516',
@@ -6069,6 +6596,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jak%203%20(USA).pdf',
     },
     'SCUS97558': {
         'id': 'SCUS97558',
@@ -6077,6 +6605,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jak%20and%20Daxter-%20The%20Lost%20Frontier%20(USA).pdf',
     },
     'SCUS97124': {
         'id': 'SCUS97124',
@@ -6093,6 +6622,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jak%20X-%20Combat%20Racing%20(USA).pdf',
     },
     'SLUS20379': {
         'id': 'SLUS20379',
@@ -6101,6 +6631,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dark%20Angel%20(James%20Cameron\'s)%20(USA).pdf',
     },
     'SLUS21062': {
         'id': 'SLUS21062',
@@ -6109,6 +6640,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jaws%20Unleashed%20(USA).pdf',
     },
     'SLUS21760': {
         'id': 'SLUS21760',
@@ -6117,6 +6649,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jeep%20Thrills%20(USA).pdf',
     },
     'SLUS20789': {
         'id': 'SLUS20789',
@@ -6125,6 +6658,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jeopardy!%20(USA).pdf',
     },
     'SLUS20245': {
         'id': 'SLUS20245',
@@ -6133,6 +6667,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jeremy%20McGrath%20Supecross%20World%20(USA).pdf',
     },
     'SCUS97279': {
         'id': 'SCUS97279',
@@ -6141,6 +6676,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jet%20Li-%20Rise%20to%20Honor%20(USA).pdf',
     },
     'SCUS97173': {
         'id': 'SCUS97173',
@@ -6149,6 +6685,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jet%20X20%20(USA).pdf',
     },
     'SLUS20537': {
         'id': 'SLUS20537',
@@ -6157,6 +6694,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jimmy%20Neutron%20Boy%20Genius%20(USA).pdf',
     },
     'SLUS20696': {
         'id': 'SLUS20696',
@@ -6165,6 +6703,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jimmy%20Neutron%20Boy%20Genius-%20Jet%20Fusion%20(USA).pdf',
     },
     'SLUS20229': {
         'id': 'SLUS20229',
@@ -6173,6 +6712,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jonny%20Moseley%20Mad%20Trix%20(USA).pdf',
     },
     'SLUS20869': {
         'id': 'SLUS20869',
@@ -6181,6 +6721,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Judge%20Dredd-%20Dredd%20Versus%20Death%20(USA).pdf',
     },
     'SLUS20872': {
         'id': 'SLUS20872',
@@ -6189,6 +6730,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Juiced%20(USA).pdf',
     },
     'SLUS21593': {
         'id': 'SLUS21593',
@@ -6197,6 +6739,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Juiced%202-%20Hot%20Import%20Nights%20(USA).pdf',
     },
     'SLUS21730': {
         'id': 'SLUS21730',
@@ -6205,6 +6748,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jumper%20-%20Griffin\'s%20Story%20(USA).pdf',
     },
     'SLUS20380': {
         'id': 'SLUS20380',
@@ -6213,6 +6757,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jurassic%20Park-%20Operation%20Genesis%20(USA).pdf',
     },
     'SLUS21907': {
         'id': 'SLUS21907',
@@ -6221,6 +6766,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jurassic-%20The%20Hunted%20(USA).pdf',
     },
     'SLUS21436': {
         'id': 'SLUS21436',
@@ -6229,6 +6775,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/9aa924da-2135-47f9-9ecc-c74a7b79b4e5.png',
         'pic1': 'https://images.launchbox-app.com/4c9a9c94-b913-480d-b2c6-4c5610bf89f0.jpg',
         'snd0': 'https://www.youtube.com/watch?v=ynpN_5ablLo&list=PLtqJb91oIM811Smq1qMTu3_3oTAjm-_sy&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Just%20Cause%20(USA).pdf',
     },
     'SLUS21304': {
         'id': 'SLUS21304',
@@ -6237,6 +6784,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Justice%20League%20Heroes%20(USA).pdf',
     },
     'SLUS20682': {
         'id': 'SLUS20682',
@@ -6245,6 +6793,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/K-1%20World%20Grand%20Prix%20(USA).pdf',
     },
     'SLUS20296': {
         'id': 'SLUS20296',
@@ -6253,6 +6802,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kao%20The%20Kangaroo-%20Round%20Two%20(USA).pdf',
     },
     'SLUS20781': {
         'id': 'SLUS20781',
@@ -6261,6 +6811,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20(USA).pdf',
     },
     'SLUS21329': {
         'id': 'SLUS21329',
@@ -6269,6 +6820,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20Country%20(CMT%20Presents)%20(USA).pdf',
     },
     'SLUS21223': {
         'id': 'SLUS21223',
@@ -6277,6 +6829,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20Party%20(USA).pdf',
     },
     'SLUS21540': {
         'id': 'SLUS21540',
@@ -6285,6 +6838,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20Presents-%20American%20Idol%20(USA).pdf',
     },
     'SLUS21719': {
         'id': 'SLUS21719',
@@ -6293,6 +6847,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20Presents-%20American%20Idol%20Encore%20(USA).pdf',
     },
     'SLUS20968': {
         'id': 'SLUS20968',
@@ -6301,6 +6856,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20Volume%202%20(USA).pdf',
     },
     'SLUS21089': {
         'id': 'SLUS21089',
@@ -6309,6 +6865,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20Volume%203%20(USA).pdf',
     },
     'SLUS21008': {
         'id': 'SLUS21008',
@@ -6317,6 +6874,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Katamari%20Damacy%20(USA).pdf',
     },
     'SLUS20334': {
         'id': 'SLUS20334',
@@ -6325,6 +6883,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kelly%20Slater\'s%20Pro%20Surfer%20(USA).pdf',
     },
     'SLUS20021': {
         'id': 'SLUS20021',
@@ -6333,6 +6892,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kengo-%20Master%20of%20Bushido%20(USA).pdf',
     },
     'SLUS20098': {
         'id': 'SLUS20098',
@@ -6341,6 +6901,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kessen%20(USA).pdf',
     },
     'SLUS20275': {
         'id': 'SLUS20275',
@@ -6349,6 +6910,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kessen%20II%20(USA).pdf',
     },
     'SLUS21119': {
         'id': 'SLUS21119',
@@ -6357,6 +6919,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kessen%20III%20(USA).pdf',
     },
     'SLUS20706': {
         'id': 'SLUS20706',
@@ -6365,6 +6928,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/kill.switch%20(USA).pdf',
     },
     'SLUS21154': {
         'id': 'SLUS21154',
@@ -6373,6 +6937,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Killer%207%20(USA).pdf',
     },
     'SCUS97402': {
         'id': 'SCUS97402',
@@ -6381,6 +6946,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Killzone%20(USA).pdf',
     },
     'SCUS97132': {
         'id': 'SCUS97132',
@@ -6389,6 +6955,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kinetica%20(USA).pdf',
     },
     'SLUS21046': {
         'id': 'SLUS21046',
@@ -6397,6 +6964,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20Arthur%20(USA).pdf',
     },
     'SLUS20370': {
         'id': 'SLUS20370',
@@ -6405,6 +6973,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kingdom%20Hearts%20(SquareSoft)%20(USA).pdf',
     },
     'SLUS21799': {
         'id': 'SLUS21799',
@@ -6413,6 +6982,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kingdom%20Hearts%20Re-%20Chain%20of%20Memories%20(USA).pdf',
     },
     'SLUS21005': {
         'id': 'SLUS21005',
@@ -6421,6 +6991,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kingdom%20Hearts%20II%20(USA).pdf',
     },
     'SLUS20318': {
         'id': 'SLUS20318',
@@ -6429,6 +7000,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King\'s%20Field-%20The%20Ancient%20City%20(USA).pdf',
     },
     'SLUS20151': {
         'id': 'SLUS20151',
@@ -6437,6 +7009,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Klonoa%202-%20Lunatea\'s%20Veil%20(USA).pdf',
     },
     'SLUS20150': {
         'id': 'SLUS20150',
@@ -6445,6 +7018,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Knockout%20Kings%202001%20(USA).pdf',
     },
     'SLUS20369': {
         'id': 'SLUS20369',
@@ -6453,6 +7027,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Knockout%20Kings%202002%20(USA).pdf',
     },
     'SLUS21559': {
         'id': 'SLUS21559',
@@ -6461,6 +7036,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Konami%20Kids%20Playground-%20Alphabet%20Circus%20(USA).pdf',
     },
     'SLUS21556': {
         'id': 'SLUS21556',
@@ -6469,6 +7045,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Konami%20Kids%20Playground-%20Dinosaurs%20Shapes%20&%20Colors%20(USA).pdf',
     },
     'SLUS21557': {
         'id': 'SLUS21557',
@@ -6477,6 +7054,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Konami%20Kids%20Playground-%20Frogger%20Hop,%20Skip%20&%20Jumpin\'%20Fun%20(USA).pdf',
     },
     'SLUS21558': {
         'id': 'SLUS21558',
@@ -6485,6 +7063,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Konami%20Kids%20Playground-%20Toy%20Pals%20Fun%20With%20Numbers%20(USA).pdf',
     },
     'SLUS21007': {
         'id': 'SLUS21007',
@@ -6493,6 +7072,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kuon%20(USA).pdf',
     },
     'SLUS20440': {
         'id': 'SLUS20440',
@@ -6501,6 +7081,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Kya-%20Dark%20Lineage%20(USA).pdf',
     },
     'SLUS21112': {
         'id': 'SLUS21112',
@@ -6509,6 +7090,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/LA%20Rush%20(USA).pdf',
     },
     'SLUS20847': {
         'id': 'SLUS20847',
@@ -6517,6 +7099,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/La%20Pucelle-%20Tactics%20(USA).pdf',
     },
     'SLUS21555': {
         'id': 'SLUS21555',
@@ -6525,6 +7108,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/0e208ddc-c3b0-4f3b-a5ad-41f3fcfa3308.png',
         'pic1': 'https://images.launchbox-app.com/6c643582-0ab9-4ed7-a617-cf717b62b33d.jpg',
         'snd0': 'https://www.youtube.com/watch?v=TPXC12k6Hlo&list=PL208D18D01BEFCF8C&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Tomb%20Raider-%20Anniversary%20(USA).pdf',
     },
     'SLUS21203': {
         'id': 'SLUS21203',
@@ -6533,6 +7117,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/94eed26a-f5bd-4753-b419-e1aa07dc4bc6.png',
         'pic1': 'https://images.launchbox-app.com/b5f44510-4784-4891-be75-5e6c89d1273e.jpg',
         'snd0': 'https://www.youtube.com/watch?v=R-uyBViwAVw',
+        'manual': 'https://www.videogamemanual.com/PS2/Tomb%20Raider-%20Legend%20(USA).pdf',
     },
     'SLUS20467': {
         'id': 'SLUS20467',
@@ -6541,6 +7126,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/fda39652-29a5-422c-b01e-57ed519c3369.png',
         'pic1': 'https://images.launchbox-app.com/ed366ab3-dbec-4cca-9fe7-36cc82d8e588.jpg',
         'snd0': 'https://www.youtube.com/watch?v=5HN4HgcrqBw&list=PL56EB04D46F50F36E&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Tomb%20Raider-%20Angel%20of%20Darkness%20(USA).pdf',
     },
     'SLUS21858': {
         'id': 'SLUS21858',
@@ -6549,6 +7135,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/c80df206-2983-45e5-b11d-ed40f62fc2c6.png',
         'pic1': 'https://images.launchbox-app.com/3bce0e89-cb22-4fc8-9358-4d9d18585ec9.jpg',
         'snd0': 'https://www.youtube.com/watch?v=qCWa6SfuNaE&list=PL2B3A0C4B6F49ADA9&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Tomb%20Raider-%20Underworld%20(USA).pdf',
     },
     'SLUS20207': {
         'id': 'SLUS20207',
@@ -6557,6 +7144,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Le%20Mans%2024%20Hours%20(USA).pdf',
     },
     'SLUS20024': {
         'id': 'SLUS20024',
@@ -6565,6 +7153,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legacy%20of%20Kain-%20Blood%20Omen%202%20(USA).pdf',
     },
     'SLUS20773': {
         'id': 'SLUS20773',
@@ -6573,6 +7162,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legacy%20of%20Kain-%20Defiance%20(USA).pdf',
     },
     'SLUS20165': {
         'id': 'SLUS20165',
@@ -6581,6 +7171,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legacy%20of%20Kain-%20Soul%20Reaver%202%20(USA).pdf',
     },
     'SLUS20414': {
         'id': 'SLUS20414',
@@ -6589,6 +7180,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legaia%202-%20Duel%20Saga%20(USA).pdf',
     },
     'SLUS21248': {
         'id': 'SLUS21248',
@@ -6597,6 +7189,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legend%20of%20Kay%20(USA).pdf',
     },
     'SLUS21612': {
         'id': 'SLUS21612',
@@ -6605,6 +7198,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legend%20of%20the%20Dragon%20(USA).pdf',
     },
     'SLUS20242': {
         'id': 'SLUS20242',
@@ -6613,6 +7207,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legends%20of%20Wrestling%20(USA).pdf',
     },
     'SLUS20507': {
         'id': 'SLUS20507',
@@ -6621,6 +7216,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legends%20of%20Wrestling%20II%20(USA).pdf',
     },
     'SLUS20048': {
         'id': 'SLUS20048',
@@ -6629,6 +7225,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legion-%20The%20Legend%20of%20Excalibur%20(USA).pdf',
     },
     'SLUS21785': {
         'id': 'SLUS21785',
@@ -6637,6 +7234,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/LEGO%20Batman-%20The%20Video%20Game%20(USA).pdf',
     },
     'SCUS10380': {
         'id': 'SCUS10380',
@@ -6645,6 +7243,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/LEGO%20Batman-%20The%20Video%20Game%20(USA).pdf',
     },
     'SLUS21759': {
         'id': 'SLUS21759',
@@ -6653,6 +7252,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/LEGO%20Indiana%20Jones-%20The%20Original%20Adventures%20(USA).pdf',
     },
     'SLUS20575': {
         'id': 'SLUS20575',
@@ -6661,6 +7261,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/LEGO%20Island%20Xtreme%20Stunts%20(USA).pdf',
     },
     'SLUS20042': {
         'id': 'SLUS20042',
@@ -6669,6 +7270,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/LEGO%20Racers%202%20(USA).pdf',
     },
     'SLUS20456': {
         'id': 'SLUS20456',
@@ -6677,6 +7279,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/LEGO%20Soccer%20Mania%20(USA).pdf',
     },
     'SLUS21083': {
         'id': 'SLUS21083',
@@ -6685,6 +7288,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/LEGO%20Star%20Wars-%20The%20Video%20Game%20(USA).pdf',
     },
     'SLUS21409': {
         'id': 'SLUS21409',
@@ -6693,6 +7297,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/LEGO%20Star%20Wars%20II-%20The%20Original%20Trilogy%20(USA).pdf',
     },
     'SLUS20956': {
         'id': 'SLUS20956',
@@ -6701,6 +7306,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Leisure%20Suit%20Larry-%20Magna%20Cum%20Laude%20(USA).pdf',
     },
     'SLUS21078': {
         'id': 'SLUS21078',
@@ -6709,6 +7315,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lemony%20Snicket\'s%20A%20Series%20of%20Unfortunate%20Events%20(USA).pdf',
     },
     'SLUS21309': {
         'id': 'SLUS21309',
@@ -6717,6 +7324,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Let\'s%20Ride-%20Silver%20Buckle%20Stables%20(USA).pdf',
     },
     'SLUS20386': {
         'id': 'SLUS20386',
@@ -6725,6 +7333,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lethal%20Skies%20Elite%20Pilot-%20Team%20SW%20(USA).pdf',
     },
     'SLUS20735': {
         'id': 'SLUS20735',
@@ -6733,6 +7342,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lethal%20Skies%20II%20(USA).pdf',
     },
     'SLUS20848': {
         'id': 'SLUS20848',
@@ -6741,6 +7351,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/LifeLine%20(USA).pdf',
     },
     'SLUS21636': {
         'id': 'SLUS21636',
@@ -6749,6 +7360,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Looney%20Tunes-%20Acme%20Arsenal%20(USA).pdf',
     },
     'SLUS20853': {
         'id': 'SLUS20853',
@@ -6757,6 +7369,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Looney%20Tunes-%20Back%20in%20Action%20(USA).pdf',
     },
     'SLUS20352': {
         'id': 'SLUS20352',
@@ -6765,6 +7378,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Looney%20Tunes-%20Space%20Race%20(USA).pdf',
     },
     'SLUS20676': {
         'id': 'SLUS20676',
@@ -6773,6 +7387,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lowrider%20(USA).pdf',
     },
     'SLUS21401': {
         'id': 'SLUS21401',
@@ -6781,6 +7396,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lucinda%20Green\'s%20Equestrian%20Challenge%20(USA).pdf',
     },
     'SLUS21553': {
         'id': 'SLUS21553',
@@ -6789,6 +7405,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lumines%20Plus%20(USA).pdf',
     },
     'SLUS20683': {
         'id': 'SLUS20683',
@@ -6797,6 +7414,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lupin%20the%203rd-%20Treasure%20of%20the%20Sorcerer%20King%20(USA).pdf',
     },
     'SLUS21703': {
         'id': 'SLUS21703',
@@ -6805,6 +7423,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Luxor-%20Pharoah\'s%20Challenge%20(USA).pdf',
     },
     'SLUS20505': {
         'id': 'SLUS20505',
@@ -6813,6 +7432,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mace%20Griffin%20Bounty%20Hunter%20(USA).pdf',
     },
     'SLUS20376': {
         'id': 'SLUS20376',
@@ -6821,6 +7441,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mad%20Maestro%20(USA).pdf',
     },
     'SLUS21213': {
         'id': 'SLUS21213',
@@ -6829,6 +7450,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%2006%20(USA).pdf',
     },
     'SLUS21476': {
         'id': 'SLUS21476',
@@ -6837,6 +7459,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%2007%20(USA).pdf',
     },
     'SLUS21477': {
         'id': 'SLUS21477',
@@ -6845,6 +7468,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%2007-%20Hall%20of%20Fame%20Edition%20(USA).pdf',
     },
     'SLUS21638': {
         'id': 'SLUS21638',
@@ -6853,6 +7477,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%2008%20(USA).pdf',
     },
     'SLUS21705': {
         'id': 'SLUS21705',
@@ -6861,6 +7486,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%2008%20(USA).pdf',
     },
     'SLUS21770': {
         'id': 'SLUS21770',
@@ -6869,6 +7495,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%2009%20(USA).pdf',
     },
     'SLUS21893': {
         'id': 'SLUS21893',
@@ -6877,6 +7504,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%2010%20(USA).pdf',
     },
     'SLUS21937': {
         'id': 'SLUS21937',
@@ -6885,6 +7513,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%2011%20(USA).pdf',
     },
     'SLUS21946': {
         'id': 'SLUS21946',
@@ -6893,6 +7522,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%2012%20(USA).pdf',
     },
     'SLUS20093': {
         'id': 'SLUS20093',
@@ -6901,6 +7531,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%202001%20(USA).pdf',
     },
     'SLUS20263': {
         'id': 'SLUS20263',
@@ -6909,6 +7540,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%202002%20(USA).pdf',
     },
     'SLUS20529': {
         'id': 'SLUS20529',
@@ -6917,6 +7549,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%202003%20(USA).pdf',
     },
     'SLUS20752': {
         'id': 'SLUS20752',
@@ -6925,6 +7558,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%202004%20(USA).pdf',
     },
     'SLUS21000': {
         'id': 'SLUS21000',
@@ -6933,6 +7567,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%202005%20(USA).pdf',
     },
     'SLUS21025': {
         'id': 'SLUS21025',
@@ -6941,6 +7576,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Madden%20NFL%202005-%20Collector\'s%20Edition%20(USA).pdf',
     },
     'SLUS21587': {
         'id': 'SLUS21587',
@@ -6949,6 +7585,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Made%20Man%20(USA).pdf',
     },
     'SLUS20671': {
         'id': 'SLUS20671',
@@ -6957,6 +7594,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mafia%20(USA).pdf',
     },
     'SLUS20593': {
         'id': 'SLUS20593',
@@ -6965,6 +7603,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Magic%20Pengel-%20The%20Quest%20for%20Color%20(USA).pdf',
     },
     'SLUS20609': {
         'id': 'SLUS20609',
@@ -6973,6 +7612,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MAGIX%20Music%20Maker%20(USA).pdf',
     },
     'SLUS21034': {
         'id': 'SLUS21034',
@@ -6981,6 +7621,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MAGIX%20Music%20Maker-%20Deluxe%20Edition%20(USA).pdf',
     },
     'SLUS21221': {
         'id': 'SLUS21221',
@@ -6989,6 +7630,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Magna%20Carta-%20Tears%20of%20Blood%20(USA).pdf',
     },
     'SLUS21035': {
         'id': 'SLUS21035',
@@ -6997,6 +7639,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Major%20League%20Baseball%202K5%20(USA).pdf',
     },
     'SLUS21324': {
         'id': 'SLUS21324',
@@ -7005,6 +7648,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Major%20League%20Baseball%202K5-%20World%20Series%20Edition%20(USA).pdf',
     },
     'SLUS21235': {
         'id': 'SLUS21235',
@@ -7013,6 +7657,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Major%20League%20Baseball%202K6%20(USA).pdf',
     },
     'SLUS21561': {
         'id': 'SLUS21561',
@@ -7021,6 +7666,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Major%20League%20Baseball%202K7%20(USA).pdf',
     },
     'SLUS21729': {
         'id': 'SLUS21729',
@@ -7029,6 +7675,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Major%20League%20Baseball%202K8%20(USA).pdf',
     },
     'SLUS21871': {
         'id': 'SLUS21871',
@@ -7037,6 +7684,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Major%20League%20Baseball%202K9%20(USA).pdf',
     },
     'SLUS21929': {
         'id': 'SLUS21929',
@@ -7045,6 +7693,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Major%20League%20Baseball%202K10%20(USA).pdf',
     },
     'SLUS21945': {
         'id': 'SLUS21945',
@@ -7053,6 +7702,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Major%20League%20Baseball%202K11%20(USA).pdf',
     },
     'SLUS21951': {
         'id': 'SLUS21951',
@@ -7061,6 +7711,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Major%20League%20Baseball%202K12%20(USA).pdf',
     },
     'SLUS21170': {
         'id': 'SLUS21170',
@@ -7069,6 +7720,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Makai%20Kingdom-%20Chronicles%20of%20the%20Sacred%20Tome%20(USA).pdf',
     },
     'SLUS20358': {
         'id': 'SLUS20358',
@@ -7077,6 +7729,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Malice%20(USA).pdf',
     },
     'SLUS21735': {
         'id': 'SLUS21735',
@@ -7085,6 +7738,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//2323603d-224d-41ba-8b51-c69a36514213.png',
         'pic1': 'https://images.launchbox-app.com//fe45c857-2c7b-4b3d-8298-84b397e0ec0a.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Xitp7CiFMHw&list=PL00BBA2AFD33AA933&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Mana%20Khemia-%20Alchemists%20of%20Al-Revis%20(USA).pdf',
     },
     'SLUS21890': {
         'id': 'SLUS21890',
@@ -7093,6 +7747,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//73adec09-0236-472e-af01-d138cba0d3e5.png',
         'pic1': 'https://images.launchbox-app.com//23d86061-d789-4a87-9d76-cee630dec7ad.jpg',
         'snd0': 'https://www.youtube.com/watch?v=LZx0eyeT4BM&list=PLEUMLboERIGcz0XYETsaCSwaE3uWiKs58&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Mana%20Khemia%202-%20Fall%20of%20Alchemy%20(USA).pdf',
     },
     'SLUS20827': {
         'id': 'SLUS20827',
@@ -7101,6 +7756,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/02176cc8-9bfb-449b-b7ef-93218be73da9.png',
         'pic1': 'https://images.launchbox-app.com/5abbe1e3-abe0-495a-842b-4e2312ac137f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=p4nRfwEWTRM&list=PL2369DA86C3AC059A&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Manhunt%20(USA).pdf',
     },
     'SLUS21613': {
         'id': 'SLUS21613',
@@ -7109,6 +7765,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/7b14b809-e079-4231-8c01-83add411579d.png',
         'pic1': 'https://images.launchbox-app.com/2068a25a-7c56-457d-99b2-ccbd63644a74.jpg',
         'snd0': 'https://www.youtube.com/watch?v=HFHT0UziWpI&list=PLWiT_LzCrRe6wQ3_DxlBBiuDCkbo69p6N&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Manhunt%202%20(USA).pdf',
     },
     'SLUS21032': {
         'id': 'SLUS21032',
@@ -7117,6 +7774,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Marc%20Ecko\'s%20Getting%20Up-%20Contents%20Under%20Pressure%20(USA).pdf',
     },
     'SLUS21294': {
         'id': 'SLUS21294',
@@ -7125,6 +7783,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Marc%20Ecko\'s%20Getting%20Up-%20Contents%20Under%20Pressure%20(USA).pdf',
     },
     'SLUS20646': {
         'id': 'SLUS20646',
@@ -7133,6 +7792,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mark%20Davis%20Pro%20Bass%20Challenge%20(USA).pdf',
     },
     'SLUS21910': {
         'id': 'SLUS21910',
@@ -7141,6 +7801,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Marvel%20Super%20Hero%20Squad%20(USA).pdf',
     },
     'SLUS21374': {
         'id': 'SLUS21374',
@@ -7149,6 +7810,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Marvel-%20Ultimate%20Alliance%20(USA).pdf',
     },
     'SLUS21879': {
         'id': 'SLUS21879',
@@ -7157,6 +7819,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Marvel-%20Ultimate%20Alliance%202%20(USA).pdf',
     },
     'SLUS21281': {
         'id': 'SLUS21281',
@@ -7165,6 +7828,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Marvel%20Nemesis-%20Rise%20of%20the%20Imperfects%20(USA).pdf',
     },
     'SLUS20486': {
         'id': 'SLUS20486',
@@ -7173,6 +7837,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Marvel%20vs.%20Capcom%202%20(USA).pdf',
     },
     'SLUS20603': {
         'id': 'SLUS20603',
@@ -7181,6 +7846,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mary%20Kate%20and%20Ashley%20-%20Sweet%2016-%20Licensed%20to%20Drive%20(USA).pdf',
     },
     'SLUS20335': {
         'id': 'SLUS20335',
@@ -7189,6 +7855,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mat%20Hoffman\'s%20Pro%20BMX%202%20(USA).pdf',
     },
     'SLUS20230': {
         'id': 'SLUS20230',
@@ -7197,6 +7864,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//4c680593-f680-4208-98fa-f3d7fe24f98e.png',
         'pic1': 'https://images.launchbox-app.com//025a6666-8fab-48d4-a754-67fe1ca06ff3.png',
         'snd0': 'https://www.youtube.com/watch?v=dRCQrwySZAA&list=PLE92A71C8D8BB1FFB&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Max%20Payne%20(USA).pdf',
     },
     'SLUS20814': {
         'id': 'SLUS20814',
@@ -7205,6 +7873,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//93515e0c-a8fd-4aa7-adee-6b4a48c7b7e5.png',
         'pic1': 'https://images.launchbox-app.com//2d2d74b4-78fe-41a2-9872-d3391efcad5a.png',
         'snd0': 'https://www.youtube.com/watch?v=NwcnujxGBhY&list=PL6FC3709FDEFE06B2&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Max%20Payne%202-%20The%20Fall%20of%20Max%20Payne%20(USA).pdf',
     },
     'SLUS20017': {
         'id': 'SLUS20017',
@@ -7213,6 +7882,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Maximo%20Ghosts%20To%20Glory%20(USA).pdf',
     },
     'SLUS20722': {
         'id': 'SLUS20722',
@@ -7221,6 +7891,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Maximo%20VS%20Army%20of%20Zin%20(USA).pdf',
     },
     'SLUS20657': {
         'id': 'SLUS20657',
@@ -7229,6 +7900,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/McFarlane\'s%20Evil%20Prophecy%20(USA).pdf',
     },
     'SLUS20105': {
         'id': 'SLUS20105',
@@ -7237,6 +7909,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MDK%202-%20Armageddon%20(USA).pdf',
     },
     'SLUS21199': {
         'id': 'SLUS21199',
@@ -7245,6 +7918,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Medal%20of%20Honor-%20European%20Assault%20(USA).pdf',
     },
     'SLUS20368': {
         'id': 'SLUS20368',
@@ -7253,6 +7927,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Medal%20of%20Honor-%20Frontline%20(USA).pdf',
     },
     'SLUS20753': {
         'id': 'SLUS20753',
@@ -7261,6 +7936,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Medal%20of%20Honor-%20Rising%20Sun%20(USA).pdf',
     },
     'SLUS21597': {
         'id': 'SLUS21597',
@@ -7269,6 +7945,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Medal%20of%20Honor-%20Vanguard%20(USA).pdf',
     },
     'SLUS20833': {
         'id': 'SLUS20833',
@@ -7277,6 +7954,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mega%20Man%20Anniversary%20Collection%20(USA).pdf',
     },
     'SLUS21370': {
         'id': 'SLUS21370',
@@ -7285,6 +7963,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mega%20Man%20X%20Collection%20(USA).pdf',
     },
     'SLUS20903': {
         'id': 'SLUS20903',
@@ -7293,6 +7972,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mega%20Man%20X-%20Command%20Mission%20(USA).pdf',
     },
     'SLUS20487': {
         'id': 'SLUS20487',
@@ -7301,6 +7981,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mega%20Man%20X7%20(USA).pdf',
     },
     'SLUS20960': {
         'id': 'SLUS20960',
@@ -7309,6 +7990,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mega%20Man%20X8%20(USA).pdf',
     },
     'SLUS20373': {
         'id': 'SLUS20373',
@@ -7317,6 +7999,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Men%20In%20Black%20II-%20Alien%20Escape%20(USA).pdf',
     },
     'SLUS20932': {
         'id': 'SLUS20932',
@@ -7325,6 +8008,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/76cf7109-bd95-44a1-9f66-1ee748870d7a.png',
         'pic1': 'https://images.launchbox-app.com/8614fcaf-953e-4e46-914d-33ba21372dc4.jpg',
         'snd0': 'https://www.youtube.com/watch?v=szzZQwawELc&list=PL6FD1CA203DB120B9&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Mercenaries%20(USA).pdf',
     },
     'SLUS21650': {
         'id': 'SLUS21650',
@@ -7333,6 +8017,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/e0d757e6-273c-4d0f-b6ba-1390d01531b7.png',
         'pic1': 'https://images.launchbox-app.com/88516dbf-5900-46a8-898a-f02608400ad1.jpg',
         'snd0': 'https://www.youtube.com/watch?v=C3h2CO9-KLs&list=PLLRK3yfA89D7K_gLYjYMotwC4OlimwNJg&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Mercenaries%202-%20World%20In%20Flames%20(USA).pdf',
     },
     'SLUS21548': {
         'id': 'SLUS21548',
@@ -7341,6 +8026,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mercury%20Meltdown%20Remix%20(USA).pdf',
     },
     'SLUS20786': {
         'id': 'SLUS20786',
@@ -7349,6 +8035,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Arms-%20Glitch%20in%20the%20System%20(USA).pdf',
     },
     'SLUS20144': {
         'id': 'SLUS20144',
@@ -7357,6 +8044,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/df7897e2-acff-4d9f-a526-3157531d1150.png',
         'pic1': 'https://images.launchbox-app.com/ef03cb91-9df2-48fe-9e0e-bf9e68bd74ba.jpg',
         'snd0': 'https://www.youtube.com/watch?v=jmZsY344Sr8&list=PL3-Zr0Ym0Fgz1DnslyLMORmuulDTJavDV&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Gear%20Solid%202-%20Sons%20of%20Liberty%20(USA).pdf',
     },
     'SLUS20554': {
         'id': 'SLUS20554',
@@ -7365,6 +8053,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/ff45c599-2ef1-4c92-b73a-cc3dca7e0409.png',
         'pic1': 'https://images.launchbox-app.com/4c4d519e-a169-4c85-9826-64617b016d50.jpg',
         'snd0': 'https://www.youtube.com/watch?v=jmZsY344Sr8&list=PL3-Zr0Ym0Fgz1DnslyLMORmuulDTJavDV&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Gear%20Solid%202-%20Substance%20(USA).pdf',
     },
     'SLUS20915': {
         'id': 'SLUS20915',
@@ -7373,6 +8062,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/f1cd6f8f-3b14-41fb-a48e-258b0349f500.png',
         'pic1': 'https://images.launchbox-app.com/e635fc6b-433f-4c99-a42b-f0086ed1900b.jpg',
         'snd0': 'https://www.youtube.com/watch?v=jaxJQ6CifHw&list=PL3-Zr0Ym0Fgzv5gOwlnBoRubRAH7CGjja&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Gear%20Solid%203-%20Snake%20Eater%20(USA).pdf',
     },
     'SLUS21243': {
         'id': 'SLUS21243',
@@ -7381,6 +8071,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/afc3a292-1e70-4b3b-aa3f-6af0adcd5c47.png',
         'pic1': 'https://images.launchbox-app.com/3363cf77-f9e8-47f2-ae41-f7096e8a8470.jpg',
         'snd0': 'https://www.youtube.com/watch?v=jaxJQ6CifHw&list=PL3-Zr0Ym0Fgzv5gOwlnBoRubRAH7CGjja&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Gear%20Solid%203-%20Subsistence%20(USA).pdf',
     },
     'SLUS21359': {
         'id': 'SLUS21359',
@@ -7389,6 +8080,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/afc3a292-1e70-4b3b-aa3f-6af0adcd5c47.png',
         'pic1': 'https://images.launchbox-app.com/3363cf77-f9e8-47f2-ae41-f7096e8a8470.jpg',
         'snd0': 'https://www.youtube.com/watch?v=jaxJQ6CifHw&list=PL3-Zr0Ym0Fgzv5gOwlnBoRubRAH7CGjja&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Gear%20Solid%203-%20Subsistence%20(USA).pdf',
     },
     'SLUS21360': {
         'id': 'SLUS21360',
@@ -7397,6 +8089,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/afc3a292-1e70-4b3b-aa3f-6af0adcd5c47.png',
         'pic1': 'https://images.launchbox-app.com/3363cf77-f9e8-47f2-ae41-f7096e8a8470.jpg',
         'snd0': 'https://www.youtube.com/watch?v=jaxJQ6CifHw&list=PL3-Zr0Ym0Fgzv5gOwlnBoRubRAH7CGjja&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Gear%20Solid%203-%20Subsistence%20(USA).pdf',
     },
     'SLUS21293': {
         'id': 'SLUS21293',
@@ -7405,6 +8098,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Saga%20(USA).pdf',
     },
     'SLUS20971': {
         'id': 'SLUS20971',
@@ -7413,6 +8107,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Slug%204%20&%205%20(USA).pdf',
     },
     'SLUS20990': {
         'id': 'SLUS20990',
@@ -7421,6 +8116,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Slug%204%20&%205%20(USA).pdf',
     },
     'SLUS21550': {
         'id': 'SLUS21550',
@@ -7429,6 +8125,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Slug%20Anthology%20(USA).pdf',
     },
     'SLUS20377': {
         'id': 'SLUS20377',
@@ -7437,6 +8134,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MetropolisMania%20(USA).pdf',
     },
     'SLUS21606': {
         'id': 'SLUS21606',
@@ -7445,6 +8143,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MetropolisMania%202%20(USA).pdf',
     },
     'SLUS20472': {
         'id': 'SLUS20472',
@@ -7453,6 +8152,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Micro%20Machines%20(USA).pdf',
     },
     'SLUS21402': {
         'id': 'SLUS21402',
@@ -7461,6 +8161,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Micro%20Machines%20V4%20(USA).pdf',
     },
     'SLUS20063': {
         'id': 'SLUS20063',
@@ -7469,6 +8170,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Midnight%20Club-%20Street%20Racing%20(USA).pdf',
     },
     'SLUS20209': {
         'id': 'SLUS20209',
@@ -7477,6 +8179,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Midnight%20Club%20II%20(USA).pdf',
     },
     'SLUS21029': {
         'id': 'SLUS21029',
@@ -7485,6 +8188,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Midnight%20Club%203-%20DUB%20Edition%20(USA).pdf',
     },
     'SLUS21355': {
         'id': 'SLUS21355',
@@ -7493,6 +8197,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Midnight%20Club%203-%20DUB%20Edition%20Remix%20(GH)%20(USA).pdf',
     },
     'SLUS20801': {
         'id': 'SLUS20801',
@@ -7501,6 +8206,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Midway%20Arcade%20Treasures%20(USA).pdf',
     },
     'SLUS20997': {
         'id': 'SLUS20997',
@@ -7509,6 +8215,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Midway%20Arcade%20Treasures%202%20(USA).pdf',
     },
     'SLUS21094': {
         'id': 'SLUS21094',
@@ -7517,6 +8224,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Midway%20Arcade%20Treasures%203%20(USA).pdf',
     },
     'SLUS20345': {
         'id': 'SLUS20345',
@@ -7525,6 +8233,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mike%20Tyson%20Heavyweight%20Boxing%20(USA).pdf',
     },
     'SLUS20331': {
         'id': 'SLUS20331',
@@ -7533,6 +8242,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Minority%20Report%20(USA).pdf',
     },
     'SLUS20400': {
         'id': 'SLUS20400',
@@ -7541,6 +8251,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mission-%20Impossible-%20Operation%20Surma%20(USA).pdf',
     },
     'SLUS20375': {
         'id': 'SLUS20375',
@@ -7549,6 +8260,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mister%20Mosquito%20(USA).pdf',
     },
     'SCUS97500': {
         'id': 'SCUS97500',
@@ -7557,6 +8269,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%2006-%20The%20Show%20(USA).pdf',
     },
     'SCUS97556': {
         'id': 'SCUS97556',
@@ -7565,6 +8278,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%2007-%20The%20Show%20(USA).pdf',
     },
     'SCUS97583': {
         'id': 'SCUS97583',
@@ -7573,6 +8287,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%2008-%20The%20Show%20(USA).pdf',
     },
     'SCUS97644': {
         'id': 'SCUS97644',
@@ -7581,6 +8296,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%2009-%20The%20Show%20(USA).pdf',
     },
     'SCUS97653': {
         'id': 'SCUS97653',
@@ -7589,6 +8305,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%2010-%20The%20Show%20(USA).pdf',
     },
     'SCUS97657': {
         'id': 'SCUS97657',
@@ -7597,6 +8314,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%2011-%20The%20Show%20(USA).pdf',
     },
     'SCUS97256': {
         'id': 'SCUS97256',
@@ -7605,6 +8323,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%202004%20(USA).pdf',
     },
     'SCUS97326': {
         'id': 'SCUS97326',
@@ -7613,6 +8332,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%202005%20(USA).pdf',
     },
     'SCUS97347': {
         'id': 'SCUS97347',
@@ -7621,6 +8341,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%202006%20(USA).pdf',
     },
     'SLUS21671': {
         'id': 'SLUS21671',
@@ -7629,6 +8350,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%20Power%20Pros%20(USA).pdf',
     },
     'SLUS21748': {
         'id': 'SLUS21748',
@@ -7637,6 +8359,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%20Power%20Pros%202008%20(USA).pdf',
     },
     'SLUS20889': {
         'id': 'SLUS20889',
@@ -7645,6 +8368,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%20SlugFest-%20Loaded%20(USA).pdf',
     },
     'SLUS20049': {
         'id': 'SLUS20049',
@@ -7653,6 +8377,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%20SlugFest%2020-03%20(USA).pdf',
     },
     'SLUS20618': {
         'id': 'SLUS20618',
@@ -7661,6 +8386,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%20SlugFest%2020-04%20(USA).pdf',
     },
     'SLUS21342': {
         'id': 'SLUS21342',
@@ -7669,6 +8395,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MLB%20SlugFest%202006%20(USA).pdf',
     },
     'SLUS20608': {
         'id': 'SLUS20608',
@@ -7677,6 +8404,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mobile%20Light%20Force%202%20(USA).pdf',
     },
     'SLUS20740': {
         'id': 'SLUS20740',
@@ -7685,6 +8413,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mobile%20Suit%20Gundam-%20Encounters%20in%20Space%20(USA).pdf',
     },
     'SLUS20382': {
         'id': 'SLUS20382',
@@ -7693,6 +8422,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mobile%20Suit%20Gundam-%20Federation%20vs.%20Zeon%20(USA).pdf',
     },
     'SLUS20821': {
         'id': 'SLUS20821',
@@ -7701,6 +8431,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mobile%20Suit%20Gundam-%20Gundam%20vs.%20Zeta%20Gundam%20(USA).pdf',
     },
     'SLUS20175': {
         'id': 'SLUS20175',
@@ -7709,6 +8440,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mobile%20Suit%20Gundam-%20Journey%20to%20Jaburo%20(USA).pdf',
     },
     'SLUS20233': {
         'id': 'SLUS20233',
@@ -7717,6 +8449,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mobile%20Suit%20Gundam-%20Zeonic%20Front%20(USA).pdf',
     },
     'SLUS21140': {
         'id': 'SLUS21140',
@@ -7725,6 +8458,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mobile%20Suit%20Gundam%20SEED-%20Never%20Ending%20Tomorrow%20(USA).pdf',
     },
     'SLUS20741': {
         'id': 'SLUS20741',
@@ -7733,6 +8467,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mojo!%20(USA).pdf',
     },
     'SLUS21753': {
         'id': 'SLUS21753',
@@ -7741,6 +8476,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monopoly%20(USA).pdf',
     },
     'SLUS20348': {
         'id': 'SLUS20348',
@@ -7749,6 +8485,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monopoly%20Party%20(USA).pdf',
     },
     'SLUS20796': {
         'id': 'SLUS20796',
@@ -7757,6 +8494,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monster%204x4-%20Masters%20of%20Metal%20(USA).pdf',
     },
     'SLUS21400': {
         'id': 'SLUS21400',
@@ -7765,6 +8503,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monster%20House%20(USA).pdf',
     },
     'SLUS20896': {
         'id': 'SLUS20896',
@@ -7773,6 +8512,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monster%20Hunter%20(USA).pdf',
     },
     'SLUS21635': {
         'id': 'SLUS21635',
@@ -7781,6 +8521,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monster%20Jam%20(USA).pdf',
     },
     'SLUS20186': {
         'id': 'SLUS20186',
@@ -7789,6 +8530,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monster%20Jam-%20Maximum%20Destruction%20(USA).pdf',
     },
     'SLUS21807': {
         'id': 'SLUS21807',
@@ -7797,6 +8539,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monster%20Jam-%20Urban%20Assault%20(USA).pdf',
     },
     'SLUS21838': {
         'id': 'SLUS21838',
@@ -7805,6 +8548,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monster%20Lab%20(USA).pdf',
     },
     'SLUS20190': {
         'id': 'SLUS20190',
@@ -7813,6 +8557,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monster%20Rancher%203%20(USA).pdf',
     },
     'SLUS20702': {
         'id': 'SLUS20702',
@@ -7821,6 +8566,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monster%20Rancher%204%20(USA).pdf',
     },
     'SLUS21330': {
         'id': 'SLUS21330',
@@ -7829,6 +8575,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Monster%20Rancher%20EVO%20(USA).pdf',
     },
     'SLUS21410': {
         'id': 'SLUS21410',
@@ -7837,6 +8584,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mortal%20Kombat-%20Armageddon%20(USA).pdf',
     },
     'SLUS21543': {
         'id': 'SLUS21543',
@@ -7845,6 +8593,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mortal%20Kombat-%20Armageddon%20(USA).pdf',
     },
     'SLUS20423': {
         'id': 'SLUS20423',
@@ -7853,6 +8602,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mortal%20Kombat-%20Deadly%20Alliance%20(USA).pdf',
     },
     'SLUS20881': {
         'id': 'SLUS20881',
@@ -7861,6 +8611,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mortal%20Kombat-%20Deception%20(USA).pdf',
     },
     'SLUS21081': {
         'id': 'SLUS21081',
@@ -7869,6 +8620,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mortal%20Kombat-%20Deception%20(USA).pdf',
     },
     'SLUS21087': {
         'id': 'SLUS21087',
@@ -7877,6 +8629,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mortal%20Kombat-%20Shaolin%20Monks%20(USA).pdf',
     },
     'SLUS21229': {
         'id': 'SLUS21229',
@@ -7885,6 +8638,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Motocross%20Mania%203%20(USA).pdf',
     },
     'SLUS20058': {
         'id': 'SLUS20058',
@@ -7893,6 +8647,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MotoGP%20(USA).pdf',
     },
     'SLUS20285': {
         'id': 'SLUS20285',
@@ -7901,6 +8656,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MotoGP%202%20(USA).pdf',
     },
     'SLUS20625': {
         'id': 'SLUS20625',
@@ -7909,6 +8665,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MotoGP%203%20(USA).pdf',
     },
     'SLUS21159': {
         'id': 'SLUS21159',
@@ -7917,6 +8674,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MotoGP%204%20(USA).pdf',
     },
     'SLUS21688': {
         'id': 'SLUS21688',
@@ -7925,6 +8683,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MotoGP%2007%20(USA).pdf',
     },
     'SLUS21811': {
         'id': 'SLUS21811',
@@ -7933,6 +8692,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MotoGP%2008%20(USA).pdf',
     },
     'SLUS20171': {
         'id': 'SLUS20171',
@@ -7941,6 +8701,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Motor%20Mayhem-%20Vehicular%20Combat%20League%20(USA).pdf',
     },
     'SCUS97654': {
         'id': 'SCUS97654',
@@ -7949,6 +8710,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MotorStorm-%20Arctic%20Edge%20(USA).pdf',
     },
     'SLUS21666': {
         'id': 'SLUS21666',
@@ -7957,6 +8719,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mountain%20Bike%20Adrenaline%20(USA).pdf',
     },
     'SLUS21270': {
         'id': 'SLUS21270',
@@ -7965,6 +8728,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MS%20Saga-%20A%20New%20Dawn%20(USA).pdf',
     },
     'SLUS20222': {
         'id': 'SLUS20222',
@@ -7973,6 +8737,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MTV%20Music%20Generator%202%20(USA).pdf',
     },
     'SLUS20861': {
         'id': 'SLUS20861',
@@ -7981,6 +8746,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MTV%20Music%20Generator%203-%20This%20is%20the%20Remix%20(USA).pdf',
     },
     'SLUS21580': {
         'id': 'SLUS21580',
@@ -7989,6 +8755,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pimp%20My%20Ride%20(MTV\'s)%20(USA).pdf',
     },
     'SLUS21872': {
         'id': 'SLUS21872',
@@ -7997,6 +8764,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pimp%20My%20Ride%20(MTV\'s)-%20Street%20Racing%20(USA).pdf',
     },
     'SLUS20604': {
         'id': 'SLUS20604',
@@ -8005,6 +8773,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MTV\'s%20Celebrity%20Deathmatch%20(USA).pdf',
     },
     'SLUS20399': {
         'id': 'SLUS20399',
@@ -8013,6 +8782,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MTX%20Mototrax%20(USA).pdf',
     },
     'SLUS20635': {
         'id': 'SLUS20635',
@@ -8021,6 +8791,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Muppets%20Party%20Cruise%20(USA).pdf',
     },
     'SLUS20983': {
         'id': 'SLUS20983',
@@ -8029,6 +8800,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Musashi-%20Samurai%20Legend%20(USA).pdf',
     },
     'SLUS21367': {
         'id': 'SLUS21367',
@@ -8037,6 +8809,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MVP%2006%20NCAA%20Baseball%20(USA).pdf',
     },
     'SLUS21582': {
         'id': 'SLUS21582',
@@ -8045,6 +8818,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MVP%2007%20NCAA%20Baseball%20(USA).pdf',
     },
     'SLUS20650': {
         'id': 'SLUS20650',
@@ -8053,6 +8827,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MVP%20Baseball%202003%20(USA).pdf',
     },
     'SLUS20868': {
         'id': 'SLUS20868',
@@ -8061,6 +8836,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MVP%20Baseball%202004%20(USA).pdf',
     },
     'SLUS21135': {
         'id': 'SLUS21135',
@@ -8069,6 +8845,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MVP%20Baseball%202005%20(USA).pdf',
     },
     'SLUS20072': {
         'id': 'SLUS20072',
@@ -8077,6 +8854,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MX%202002%20featuring%20Ricky%20Carmichael%20(USA).pdf',
     },
     'SLUS20234': {
         'id': 'SLUS20234',
@@ -8085,6 +8863,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MX%20Rider%20(USA).pdf',
     },
     'SLUS20381': {
         'id': 'SLUS20381',
@@ -8093,6 +8872,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MX%20Superfly%20featuring%20Ricky%20Carmichael%20(USA).pdf',
     },
     'SLUS20767': {
         'id': 'SLUS20767',
@@ -8101,6 +8881,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MX%20Unleashed%20(USA).pdf',
     },
     'SLUS21104': {
         'id': 'SLUS21104',
@@ -8109,6 +8890,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MX%20vs.%20ATV%20Unleashed%20(USA).pdf',
     },
     'SLUS21701': {
         'id': 'SLUS21701',
@@ -8117,6 +8899,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MX%20vs.%20ATV%20Untamed%20(USA).pdf',
     },
     'SLUS21097': {
         'id': 'SLUS21097',
@@ -8125,6 +8908,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/MX%20World%20Tour%20featuring%20Jamie%20Little%20(USA).pdf',
     },
     'SCUS97212': {
         'id': 'SCUS97212',
@@ -8133,6 +8917,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/My%20Street%20(USA).pdf',
     },
     'SLUS20434': {
         'id': 'SLUS20434',
@@ -8141,6 +8926,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Myst%20III-%20Exile%20(USA).pdf',
     },
     'SLUS20521': {
         'id': 'SLUS20521',
@@ -8149,6 +8935,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mystic%20Heroes%20(USA).pdf',
     },
     'SLUS20273': {
         'id': 'SLUS20273',
@@ -8157,6 +8944,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Namco%20Museum%20(USA).pdf',
     },
     'SLUS21164': {
         'id': 'SLUS21164',
@@ -8165,6 +8953,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Namco%20Museum-%2050th%20Anniversary%20(GH)%20(USA).pdf',
     },
     'SLUS21010': {
         'id': 'SLUS21010',
@@ -8173,6 +8962,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Nano%20Breaker%20(USA).pdf',
     },
     'SLUS20730': {
         'id': 'SLUS20730',
@@ -8181,6 +8971,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NARC%20(USA).pdf',
     },
     'SLUS21358': {
         'id': 'SLUS21358',
@@ -8189,6 +8980,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Naruto%20(Shonen%20Jump)-%20Ultimate%20Ninja%20(Naruto%20Ultimate%20Collection)%20(USA).pdf',
     },
     'SLUS21575': {
         'id': 'SLUS21575',
@@ -8197,6 +8989,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Naruto%20(Shonen%20Jump)-%20Ultimate%20Ninja%202%20(USA).pdf',
     },
     'SLUS21727': {
         'id': 'SLUS21727',
@@ -8205,6 +8998,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Naruto%20(Shonen%20Jump)-%20Ultimate%20Ninja%203%20(USA).pdf',
     },
     'SLUS21498': {
         'id': 'SLUS21498',
@@ -8213,6 +9007,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Naruto%20(Shonen%20Jump)-%20Uzumaki%20Chronicles%20(USA).pdf',
     },
     'SLUS21594': {
         'id': 'SLUS21594',
@@ -8221,6 +9016,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Naruto%20(Shonen%20Jump)-%20Uzumaki%20Chronicles%202%20(USA).pdf',
     },
     'SLUS21862': {
         'id': 'SLUS21862',
@@ -8229,6 +9025,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Naruto%20Shippuden%20(Shonen%20Jump)-%20Ultimate%20Ninja%204%20(USA).pdf',
     },
     'SLUS20441': {
         'id': 'SLUS20441',
@@ -8237,6 +9034,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NASCAR%20Dirt%20to%20Daytona%20(USA).pdf',
     },
     'SLUS20176': {
         'id': 'SLUS20176',
@@ -8245,6 +9043,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NASCAR%20Heat%202002%20(USA).pdf',
     },
     'SLUS20266': {
         'id': 'SLUS20266',
@@ -8253,6 +9052,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NASCAR%20Thunder%202002%20(USA).pdf',
     },
     'SLUS20535': {
         'id': 'SLUS20535',
@@ -8261,6 +9061,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NASCAR%20Thunder%202003%20(USA).pdf',
     },
     'SLUS20824': {
         'id': 'SLUS20824',
@@ -8269,6 +9070,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NASCAR%20Thunder%202004%20(USA).pdf',
     },
     'SLUS21266': {
         'id': 'SLUS21266',
@@ -8277,6 +9079,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NASCAR%2006-%20Total%20Team%20Control%20(USA).pdf',
     },
     'SLUS21461': {
         'id': 'SLUS21461',
@@ -8285,6 +9088,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NASCAR%2007%20(USA).pdf',
     },
     'SLUS21639': {
         'id': 'SLUS21639',
@@ -8293,6 +9097,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NASCAR%2008%20(USA).pdf',
     },
     'SLUS21744': {
         'id': 'SLUS21744',
@@ -8301,6 +9106,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NASCAR%2009%20(USA).pdf',
     },
     'SLUS20101': {
         'id': 'SLUS20101',
@@ -8309,6 +9115,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NASCAR%202001%20(USA).pdf',
     },
     'SLUS21003': {
         'id': 'SLUS21003',
@@ -8317,6 +9124,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NASCAR%202005-%20Chase%20for%20the%20Cup%20(USA).pdf',
     },
     'SLUS20871': {
         'id': 'SLUS20871',
@@ -8325,6 +9133,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Naval%20Ops-%20Commander%20(USA).pdf',
     },
     'SLUS20663': {
         'id': 'SLUS20663',
@@ -8333,6 +9142,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Naval%20Ops-%20Warship%20Gunner%20(USA).pdf',
     },
     'SCUS97348': {
         'id': 'SCUS97348',
@@ -8341,6 +9151,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%2006-%20Featuring%20the%20Life%20Vol%201%20(USA).pdf',
     },
     'SCUS97544': {
         'id': 'SCUS97544',
@@ -8349,6 +9160,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%2007-%20Featuring%20the%20Life%20Volume%202%20(USA).pdf',
     },
     'SCUS97589': {
         'id': 'SCUS97589',
@@ -8357,6 +9169,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%2008-%20Featuring%20the%20Life%20v3%20(USA).pdf',
     },
     'SCUS97625': {
         'id': 'SCUS97625',
@@ -8365,6 +9178,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%2009-%20The%20Inside%20(USA).pdf',
     },
     'SLUS20330': {
         'id': 'SLUS20330',
@@ -8373,6 +9187,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%202K2%20(USA).pdf',
     },
     'SLUS20476': {
         'id': 'SLUS20476',
@@ -8381,6 +9196,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%202K3%20(USA).pdf',
     },
     'SLUS21233': {
         'id': 'SLUS21233',
@@ -8389,6 +9205,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%202K6%20(USA).pdf',
     },
     'SLUS21424': {
         'id': 'SLUS21424',
@@ -8397,6 +9214,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%202K7%20(USA).pdf',
     },
     'SLUS21669': {
         'id': 'SLUS21669',
@@ -8405,6 +9223,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%202K8%20(USA).pdf',
     },
     'SLUS21745': {
         'id': 'SLUS21745',
@@ -8413,6 +9232,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%202K9%20(USA).pdf',
     },
     'SLUS21908': {
         'id': 'SLUS21908',
@@ -8421,6 +9241,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%202K10%20(USA).pdf',
     },
     'SLUS21936': {
         'id': 'SLUS21936',
@@ -8429,6 +9250,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%202K11%20(USA).pdf',
     },
     'SLUS21950': {
         'id': 'SLUS21950',
@@ -8437,6 +9259,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%202K12%20(USA).pdf',
     },
     'SLUS20541': {
         'id': 'SLUS20541',
@@ -8445,6 +9268,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Ballers%20(USA).pdf',
     },
     'SLUS21186': {
         'id': 'SLUS21186',
@@ -8453,6 +9277,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Ballers-%20Phenom%20(USA).pdf',
     },
     'SLUS20050': {
         'id': 'SLUS20050',
@@ -8461,6 +9286,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Hoopz%20(USA).pdf',
     },
     'SLUS20648': {
         'id': 'SLUS20648',
@@ -8469,6 +9295,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Jam%20(USA).pdf',
     },
     'SLUS21279': {
         'id': 'SLUS21279',
@@ -8477,6 +9304,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Live%2006%20(USA).pdf',
     },
     'SLUS21460': {
         'id': 'SLUS21460',
@@ -8485,6 +9313,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Live%2007%20(USA).pdf',
     },
     'SLUS21649': {
         'id': 'SLUS21649',
@@ -8493,6 +9322,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Live%2008%20(USA).pdf',
     },
     'SLUS21777': {
         'id': 'SLUS21777',
@@ -8501,6 +9331,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Live%2009%20(USA).pdf',
     },
     'SLUS20102': {
         'id': 'SLUS20102',
@@ -8509,6 +9340,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Live%202001%20(USA).pdf',
     },
     'SLUS20303': {
         'id': 'SLUS20303',
@@ -8517,6 +9349,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Live%202002%20(USA).pdf',
     },
     'SLUS20536': {
         'id': 'SLUS20536',
@@ -8525,6 +9358,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Live%202003%20(USA).pdf',
     },
     'SLUS20755': {
         'id': 'SLUS20755',
@@ -8533,6 +9367,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Live%202004%20(USA).pdf',
     },
     'SLUS21058': {
         'id': 'SLUS21058',
@@ -8541,6 +9376,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Live%202005%20(USA).pdf',
     },
     'SCUS97114': {
         'id': 'SCUS97114',
@@ -8549,6 +9385,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20ShootOut%202001%20(USA).pdf',
     },
     'SCUS97217': {
         'id': 'SCUS97217',
@@ -8557,6 +9394,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20ShootOut%202003%20(USA).pdf',
     },
     'SCUS97318': {
         'id': 'SCUS97318',
@@ -8565,6 +9403,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20ShootOut%202004%20(USA).pdf',
     },
     'SLUS20513': {
         'id': 'SLUS20513',
@@ -8573,6 +9412,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Starting%20Five%20(USA).pdf',
     },
     'SLUS20187': {
         'id': 'SLUS20187',
@@ -8581,6 +9421,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Street%20(USA).pdf',
     },
     'SLUS20651': {
         'id': 'SLUS20651',
@@ -8589,6 +9430,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Street%20Vol.%202%20(USA).pdf',
     },
     'SLUS21126': {
         'id': 'SLUS21126',
@@ -8597,6 +9439,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NBA%20Street%20V3%20(USA).pdf',
     },
     'SLUS21851': {
         'id': 'SLUS21851',
@@ -8605,6 +9448,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Basketball%2009%20(USA).pdf',
     },
     'SLUS20538': {
         'id': 'SLUS20538',
@@ -8613,6 +9457,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20College%20Basketball%202K3%20(USA).pdf',
     },
     'SLUS20453': {
         'id': 'SLUS20453',
@@ -8621,6 +9466,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20College%20Football%202K3%20(USA).pdf',
     },
     'SCUS97109': {
         'id': 'SCUS97109',
@@ -8629,6 +9475,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Final%20Four%202001%20(USA).pdf',
     },
     'SCUS97136': {
         'id': 'SCUS97136',
@@ -8637,6 +9484,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Final%20Four%202002%20(USA).pdf',
     },
     'SCUS97204': {
         'id': 'SCUS97204',
@@ -8645,6 +9493,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Final%20Four%202003%20(USA).pdf',
     },
     'SCUS97278': {
         'id': 'SCUS97278',
@@ -8653,6 +9502,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Final%20Four%202004%20(USA).pdf',
     },
     'SLUS21214': {
         'id': 'SLUS21214',
@@ -8661,6 +9511,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Football%2006%20(USA).pdf',
     },
     'SLUS21459': {
         'id': 'SLUS21459',
@@ -8669,6 +9520,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Football%2007%20(USA).pdf',
     },
     'SLUS21620': {
         'id': 'SLUS21620',
@@ -8677,6 +9529,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Football%2008%20(USA).pdf',
     },
     'SLUS21752': {
         'id': 'SLUS21752',
@@ -8685,6 +9538,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Football%2009%20(USA).pdf',
     },
     'SLUS21892': {
         'id': 'SLUS21892',
@@ -8693,6 +9547,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Football%2010%20(USA).pdf',
     },
     'SLUS21932': {
         'id': 'SLUS21932',
@@ -8701,6 +9556,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Football%2011%20(USA).pdf',
     },
     'SLUS20241': {
         'id': 'SLUS20241',
@@ -8709,6 +9565,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Football%202002%20(USA).pdf',
     },
     'SLUS20530': {
         'id': 'SLUS20530',
@@ -8717,6 +9574,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Football%202003%20(USA).pdf',
     },
     'SLUS20719': {
         'id': 'SLUS20719',
@@ -8725,6 +9583,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Football%202004%20(USA).pdf',
     },
     'SLUS20991': {
         'id': 'SLUS20991',
@@ -8733,6 +9592,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20Football%202005%20(USA).pdf',
     },
     'SCUS97107': {
         'id': 'SCUS97107',
@@ -8741,6 +9601,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20GameBreaker%202001%20(USA).pdf',
     },
     'SCUS97214': {
         'id': 'SCUS97214',
@@ -8749,6 +9610,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20GameBreaker%202003%20(USA).pdf',
     },
     'SCUS97277': {
         'id': 'SCUS97277',
@@ -8757,6 +9619,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20GameBreaker%202004%20(USA).pdf',
     },
     'SLUS21298': {
         'id': 'SLUS21298',
@@ -8765,6 +9628,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20March%20Madness%2006%20(USA).pdf',
     },
     'SLUS21481': {
         'id': 'SLUS21481',
@@ -8773,6 +9637,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20March%20Madness%2007%20(USA).pdf',
     },
     'SLUS21698': {
         'id': 'SLUS21698',
@@ -8781,6 +9646,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20March%20Madness%2008%20(USA).pdf',
     },
     'SLUS20332': {
         'id': 'SLUS20332',
@@ -8789,6 +9655,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20March%20Madness%202002%20(USA).pdf',
     },
     'SLUS20574': {
         'id': 'SLUS20574',
@@ -8797,6 +9664,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20March%20Madness%202003%20(USA).pdf',
     },
     'SLUS20771': {
         'id': 'SLUS20771',
@@ -8805,6 +9673,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20March%20Madness%202004%20(USA).pdf',
     },
     'SLUS21100': {
         'id': 'SLUS21100',
@@ -8813,6 +9682,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NCAA%20March%20Madness%202005%20(USA).pdf',
     },
     'SLUS21493': {
         'id': 'SLUS21493',
@@ -8821,6 +9691,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Need%20for%20Speed-%20Carbon%20(USA).pdf',
     },
     'SLUS21494': {
         'id': 'SLUS21494',
@@ -8829,6 +9700,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Need%20for%20Speed-%20Carbon%20(USA).pdf',
     },
     'SLUS20362': {
         'id': 'SLUS20362',
@@ -8837,6 +9709,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Need%20for%20Speed-%20Hot%20Pursuit%202%20(USA).pdf',
     },
     'SLUS21257': {
         'id': 'SLUS21257',
@@ -8845,6 +9718,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Need%20for%20Speed-%20Most%20Wanted%20(USA).pdf',
     },
     'SLUS21351': {
         'id': 'SLUS21351',
@@ -8853,6 +9727,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Need%20for%20Speed-%20Most%20Wanted%20(Black%20Edition)%20(USA).pdf',
     },
     'SLUS21267': {
         'id': 'SLUS21267',
@@ -8861,6 +9736,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Need%20for%20Speed-%20Most%20Wanted%20(USA).pdf',
     },
     'SLUS21658': {
         'id': 'SLUS21658',
@@ -8869,6 +9745,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Need%20for%20Speed-%20Pro%20Street%20(USA).pdf',
     },
     'SLUS21801': {
         'id': 'SLUS21801',
@@ -8877,6 +9754,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Need%20for%20Speed-%20Undercover%20(USA).pdf',
     },
     'SLUS20811': {
         'id': 'SLUS20811',
@@ -8885,6 +9763,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Need%20for%20Speed-%20Underground%20(USA).pdf',
     },
     'SLUS21065': {
         'id': 'SLUS21065',
@@ -8893,6 +9772,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Need%20for%20Speed-%20Underground%202%20(USA).pdf',
     },
     'SLUS20961': {
         'id': 'SLUS20961',
@@ -8901,6 +9781,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Neo%20Contra%20(USA).pdf',
     },
     'SLUS21708': {
         'id': 'SLUS21708',
@@ -8909,6 +9790,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NeoGeo%20Battle%20Coliseum%20(USA).pdf',
     },
     'SCUS97367': {
         'id': 'SCUS97367',
@@ -8917,6 +9799,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Neopets-%20The%20Darkest%20Faerie%20(USA).pdf',
     },
     'SLUS20322': {
         'id': 'SLUS20322',
@@ -8925,6 +9808,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%202K2%20(USA).pdf',
     },
     'SLUS20457': {
         'id': 'SLUS20457',
@@ -8933,6 +9817,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%202K3%20(USA).pdf',
     },
     'SLUS20051': {
         'id': 'SLUS20051',
@@ -8941,6 +9826,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20Blitz%2020-02%20(USA).pdf',
     },
     'SLUS20474': {
         'id': 'SLUS20474',
@@ -8949,6 +9835,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20Blitz%2020-03%20(USA).pdf',
     },
     'SLUS20631': {
         'id': 'SLUS20631',
@@ -8957,6 +9844,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20Blitz%20Pro%20(USA).pdf',
     },
     'SCUS97106': {
         'id': 'SCUS97106',
@@ -8965,6 +9853,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20GameDay%202001%20(USA).pdf',
     },
     'SCUS97131': {
         'id': 'SCUS97131',
@@ -8973,6 +9862,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20GameDay%202002%20(USA).pdf',
     },
     'SCUS97194': {
         'id': 'SCUS97194',
@@ -8981,6 +9871,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20GameDay%202003%20(USA).pdf',
     },
     'SCUS97276': {
         'id': 'SCUS97276',
@@ -8989,6 +9880,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20GameDay%202004%20(USA).pdf',
     },
     'SLUS21407': {
         'id': 'SLUS21407',
@@ -8997,6 +9889,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20Head%20Coach%20(USA).pdf',
     },
     'SLUS20154': {
         'id': 'SLUS20154',
@@ -9005,6 +9898,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20Quarterback%20Club%202002%20(USA).pdf',
     },
     'SLUS20841': {
         'id': 'SLUS20841',
@@ -9013,6 +9907,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20Street%20(USA).pdf',
     },
     'SLUS21118': {
         'id': 'SLUS21118',
@@ -9021,6 +9916,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20Street%202%20(USA).pdf',
     },
     'SLUS21482': {
         'id': 'SLUS21482',
@@ -9029,6 +9925,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NFL%20Street%203%20(USA).pdf',
     },
     'SLUS21241': {
         'id': 'SLUS21241',
@@ -9037,6 +9934,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%2006%20(USA).pdf',
     },
     'SLUS21458': {
         'id': 'SLUS21458',
@@ -9045,6 +9943,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%2007%20(USA).pdf',
     },
     'SLUS21647': {
         'id': 'SLUS21647',
@@ -9053,6 +9952,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%2008%20(USA).pdf',
     },
     'SLUS21771': {
         'id': 'SLUS21771',
@@ -9061,6 +9961,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%2009%20(USA).pdf',
     },
     'SLUS20100': {
         'id': 'SLUS20100',
@@ -9069,6 +9970,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%202001%20(USA).pdf',
     },
     'SLUS20281': {
         'id': 'SLUS20281',
@@ -9077,6 +9979,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%202002%20(USA).pdf',
     },
     'SLUS20531': {
         'id': 'SLUS20531',
@@ -9085,6 +9988,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%202003%20(USA).pdf',
     },
     'SLUS20756': {
         'id': 'SLUS20756',
@@ -9093,6 +9997,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%202004%20[Dany%20Heatley%20cover]%20(USA).pdf',
     },
     'SLUS21001': {
         'id': 'SLUS21001',
@@ -9101,6 +10006,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%202005%20(USA).pdf',
     },
     'SLUS20477': {
         'id': 'SLUS20477',
@@ -9109,6 +10015,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%202K3%20(USA).pdf',
     },
     'SLUS21234': {
         'id': 'SLUS21234',
@@ -9117,6 +10024,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%202K6%20(USA).pdf',
     },
     'SLUS21425': {
         'id': 'SLUS21425',
@@ -9125,6 +10033,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%202K7%20(USA).pdf',
     },
     'SLUS21632': {
         'id': 'SLUS21632',
@@ -9133,6 +10042,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%202K8%20(USA).pdf',
     },
     'SLUS21763': {
         'id': 'SLUS21763',
@@ -9141,6 +10051,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%202K9%20(USA).pdf',
     },
     'SLUS21914': {
         'id': 'SLUS21914',
@@ -9149,6 +10060,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%202K10%20(USA).pdf',
     },
     'SCUS97110': {
         'id': 'SCUS97110',
@@ -9157,6 +10069,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%20FaceOff%202001%20(USA).pdf',
     },
     'SCUS97220': {
         'id': 'SCUS97220',
@@ -9165,6 +10078,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%20FaceOff%202003%20(USA).pdf',
     },
     'SLUS20140': {
         'id': 'SLUS20140',
@@ -9173,6 +10087,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%20Hitz%2020-02%20(USA).pdf',
     },
     'SLUS20438': {
         'id': 'SLUS20438',
@@ -9181,6 +10096,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%20Hitz%2020-03%20(USA).pdf',
     },
     'SLUS20691': {
         'id': 'SLUS20691',
@@ -9189,6 +10105,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHL%20Hitz%20Pro%20(USA).pdf',
     },
     'SLUS21114': {
         'id': 'SLUS21114',
@@ -9197,6 +10114,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHRA%20Drag%20Racing%202005%20(USA).pdf',
     },
     'SLUS21547': {
         'id': 'SLUS21547',
@@ -9205,6 +10123,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NHRA-%20Countdown%20to%20the%20Championship%202007%20(USA).pdf',
     },
     'SLUS21926': {
         'id': 'SLUS21926',
@@ -9213,6 +10132,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ni%20Hao,%20Kai-Lan-%20Super%20Game%20Day%20(USA).pdf',
     },
     'SLUS21605': {
         'id': 'SLUS21605',
@@ -9221,6 +10141,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Nicktoons-%20Attack%20of%20the%20Toybots%20(USA).pdf',
     },
     'SLUS21469': {
         'id': 'SLUS21469',
@@ -9229,6 +10150,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Nicktoons-%20Battle%20for%20Volcano%20Island%20(USA).pdf',
     },
     'SLUS21073': {
         'id': 'SLUS21073',
@@ -9237,6 +10159,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Nicktoons-%20Movin\'%20(USA).pdf',
     },
     'SLUS21284': {
         'id': 'SLUS21284',
@@ -9245,6 +10168,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Nicktoons-%20Unite!%20(USA).pdf',
     },
     'SLUS20810': {
         'id': 'SLUS20810',
@@ -9253,6 +10177,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Nightshade%20(USA).pdf',
     },
     'SLUS20492': {
         'id': 'SLUS20492',
@@ -9261,6 +10186,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ninja%20Assault%20(USA).pdf',
     },
     'SLUS21738': {
         'id': 'SLUS21738',
@@ -9269,6 +10195,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Nitrobike%20(USA).pdf',
     },
     'SLUS21868': {
         'id': 'SLUS21868',
@@ -9277,6 +10204,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Nobunaga\'s%20Ambition-%20Iron%20Triangle%20(USA).pdf',
     },
     'SLUS21721': {
         'id': 'SLUS21721',
@@ -9285,6 +10213,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Nobunaga\'s%20Ambition-%20Rise%20to%20Power%20(USA).pdf',
     },
     'SLUS21855': {
         'id': 'SLUS21855',
@@ -9293,6 +10222,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NPPL%20Championship%20Paintball%202009%20(USA).pdf',
     },
     'SLUS21432': {
         'id': 'SLUS21432',
@@ -9301,6 +10231,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/NRA-%20Gun%20Club%20(USA).pdf',
     },
     'SLUS20777': {
         'id': 'SLUS20777',
@@ -9309,6 +10240,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//802e53e5-7f0b-4f4e-8ece-fc7e07c5d07a.png',
         'pic1': 'https://images.launchbox-app.com//5f2769f2-76f2-4dcc-9335-f4b4192c3b9e.png',
         'snd0': 'https://www.youtube.com/watch?v=UcDN3KQuzAs&list=PL29CB207AB0D65227&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Obscure%20(USA).pdf',
     },
     'SLUS21709': {
         'id': 'SLUS21709',
@@ -9317,6 +10249,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//02c31e16-0087-47b4-83b2-6b81093e83a7.png',
         'pic1': 'https://images.launchbox-app.com//d8ad108f-a002-455c-8e23-d5c53afc7dfe.jpg',
         'snd0': 'https://www.youtube.com/watch?v=NYq-W315_uk&list=PL11B6A28DB972EE9B&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Obscure-%20The%20Aftermath%20(USA).pdf',
     },
     'SLUS21577': {
         'id': 'SLUS21577',
@@ -9325,6 +10258,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/52a8c99a-5cb8-4350-bd99-7906ab7f225c.png',
         'pic1': 'https://images.launchbox-app.com/44966cfe-9c83-4647-8157-d5146f1e45ce.jpg',
         'snd0': 'https://www.youtube.com/watch?v=VI3zDIpLVjk&list=PLWdUkdaN3GL21Pm3S_FoTTJvt_iMxP50A&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Odin%20Sphere%20(USA).pdf',
     },
     'SCUS97129': {
         'id': 'SCUS97129',
@@ -9333,6 +10267,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//634aae88-c0ba-4c16-864f-392d8ff44268.png',
         'pic1': 'https://images.launchbox-app.com//2ba50d7d-0778-4657-b349-44c9f01e4335.png',
         'snd0': 'https://www.youtube.com/watch?v=1921qVZpaTQ&list=PL5E1946D922DE93F9&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Okage-%20Shadow%20King%20(USA).pdf',
     },
     'SLUS21115': {
         'id': 'SLUS21115',
@@ -9341,6 +10276,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1ab5873a-5809-47ff-97cf-d0ede801322a.png',
         'pic1': 'https://images.launchbox-app.com/14c29649-5cdc-41ce-8265-7826eaeec028.jpg',
         'snd0': 'https://www.youtube.com/watch?v=G3-ojrsg1cY&list=PL1AC584471FD4F040&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Okami%20(USA).pdf',
     },
     'SLUS21435': {
         'id': 'SLUS21435',
@@ -9349,6 +10285,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/One%20Piece%20(Shonen%20Jump\'s)-%20Grand%20Adventure%20(USA).pdf',
     },
     'SLUS20975': {
         'id': 'SLUS20975',
@@ -9357,6 +10294,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/One%20Piece%20(Shonen%20Jump\'s)-%20Grand%20Battle%20(USA).pdf',
     },
     'SLUS21364': {
         'id': 'SLUS21364',
@@ -9365,6 +10303,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/One%20Piece%20(Shonen%20Jump\'s)-%20Pirates\'%20Carnival%20(USA).pdf',
     },
     'SLUS20064': {
         'id': 'SLUS20064',
@@ -9373,6 +10312,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//14770cb0-8c3a-4b41-a0cd-c7fa2320eb8e.png',
         'pic1': 'https://images.launchbox-app.com//8fc5c4f0-70fd-4959-98be-7470065daee3.jpg',
         'snd0': 'https://www.youtube.com/watch?v=YVnh2z4-tmY&list=PLlJ_g3PThN5tvsZGtPB11Vv9MaAL2ZMy8&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Oni%20(USA).pdf',
     },
     'SLUS20710': {
         'id': 'SLUS20710',
@@ -9381,6 +10321,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Onimusha-%20Blade%20Warriors%20(USA).pdf',
     },
     'SLUS21180': {
         'id': 'SLUS21180',
@@ -9389,6 +10330,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Onimusha-%20Dawn%20of%20Dreams%20(USA).pdf',
     },
     'SLUS21362': {
         'id': 'SLUS21362',
@@ -9397,6 +10339,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Onimusha-%20Dawn%20of%20Dreams%20(USA).pdf',
     },
     'SLUS20018': {
         'id': 'SLUS20018',
@@ -9405,6 +10348,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Onimusha-%20Warlords%20(USA).pdf',
     },
     'SLUS20393': {
         'id': 'SLUS20393',
@@ -9413,6 +10357,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Onimusha%202-%20Samurai\'s%20Destiny%20(USA).pdf',
     },
     'SLUS20694': {
         'id': 'SLUS20694',
@@ -9421,6 +10366,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Onimusha%203-%20Demon%20Siege%20(USA).pdf',
     },
     'SLUS21467': {
         'id': 'SLUS21467',
@@ -9429,6 +10375,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//5ac54975-0f37-43ba-9970-23535e1b402f.png',
         'pic1': 'https://images.launchbox-app.com//ef7f7126-0476-4b73-8af1-30cb4a333935.jpg',
         'snd0': 'https://www.youtube.com/watch?v=csmB_Am2hu4&list=PLO4jlmGoc6uDndNbkE2hOjUv-wq8ttza5&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Open%20Season%20(USA).pdf',
     },
     'SLUS20011': {
         'id': 'SLUS20011',
@@ -9437,6 +10384,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Orphen-%20Scion%20of%20Sorcery%20(USA).pdf',
     },
     'SLUS21030': {
         'id': 'SLUS21030',
@@ -9445,6 +10393,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Outlaw%20Golf%202%20(USA).pdf',
     },
     'SLUS21190': {
         'id': 'SLUS21190',
@@ -9453,6 +10402,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Outlaw%20Tennis%20(USA).pdf',
     },
     'SLUS21049': {
         'id': 'SLUS21049',
@@ -9461,6 +10411,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Outlaw%20Volleyball-%20Remixed%20(USA).pdf',
     },
     'SLUS21274': {
         'id': 'SLUS21274',
@@ -9469,6 +10420,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//a166dd56-301f-4f01-b666-a41a0e5735f3.png',
         'pic1': 'https://images.launchbox-app.com//d20eaa7d-4a6e-4424-a534-4979cb5dd88e.jpg',
         'snd0': 'https://www.youtube.com/watch?v=kTObxt5iFYA&list=PL_BhbJAAueZRGIUQiJttJc7Sl7OjThLIP&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Outrun%202006-%20Coast%202%20Coast%20(USA).pdf',
     },
     'SLUS20567': {
         'id': 'SLUS20567',
@@ -9477,6 +10429,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/P.T.O.%20IV-%20Pacific%20Theater%20Of%20Operations%20(USA).pdf',
     },
     'SLUS20197': {
         'id': 'SLUS20197',
@@ -9485,6 +10438,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pac%20Man%20Fever%20(USA).pdf',
     },
     'SLUS20224': {
         'id': 'SLUS20224',
@@ -9493,6 +10447,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pac%20Man%20World%202%20(USA).pdf',
     },
     'SLUS21219': {
         'id': 'SLUS21219',
@@ -9501,6 +10456,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pac%20Man%20World%203%20(USA).pdf',
     },
     'SLUS21328': {
         'id': 'SLUS21328',
@@ -9509,6 +10465,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pac%20Man%20World%20Rally%20(USA).pdf',
     },
     'SCUS97167': {
         'id': 'SCUS97167',
@@ -9517,6 +10474,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//4361b828-9246-4aba-836a-e44634f90e53.png',
         'pic1': 'https://images.launchbox-app.com//2b1a7898-3231-4867-b18f-2af3ce4c116e.jpg',
         'snd0': 'https://www.youtube.com/watch?v=1orOSFIcyq4',
+        'manual': 'https://www.videogamemanual.com/PS2/PaRappa%20the%20Rapper%202%20(USA).pdf',
     },
     'SLUS20324': {
         'id': 'SLUS20324',
@@ -9525,6 +10483,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Paris-Dakar%20Rally%20(USA).pdf',
     },
     'SLUS21825': {
         'id': 'SLUS21825',
@@ -9533,6 +10492,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pro%20Bull%20Riders-%20Out%20of%20the%20Chute%20(USA).pdf',
     },
     'SLUS21773': {
         'id': 'SLUS21773',
@@ -9541,6 +10501,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/PDC%20World%20Championship%20Darts%20(USA).pdf',
     },
     'SLUS21311': {
         'id': 'SLUS21311',
@@ -9549,6 +10510,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20Kong%20(Peter%20Jackson\'s)-%20The%20Official%20Game%20of%20the%20Movie%20(USA).pdf',
     },
     'SLUS21675': {
         'id': 'SLUS21675',
@@ -9557,6 +10519,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Petz-%20Catz%202%20(USA).pdf',
     },
     'SLUS21674': {
         'id': 'SLUS21674',
@@ -9565,6 +10528,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Petz-%20Dogz%202%20(USA).pdf',
     },
     'SLUS21689': {
         'id': 'SLUS21689',
@@ -9573,6 +10537,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Petz-%20Horsez%202%20(USA).pdf',
     },
     'SLUS21194': {
         'id': 'SLUS21194',
@@ -9581,6 +10546,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Phantasy%20Star%20Universe%20(USA).pdf',
     },
     'SLUS21631': {
         'id': 'SLUS21631',
@@ -9589,6 +10555,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Phantasy%20Star%20Universe-%20Ambition%20of%20the%20Illuminus%20(USA).pdf',
     },
     'SLUS20955': {
         'id': 'SLUS20955',
@@ -9597,6 +10564,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Phantom%20Brave%20(USA).pdf',
     },
     'SLUS21038': {
         'id': 'SLUS21038',
@@ -9605,6 +10573,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pinball%20Hall%20of%20Fame-%20The%20Gottlieb%20Collection%20(USA).pdf',
     },
     'SLUS21589': {
         'id': 'SLUS21589',
@@ -9613,6 +10582,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pinball%20Hall%20of%20Fame-%20The%20Williams%20Collection%20(USA).pdf',
     },
     'SLUS21766': {
         'id': 'SLUS21766',
@@ -9621,6 +10591,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pipe%20Mania%20(USA).pdf',
     },
     'SLUS21478': {
         'id': 'SLUS21478',
@@ -9629,6 +10600,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pirates-%20Legend%20of%20the%20Black%20Buccaneer%20(USA).pdf',
     },
     'SLUS20365': {
         'id': 'SLUS20365',
@@ -9637,6 +10609,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pirates-%20The%20Legend%20of%20Black%20Kat%20(USA).pdf',
     },
     'SLUS21545': {
         'id': 'SLUS21545',
@@ -9645,6 +10618,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pirates%20of%20the%20Caribbean-%20At%20World\'s%20End%20(USA).pdf',
     },
     'SLUS21110': {
         'id': 'SLUS21110',
@@ -9653,6 +10627,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pirates%20of%20the%20Caribbean-%20The%20Legend%20of%20Jack%20Sparrow%20(USA).pdf',
     },
     'SLUS20408': {
         'id': 'SLUS20408',
@@ -9661,6 +10636,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pitfall-%20The%20Lost%20Expedition%20(USA).pdf',
     },
     'SLUS20988': {
         'id': 'SLUS20988',
@@ -9669,6 +10645,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Playboy-%20The%20Mansion%20(USA).pdf',
     },
     'SLUS20987': {
         'id': 'SLUS20987',
@@ -9677,6 +10654,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pool%20Paradise%20(Archer%20Maclean%20Presents)%20(USA).pdf',
     },
     'SLUS21710': {
         'id': 'SLUS21710',
@@ -9685,6 +10663,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/PopCap%20Hits!%20Vol%201%20(USA).pdf',
     },
     'SLUS21768': {
         'id': 'SLUS21768',
@@ -9693,6 +10672,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/PopCap%20Hits!%20Vol%202%20(USA).pdf',
     },
     'SLUS21827': {
         'id': 'SLUS21827',
@@ -9701,6 +10681,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/PopStar%20Guitar%20(USA).pdf',
     },
     'SLUS20003': {
         'id': 'SLUS20003',
@@ -9709,6 +10690,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Portal%20Runner%20(USA).pdf',
     },
     'SLUS20978': {
         'id': 'SLUS20978',
@@ -9717,6 +10699,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Power%20Drome%20(USA).pdf',
     },
     'SLUS20944': {
         'id': 'SLUS20944',
@@ -9725,6 +10708,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Power%20Rangers-%20Dino%20Thunder%20(USA).pdf',
     },
     'SLUS21679': {
         'id': 'SLUS21679',
@@ -9733,6 +10717,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Power%20Rangers-%20Super%20Legends%20-%2015th%20Anniversary%20(USA).pdf',
     },
     'SLUS20875': {
         'id': 'SLUS20875',
@@ -9741,6 +10726,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Predator-%20Concrete%20Jungle%20(USA).pdf',
     },
     'SLUS20406': {
         'id': 'SLUS20406',
@@ -9749,6 +10735,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pride%20FC-%20Fighting%20Championships%20(USA).pdf',
     },
     'SCUS97142': {
         'id': 'SCUS97142',
@@ -9757,6 +10744,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Primal%20(USA).pdf',
     },
     'SLUS20743': {
         'id': 'SLUS20743',
@@ -9765,6 +10753,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/239e5191-6e3a-447e-b6a7-962b59ce729c.png',
         'pic1': 'https://images.launchbox-app.com/d5836c2a-4845-4766-9b33-b9d16105b281.jpg',
         'snd0': 'https://www.youtube.com/watch?v=jYPh-T8S35g&list=PL6649E8FCE8340113&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Prince%20of%20Persia-%20The%20Sands%20of%20Time%20(USA).pdf',
     },
     'SLUS21287': {
         'id': 'SLUS21287',
@@ -9773,6 +10762,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/4cf5a70e-db46-4a7a-a02c-63740d210758.png',
         'pic1': 'https://images.launchbox-app.com/af5d04c7-8529-45a6-b417-873016841f23.jpg',
         'snd0': 'https://www.youtube.com/watch?v=lGxkatgF4Hw&list=PL8F539E8889530247&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Prince%20of%20Persia-%20The%20Two%20Thrones%20(USA).pdf',
     },
     'SLUS21022': {
         'id': 'SLUS21022',
@@ -9781,6 +10771,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/cac7b0b3-12fa-4700-a69f-13c46635c95c.png',
         'pic1': 'https://images.launchbox-app.com/f4589ebe-1d49-48db-a88a-85c4473591ef.jpg',
         'snd0': 'https://www.youtube.com/watch?v=tezcBWAT0nU&list=PL39A80E0ABBF9D3B8&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Prince%20of%20Persia-%20Warrior%20Within%20(USA).pdf',
     },
     'SLUS21685': {
         'id': 'SLUS21685',
@@ -9789,6 +10780,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pro%20Evolution%20Soccer%202008%20(USA).pdf',
     },
     'SLUS21821': {
         'id': 'SLUS21821',
@@ -9797,6 +10789,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pro%20Evolution%20Soccer%202009%20(USA).pdf',
     },
     'SLUS21918': {
         'id': 'SLUS21918',
@@ -9805,6 +10798,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pro%20Evolution%20Soccer%202010%20(USA).pdf',
     },
     'SLUS21942': {
         'id': 'SLUS21942',
@@ -9813,6 +10807,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pro%20Evolution%20Soccer%202011%20(USA).pdf',
     },
     'SLUS21948': {
         'id': 'SLUS21948',
@@ -9821,6 +10816,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pro%20Evolution%20Soccer%202012%20(USA).pdf',
     },
     'SLUS21955': {
         'id': 'SLUS21955',
@@ -9829,6 +10825,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pro%20Evolution%20Soccer%202013%20(USA).pdf',
     },
     'SLUS20329': {
         'id': 'SLUS20329',
@@ -9837,6 +10834,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pro%20Race%20Driver%20(USA).pdf',
     },
     'SLUS21037': {
         'id': 'SLUS21037',
@@ -9845,6 +10843,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Project-%20Snowblind%20(USA).pdf',
     },
     'SLUS20164': {
         'id': 'SLUS20164',
@@ -9853,6 +10852,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Project%20Eden%20(USA).pdf',
     },
     'SLUS21496': {
         'id': 'SLUS21496',
@@ -9861,6 +10861,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ProStroke%20Golf-%20World%20Tour%202007%20(USA).pdf',
     },
     'SLUS20172': {
         'id': 'SLUS20172',
@@ -9869,6 +10870,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/PRYZM%20Chapter%20One-%20Dark%20Unicorn%20(USA).pdf',
     },
     'SLUS20688': {
         'id': 'SLUS20688',
@@ -9877,6 +10879,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Psi-Ops-%20The%20Mindgate%20Conspiracy%20(USA).pdf',
     },
     'SLUS21120': {
         'id': 'SLUS21120',
@@ -9885,6 +10888,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Psychonauts%20(USA).pdf',
     },
     'SLUS21131': {
         'id': 'SLUS21131',
@@ -9893,6 +10897,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Pump%20It%20Up-%20Exceed%20(USA).pdf',
     },
     'SLUS21339': {
         'id': 'SLUS21339',
@@ -9901,6 +10906,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Puzzle%20Challenge-%20Crosswords%20and%20More!%20(USA).pdf',
     },
     'SLUS21692': {
         'id': 'SLUS21692',
@@ -9909,6 +10915,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Puzzle%20Quest-%20Challenge%20of%20the%20Warlords%20(USA).pdf',
     },
     'SLUS20070': {
         'id': 'SLUS20070',
@@ -9917,6 +10924,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Q-Ball%20Billiards%20Master%20(USA).pdf',
     },
     'SLUS20167': {
         'id': 'SLUS20167',
@@ -9925,6 +10933,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//79c7b852-dbb7-47db-b964-2698be61572a.png',
         'pic1': 'https://images.launchbox-app.com//54ec9160-082c-4206-a400-3fcfc02285ff.jpg',
         'snd0': 'https://www.youtube.com/watch?v=ZH51hb7hIN0&list=PL20723923F60F926A&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Quake%20III%20Revolution%20(USA).pdf',
     },
     'SLUS20721': {
         'id': 'SLUS20721',
@@ -9933,6 +10942,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//8d5c2dba-f99c-47a0-a018-ce7e6532c4fb.png',
         'pic1': 'https://images.launchbox-app.com//5a77d61e-34ee-4f31-86ad-9fba127661a3.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Ftuhsiqz18k&list=PLADyQGMt3MyAwCUCIT6UlwN1HvEu-bNB2&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/R-%20Racing%20Evolution%20(USA).pdf',
     },
     'SLUS20780': {
         'id': 'SLUS20780',
@@ -9941,6 +10951,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//c65fd915-fbb0-49fa-9ca8-0d37b6caa0ef.png',
         'pic1': 'https://images.launchbox-app.com//e59c7e8b-d979-4cf4-a140-abc7142bbbff.jpg',
         'snd0': 'https://www.youtube.com/watch?v=n-IoVZMzlAk&list=PLTmomcjY1VRye3aVPpRL9zSTFzvBgXDxD&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/R-Type%20Final%20(USA).pdf',
     },
     'SLUS20445': {
         'id': 'SLUS20445',
@@ -9949,6 +10960,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/R.A.D.-%20Robot%20Alchemic%20Drive%20(USA).pdf',
     },
     'SLUS21262': {
         'id': 'SLUS21262',
@@ -9957,6 +10969,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//c7c33778-147b-479e-b644-f0e50dce046e.png',
         'pic1': 'https://images.launchbox-app.com//b1be1e3b-dfb0-41e6-9039-1a15847e4b2d.jpg',
         'snd0': 'https://www.youtube.com/watch?v=XKdRJ4Hoosc&list=PLlGnorbnEvSn-WRjYB3-o0ikljgkyoRhm&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Radiata%20Stories%20(USA).pdf',
     },
     'SLUS21465': {
         'id': 'SLUS21465',
@@ -9965,6 +10978,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//4689930b-f195-46c2-af39-69fdb507e769.png',
         'pic1': 'https://images.launchbox-app.com//d7277129-69f1-43df-9526-503d6d6ca1cc.jpg',
         'snd0': 'https://www.youtube.com/watch?v=eZ3GNGBZ3Z4&list=PLLPoOFpf98RBPwp5LkPMVmYhltfYwmqAq&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Raiden%20III%20(USA).pdf',
     },
     'SLUS20361': {
         'id': 'SLUS20361',
@@ -9973,6 +10987,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rally%20Fusion-%20Race%20of%20Champions%20(USA).pdf',
     },
     'SLUS21323': {
         'id': 'SLUS21323',
@@ -9981,6 +10996,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rampage-%20Total%20Destruction%20(USA).pdf',
     },
     'SLUS21934': {
         'id': 'SLUS21934',
@@ -9989,6 +11005,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rapala%20Pro%20Bass%20Fishing%202010%20(USA).pdf',
     },
     'SLUS21012': {
         'id': 'SLUS21012',
@@ -9997,6 +11014,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rapala%20Pro%20Fishing%20(USA).pdf',
     },
     'SCUS97199': {
         'id': 'SCUS97199',
@@ -10013,6 +11031,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//4aa8c897-f861-4ba1-bea4-f0aa165948a7.png',
         'pic1': 'https://images.launchbox-app.com//10435069-2631-452d-bb1b-2ce5f5ca3be2.jpg',
         'snd0': 'https://www.youtube.com/watch?v=ppeESN91cyI&list=PLwxLlSv5mvIaQ_kytE9-OugbhEEyAIImG&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Ratchet-%20Deadlocked%20(USA).pdf',
     },
     'SCUS97268': {
         'id': 'SCUS97268',
@@ -10037,6 +11056,7 @@ games_ntsc_u = {
         'pic0': None,
         'pic1': 'https://images.launchbox-app.com//7094732d-a2ae-4102-9177-00e170e4d91e.jpg',
         'snd0': 'https://www.youtube.com/watch?v=VpbLPoS7Lpo&list=PLELtI_6_Po0axrj5ejYLdxIVFGksTwja5&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Ratchet%20%26%20Clank-%20Size%20Matters%20(USA).pdf',
     },
     'SCUS97353': {
         'id': 'SCUS97353',
@@ -10045,6 +11065,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//aa8374d9-48cd-4189-8a8a-6d1500a86bee.png',
         'pic1': 'https://images.launchbox-app.com//1af2a804-ff4b-4024-9efa-0677cc08f1d5.jpg',
         'snd0': 'https://www.youtube.com/watch?v=KNFDql4lCc8&list=PL40EC0886514E2E8A&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Ratchet%20%26%20Clank-%20Up%20Your%20Arsenal%20(USA).pdf',
     },
     'SLUS21501': {
         'id': 'SLUS21501',
@@ -10053,6 +11074,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Raw%20Danger%20(USA).pdf',
     },
     'SLUS21576': {
         'id': 'SLUS21576',
@@ -10069,6 +11091,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//2986689b-f12c-4f3f-991f-2e48535bc826.png',
         'pic1': 'https://images.launchbox-app.com//e7b6b782-d84d-4bdd-9e7e-151de7357b5a.jpg',
         'snd0': 'https://www.youtube.com/watch?v=ON8Y3BzcHQs&list=PLO4jlmGoc6uDX2KheLVyKXFjtMcx5_27w&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Rayman%202-%20Revolution%20(USA).pdf',
     },
     'SLUS20601': {
         'id': 'SLUS20601',
@@ -10077,6 +11100,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//37e0826d-90ba-4d86-b457-24286039b4be.png',
         'pic1': 'https://images.launchbox-app.com//dd5d464e-e40b-4558-9348-9d89f4b0672f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=QRfs9K2GDBk&list=PLH834K1pkcjKh6Kj486a-AEE-GwahwJoR&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Rayman%203-%20Hoodlum%20Havoc%20(USA).pdf',
     },
     'SLUS20272': {
         'id': 'SLUS20272',
@@ -10085,6 +11109,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//f9e8ddfd-cc40-41f7-84b5-e97be66c865d.png',
         'pic1': 'https://images.launchbox-app.com//929f9de3-290b-439a-852a-2bf5996ba2fa.jpg',
         'snd0': 'https://www.youtube.com/watch?v=2N2mEXdWdsY&list=PL52D7EB53ED9079E8&index=3',
+        'manual': 'https://www.videogamemanual.com/PS2/Rayman%20Arena%20(USA).pdf',
     },
     'SLUS20153': {
         'id': 'SLUS20153',
@@ -10093,6 +11118,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/RC%20Revenge%20Pro%20(USA).pdf',
     },
     'SLUS20054': {
         'id': 'SLUS20054',
@@ -10101,6 +11127,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ready%202%20Rumble%20Boxing-%20Round%202%20(USA).pdf',
     },
     'SLUS20032': {
         'id': 'SLUS20032',
@@ -10109,6 +11136,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Real%20Pool%20(USA).pdf',
     },
     'SLUS21332': {
         'id': 'SLUS21332',
@@ -10117,6 +11145,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Real%20World%20Golf%20(USA).pdf',
     },
     'SLUS21303': {
         'id': 'SLUS21303',
@@ -10125,6 +11154,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rebel%20Raiders-%20Operation%20Nighthawk%20(USA).pdf',
     },
     'SLUS20354': {
         'id': 'SLUS20354',
@@ -10133,6 +11163,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/RedCard%202003%20(USA).pdf',
     },
     'SLUS20500': {
         'id': 'SLUS20500',
@@ -10141,6 +11172,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//aee89c14-8c77-45a8-8f94-f962958565cb.png',
         'pic1': 'https://images.launchbox-app.com//b1da7709-9f0a-4ae5-8e2c-0acc2564aed6.jpg',
         'snd0': 'https://www.youtube.com/watch?v=7kjbGwyMr2k&list=PL661B491F8CB94F2D&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Red%20Dead%20Revolver%20(USA).pdf',
     },
     'SLUS20073': {
         'id': 'SLUS20073',
@@ -10149,6 +11181,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Red%20Faction%20(USA).pdf',
     },
     'SLUS20442': {
         'id': 'SLUS20442',
@@ -10157,6 +11190,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Red%20Faction%20II%20(USA).pdf',
     },
     'SLUS20714': {
         'id': 'SLUS20714',
@@ -10165,6 +11199,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/e8c5f35e-2d6e-4453-8943-530e3412f00b.png',
         'pic1': 'https://images.launchbox-app.com/35b5622c-ecc2-463f-9471-b00a16f89346.png',
         'snd0': 'https://www.youtube.com/watch?v=UAUKinUWBbg&list=PL7MYbpTxLNEOFFrpK8PLPv1NeEH7TLMSP&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Red%20Ninja-%20End%20of%20Honor%20(USA).pdf',
     },
     'SLUS20555': {
         'id': 'SLUS20555',
@@ -10173,6 +11208,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Reel%20Fishing%20III%20(USA).pdf',
     },
     'SLUS20556': {
         'id': 'SLUS20556',
@@ -10181,6 +11217,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Reign%20of%20Fire%20(USA).pdf',
     },
     'SLUS21479': {
         'id': 'SLUS21479',
@@ -10197,6 +11234,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/417b02fd-65f4-45b2-85e8-95b953adace2.png',
         'pic1': 'https://images.launchbox-app.com/6dbc7bc4-be7b-4bb3-b846-e7037219f8a5.jpg',
         'snd0': 'https://www.youtube.com/watch?v=_iQXXqpIgsY&list=PLmAjrkj1KHpKezCMrDT2xWiRe0nlo5eFU&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Resident%20Evil-%20Code%20Veronica%20X%20(USA).pdf',
     },
     'SLUS20669': {
         'id': 'SLUS20669',
@@ -10205,6 +11243,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/3e8b18d4-71d7-43c6-ad4b-dd10dae4345f.png',
         'pic1': 'https://images.launchbox-app.com/15c586ea-415b-4f84-b65d-c502bf2d5d04.jpg',
         'snd0': 'https://www.youtube.com/watch?v=6E3NUirqDPY&list=PLB69F2DE844696453&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Resident%20Evil-%20Dead%20Aim%20(USA).pdf',
     },
     'SLUS20765': {
         'id': 'SLUS20765',
@@ -10213,6 +11252,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/383007d8-1f01-4e8c-b0b6-c9afa301d20d.png',
         'pic1': 'https://images.launchbox-app.com/b29cf055-f5e8-4503-881d-e0247ac568d2.jpg',
         'snd0': 'https://www.youtube.com/watch?v=KFVYCDnafwo&list=PLCAE88F4BE9EB70B6&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Resident%20Evil-%20Outbreak%20(USA).pdf',
     },
     'SLUS20984': {
         'id': 'SLUS20984',
@@ -10221,6 +11261,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/11de07c7-27ec-449f-9eb1-0bf0c1f67e0a.png',
         'pic1': 'https://images.launchbox-app.com/b0ea18a0-a401-4d50-838c-007cb5415ead.jpg',
         'snd0': 'https://www.youtube.com/watch?v=YBzoEOieJFk&list=PL-EPbsmkjR1u1faBnT9hUaKeddXy8UEyQ&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Resident%20Evil-%20Outbreak%20File%20%232%20(USA).pdf',
     },
     'SLUS21134': {
         'id': 'SLUS21134',
@@ -10229,6 +11270,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/b3e0c1ca-e287-40cd-bc15-2ec1d6f8774d.png',
         'pic1': 'https://images.launchbox-app.com/29040f35-0540-4998-8196-64ac72191507.jpg',
         'snd0': 'https://www.youtube.com/watch?v=hNQ7Li2vfis&list=PLAs1Kha_R9dIvc0eE-BYV765HqlUTLni6&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Resident%20Evil%204%20(USA).pdf',
     },
     'SLUS20297': {
         'id': 'SLUS20297',
@@ -10237,6 +11279,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//39946f4f-b827-4853-9b03-5e5a652633b8.png',
         'pic1': 'https://images.launchbox-app.com//ec533215-449d-4f0d-a1b5-8a7fe4fb2934.jpg',
         'snd0': 'https://www.youtube.com/watch?v=-wj357iAcFw&list=PLmYc9gG3yj8TcGenNQ_j-4ICy58ixohLn&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Return%20to%20Castle%20Wolfenstein-%20Operation%20Resurrection%20(USA).pdf',
     },
     'SLUS20344': {
         'id': 'SLUS20344',
@@ -10245,6 +11288,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rez%20(USA).pdf',
     },
     'SLUS20837': {
         'id': 'SLUS20837',
@@ -10253,6 +11297,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ribbit%20King%20(USA).pdf',
     },
     'SLUS20914': {
         'id': 'SLUS20914',
@@ -10261,6 +11306,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ribbit%20King%20(USA).pdf',
     },
     'SLUS20002': {
         'id': 'SLUS20002',
@@ -10269,6 +11315,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//589e7408-4b27-4b32-9df5-3f6f42d55de6.png',
         'pic1': 'https://images.launchbox-app.com//8784999b-d8c8-4a8a-8a88-42be8dfa7649.jpg',
         'snd0': 'https://www.youtube.com/watch?v=dgW3TvN-wDY&list=PLADyQGMt3MyCPzMH8eJEcd4iaGA6STaMq&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Ridge%20Racer%20V%20(USA).pdf',
     },
     'SLUS20429': {
         'id': 'SLUS20429',
@@ -10277,6 +11324,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Riding%20Spirits%20(USA).pdf',
     },
     'SLUS21737': {
         'id': 'SLUS21737',
@@ -10285,6 +11333,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Riding%20Star%20(USA).pdf',
     },
     'SLUS20145': {
         'id': 'SLUS20145',
@@ -10293,6 +11342,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ring%20of%20Red%20(USA).pdf',
     },
     'SCUS97416': {
         'id': 'SCUS97416',
@@ -10301,6 +11351,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rise%20of%20the%20Kasai%20(USA).pdf',
     },
     'SLUS20390': {
         'id': 'SLUS20390',
@@ -10309,6 +11360,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Risk-%20Global%20Domination%20(USA).pdf',
     },
     'SLUS21275': {
         'id': 'SLUS21275',
@@ -10317,6 +11369,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/River%20King-%20A%20Wonderful%20Journey%20(USA).pdf',
     },
     'SLUS20037': {
         'id': 'SLUS20037',
@@ -10325,6 +11378,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Run%20Like%20Hell%20(USA).pdf',
     },
     'SLUS20398': {
         'id': 'SLUS20398',
@@ -10333,6 +11387,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ROAD%20TRIP%20(USA).pdf',
     },
     'SLUS20687': {
         'id': 'SLUS20687',
@@ -10341,6 +11396,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Road%20Kill%20(USA).pdf',
     },
     'SLUS20723': {
         'id': 'SLUS20723',
@@ -10349,6 +11405,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Robin%20Hood-%20Defender%20of%20the%20Crown%20(USA).pdf',
     },
     'SLUS20823': {
         'id': 'SLUS20823',
@@ -10357,6 +11414,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Robotech-%20Invasion%20(USA).pdf',
     },
     'SLUS20244': {
         'id': 'SLUS20244',
@@ -10365,6 +11423,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Robotech-%20Battlecry%20(USA).pdf',
     },
     'SLUS20942': {
         'id': 'SLUS20942',
@@ -10373,6 +11432,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Robots%20(USA).pdf',
     },
     'SLUS21682': {
         'id': 'SLUS21682',
@@ -10381,6 +11441,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rock%20Band%20(USA).pdf',
     },
     'SLUS21848': {
         'id': 'SLUS21848',
@@ -10389,6 +11450,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rock%20Band%20Track%20Pack-%20AC-DC%20Live%20(USA).pdf',
     },
     'SLUS21876': {
         'id': 'SLUS21876',
@@ -10397,6 +11459,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rock%20Band%20Track%20Pack-%20Classic%20Rock%20(USA).pdf',
     },
     'SLUS21888': {
         'id': 'SLUS21888',
@@ -10405,6 +11468,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rock%20Band%20Track%20Pack-%20Country%20(USA).pdf',
     },
     'SLUS21889': {
         'id': 'SLUS21889',
@@ -10413,6 +11477,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rock%20Band%20Track%20Pack-%20Metal%20(USA).pdf',
     },
     'SLUS21758': {
         'id': 'SLUS21758',
@@ -10421,6 +11486,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rock%20Band%20Track%20Pack%20Volume%201%20(USA).pdf',
     },
     'SLUS21830': {
         'id': 'SLUS21830',
@@ -10429,6 +11495,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rock%20Band%20Track%20Pack%20Volume%202%20(USA).pdf',
     },
     'SLUS21800': {
         'id': 'SLUS21800',
@@ -10437,6 +11504,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rock%20Band%202%20(USA).pdf',
     },
     'SLUS20473': {
         'id': 'SLUS20473',
@@ -10445,6 +11513,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rocket%20Power-%20Beach%20Bandits%20(USA).pdf',
     },
     'SLUS20559': {
         'id': 'SLUS20559',
@@ -10453,6 +11522,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rocky%20(USA).pdf',
     },
     'SLUS20890': {
         'id': 'SLUS20890',
@@ -10461,6 +11531,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rocky-%20Legends%20(USA).pdf',
     },
     'SCUS97490': {
         'id': 'SCUS97490',
@@ -10469,6 +11540,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//cf7f8d25-cd4e-46cf-83bf-103ad3b8f530.png',
         'pic1': 'https://images.launchbox-app.com//065d3a5c-d304-442c-a3ca-6cdf96abe937.jpg',
         'snd0': 'https://www.youtube.com/watch?v=2u__o9-znQU&list=PLFBFF38BB8995B23A&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Rogue%20Galaxy%20(USA).pdf',
     },
     'SLUS20746': {
         'id': 'SLUS20746',
@@ -10477,6 +11549,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rogue%20Ops%20(USA).pdf',
     },
     'SLUS21320': {
         'id': 'SLUS21320',
@@ -10485,6 +11558,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//d35d5730-0a07-4ce1-a903-9397915c5e76.png',
         'pic1': 'https://images.launchbox-app.com//717aab7c-29d0-46fc-9ea4-6a0af7fcff68.jpg',
         'snd0': 'https://www.youtube.com/watch?v=vXNu0v5J5uE&list=PL7E44ACD3730D6900&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Rogue%20Trooper%20(USA).pdf',
     },
     'SLUS20319': {
         'id': 'SLUS20319',
@@ -10493,6 +11567,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Romance%20of%20the%20Three%20Kingdoms%20VII%20(USA).pdf',
     },
     'SLUS20720': {
         'id': 'SLUS20720',
@@ -10501,6 +11576,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Romance%20of%20the%20Three%20Kingdoms%20VIII%20(USA).pdf',
     },
     'SLUS20879': {
         'id': 'SLUS20879',
@@ -10509,6 +11585,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Romance%20of%20the%20Three%20Kingdoms%20IX%20(USA).pdf',
     },
     'SLUS21202': {
         'id': 'SLUS21202',
@@ -10517,6 +11594,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Romance%20of%20the%20Three%20Kingdoms%20X%20(USA).pdf',
     },
     'SLUS21584': {
         'id': 'SLUS21584',
@@ -10525,6 +11603,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Romance%20of%20the%20Three%20Kingdoms%20XI%20(USA).pdf',
     },
     'SLUS21263': {
         'id': 'SLUS21263',
@@ -10533,6 +11612,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Romancing%20SaGa-%20Ministrel%20Song%20(USA).pdf',
     },
     'SLUS20340': {
         'id': 'SLUS20340',
@@ -10541,6 +11621,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/RPG%20Maker%20II%20(USA).pdf',
     },
     'SLUS21178': {
         'id': 'SLUS21178',
@@ -10549,6 +11630,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/RPG%20Maker%203%20(USA).pdf',
     },
     'SLUS20491': {
         'id': 'SLUS20491',
@@ -10557,6 +11639,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/RTX%20Red%20Rock%20(USA).pdf',
     },
     'SLUS21314': {
         'id': 'SLUS21314',
@@ -10565,6 +11648,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ruff%20Trigger-%20The%20Vanocore%20Conspiracy%20(USA).pdf',
     },
     'SLUS20443': {
         'id': 'SLUS20443',
@@ -10573,6 +11657,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rugrats-%20Royal%20Ransom%20(USA).pdf',
     },
     'SLUS21448': {
         'id': 'SLUS21448',
@@ -10590,6 +11675,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rumble%20Racing%20(USA).pdf',
     },
     'SLUS20970': {
         'id': 'SLUS20970',
@@ -10598,6 +11684,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rumble%20Roses%20(USA).pdf',
     },
     'SLUS20109': {
         'id': 'SLUS20109',
@@ -10606,6 +11693,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rune-%20Viking%20Warlord%20(USA).pdf',
     },
     'SLUS20471': {
         'id': 'SLUS20471',
@@ -10614,6 +11702,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Rygar-%20The%20Legendary%20Adventure%20(USA).pdf',
     },
     'SLUS20969': {
         'id': 'SLUS20969',
@@ -10622,6 +11711,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/S.L.A.I.%20-%20Steel%20Lancer%20Arena%20International%20(USA).pdf',
     },
     'SLUS21927': {
         'id': 'SLUS21927',
@@ -10630,6 +11720,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sakura%20Wars-%20So%20Long,%20My%20Love%20(USA).pdf',
     },
     'SLUS21930': {
         'id': 'SLUS21930',
@@ -10638,6 +11729,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sakura%20Wars-%20So%20Long,%20My%20Love%20(USA).pdf',
     },
     'SLUS20378': {
         'id': 'SLUS20378',
@@ -10646,6 +11738,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Salt%20Lake%202002%20(USA).pdf',
     },
     'SLUS21343': {
         'id': 'SLUS21343',
@@ -10654,6 +11747,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Samurai%20Champloo-%20Sidetracked%20(USA).pdf',
     },
     'SLUS20899': {
         'id': 'SLUS20899',
@@ -10662,6 +11756,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Samurai%20Jack-%20The%20Shadow%20of%20Aku%20(USA).pdf',
     },
     'SLUS21629': {
         'id': 'SLUS21629',
@@ -10670,6 +11765,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Samurai%20Shodown%20Anthology%20(USA).pdf',
     },
     'SLUS20878': {
         'id': 'SLUS20878',
@@ -10678,6 +11774,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Samurai%20Warriors%20(USA).pdf',
     },
     'SLUS21080': {
         'id': 'SLUS21080',
@@ -10686,6 +11783,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Samurai%20Warriors-%20Xtreme%20Legends%20(USA).pdf',
     },
     'SLUS21462': {
         'id': 'SLUS21462',
@@ -10694,6 +11792,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Samurai%20Warriors%202%20(USA).pdf',
     },
     'SLUS21585': {
         'id': 'SLUS21585',
@@ -10702,6 +11801,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Samurai%20Warriors%202-%20Empires%20(USA).pdf',
     },
     'SLUS21726': {
         'id': 'SLUS21726',
@@ -10710,6 +11810,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Samurai%20Warriors%202-%20Xtreme%20Legends%20(USA).pdf',
     },
     'SLUS21187': {
         'id': 'SLUS21187',
@@ -10718,6 +11819,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Samurai%20Western%20(USA).pdf',
     },
     'SLUS20640': {
         'id': 'SLUS20640',
@@ -10726,6 +11828,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Saturday%20Night%20Speedway%20(USA).pdf',
     },
     'SLUS20430': {
         'id': 'SLUS20430',
@@ -10734,6 +11837,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Savage%20Skies%20(USA).pdf',
     },
     'SLUS21817': {
         'id': 'SLUS21817',
@@ -10742,6 +11846,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SBK%20Superbike%20World%20Championship%20(USA).pdf',
     },
     'SLUS20957': {
         'id': 'SLUS20957',
@@ -10750,6 +11855,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Scaler%20(USA).pdf',
     },
     'SLUS21111': {
         'id': 'SLUS21111',
@@ -10776,6 +11882,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Scooby-Doo!%20and%20The%20Spooky%20Swamp%20(USA).pdf',
     },
     'SLUS21900': {
         'id': 'SLUS21900',
@@ -10784,6 +11891,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Scooby-Doo!%20First%20Frights%20(USA).pdf',
     },
     'SLUS20701': {
         'id': 'SLUS20701',
@@ -10792,6 +11900,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Scooby-Doo!%20Mystery%20Mayhem%20(USA).pdf',
     },
     'SLUS20349': {
         'id': 'SLUS20349',
@@ -10800,6 +11909,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Scooby-Doo!%20Night%20of%20100%20Frights%20(USA).pdf',
     },
     'SLUS21091': {
         'id': 'SLUS21091',
@@ -10808,6 +11918,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Scooby-Doo!%20Unmasked%20(USA).pdf',
     },
     'SLUS21850': {
         'id': 'SLUS21850',
@@ -10816,6 +11927,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/BAJA%201000%20(Score%20International)%20(USA).pdf',
     },
     'SLUS20698': {
         'id': 'SLUS20698',
@@ -10824,6 +11936,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SD%20Gundam%20Force-%20Showdown!%20(USA).pdf',
     },
     'SLUS21741': {
         'id': 'SLUS21741',
@@ -10832,6 +11945,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sea%20Monsters-%20A%20Prehistoric%20Adventure%20(USA).pdf',
     },
     'SLUS21289': {
         'id': 'SLUS21289',
@@ -10840,6 +11954,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shamu\'s%20Deep%20Sea%20Adventures%20(Sea%20World%20Adventure%20Park)%20(USA).pdf',
     },
     'SLUS21033': {
         'id': 'SLUS21033',
@@ -10848,6 +11963,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Second%20Sight%20(USA).pdf',
     },
     'SCUS97623': {
         'id': 'SCUS97623',
@@ -10856,6 +11972,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Secret%20Agent%20Clank%20(USA).pdf',
     },
     'SLUS21836': {
         'id': 'SLUS21836',
@@ -10864,6 +11981,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Secret%20Service%20(USA).pdf',
     },
     'SLUS20762': {
         'id': 'SLUS20762',
@@ -10872,6 +11990,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Secret%20Weapons%20Over%20Normandy%20(USA).pdf',
     },
     'SLUS20606': {
         'id': 'SLUS20606',
@@ -10880,6 +11999,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Seek%20and%20Destroy%20(USA).pdf',
     },
     'SLUS20339': {
         'id': 'SLUS20339',
@@ -10896,6 +12016,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sega%20Classics%20Collection%20(USA).pdf',
     },
     'SLUS21542': {
         'id': 'SLUS21542',
@@ -10904,6 +12025,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sega%20Genesis%20Collection%20(USA).pdf',
     },
     'SLUS20509': {
         'id': 'SLUS20509',
@@ -10912,6 +12034,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sega%20Soccer%20Slam%20(USA).pdf',
     },
     'SLUS20480': {
         'id': 'SLUS20480',
@@ -10920,6 +12043,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sega%20Sports%20Tennis%20(USA).pdf',
     },
     'SLUS20999': {
         'id': 'SLUS20999',
@@ -10928,6 +12052,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sega%20SuperStars%20(USA).pdf',
     },
     'SLUS21733': {
         'id': 'SLUS21733',
@@ -10936,6 +12061,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sega%20SuperStars%20Tennis%20(USA).pdf',
     },
     'SLUS20907': {
         'id': 'SLUS20907',
@@ -10944,6 +12070,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Serious%20Sam-%20Next%20Encounter%20(USA).pdf',
     },
     'SLUS20621': {
         'id': 'SLUS20621',
@@ -10952,6 +12079,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Seven%20Samurai%2020XX%20(USA).pdf',
     },
     'SLUS20347': {
         'id': 'SLUS20347',
@@ -10960,6 +12088,7 @@ games_ntsc_u = {
         'pic0':  'https://gamesdb-images.launchbox.gg/r2_e8b2c00c-3922-4ca5-a0f6-963bd8270ab5.png',
         'pic1': 'https://images.launchbox-app.com//5b8ab9ff-abdb-420b-883d-9206bc37028b.jpg',
         'snd0': 'https://www.youtube.com/watch?v=4z6hOVx33fE&list=PL7wKx1YpR-lzDJWbsAZadAy_KNVo7GM5q&index=63',
+        'manual': 'https://www.videogamemanual.com/PS2/Shadow%20Hearts%20(USA).pdf',
     },
     'SLUS21326': {
         'id': 'SLUS21326',
@@ -10968,6 +12097,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shadow%20Hearts-%20From%20the%20New%20World%20(USA).pdf',
     },
     'SLUS21041': {
         'id': 'SLUS21041',
@@ -10976,6 +12106,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shadow%20Hearts-%20Covenant%20(USA).pdf',
     },
     'SLUS21044': {
         'id': 'SLUS21044',
@@ -10984,6 +12115,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shadow%20Hearts-%20Covenant%20(USA).pdf',
     },
     'SLUS20413': {
         'id': 'SLUS20413',
@@ -10992,6 +12124,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shadow%20Man-%202econd%20Coming%20(USA).pdf',
     },
     'SLUS20146': {
         'id': 'SLUS20146',
@@ -11000,6 +12133,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shadow%20of%20Destiny%20(USA).pdf',
     },
     'SLUS20902': {
         'id': 'SLUS20902',
@@ -11008,6 +12142,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shadow%20of%20Rome%20(USA).pdf',
     },
     'SCUS97472': {
         'id': 'SCUS97472',
@@ -11016,6 +12151,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//02479353-a3b0-468e-a2c9-1d0f24127208.png',
         'pic1': 'https://images.launchbox-app.com//5016338d-426f-414a-85d0-4efa64931832.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Pdi1DSqBZ6Q&list=PLP305x78doI0efPOH7_cIlMXMR5WwMUOZ&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Shadow%20of%20the%20Colossus%20(USA).pdf',
     },
     'SLUS21261': {
         'id': 'SLUS21261',
@@ -11024,6 +12160,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shadow%20the%20Hedgehog%20(USA).pdf',
     },
     'SLUS20953': {
         'id': 'SLUS20953',
@@ -11032,6 +12169,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shaman%20King-%20Power%20of%20Spirit%20(USA).pdf',
     },
     'SLUS20199': {
         'id': 'SLUS20199',
@@ -11040,6 +12178,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shaun%20Palmer\'s%20Pro%20Snowboarder%20(USA).pdf',
     },
     'SLUS21853': {
         'id': 'SLUS21853',
@@ -11048,6 +12187,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shaun%20White%20Snowboarding%20(USA).pdf',
     },
     'SLUS20828': {
         'id': 'SLUS20828',
@@ -11056,6 +12196,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ShellShock-%20Nam%20\'67%20(USA).pdf',
     },
     'SLUS21798': {
         'id': 'SLUS21798',
@@ -11064,6 +12205,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shepherd\'s%20Crossing%20(USA).pdf',
     },
     'SLUS20271': {
         'id': 'SLUS20271',
@@ -11072,6 +12214,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shifters%20(USA).pdf',
     },
     'SLUS21431': {
         'id': 'SLUS21431',
@@ -11080,6 +12223,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/4e5e88a5-9909-4093-8939-bc1fc9cd43ec.png',
         'pic1': 'https://images.launchbox-app.com/c047f4cb-9303-4240-aad9-cb5646780f68.jpg',
         'snd0': 'https://www.youtube.com/watch?v=tdFxBQQdDm4&list=PL9mEmJrD9B_9uyxmc9QaUxjtcWoWShxa2&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Shin%20Megami%20Tensei-%20Devil%20Summoner-%20Raidou%20Kuzunoha%20vs%20The%20Soulless%20Army%20(USA).pdf',
     },
     'SLUS21845': {
         'id': 'SLUS21845',
@@ -11088,6 +12232,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/5aec9630-9791-4d1f-bab6-ac2d9025e8a9.png',
         'pic1': 'https://images.launchbox-app.com/80da5740-67c6-48ec-9240-9f0a9576e034.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Um_n7PvoQuo&list=PLjdSC-ENw035vvtznyh34CZEFPz52hmpL&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Shin%20Megami%20Tensei-%20Devil%20Summoner%202-%20Raidou%20Kuzunoha%20versus%20King%20Abaddon%20(USA).pdf',
     },
     'SLUS20974': {
         'id': 'SLUS20974',
@@ -11096,6 +12241,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/a501dbdc-fac0-4d7b-9516-c26b1093903d.png',
         'pic1': 'https://images.launchbox-app.com/4aef0da0-34cb-4641-8c03-406132df5101.jpg',
         'snd0': 'https://www.youtube.com/watch?v=wxFlSc_jwSc&list=PLjdSC-ENw036lEmAU-pYSA4Cx2O4P7teA&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Shin%20Megami%20Tensei-%20Digital%20Devil%20Saga%20(USA).pdf',
     },
     'SLUS21152': {
         'id': 'SLUS21152',
@@ -11104,6 +12250,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/b1fcb3da-3a6c-46e1-bd9f-61ae1cc0983e.png',
         'pic1': 'https://images.launchbox-app.com/edfe2ea4-ce52-4dc5-b1da-5c3569af9f10.jpg',
         'snd0': 'https://www.youtube.com/watch?v=71Up84h81fI&list=PLjdSC-ENw0347sLigA_XfOwtBY-fAwU9P&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Shin%20Megami%20Tensei-%20Digital%20Devil%20Saga%202%20(USA).pdf',
     },
     'SLUS20911': {
         'id': 'SLUS20911',
@@ -11112,6 +12259,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/57132b27-ee2c-4d9b-9411-ce6a882913f6.png',
         'pic1': 'https://images.launchbox-app.com/4abbb3fb-9090-449a-9028-45652424da8b.jpg',
         'snd0': 'https://www.youtube.com/watch?v=B0kzF7FN4Bo&list=PLm7EAh2SbstY3OVf1Cp_WRyCLa1X5W7mg&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Shin%20Megami%20Tensei-%20Nocturne%20(USA).pdf',
     },
     'SLUS21569': {
         'id': 'SLUS21569',
@@ -11120,6 +12268,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/a86cb347-ec72-489b-811e-0b959c879f23.png',
         'pic1': 'https://images.launchbox-app.com/b32575e1-0012-4cf7-b0c6-053cefe4d846.jpg',
         'snd0': 'https://www.youtube.com/watch?v=AcCoPQE6g10&list=PLSTGnKiOrGu6AjKEao_YeNd1dU1izbH41&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Shin%20Megami%20Tensei-%20Persona%203%20(USA).pdf',
     },
     'SLUS21621': {
         'id': 'SLUS21621',
@@ -11128,6 +12277,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/7aa85da3-418e-4712-8d8e-07145cf4421d.png',
         'pic1': 'https://images.launchbox-app.com/b32575e1-0012-4cf7-b0c6-053cefe4d846.jpg',
         'snd0': 'https://www.youtube.com/watch?v=AcCoPQE6g10&list=PLSTGnKiOrGu6AjKEao_YeNd1dU1izbH41&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Shin%20Megami%20Tensei-%20Persona%203%20FES%20(USA).pdf',
     },
     'SLUS21782': {
         'id': 'SLUS21782',
@@ -11136,6 +12286,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/ff2643f2-42a9-4ac3-b1a3-c671071616da.png',
         'pic1': 'https://images.launchbox-app.com/678d30f2-5e9e-4efd-8cb3-e3d0497f3831.jpg',
         'snd0': 'https://www.youtube.com/watch?v=cBWmvxc4L5I&list=PLBAF8C0CDA4778263&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Shin%20Megami%20Tensei-%20Persona%204%20(USA).pdf',
     },
     'SLUS21567': {
         'id': 'SLUS21567',
@@ -11144,6 +12295,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shining%20Force%20EXA%20(USA).pdf',
     },
     'SLUS21206': {
         'id': 'SLUS21206',
@@ -11152,6 +12304,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shining%20Force%20NEO%20(USA).pdf',
     },
     'SLUS21063': {
         'id': 'SLUS21063',
@@ -11160,6 +12313,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shining%20Tears%20(USA).pdf',
     },
     'SLUS20459': {
         'id': 'SLUS20459',
@@ -11168,6 +12322,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shinobi%20(USA).pdf',
     },
     'SLUS21857': {
         'id': 'SLUS21857',
@@ -11176,6 +12331,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Short%20Track%20Racing-%20Trading%20Paint%20(USA).pdf',
     },
     'SLUS21017': {
         'id': 'SLUS21017',
@@ -11184,6 +12340,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Showdown-%20Legends%20of%20Wrestling%20(USA).pdf',
     },
     'SLUS20533': {
         'id': 'SLUS20533',
@@ -11192,6 +12349,7 @@ games_ntsc_u = {
         'pic0':  'https://images.launchbox-app.com//aaa4e3f8-a301-451c-a30d-93b97cc62ef9.png',
         'pic1':  'https://cdn.mobygames.com/promos/4893863-shox-screenshot.jpg',
         'snd0': 'https://www.youtube.com/watch?v=uFwFjeN-bes&list=PLMIy-Q9Na5pPK1uJIdnNzuWZZgseMSoGv&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Shox%20(USA).pdf',
     },
     'SLUS21731': {
         'id': 'SLUS21731',
@@ -11200,6 +12358,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/545e82f0-4d6b-4c13-94d0-10d33bddbea7.png',
         'pic1': 'https://images.launchbox-app.com/061b07e7-b8d5-4449-a02c-29f78552458a.jpg',
         'snd0': 'https://www.youtube.com/watch?v=5XwpsKl7TZ4&list=PLOEAs04auvicnFmMWlbfCnk8s_ovb9EPV&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Silent%20Hill%20Origins%20(USA).pdf',
     },
     'SLUS21899': {
         'id': 'SLUS21899',
@@ -11208,6 +12367,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/8e55c9f2-dd89-48ba-9e7b-c24e4464e729.png',
         'pic1': 'https://images.launchbox-app.com/a394f82b-4e4c-429b-a327-c6ddd3e09799.jpg',
         'snd0': 'https://www.youtube.com/watch?v=2Sl7lkKWI_M&list=PLkC1g1Ei7UgRkmJrih1HtwIlPe3cLYCVE&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Silent%20Hill-%20Shattered%20Memories%20(USA).pdf',
     },
     'SLUS20228': {
         'id': 'SLUS20228',
@@ -11216,6 +12376,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/5c6fcd7c-7726-4c41-824d-c5e63300160f.png',
         'pic1': 'https://images.launchbox-app.com/bafebfb0-faf4-4b11-aa9b-6653e06d03ac.jpg',
         'snd0': 'https://www.youtube.com/watch?v=BMkLwDBY0e0&list=PLOEAs04auvietkxFG-8hjc80IIVBItX2r&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Silent%20Hill%202%20(USA).pdf',
     },
     'SLUS20622': {
         'id': 'SLUS20622',
@@ -11224,6 +12385,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/35ee76bd-24f8-491c-a7eb-b38106e63e16.png',
         'pic1': 'https://images.launchbox-app.com/5bda82af-e135-4710-a076-63c971c1297f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=5fO1e2MT2pk&list=PL5SMXYhIcZ5JYW6LyQ20XIcX8Vyn0pABb&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Silent%20Hill%203%20(USA).pdf',
     },
     'SLUS20873': {
         'id': 'SLUS20873',
@@ -11232,6 +12394,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/f2f930ba-c33c-456c-b40a-86014794d78d.png',
         'pic1': 'https://images.launchbox-app.com/24f2caa7-b5ba-42e0-a639-11e2dcd60a51.jpg',
         'snd0': 'https://www.youtube.com/watch?v=-KNqndgBG5o&list=PL5SMXYhIcZ5KdXzfrqqpjO0QzuZB65_cd&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Silent%20Hill%204-%20The%20Room%20(USA).pdf',
     },
     'SLUS20078': {
         'id': 'SLUS20078',
@@ -11240,6 +12403,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Silent%20Scope%20(USA).pdf',
     },
     'SLUS20243': {
         'id': 'SLUS20243',
@@ -11248,6 +12412,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Silent%20Scope%202-%20Dark%20Silhouette%20(USA).pdf',
     },
     'SLUS20514': {
         'id': 'SLUS20514',
@@ -11256,6 +12421,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Silent%20Scope%203%20(USA).pdf',
     },
     'SLUS20085': {
         'id': 'SLUS20085',
@@ -11264,6 +12430,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Silpheed-%20The%20Lost%20Planet%20(USA).pdf',
     },
     'SCUS97622': {
         'id': 'SCUS97622',
@@ -11272,6 +12439,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20\'80s%20(USA).pdf',
     },
     'SCUS97616': {
         'id': 'SCUS97616',
@@ -11280,6 +12448,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20\'80s%20(USA).pdf',
     },
     'SCUS97636': {
         'id': 'SCUS97636',
@@ -11288,6 +12457,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20\'90s%20(USA).pdf',
     },
     'SCUS97626': {
         'id': 'SCUS97626',
@@ -11296,6 +12466,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20\'90s%20(USA).pdf',
     },
     'SCUS97642': {
         'id': 'SCUS97642',
@@ -11304,6 +12475,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20ABBA%20(USA).pdf',
     },
     'SCUS97612': {
         'id': 'SCUS97612',
@@ -11312,6 +12484,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Amped%20(USA).pdf',
     },
     'SCUS97611': {
         'id': 'SCUS97611',
@@ -11320,6 +12493,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Amped%20(USA).pdf',
     },
     'SCUS97651': {
         'id': 'SCUS97651',
@@ -11328,6 +12502,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Country%20(USA).pdf',
     },
     'SCUS97650': {
         'id': 'SCUS97650',
@@ -11336,6 +12511,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Country%20(USA).pdf',
     },
     'SCUS94346': {
         'id': 'SCUS94346',
@@ -11344,6 +12520,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Latino%20(USA).pdf',
     },
     'SCUS97640': {
         'id': 'SCUS97640',
@@ -11352,6 +12529,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Legends%20(USA).pdf',
     },
     'SCUS97591': {
         'id': 'SCUS97591',
@@ -11360,6 +12538,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Pop%20(USA).pdf',
     },
     'SCUS97580': {
         'id': 'SCUS97580',
@@ -11368,6 +12547,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Pop%20(USA).pdf',
     },
     'SCUS97649': {
         'id': 'SCUS97649',
@@ -11376,6 +12556,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Pop%20Vol.%202%20(USA).pdf',
     },
     'SCUS97643': {
         'id': 'SCUS97643',
@@ -11384,6 +12565,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Queen%20(USA).pdf',
     },
     'SCUS97590': {
         'id': 'SCUS97590',
@@ -11392,6 +12574,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Rocks!%20(USA).pdf',
     },
     'SCUS97571': {
         'id': 'SCUS97571',
@@ -11400,6 +12583,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SingStar%20Rocks!%20(USA).pdf',
     },
     'SCUS97355': {
         'id': 'SCUS97355',
@@ -11408,6 +12592,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Siren%20(USA).pdf',
     },
     'SLUS20886': {
         'id': 'SLUS20886',
@@ -11416,6 +12601,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sitting%20Ducks%20(USA).pdf',
     },
     'SLUS21839': {
         'id': 'SLUS21839',
@@ -11424,6 +12610,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ski%20and%20Shoot%20(USA).pdf',
     },
     'SLUS21591': {
         'id': 'SLUS21591',
@@ -11432,6 +12619,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ski-Doo%20Sno%20X%20Racing%20(USA).pdf',
     },
     'SLUS20134': {
         'id': 'SLUS20134',
@@ -11440,6 +12628,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sky%20Odyssey%20(USA).pdf',
     },
     'SLUS20384': {
         'id': 'SLUS20384',
@@ -11448,6 +12637,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SkyGunner%20(USA).pdf',
     },
     'SLUS20363': {
         'id': 'SLUS20363',
@@ -11456,6 +12646,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sled%20Storm%20(USA).pdf',
     },
     'SCUS97198': {
         'id': 'SCUS97198',
@@ -11464,6 +12655,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sly%20Cooper%20and%20the%20Thievius%20Raccoonus%20(USA).pdf',
     },
     'SCUS97316': {
         'id': 'SCUS97316',
@@ -11472,6 +12664,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sly%202-%20Band%20of%20Thieves%20(USA).pdf',
     },
     'SCUS97464': {
         'id': 'SCUS97464',
@@ -11480,6 +12673,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sly%203-%20Honor%20Among%20Thieves%20(USA).pdf',
     },
     'SLUS20620': {
         'id': 'SLUS20620',
@@ -11488,6 +12682,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Smash%20Cars%20(USA).pdf',
     },
     'SLUS20286': {
         'id': 'SLUS20286',
@@ -11496,6 +12691,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Smash%20Court%20Tennis%20Pro%20Tournament%20(USA).pdf',
     },
     'SLUS20933': {
         'id': 'SLUS20933',
@@ -11504,6 +12700,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Smash%20Court%20Tennis%20Pro%20Tournament%202%20(USA).pdf',
     },
     'SLUS20065': {
         'id': 'SLUS20065',
@@ -11512,6 +12709,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Smuggler\'s%20Run%20(USA).pdf',
     },
     'SLUS20204': {
         'id': 'SLUS20204',
@@ -11520,6 +12718,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Smuggler\'s%20Run%202-%20Hostile%20Territory%20(USA).pdf',
     },
     'SLUS21231': {
         'id': 'SLUS21231',
@@ -11528,6 +12727,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sniper%20Elite%20(USA).pdf',
     },
     'SLUS21724': {
         'id': 'SLUS21724',
@@ -11536,6 +12736,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SNK%20Arcade%20Classics%20Vol.1%20(USA).pdf',
     },
     'SLUS21130': {
         'id': 'SLUS21130',
@@ -11544,6 +12745,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SnoCross%202-%20featuring%20Blair%20Morgan%20(USA).pdf',
     },
     'SLUS21380': {
         'id': 'SLUS21380',
@@ -11552,6 +12754,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Snoopy%20Vs.%20The%20Red%20Baron%20(USA).pdf',
     },
     'SLUS20196': {
         'id': 'SLUS20196',
@@ -11560,6 +12763,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Soccer%20America-%20International%20Cup%20(USA).pdf',
     },
     'SCUS97134': {
         'id': 'SCUS97134',
@@ -11568,6 +12772,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SOCOM-%20U.S.%20Navy%20SEALs%20(USA).pdf',
     },
     'SCUS97230': {
         'id': 'SCUS97230',
@@ -11576,6 +12781,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SOCOM-%20U.S.%20Navy%20SEALs%20(USA).pdf',
     },
     'SCUS97545': {
         'id': 'SCUS97545',
@@ -11584,6 +12790,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SOCOM-%20U.S.%20Navy%20SEALs-%20Combined%20Assault%20(USA).pdf',
     },
     'SCUS97275': {
         'id': 'SCUS97275',
@@ -11592,6 +12799,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SOCOM-%20U.S.%20Navy%20SEALs%20II%20(USA).pdf',
     },
     'SCUS97474': {
         'id': 'SCUS97474',
@@ -11600,6 +12808,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SOCOM-%20U.S.%20Navy%20SEALs%203%20(USA).pdf',
     },
     'SLUS20084': {
         'id': 'SLUS20084',
@@ -11608,6 +12817,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Soldier%20of%20Fortune-%20Gold%20Edition%20(USA).pdf',
     },
     'SLUS20718': {
         'id': 'SLUS20718',
@@ -11616,6 +12826,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sonic%20Heroes%20(USA).pdf',
     },
     'SLUS20917': {
         'id': 'SLUS20917',
@@ -11624,6 +12835,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sonic%20Mega%20Collection%20Plus%20(USA).pdf',
     },
     'SLUS21331': {
         'id': 'SLUS21331',
@@ -11632,6 +12844,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sonic%20Riders%20(USA).pdf',
     },
     'SLUS21642': {
         'id': 'SLUS21642',
@@ -11640,6 +12853,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sonic%20Riders-%20Zero%20Gravity%20(USA).pdf',
     },
     'SLUS21846': {
         'id': 'SLUS21846',
@@ -11648,6 +12862,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sonic%20Unleashed%20(USA).pdf',
     },
     'SLUS20643': {
         'id': 'SLUS20643',
@@ -11656,6 +12871,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Soul%20Calibur%20II%20(USA).pdf',
     },
     'SLUS21216': {
         'id': 'SLUS21216',
@@ -11664,6 +12880,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Soul%20Calibur%20III%20(USA).pdf',
     },
     'SLUS21603': {
         'id': 'SLUS21603',
@@ -11672,6 +12889,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Soul%20Nomad%20%26%20The%20World%20Eaters%20(USA).pdf',
     },
     'SLUS20806': {
         'id': 'SLUS20806',
@@ -11680,6 +12898,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Space%20Channel%205%20Special%20Edition%20(USA).pdf',
     },
     'SLUS20807': {
         'id': 'SLUS20807',
@@ -11688,6 +12907,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Space%20Channel%205%20Special%20Edition%20(USA).pdf',
     },
     'SLUS21783': {
         'id': 'SLUS21783',
@@ -11696,6 +12916,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Space%20Chimps%20(USA).pdf',
     },
     'SLUS21212': {
         'id': 'SLUS21212',
@@ -11704,6 +12925,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spartan-%20Total%20Warrior%20(USA).pdf',
     },
     'SLUS20707': {
         'id': 'SLUS20707',
@@ -11712,6 +12934,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spawn-%20Armageddon%20(USA).pdf',
     },
     'SLUS20584': {
         'id': 'SLUS20584',
@@ -11720,6 +12943,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Speed%20Kings%20(USA).pdf',
     },
     'SLUS21812': {
         'id': 'SLUS21812',
@@ -11728,6 +12952,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Speed%20Racer-%20The%20Video%20Game%20(USA).pdf',
     },
     'SLUS20482': {
         'id': 'SLUS20482',
@@ -11736,6 +12961,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sphinx%20and%20the%20Cursed%20Mummy%20(USA).pdf',
     },
     'SLUS20336': {
         'id': 'SLUS20336',
@@ -11744,6 +12970,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spider-Man-%20The%20Movie%20(USA).pdf',
     },
     'SLUS20776': {
         'id': 'SLUS20776',
@@ -11752,6 +12979,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spider-Man%202%20(USA).pdf',
     },
     'SLUS21552': {
         'id': 'SLUS21552',
@@ -11760,6 +12988,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spider-Man%203%20(USA).pdf',
     },
     'SLUS21600': {
         'id': 'SLUS21600',
@@ -11768,6 +12997,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spider-Man-%20Friend%20or%20Foe%20(USA).pdf',
     },
     'SLUS21822': {
         'id': 'SLUS21822',
@@ -11776,6 +13006,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spider-Man-%20Web%20of%20Shadows%20(Amazing%20Allies%20Edition)%20(USA).pdf',
     },
     'SLUS20223': {
         'id': 'SLUS20223',
@@ -11784,6 +13015,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Splashdown%20(USA).pdf',
     },
     'SLUS20686': {
         'id': 'SLUS20686',
@@ -11792,6 +13024,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Splashdown-%20Rides%20Gone%20Wild%20(USA).pdf',
     },
     'SLUS20680': {
         'id': 'SLUS20680',
@@ -11800,6 +13033,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SpongeBob%20SquarePants-%20The%20Battle%20for%20Bikini%20Bottom%20(USA).pdf',
     },
     'SLUS21391': {
         'id': 'SLUS21391',
@@ -11808,6 +13042,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SpongeBob%20Squarepants-%20Creature%20From%20the%20Kusty%20Krab%20(USA).pdf',
     },
     'SLUS21252': {
         'id': 'SLUS21252',
@@ -11816,6 +13051,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SpongeBob%20SquarePants-%20Lights,%20Camera,%20PANTS!%20(USA).pdf',
     },
     'SLUS20425': {
         'id': 'SLUS20425',
@@ -11824,6 +13060,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SpongeBob%20Squarepants-%20Revenge%20of%20the%20Flying%20Dutchman%20(USA).pdf',
     },
     'SLUS20904': {
         'id': 'SLUS20904',
@@ -11832,6 +13069,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SpongeBob%20SquarePants-%20The%20Movie%20(USA).pdf',
     },
     'SLUS21818': {
         'id': 'SLUS21818',
@@ -11840,6 +13078,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SpongeBob%20SquarePants%20featuring%20NickToons-%20Globs%20of%20Doom%20(USA).pdf',
     },
     'SLUS21644': {
         'id': 'SLUS21644',
@@ -11848,6 +13087,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SpongeBob\'s%20Atlantis%20SquarePantis%20(USA).pdf',
     },
     'SLUS21418': {
         'id': 'SLUS21418',
@@ -11856,6 +13096,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sprint%20Cars-%20Road%20to%20Knoxville%20(USA).pdf',
     },
     'SLUS21601': {
         'id': 'SLUS21601',
@@ -11864,6 +13105,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sprint%20Cars%202-%20Showdown%20at%20Eldora%20(USA).pdf',
     },
     'SLUS20856': {
         'id': 'SLUS20856',
@@ -11872,6 +13114,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spy%20Fiction%20(USA).pdf',
     },
     'SLUS20056': {
         'id': 'SLUS20056',
@@ -11880,6 +13123,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spy%20Hunter%20(USA).pdf',
     },
     'SLUS21421': {
         'id': 'SLUS21421',
@@ -11888,6 +13132,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spy%20Hunter-%20Nowhere%20To%20Run%20(USA).pdf',
     },
     'SLUS20590': {
         'id': 'SLUS20590',
@@ -11896,6 +13141,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spy%20Hunter%202%20(USA).pdf',
     },
     'SLUS20884': {
         'id': 'SLUS20884',
@@ -11904,6 +13150,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spyro-%20A%20Hero\'s%20Tail%20(USA).pdf',
     },
     'SLUS20315': {
         'id': 'SLUS20315',
@@ -11912,6 +13159,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spyro-%20Enter%20the%20Dragonfly%20(USA).pdf',
     },
     'SLUS20582': {
         'id': 'SLUS20582',
@@ -11920,6 +13168,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Street%20Racing%20Syndicate%20(USA).pdf',
     },
     'SLUS20095': {
         'id': 'SLUS20095',
@@ -11928,6 +13177,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SSX%20(USA).pdf',
     },
     'SLUS21278': {
         'id': 'SLUS21278',
@@ -11936,6 +13186,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SSX-%20On%20Tour%20(USA).pdf',
     },
     'SLUS20772': {
         'id': 'SLUS20772',
@@ -11944,6 +13195,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SSX%203%20(USA).pdf',
     },
     'SLES51697': {
         'id': 'SLES51697',
@@ -11951,7 +13203,8 @@ games_ntsc_u = {
         'icon0': 'https://images.launchbox-app.com/360ae6a9-bca4-4a46-bc31-585fd4d25f7f.jpg',
         'pic0': 'https://images.launchbox-app.com/48145249-3d39-48ff-b8d5-4c82ce61d0e2.png',
         'pic1': 'https://images.launchbox-app.com/f70af552-5e16-4e0b-8155-fa76d942c859.jpg',
-        'snd0': 'https://www.youtube.com/watch?v=E4GU9rmkNTY'
+        'snd0': 'https://www.youtube.com/watch?v=E4GU9rmkNTY',
+        'manual': 'https://www.videogamemanual.com/PS2/SSX%203%20(USA).pdf',
     },
     'SLUS20326': {
         'id': 'SLUS20326',
@@ -11960,6 +13213,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SSX%20Tricky%20(USA).pdf',
     },
     'SLUS21259': {
         'id': 'SLUS21259',
@@ -11968,6 +13222,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Stacked%20with%20Daniel%20Negreanu%20(USA).pdf',
     },
     'SLUS20488': {
         'id': 'SLUS20488',
@@ -11976,6 +13231,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/b64d4cf7-948f-4217-8a28-2b36cf656b76.png',
         'pic1': 'https://images.launchbox-app.com/24f2713e-4933-4b80-bcb7-bcca72615952.jpg',
         'snd0': 'https://www.youtube.com/watch?v=pEMr9waZaaw&list=PLeQ8lYZtvUXMAlt_yJZ1idTy7FtkzsImu&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Ocean-%20Till%20the%20End%20of%20Time%20(USA).pdf',
     },
     'SLUS20891': {
         'id': 'SLUS20891',
@@ -11984,6 +13240,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/b64d4cf7-948f-4217-8a28-2b36cf656b76.png',
         'pic1': 'https://images.launchbox-app.com/24f2713e-4933-4b80-bcb7-bcca72615952.jpg',
         'snd0': 'https://www.youtube.com/watch?v=pEMr9waZaaw&list=PLeQ8lYZtvUXMAlt_yJZ1idTy7FtkzsImu&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Ocean-%20Till%20the%20End%20of%20Time%20(USA).pdf',
     },
     'SLUS21630': {
         'id': 'SLUS21630',
@@ -11992,6 +13249,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Trek-%20Conquest%20(USA).pdf',
     },
     'SLUS21396': {
         'id': 'SLUS21396',
@@ -12000,6 +13258,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Trek-%20Encounters%20(USA).pdf',
     },
     'SLUS20112': {
         'id': 'SLUS20112',
@@ -12008,6 +13267,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Trek-%20Shattered%20Universe%20(USA).pdf',
     },
     'SLUS20227': {
         'id': 'SLUS20227',
@@ -12016,6 +13276,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Trek%20Voyager-%20Elite%20Force%20(USA).pdf',
     },
     'SLUS20898': {
         'id': 'SLUS20898',
@@ -12024,6 +13285,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//478fe84f-c79a-4cb7-9b88-d840d323d34d.png',
         'pic1': 'https://images.launchbox-app.com//81a28eaa-beaa-4c9f-9c40-c32a945e2046.jpg',
         'snd0': 'https://www.youtube.com/watch?v=8Ymavqg-8no&list=PLonU6sZXHsfqsZOtXqeuKXmmXRG7pzyhL&index=3',
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Wars-%20Battlefront%20(USA).pdf',
     },
     'SLUS21240': {
         'id': 'SLUS21240',
@@ -12032,6 +13294,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//ad0e79a9-1cfc-4058-bda5-2e791426175e.png',
         'pic1': 'https://images.launchbox-app.com//839342cd-4112-42c9-a3f9-1693add74a14.jpg',
         'snd0': 'https://www.youtube.com/watch?v=wD8ePd6kAjc&list=PLon7WNA0Cke7O1FnbEFUNJ5LjEC-tBZ2B&index=122',
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Wars-%20Battlefront%20II%20(USA).pdf',
     },
     'SLUS20420': {
         'id': 'SLUS20420',
@@ -12040,6 +13303,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//58202bfd-9064-4ea8-b8c1-6de86465c0f3.png',
         'pic1': 'https://images.launchbox-app.com//c879a998-bd7b-4495-aa10-7a14126a111f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=cl1mT5jFvjY&list=PLKFCowJ7eV_tdmFKkDqSr8-qCbTfgqPTK&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Wars-%20Bounty%20Hunter%20(USA).pdf',
     },
     'SLUS21143': {
         'id': 'SLUS21143',
@@ -12048,6 +13312,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//6e953210-61ab-401f-9bce-ef9573610f33.png',
         'pic1': 'https://images.launchbox-app.com//4f9e3895-d439-4482-87c4-9a60d4011396.jpg',
         'snd0': 'https://www.youtube.com/watch?v=cikS4oh6nag&list=PLqGhVyOFc2J3Lt23F5b8RctjHYDwxx_QN&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Wars-%20Episode%20III-%20Revenge%20of%20the%20Sith%20(USA).pdf',
     },
     'SLUS20293': {
         'id': 'SLUS20293',
@@ -12056,6 +13321,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//48241806-fc54-4189-a744-3b72b36d7bdc.png',
         'pic1': 'https://images.launchbox-app.com//e9df000a-bace-426f-9171-b96f5458cd46.jpg',
         'snd0': 'https://www.youtube.com/watch?v=wD8ePd6kAjc&list=PLon7WNA0Cke7O1FnbEFUNJ5LjEC-tBZ2B&index=122',
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Wars-%20Jedi%20Starfighter%20(USA).pdf',
     },
     'SLUS20268': {
         'id': 'SLUS20268',
@@ -12064,6 +13330,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Wars-%20Racer%20Revenge%20(USA).pdf',
     },
     'SLUS20044': {
         'id': 'SLUS20044',
@@ -12072,6 +13339,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Wars-%20Starfighter%20(USA).pdf',
     },
     'SLUS20043': {
         'id': 'SLUS20043',
@@ -12080,6 +13348,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Wars-%20Super%20Bombad%20Racing%20(USA).pdf',
     },
     'SLUS20510': {
         'id': 'SLUS20510',
@@ -12088,6 +13357,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Wars-%20The%20Clone%20Wars%20(USA).pdf',
     },
     'SLUS21913': {
         'id': 'SLUS21913',
@@ -12096,6 +13366,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Wars-%20The%20Clone%20Wars-%20Republic%20Heroes%20(USA).pdf',
     },
     'SLUS21614': {
         'id': 'SLUS21614',
@@ -12104,6 +13375,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Star%20Wars-%20The%20Force%20Unleashed%20(USA).pdf',
     },
     'SLUS20619': {
         'id': 'SLUS20619',
@@ -12112,6 +13384,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Starsky%20%26%20Hutch%20(Gotham%20Games)%20(USA).pdf',
     },
     'SLUS20214': {
         'id': 'SLUS20214',
@@ -12120,6 +13393,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/State%20of%20Emergency%20(USA).pdf',
     },
     'SLUS20966': {
         'id': 'SLUS20966',
@@ -12128,6 +13402,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/State%20of%20Emergency%202%20(USA).pdf',
     },
     'SLUS21344': {
         'id': 'SLUS21344',
@@ -12136,6 +13411,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Steambot%20Chronicles%20(USA).pdf',
     },
     'SLUS21132': {
         'id': 'SLUS21132',
@@ -12144,6 +13420,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Stella%20Deus-%20The%20Gate%20of%20Eternity%20(USA).pdf',
     },
     'SLUS21099': {
         'id': 'SLUS21099',
@@ -12152,6 +13429,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Stolen%20(USA).pdf',
     },
     'SLUS21497': {
         'id': 'SLUS21497',
@@ -12160,6 +13438,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Strawberry%20Shortcake-%20The%20Sweet%20Dreams%20Game%20(USA).pdf',
     },
     'SLUS21317': {
         'id': 'SLUS21317',
@@ -12168,6 +13447,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Street%20Fighter%20Alpha%20Anthology%20(USA).pdf',
     },
     'SLUS20949': {
         'id': 'SLUS20949',
@@ -12176,6 +13456,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Street%20Fighter%20Anniversary%20Collection%20(USA).pdf',
     },
     'SLUS20130': {
         'id': 'SLUS20130',
@@ -12184,6 +13465,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Street%20Fighter%20EX3%20(USA).pdf',
     },
     'SLUS20299': {
         'id': 'SLUS20299',
@@ -12192,6 +13474,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Street%20Hoops%20(USA).pdf',
     },
     'SLUS20182': {
         'id': 'SLUS20182',
@@ -12200,6 +13483,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Stretch%20Panic%20(USA).pdf',
     },
     'SLUS20846': {
         'id': 'SLUS20846',
@@ -12208,6 +13492,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Strike%20Force%20Bowling%20(USA).pdf',
     },
     'SLUS21341': {
         'id': 'SLUS21341',
@@ -12216,6 +13501,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Stuart%20Little%203-%20Big%20Photo%20Adventure%20(USA).pdf',
     },
     'SLUS20218': {
         'id': 'SLUS20218',
@@ -12224,6 +13510,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Stunt%20GP%20(USA).pdf',
     },
     'SLUS20250': {
         'id': 'SLUS20250',
@@ -12232,6 +13519,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Stuntman%20(USA).pdf',
     },
     'SLUS21626': {
         'id': 'SLUS21626',
@@ -12240,6 +13528,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Stuntman-%20Ignition%20(USA).pdf',
     },
     'SLUS20548': {
         'id': 'SLUS20548',
@@ -12248,6 +13537,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sub%20Rebellion%20(USA).pdf',
     },
     'SLUS20387': {
         'id': 'SLUS20387',
@@ -12256,6 +13546,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/b6676e5d-7c16-45a7-a702-f664ae4dc1ad.png',
         'pic1': 'https://images.launchbox-app.com/95033451-affa-4936-9df0-0bd6c0f52282.jpg',
         'snd0': 'https://www.youtube.com/watch?v=7wOotwsvk1E&list=PLjyLjyXJQJUP7ma3lt7lk5n30Yht8LjCm&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Suikoden%20III%20(USA).pdf',
     },
     'SLUS20979': {
         'id': 'SLUS20979',
@@ -12264,6 +13555,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/fa217023-33e5-4fcc-ab33-132465ece05a.png',
         'pic1': 'https://images.launchbox-app.com/e6da1f46-66bb-4a32-993a-8a7ef5ac1d04.jpg',
         'snd0': 'https://www.youtube.com/watch?v=u8LVViFSSXY&list=PLp_nLDzWK5NU-I5cWz8EM7L0Fw6ReAE0Z&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Suikoden%20IV%20(USA).pdf',
     },
     'SLUS21291': {
         'id': 'SLUS21291',
@@ -12272,6 +13564,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/c0313789-b1cd-4685-8795-b289816e935a.png',
         'pic1': 'https://images.launchbox-app.com/25f13258-8044-4cdf-93d2-b9196553692a.jpg',
         'snd0': 'https://www.youtube.com/watch?v=Vp4yWb9h2Og&list=PLhPt7n-ALrSBZSqpb7uql8EG7eJufteu_&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Suikoden%20V%20(USA).pdf',
     },
     'SLUS22145': {
         'id': 'SLUS22145',
@@ -12280,6 +13573,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Suikoden%20Tactics%20(USA).pdf',
     },
     'SLUS21786': {
         'id': 'SLUS21786',
@@ -12288,6 +13582,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Summer%20Athletics-%20The%20Ultimate%20Challenge%20(USA).pdf',
     },
     'SLUS20634': {
         'id': 'SLUS20634',
@@ -12296,6 +13591,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Summer%20Heat%20Beach%20Volleyball%20(USA).pdf',
     },
     'SLUS20074': {
         'id': 'SLUS20074',
@@ -12304,6 +13600,7 @@ games_ntsc_u = {
         'pic0': None, #'https://images.launchbox-app.com//975584ac-f949-4796-8d4e-34d3afe04453.png',
         'pic1': 'https//images.launchbox-app.com//a65c8080-3d7b-462c-9c9b-1d3356b91dbc.jpg',
         'snd0': 'https//www.youtube.com/watch?v=yUc1e7oYNyM&list=PLBE93875B2F47C61F&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Summoner%20(USA).pdf',
     },
     'SLUS20448': {
         'id': 'SLUS20448',
@@ -12312,6 +13609,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//d860fd7d-3645-4860-a5af-5b913bc7c6e6.png',
         'pic1': 'https://images.launchbox-app.com//521fa5cc-e90a-43d7-84de-b0c9c3b370e6.jpg',
         'snd0': 'https://www.youtube.com/watch?v=mdcSJCVIp9E',
+        'manual': 'https://www.videogamemanual.com/PS2/Summoner%202%20(USA).pdf',
     },
     'SLUS20208': {
         'id': 'SLUS20208',
@@ -12320,6 +13618,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sunny%20Garcia%20Surfing%20(USA).pdf',
     },
     'SLUS20115': {
         'id': 'SLUS20115',
@@ -12328,6 +13627,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Super%20Bust-A-Move%20(USA).pdf',
     },
     'SLUS20460': {
         'id': 'SLUS20460',
@@ -12336,6 +13636,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Super%20Bust-A-Move%202%20(USA).pdf',
     },
     'SLUS21442': {
         'id': 'SLUS21442',
@@ -12344,6 +13645,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Super%20Dragon%20Ball%20Z%20(USA).pdf',
     },
     'SLUS21272': {
         'id': 'SLUS21272',
@@ -12352,6 +13654,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Super%20Monkey%20Ball%20Adventure%20(USA).pdf',
     },
     'SLUS20918': {
         'id': 'SLUS20918',
@@ -12360,6 +13663,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Super%20Monkey%20Ball%20Deluxe%20(USA).pdf',
     },
     'SLUS21450': {
         'id': 'SLUS21450',
@@ -12368,6 +13672,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Super%20PickUps%20(USA).pdf',
     },
     'SLUS20748': {
         'id': 'SLUS20748',
@@ -12376,6 +13681,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Super%20Trucks%20Racing%20(USA).pdf',
     },
     'SLUS20012': {
         'id': 'SLUS20012',
@@ -12384,6 +13690,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Supercar%20Street%20Challenge%20(USA).pdf',
     },
     'SLUS20235': {
         'id': 'SLUS20235',
@@ -12392,6 +13699,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Superman-%20Shadow%20of%20Apokolips%20(USA).pdf',
     },
     'SLUS21434': {
         'id': 'SLUS21434',
@@ -12400,6 +13708,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Superman%20Returns-%20The%20Videogame%20(USA).pdf',
     },
     'SLUS20092': {
         'id': 'SLUS20092',
@@ -12408,6 +13717,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Surfing%20H30%20(USA).pdf',
     },
     'SLUS21572': {
         'id': 'SLUS21572',
@@ -12416,6 +13726,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Surf\'s%20Up%20(USA).pdf',
     },
     'SLUS21500': {
         'id': 'SLUS21500',
@@ -12424,6 +13735,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Suzuki%20Super-bikes%20II-%20Riding%20Challenge%20(USA).pdf',
     },
     'SLUS20912': {
         'id': 'SLUS20912',
@@ -12432,6 +13744,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Suzuki%20TT%20Superbikes%20(USA).pdf',
     },
     'SLUS20912': {
         'id': 'SLUS20912',
@@ -12440,6 +13753,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Suzuki%20TT%20Superbikes-%20Real%20Road%20Racing%20Championship%20(USA).pdf',
     },
     'SLUS21863': {
         'id': 'SLUS21863',
@@ -12448,6 +13762,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Suzuki%20TT%20Superbikes-%20Real%20Road%20Racing%20Championship%20(USA).pdf',
     },
     'SLUS21691': {
         'id': 'SLUS21691',
@@ -12456,6 +13771,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Swashbucklers-%20Blue%20Vs.%20Grey%20(USA).pdf',
     },
     'SLUS20433': {
         'id': 'SLUS20433',
@@ -12464,6 +13780,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/SWAT-%20Global%20Strike%20Team%20(USA).pdf',
     },
     'SLUS20096': {
         'id': 'SLUS20096',
@@ -12472,6 +13789,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Swing%20Away%20Golf%20(USA).pdf',
     },
     'SCUS97362': {
         'id': 'SCUS97362',
@@ -12480,6 +13798,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Syphon%20Filter-%20Dark%20Mirror%20(USA).pdf',
     },
     'SCUS97584': {
         'id': 'SCUS97584',
@@ -12488,6 +13807,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Syphon%20Filter-%20Logan\'s%20Shadow%20(USA).pdf',
     },
     'SCUS97264': {
         'id': 'SCUS97264',
@@ -12496,6 +13816,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Syphon%20Filter-%20The%20Omega%20Strain%20(USA).pdf',
     },
     'SLUS21595': {
         'id': 'SLUS21595',
@@ -12504,6 +13825,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/T.M.N.T.%20-%20Teenage%20Mutant%20Ninja%20Turtles%20(USA).pdf',
     },
     'SLUS20800': {
         'id': 'SLUS20800',
@@ -12512,6 +13834,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Taiko%20Drum%20Master%20(USA).pdf',
     },
     'SLUS21122': {
         'id': 'SLUS21122',
@@ -12520,6 +13843,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Taito%20Legends%20(USA).pdf',
     },
     'SLUS21349': {
         'id': 'SLUS21349',
@@ -12528,6 +13852,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Taito%20Legends%202%20(USA).pdf',
     },
     'SLUS21218': {
         'id': 'SLUS21218',
@@ -12536,6 +13861,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tak-%20The%20Great%20Juju%20Challenge%20(USA).pdf',
     },
     'SLUS20952': {
         'id': 'SLUS20952',
@@ -12544,6 +13870,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tak%202-%20The%20Staff%20of%20Dreams%20(USA).pdf',
     },
     'SLUS21797': {
         'id': 'SLUS21797',
@@ -12552,6 +13879,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tak%20and%20the%20Guardians%20of%20Gross%20(USA).pdf',
     },
     'SLUS20519': {
         'id': 'SLUS20519',
@@ -12560,6 +13888,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tak%20and%20the%20Power%20of%20Juju%20(USA).pdf',
     },
     'SLUS21201': {
         'id': 'SLUS21201',
@@ -12568,6 +13897,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tales%20of%20Legendia%20(USA).pdf',
     },
     'SLUS21386': {
         'id': 'SLUS21386',
@@ -12576,6 +13906,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tales%20of%20the%20Abyss%20(USA).pdf',
     },
     'SLUS20236': {
         'id': 'SLUS20236',
@@ -12584,6 +13915,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Taz-%20Wanted%20(USA).pdf',
     },
     'SLUS21019': {
         'id': 'SLUS21019',
@@ -12592,6 +13924,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Technic%20Beat%20(USA).pdf',
     },
     'SLUS21183': {
         'id': 'SLUS21183',
@@ -12600,6 +13933,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Teen%20Titans%20(USA).pdf',
     },
     'SLUS20716': {
         'id': 'SLUS20716',
@@ -12608,6 +13942,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Teenage%20Mutant%20Ninja%20Turtles%20(USA).pdf',
     },
     'SLUS20981': {
         'id': 'SLUS20981',
@@ -12616,6 +13951,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Teenage%20Mutant%20Ninja%20Turtles%202-%20BattleNexus%20(USA).pdf',
     },
     'SLUS21184': {
         'id': 'SLUS21184',
@@ -12624,6 +13960,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Teenage%20Mutant%20Ninja%20Turtles%203-%20Mutant%20Nightmare%20(USA).pdf',
     },
     'SLUS21904': {
         'id': 'SLUS21904',
@@ -12632,6 +13969,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Teenage%20Mutant%20Ninja%20Turtles-%20Smash-Up%20(USA).pdf',
     },
     'SLUS20328': {
         'id': 'SLUS20328',
@@ -12640,6 +13978,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tekken%204%20(USA).pdf',
     },
     'SLUS21059': {
         'id': 'SLUS21059',
@@ -12648,6 +13987,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tekken%205%20(USA).pdf',
     },
     'SCES53202': {
         'id': 'SCES53202',
@@ -12655,7 +13995,8 @@ games_ntsc_u = {
         'icon0': 'https://images.launchbox-app.com/022b1705-152d-42e3-808a-c93b946faf8d.jpg',
         'pic0': 'https://images.launchbox-app.com/34c5a7cf-2c8e-4f76-b240-583bde3739dc.png',
         'pic1': 'https://images.launchbox-app.com/c8e949a6-1f81-4bb9-96ac-4a4988b83f66.jpg',
-        'snd0': 'https://www.youtube.com/watch?v=Yh-iRcYYIG4'
+        'snd0': 'https://www.youtube.com/watch?v=Yh-iRcYYIG4',
+        'manual': 'https://www.videogamemanual.com/PS2/Tekken%205%20(USA).pdf',
     },
     'SLUS20934': {
         'id': 'SLUS20934',
@@ -12664,6 +14005,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Death%20by%20Degrees%20(USA).pdf',
     },
     'SLUS20001': {
         'id': 'SLUS20001',
@@ -12672,6 +14014,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tekken%20Tag%20Tournament%20(USA).pdf',
     },
     'SLUS21129': {
         'id': 'SLUS21129',
@@ -12680,6 +14023,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tenchu-%20Fatal%20Shadows%20(USA).pdf',
     },
     'SLUS20397': {
         'id': 'SLUS20397',
@@ -12688,6 +14032,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tenchu-%20Wrath%20of%20Heaven%20(USA).pdf',
     },
     'SLUS20799': {
         'id': 'SLUS20799',
@@ -12696,6 +14041,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Terminator%203-%20Rise%20of%20the%20Machines%20(USA).pdf',
     },
     'SLUS20852': {
         'id': 'SLUS20852',
@@ -12704,6 +14050,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Terminator%203-%20The%20Redemption%20(USA).pdf',
     },
     'SLUS20213': {
         'id': 'SLUS20213',
@@ -12712,6 +14059,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Test%20Drive%20(USA).pdf',
     },
     'SLUS20910': {
         'id': 'SLUS20910',
@@ -12720,6 +14068,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Test%20Drive-%20Eve%20of%20Destruction%20(USA).pdf',
     },
     'SLUS20177': {
         'id': 'SLUS20177',
@@ -12728,6 +14077,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Test%20Drive%20Off-Road-%20Wide%20Open%20(USA).pdf',
     },
     'SLUS21490': {
         'id': 'SLUS21490',
@@ -12736,6 +14086,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Test%20Drive-%20Unlimited%20(USA).pdf',
     },
     'SLUS20247': {
         'id': 'SLUS20247',
@@ -12744,6 +14095,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tetris%20Worlds%20(USA).pdf',
     },
     'SLUS21618': {
         'id': 'SLUS21618',
@@ -12752,6 +14104,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Plan,%20Th3%20(USA).pdf',
     },
     'SLUS20170': {
         'id': 'SLUS20170',
@@ -12778,6 +14131,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jimmy%20Neutron%20Boy%20Genius,%20The%20Adventures%20of-%20Attack%20of%20the%20Twonkies%20(USA).pdf',
     },
     'SLUS21415': {
         'id': 'SLUS21415',
@@ -12786,6 +14140,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ant%20Bully,%20The%20(USA).pdf',
     },
     'SLUS20803': {
         'id': 'SLUS20803',
@@ -12794,6 +14149,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Bard\'s%20Tale,%20The%20(USA).pdf',
     },
     'SLUS21175': {
         'id': 'SLUS21175',
@@ -12802,6 +14158,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Bible%20Game,%20The%20(USA).pdf',
     },
     'SLUS21623': {
         'id': 'SLUS21623',
@@ -12810,6 +14167,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/BIGS,%20The%20[Pujols%20cover]%20(USA).pdf',
     },
     'SLUS21860': {
         'id': 'SLUS21860',
@@ -12818,6 +14176,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/BIGS%202,%20The%20(USA).pdf',
     },
     'SLUS20069': {
         'id': 'SLUS20069',
@@ -12826,6 +14185,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Bouncer,%20The%20(USA).pdf',
     },
     'SLUS21756': {
         'id': 'SLUS21756',
@@ -12834,6 +14194,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Chronicles%20of%20Narnia,%20The-%20Prince%20Caspian%20(USA).pdf',
     },
     'SLUS21082': {
         'id': 'SLUS21082',
@@ -12842,6 +14203,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Chronicles%20of%20Narnia,%20The-%20The%20Lion,%20The%20Witch%20and%20The%20Wardrobe%20(USA).pdf',
     },
     'SLUS21443': {
         'id': 'SLUS21443',
@@ -12850,6 +14212,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/DaVinci%20Code,%20The%20(USA).pdf',
     },
     'SLUS20543': {
         'id': 'SLUS20543',
@@ -12858,6 +14221,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Metal%20Gear%20Solid%202,%20The%20Document%20of%20(USA).pdf',
     },
     'SLUS21551': {
         'id': 'SLUS21551',
@@ -12866,6 +14230,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dog%20Island,%20The-%20Artlist%20Collection%20(USA).pdf',
     },
     'SLUS20959': {
         'id': 'SLUS20959',
@@ -12874,6 +14239,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Dukes%20of%20Hazzard,%20The-%20Return%20of%20the%20General%20Lee%20(USA).pdf',
     },
     'SLUS20661': {
         'id': 'SLUS20661',
@@ -12882,6 +14248,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fairly%20Odd%20Parents,%20The-%20Breakin\'%20Da%20Rules%20(USA).pdf',
     },
     'SLUS20880': {
         'id': 'SLUS20880',
@@ -12890,6 +14257,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fairly%20Odd%20Parents,%20The-%20The%20Shadow%20Showdown%20(USA).pdf',
     },
     'SLUS21449': {
         'id': 'SLUS21449',
@@ -12898,6 +14266,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Fast%20and%20the%20Furious,%20The-%20Tokyo%20Drift%20(USA).pdf',
     },
     'SCUS97133': {
         'id': 'SCUS97133',
@@ -12906,6 +14275,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//2c0c18f9-19aa-480e-8f1e-9f2dfe35d760.png',
         'pic1': 'https://images.launchbox-app.com//1e0a1d28-a0c9-48ae-95e9-35f20c852251.jpg',
         'snd0': 'https://www.youtube.com/watch?v=EKB074Vh75g&list=PLF47BA451766CEA5E&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Getaway,%20The%20(USA).pdf',
     },
     'SCUS97408': {
         'id': 'SCUS97408',
@@ -12914,6 +14284,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//fdf1308a-bf3c-44e2-a685-161c34d95cd6.png',
         'pic1': 'https://images.launchbox-app.com//34ff8941-ec20-4cca-879b-63aa2adfd4f5.png',
         'snd0': 'https://www.youtube.com/watch?v=ETIKrCy2rr0&list=PLEl5MLiAUIIxZxB70ghVPzfgarFATmEdx&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Getaway,%20The-%20Black%20Monday%20(USA).pdf',
     },
     'SLUS21385': {
         'id': 'SLUS21385',
@@ -12922,6 +14293,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Godfather,%20The%20-%20The%20Game%20(USA).pdf',
     },
     'SLUS21406': {
         'id': 'SLUS21406',
@@ -12930,6 +14302,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Godfather,%20The%20-%20The%20Game%20(USA).pdf',
     },
     'SLUS21677': {
         'id': 'SLUS21677',
@@ -12938,6 +14311,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Golden%20Compass,%20The%20(USA).pdf',
     },
     'SLUS20670': {
         'id': 'SLUS20670',
@@ -12946,6 +14320,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Great%20Escape,%20The%20(USA).pdf',
     },
     'SLUS21451': {
         'id': 'SLUS21451',
@@ -12954,6 +14329,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Grim%20Adventures%20of%20Billy%20and%20Mandy,%20The%20(USA).pdf',
     },
     'SLUS21074': {
         'id': 'SLUS21074',
@@ -12962,6 +14338,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Guy%20Game,%20The%20(USA).pdf',
     },
     'SLUS21712': {
         'id': 'SLUS21712',
@@ -12970,6 +14347,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/History%20Channel-%20Battle%20for%20the%20Pacific%20(USA).pdf',
     },
     'SLUS21474': {
         'id': 'SLUS21474',
@@ -12978,6 +14356,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/History%20Channel-%20Civil%20War%20-%20A%20Nation%20Divided%20(USA).pdf',
     },
     'SLUS21835': {
         'id': 'SLUS21835',
@@ -12994,6 +14373,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hobbit,%20The%20(USA).pdf',
     },
     'SLUS21335': {
         'id': 'SLUS21335',
@@ -13002,6 +14382,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Hustle,%20The-%20Detroit%20Streets%20(USA).pdf',
     },
     'SLUS21765': {
         'id': 'SLUS21765',
@@ -13010,6 +14391,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Incredible%20Hulk,%20The%20(USA).pdf',
     },
     'SLUS20941': {
         'id': 'SLUS20941',
@@ -13018,6 +14400,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Incredible%20Hulk,%20The-%20Ultimate%20Destruction%20(USA).pdf',
     },
     'SLUS20784': {
         'id': 'SLUS20784',
@@ -13026,6 +14409,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Italian%20Job,%20The%20(USA).pdf',
     },
     'SLUS21816': {
         'id': 'SLUS21816',
@@ -13034,6 +14418,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20of%20Fighters%20\'98%20Ultimate%20Match%20(USA).pdf',
     },
     'SLUS20834': {
         'id': 'SLUS20834',
@@ -13042,6 +14427,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20of%20Fighters%202000-2001,%20The%20(USA).pdf',
     },
     'SLUS20839': {
         'id': 'SLUS20839',
@@ -13050,6 +14436,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20of%20Fighters%202000-2001,%20The%20(USA).pdf',
     },
     'SLUS20995': {
         'id': 'SLUS20995',
@@ -13058,6 +14445,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20of%20Fighters%202002-2003,%20The%20(USA).pdf',
     },
     'SLUS20996': {
         'id': 'SLUS20996',
@@ -13066,6 +14454,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20of%20Fighters%202002-2003,%20The%20(USA).pdf',
     },
     'SLUS21365': {
         'id': 'SLUS21365',
@@ -13074,6 +14463,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20of%20Fighters%202006,%20The%20(USA).pdf',
     },
     'SLUS20923': {
         'id': 'SLUS20923',
@@ -13082,6 +14472,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20of%20Fighters,%20The-%20Maximum%20Impact%20(USA).pdf',
     },
     'SLUS21554': {
         'id': 'SLUS21554',
@@ -13090,6 +14481,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20of%20Fighters%20Collection,%20The-%20The%20Orochi%20Saga%20(USA).pdf',
     },
     'SLUS21687': {
         'id': 'SLUS21687',
@@ -13098,6 +14490,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20of%20Fighters%20XI,%20The%20(USA).pdf',
     },
     'SLUS20522': {
         'id': 'SLUS20522',
@@ -13106,6 +14499,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/King%20of%20Route%2066,%20The%20(USA).pdf',
     },
     'SLUS20045': {
         'id': 'SLUS20045',
@@ -13114,6 +14508,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legend%20of%20Alon%20D\'ar,%20The%20(USA).pdf',
     },
     'SLUS21372': {
         'id': 'SLUS21372',
@@ -13122,6 +14517,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legend%20of%20Spyro,%20The-%20A%20New%20Beginning%20(USA).pdf',
     },
     'SLUS21820': {
         'id': 'SLUS21820',
@@ -13130,6 +14526,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legend%20of%20Spyro,%20The-%20Dawn%20of%20the%20Dragon%20(USA).pdf',
     },
     'SLUS21607': {
         'id': 'SLUS21607',
@@ -13138,6 +14535,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Legend%20of%20Spyro,%20The-%20The%20Eternal%20Night%20(USA).pdf',
     },
     'SLUS21915': {
         'id': 'SLUS21915',
@@ -13146,6 +14544,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lord%20of%20the%20Rings,%20The-%20Aragorn\'s%20Quest%20(USA).pdf',
     },
     'SLUS20520': {
         'id': 'SLUS20520',
@@ -13154,6 +14553,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lord%20of%20the%20Rings,%20The-%20The%20Fellowship%20of%20the%20Ring%20(USA).pdf',
     },
     'SLUS20770': {
         'id': 'SLUS20770',
@@ -13162,6 +14562,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lord%20of%20the%20Rings,%20The-%20Return%20of%20the%20King%20(USA).pdf',
     },
     'SLUS21027': {
         'id': 'SLUS21027',
@@ -13170,6 +14571,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lord%20of%20the%20Rings,%20The-%20The%20Third%20Age%20(USA).pdf',
     },
     'SLUS20578': {
         'id': 'SLUS20578',
@@ -13178,6 +14580,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Lord%20of%20the%20Rings,%20The-%20The%20Two%20Towers%20(USA).pdf',
     },
     'SCUS97140': {
         'id': 'SCUS97140',
@@ -13186,6 +14589,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mark%20of%20Kri,%20The%20(USA).pdf',
     },
     'SLUS21273': {
         'id': 'SLUS21273',
@@ -13194,6 +14598,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Matrix,%20The-%20Path%20of%20Neo%20(USA).pdf',
     },
     'SLUS20253': {
         'id': 'SLUS20253',
@@ -13202,6 +14607,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mummy%20Returns,%20The%20(USA).pdf',
     },
     'SLUS21775': {
         'id': 'SLUS21775',
@@ -13210,6 +14616,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Mummy,%20The-%20Tomb%20of%20the%20Dragon%20Emperor%20(USA).pdf',
     },
     'SLUS21802': {
         'id': 'SLUS21802',
@@ -13218,6 +14625,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Naked%20Brothers%20Band,%20The%20(Rock%20University%20Presents)-%20The%20Video%20Game%20(USA).pdf',
     },
     'SLUS21071': {
         'id': 'SLUS21071',
@@ -13226,6 +14634,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Nightmare%20of%20Druaga-%20Fushigino%20Dungeon%20(USA).pdf',
     },
     'SLUS20028': {
         'id': 'SLUS20028',
@@ -13234,6 +14643,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Operative,%20The-%20No%20One%20Lives%20Forever%20(USA).pdf',
     },
     'SLUS20989': {
         'id': 'SLUS20989',
@@ -13242,6 +14652,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Polar%20Express,%20The%20(USA).pdf',
     },
     'SLUS20585': {
         'id': 'SLUS20585',
@@ -13250,6 +14661,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Powerpuff%20Girls,%20The-%20Relish%20Rampage%20(USA).pdf',
     },
     'SLUS20864': {
         'id': 'SLUS20864',
@@ -13258,6 +14670,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//915010ab-1fdf-4120-8d06-a3c1faf80422.png',
         'pic1': 'https://images.launchbox-app.com//4b10958b-05bc-41c9-ac6a-11d9a1c6b030.png',
         'snd0': 'https://www.youtube.com/watch?v=XOmXi2XzvVE&list=PL9A1CAEF9DE79360C&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Punisher,%20The%20(USA).pdf',
     },
     'SLUS20885': {
         'id': 'SLUS20885',
@@ -13266,6 +14679,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Red%20Star,%20The%20(USA).pdf',
     },
     'SLUS20424': {
         'id': 'SLUS20424',
@@ -13274,6 +14688,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Scorpion%20King,%20The-%20Rise%20of%20the%20Akkadian%20(USA).pdf',
     },
     'SLUS21896': {
         'id': 'SLUS21896',
@@ -13282,6 +14697,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Secret%20Saturdays-%20Beasts%20of%20the%205th%20Sun%20(USA).pdf',
     },
     'SLUS21040': {
         'id': 'SLUS21040',
@@ -13290,6 +14706,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Shield,%20The%20(USA).pdf',
     },
     'SLUS21665': {
         'id': 'SLUS21665',
@@ -13298,6 +14715,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/335227cd-0230-4c70-b909-6e87e0a27679.png',
         'pic1': 'https://images.launchbox-app.com/db5a4a57-071e-4a01-a948-8851ebf668c8.jpg',
         'snd0': 'https://www.youtube.com/watch?v=r-VyoLUErYQ',
+        'manual': 'https://www.videogamemanual.com/PS2/Simpsons%20Game,%20The%20(USA).pdf',
     },
     'SLUS20624': {
         'id': 'SLUS20624',
@@ -13306,6 +14724,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/42678445-33ae-4f9b-ae7a-0c890d0b21c5.png',
         'pic1': 'https://images.launchbox-app.com/3e88747d-c384-4960-9b0f-4292346db547.png',
         'snd0': 'https://www.youtube.com/watch?v=FU6EXoGSHks&list=PLO4jlmGoc6uCtYu9GNtVGt1RKb9mXEXSj&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Simpsons,%20The-%20Hit%20%26%20Run%20(USA).pdf',
     },
     'SLUS20305': {
         'id': 'SLUS20305',
@@ -13314,6 +14733,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/35480321-7674-46d9-a3a1-57b19480378f.png',
         'pic1': 'https://images.launchbox-app.com/ee53cfd6-6b8f-4803-b47e-d7a01e1c0dde.jpg',
         'snd0': 'https://www.youtube.com/watch?v=9YR2Uae5-rI&list=PLO4jlmGoc6uDVonfEWRZ7asNfcH3kfX00&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Simpsons,%20The-%20Road%20Rage%20(USA).pdf',
     },
     'SLUS20114': {
         'id': 'SLUS20114',
@@ -13322,6 +14742,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Simpsons,%20The-%20Skateboarding%20(USA).pdf',
     },
     'SLUS20573': {
         'id': 'SLUS20573',
@@ -13330,6 +14751,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sims,%20The%20(USA).pdf',
     },
     'SLUS21265': {
         'id': 'SLUS21265',
@@ -13338,6 +14760,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sims%202,%20The%20(USA).pdf',
     },
     'SLUS21664': {
         'id': 'SLUS21664',
@@ -13346,6 +14769,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sims%202,%20The-%20Castaway%20(USA).pdf',
     },
     'SLUS21536': {
         'id': 'SLUS21536',
@@ -13354,6 +14778,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sims%202,%20The-%20Pets%20(USA).pdf',
     },
     'SLUS20842': {
         'id': 'SLUS20842',
@@ -13362,6 +14787,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sims%20Bustin\'%20Out,%20The%20(USA).pdf',
     },
     'SLUS21388': {
         'id': 'SLUS21388',
@@ -13370,6 +14796,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sopranos,%20The-%20Road%20To%20Respect%20(USA).pdf',
     },
     'SLUS21549': {
         'id': 'SLUS21549',
@@ -13378,6 +14805,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Sopranos,%20The-%20Road%20To%20Respect%20(Limited%20Edition)%20(USA).pdf',
     },
     'SLUS21716': {
         'id': 'SLUS21716',
@@ -13386,6 +14814,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Spiderwick%20Chronicles,%20The%20(USA).pdf',
     },
     'SLUS20636': {
         'id': 'SLUS20636',
@@ -13394,6 +14823,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//52d053e3-949b-47ea-b5c2-b943f347c77f.png',
         'pic1': 'https://images.launchbox-app.com//7901c024-cb87-4e9d-98ab-0a509108ec2b.jpg',
         'snd0': 'https://www.youtube.com/watch?v=cGXVkvYrxGk&list=PL5959045B453A71C1&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Suffering,%20The%20(USA).pdf',
     },
     'SLUS21189': {
         'id': 'SLUS21189',
@@ -13402,6 +14832,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//809deaa4-5552-4930-8f9d-8b33450abe5c.png',
         'pic1': 'https://images.launchbox-app.com//56ec7d8a-b627-4cab-a028-4d5068515879.png',
         'snd0': 'https://www.youtube.com/watch?v=ClYfDSTQUNc',
+        'manual': 'https://www.videogamemanual.com/PS2/Suffering,%20The-%20Ties%20That%20Bind%20(USA).pdf',
     },
     'SLUS21852': {
         'id': 'SLUS21852',
@@ -13410,6 +14841,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tale%20of%20Despereaux,%20The%20(USA).pdf',
     },
     'SLUS20391': {
         'id': 'SLUS20391',
@@ -13418,6 +14850,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Terminator,%20The-%20Dawn%20of%20Fate%20(USA).pdf',
     },
     'SLUS20371': {
         'id': 'SLUS20371',
@@ -13426,6 +14859,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//83ea336d-d5ec-4082-84fc-811d39c3e724.png',
         'pic1': 'https://images.launchbox-app.com//b76a1b1c-d4e2-46d2-94f4-d55cc880772f.jpg',
         'snd0': 'https://www.youtube.com/watch?v=6b7eGIblePU&list=PLocqHZj7MJfm2Q5wOMInoWRUqL6yAn5-h&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Thing,%20The%20(USA).pdf',
     },
     'SLUS21066': {
         'id': 'SLUS21066',
@@ -13434,6 +14868,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Urbz,%20The-%20Sims%20in%20the%20City%20(USA).pdf',
     },
     'SLUS21215': {
         'id': 'SLUS21215',
@@ -13442,6 +14877,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//fdebed0d-aea7-4af6-a474-54184cad879c.png',
         'pic1': 'https://images.launchbox-app.com//adf085f8-8634-41f4-8ad2-71297ab6819e.jpg',
         'snd0': 'https://www.youtube.com/watch?v=3k4ap-76RIE&list=PLBD4374EA22622883',
+        'manual': 'https://www.videogamemanual.com/PS2/Warriors,%20The%20(USA).pdf',
     },
     'SLUS20179': {
         'id': 'SLUS20179',
@@ -13459,6 +14895,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Theme%20Park%20Rollercoaster%20(USA).pdf',
     },
     'SLUS21413': {
         'id': 'SLUS21413',
@@ -13467,6 +14904,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Thrillville%20(USA).pdf',
     },
     'SLUS21611': {
         'id': 'SLUS21611',
@@ -13475,6 +14913,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Thrillville-%20Off%20the%20Rails%20(USA).pdf',
     },
     'SLUS20232': {
         'id': 'SLUS20232',
@@ -13483,6 +14922,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Thunderstrike-%20Operation%20Phoenix%20(USA).pdf',
     },
     'SLUS21264': {
         'id': 'SLUS21264',
@@ -13491,6 +14931,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tiger%20Woods%20PGA%20Tour%2006%20(USA).pdf',
     },
     'SLUS21483': {
         'id': 'SLUS21483',
@@ -13499,6 +14940,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tiger%20Woods%20PGA%20Tour%2007%20(USA).pdf',
     },
     'SLUS21646': {
         'id': 'SLUS21646',
@@ -13507,6 +14949,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tiger%20Woods%20PGA%20Tour%2008%20(USA).pdf',
     },
     'SLUS21772': {
         'id': 'SLUS21772',
@@ -13515,6 +14958,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tiger%20Woods%20PGA%20Tour%2009%20(USA).pdf',
     },
     'SLUS21877': {
         'id': 'SLUS21877',
@@ -13523,6 +14967,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tiger%20Woods%20PGA%20Tour%2010%20(USA).pdf',
     },
     'SLUS20104': {
         'id': 'SLUS20104',
@@ -13531,6 +14976,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tiger%20Woods%20PGA%20Tour%202001%20(USA).pdf',
     },
     'SLUS20364': {
         'id': 'SLUS20364',
@@ -13539,6 +14985,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tiger%20Woods%20PGA%20Tour%202002%20(USA).pdf',
     },
     'SLUS20572': {
         'id': 'SLUS20572',
@@ -13547,6 +14994,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tiger%20Woods%20PGA%20Tour%202003%20(USA).pdf',
     },
     'SLUS20757': {
         'id': 'SLUS20757',
@@ -13555,6 +15003,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tiger%20Woods%20PGA%20Tour%202004%20(USA).pdf',
     },
     'SLUS21002': {
         'id': 'SLUS21002',
@@ -13563,6 +15012,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tiger%20Woods%20PGA%20Tour%202005%20(USA).pdf',
     },
     'SLUS20860': {
         'id': 'SLUS20860',
@@ -13571,6 +15021,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Nightmare%20Before%20Christmas,%20The%20(Tim%20Burton\'s)-%20Oogie\'s%20Revenge%20(USA).pdf',
     },
     'SLUS20927': {
         'id': 'SLUS20927',
@@ -13579,6 +15030,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Time%20Crisis-%20Crisis%20Zone%20(USA).pdf',
     },
     'SLUS20219': {
         'id': 'SLUS20219',
@@ -13587,6 +15039,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Time%20Crisis%20II%20(USA).pdf',
     },
     'SLUS20645': {
         'id': 'SLUS20645',
@@ -13595,6 +15048,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Time%20Crisis%203%20(USA).pdf',
     },
     'SLUS20090': {
         'id': 'SLUS20090',
@@ -13603,6 +15057,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/f13465dc-1bc1-4096-a795-8e4ebda8af59.png',
         'pic1': 'https://images.launchbox-app.com/6f24f207-61e6-41c7-bc28-e4c5ba9045f1.png',
         'snd0': 'https://www.youtube.com/watch?v=MoQ1qC4qafg&list=PL8B1A1FD08297B642&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/TimeSplitters%20(USA).pdf',
     },
     'SLUS20314': {
         'id': 'SLUS20314',
@@ -13611,6 +15066,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/TimeSplitters%202%20(USA).pdf',
     },
     'SLUS21148': {
         'id': 'SLUS21148',
@@ -13619,6 +15075,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/TimeSplitters-%20Future%20Perfect%20(USA).pdf',
     },
     'SLUS21787': {
         'id': 'SLUS21787',
@@ -13627,6 +15084,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/TNA%20Impact!%20(USA).pdf',
     },
     'SLUS21039': {
         'id': 'SLUS21039',
@@ -13635,6 +15093,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ToCA%20Race%20Driver%202-%20The%20Ultimate%20Racing%20Simulator%20(USA).pdf',
     },
     'SLUS21182': {
         'id': 'SLUS21182',
@@ -13643,6 +15102,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/ToCA%20Race%20Driver%203%20(USA).pdf',
     },
     'SLUS21471': {
         'id': 'SLUS21471',
@@ -13651,6 +15111,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tokobot%20Plus-%20Mysteries%20of%20the%20Karakuri%20(USA).pdf',
     },
     'SLUS20831': {
         'id': 'SLUS20831',
@@ -13659,6 +15120,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tokyo%20Xtreme%20Racer%203%20(USA).pdf',
     },
     'SLUS21236': {
         'id': 'SLUS21236',
@@ -13667,6 +15129,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tokyo%20Xtreme%20Racer-%20DRIFT%20(USA).pdf',
     },
     'SLUS21394': {
         'id': 'SLUS21394',
@@ -13675,6 +15138,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tokyo%20Xtreme%20Racer-%20DRIFT%202%20(USA).pdf',
     },
     'SLUS20189': {
         'id': 'SLUS20189',
@@ -13683,6 +15147,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tokyo%20Xtreme%20Racer%20Zero%20(USA).pdf',
     },
     'SLUS20355': {
         'id': 'SLUS20355',
@@ -13691,6 +15156,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tom%20%26%20Jerry-%20War%20of%20the%20Whiskers%20(USA).pdf',
     },
     'SLUS20613': {
         'id': 'SLUS20613',
@@ -13699,6 +15165,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tom%20Clancy\'s%20Ghost%20Recon%20(USA).pdf',
     },
     'SLUS21422': {
         'id': 'SLUS21422',
@@ -13707,6 +15174,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tom%20Clancy\'s%20Ghost%20Recon-%20Advanced%20Warfighter%20(USA).pdf',
     },
     'SLUS20820': {
         'id': 'SLUS20820',
@@ -13715,6 +15183,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tom%20Clancy\'s%20Ghost%20Recon-%20Jungle%20Storm%20(USA).pdf',
     },
     'SLUS21105': {
         'id': 'SLUS21105',
@@ -13723,6 +15192,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tom%20Clancy\'s%20Ghost%20Recon%202%20(USA).pdf',
     },
     'SLUS21144': {
         'id': 'SLUS21144',
@@ -13731,6 +15201,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tom%20Clancy\'s%20Rainbow%20Six-%20Lockdown%20(USA).pdf',
     },
     'SLUS20883': {
         'id': 'SLUS20883',
@@ -13739,6 +15210,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tom%20Clancy\'s%20Rainbow%20Six%203%20(USA).pdf',
     },
     'SLUS20652': {
         'id': 'SLUS20652',
@@ -13747,6 +15219,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tom%20Clancy\'s%20Splinter%20Cell%20(USA).pdf',
     },
     'SLUS21137': {
         'id': 'SLUS21137',
@@ -13755,6 +15228,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tom%20Clancy\'s%20Splinter%20Cell-%20Chaos%20Theory%20(USA).pdf',
     },
     'SLUS21356': {
         'id': 'SLUS21356',
@@ -13763,6 +15237,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tom%20Clancy\'s%20Splinter%20Cell-%20Double%20Agent%20(USA).pdf',
     },
     'SLUS20958': {
         'id': 'SLUS20958',
@@ -13771,6 +15246,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tom%20Clancy\'s%20Splinter%20Cell-%20Pandora%20Tomorrow%20(USA).pdf',
     },
     'SLUS21208': {
         'id': 'SLUS21208',
@@ -13779,6 +15255,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tony%20Hawk\'s%20American%20Wasteland%20(USA).pdf',
     },
     'SLUS21295': {
         'id': 'SLUS21295',
@@ -13787,6 +15264,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tony%20Hawk\'s%20American%20Wasteland%20(Collector\'s%20Edition)%20(USA).pdf',
     },
     'SLUS21456': {
         'id': 'SLUS21456',
@@ -13795,6 +15273,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tony%20Hawk\'s%20Downhill%20Jam%20(USA).pdf',
     },
     'SLUS20013': {
         'id': 'SLUS20013',
@@ -13803,6 +15282,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tony%20Hawk\'s%20Pro%20Skater%203%20(USA).pdf',
     },
     'SLUS20504': {
         'id': 'SLUS20504',
@@ -13811,6 +15291,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tony%20Hawk\'s%20Pro%20Skater%204%20(USA).pdf',
     },
     'SLUS21444': {
         'id': 'SLUS21444',
@@ -13819,6 +15300,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tony%20Hawk\'s%20Project%208%20(USA).pdf',
     },
     'SLUS21616': {
         'id': 'SLUS21616',
@@ -13827,6 +15309,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tony%20Hawk\'s%20Proving%20Ground%20(USA).pdf',
     },
     'SLUS20731': {
         'id': 'SLUS20731',
@@ -13835,6 +15318,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tony%20Hawk\'s%20Underground%20(USA).pdf',
     },
     'SLUS20965': {
         'id': 'SLUS20965',
@@ -13843,6 +15327,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tony%20Hawk\'s%20Underground%202%20(USA).pdf',
     },
     'SLUS20342': {
         'id': 'SLUS20342',
@@ -13851,6 +15336,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Top%20Angler-%20Real%20Bass%20Fishing%20(USA).pdf',
     },
     'SLUS20029': {
         'id': 'SLUS20029',
@@ -13859,6 +15345,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Top%20Gear%20Daredevil%20(USA).pdf',
     },
     'SLUS20211': {
         'id': 'SLUS20211',
@@ -13867,6 +15354,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Top%20Gun-%20Combat%20Zone%20(Titus)%20(USA).pdf',
     },
     'SLUS21222': {
         'id': 'SLUS21222',
@@ -13875,6 +15363,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Top%20Spin%20(USA).pdf',
     },
     'SLUS21375': {
         'id': 'SLUS21375',
@@ -13883,6 +15372,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Torino%202006%20(USA).pdf',
     },
     'SLUS20409': {
         'id': 'SLUS20409',
@@ -13891,6 +15381,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Total%20Immersion%20Racing%20(USA).pdf',
     },
     'SLUS21283': {
         'id': 'SLUS21283',
@@ -13899,6 +15390,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/61ba8e57-4db5-4dc8-a0f6-365286d4c8a6.png',
         'pic1': 'https://images.launchbox-app.com/05636829-ef8c-40d6-9ff0-52af187d2bfe.jpg',
         'snd0': 'https://www.youtube.com/watch?v=J-wwwh4emC4&list=PLE671917269750427&index=5',
+        'manual': 'https://www.videogamemanual.com/PS2/Total%20Overdose-%20A%20Gunslinger\'s%20Tale%20in%20Mexico%20(USA).pdf',
     },
     'SLUS21795': {
         'id': 'SLUS21795',
@@ -13907,6 +15399,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Totally%20Spies-%20Totally%20Party%20(USA).pdf',
     },
     'SCUS97502': {
         'id': 'SCUS97502',
@@ -13915,6 +15408,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tourist%20Trophy%20(USA).pdf',
     },
     'SLUS20668': {
         'id': 'SLUS20668',
@@ -13923,6 +15417,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Transformers%20(USA).pdf',
     },
     'SLUS21881': {
         'id': 'SLUS21881',
@@ -13931,6 +15426,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Transformers-%20Revenge%20of%20the%20Fallen%20(USA).pdf',
     },
     'SLUS21602': {
         'id': 'SLUS21602',
@@ -13939,6 +15435,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Transformers-%20The%20Game%20(USA).pdf',
     },
     'SLUS20356': {
         'id': 'SLUS20356',
@@ -13947,6 +15444,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Transworld%20Surf%20(USA).pdf',
     },
     'SLUS21255': {
         'id': 'SLUS21255',
@@ -13955,6 +15453,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Trapt%20(USA).pdf',
     },
     'SLUS20149': {
         'id': 'SLUS20149',
@@ -13963,6 +15462,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tribes-%20Aerial%20Assault%20(USA).pdf',
     },
     'SLUS20931': {
         'id': 'SLUS20931',
@@ -13971,6 +15471,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Trigger%20Man%20(USA).pdf',
     },
     'SLUS20366': {
         'id': 'SLUS20366',
@@ -13979,6 +15480,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Triple%20Play%202002%20(USA).pdf',
     },
     'SLUS20168': {
         'id': 'SLUS20168',
@@ -13987,6 +15489,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Triple%20Play%20Baseball%20(USA).pdf',
     },
     'SLUS21869': {
         'id': 'SLUS21869',
@@ -13995,6 +15498,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Trivial%20Pursuit%20(USA).pdf',
     },
     'SLUS20791': {
         'id': 'SLUS20791',
@@ -14003,6 +15507,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Trivial%20Pursuit-%20Unhinged%20(USA).pdf',
     },
     'SLUS21106': {
         'id': 'SLUS21106',
@@ -14011,6 +15516,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1fb96055-d7f2-4c23-8bc2-4edf30df959a.png',
         'pic1': 'https://images.launchbox-app.com/ec8e0bf6-9a10-4186-ab42-0efd0601eccf.jpg',
         'snd0': 'https://www.youtube.com/watch?v=BCKR5LiUgS0&list=PLl-vhnGPY7coIxIwuQGZe-0RU-3M0j1eM&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/True%20Crime-%20New%20York%20City%20(USA).pdf',
     },
     'SLUS20550': {
         'id': 'SLUS20550',
@@ -14019,6 +15525,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/19e34ebb-3882-4ff3-9f73-594e24d8d851.png',
         'pic1': 'https://images.launchbox-app.com/4d9baa3a-9a90-42a5-9245-fdfdeeb7d3d6.jpg',
         'snd0': 'https://www.youtube.com/watch?v=FlXSY6XJZws&list=PLWgVF6GcXGMC2w-O68A9rDB1ydebKbiOU&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/True%20Crime-%20Streets%20of%20L.A.%20(USA).pdf',
     },
     'SLUS20292': {
         'id': 'SLUS20292',
@@ -14027,6 +15534,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Tsugunai-%20Atonement%20(USA).pdf',
     },
     'SLUS20333': {
         'id': 'SLUS20333',
@@ -14035,6 +15543,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//b93f4ac8-10fd-4869-927f-7c31ea3a6e98.png',
         'pic1': 'https://images.launchbox-app.com//d809716b-55d2-4767-b529-775195c75b20.jpg',
         'snd0': 'https://www.youtube.com/watch?v=zbKM5oe5Nfs&list=PLbYy8mitnHrOmLZ9aschN8QnFq2JLn-vu&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Turok-%20Evolution%20(USA).pdf',
     },
     'SCUS97101': {
         'id': 'SCUS97101',
@@ -14043,6 +15552,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//9eb221b0-4170-46fa-8bfb-2b45d618ad9d.png',
         'pic1': 'https://images.launchbox-app.com//cef2c550-04ca-4650-82d1-61e0986acc90.jpg',
         'snd0': 'https://www.youtube.com/watch?v=BRlveus9GJI&list=PL7sjlsgQMhAALYQJJ8ehmtrBG3JDWnZGA&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Twisted%20Metal-%20Black%20(USA).pdf',
     },
     'SCUS97179': {
         'id': 'SCUS97179',
@@ -14051,6 +15561,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//9eb221b0-4170-46fa-8bfb-2b45d618ad9d.png',
         'pic1': 'https://images.launchbox-app.com//cef2c550-04ca-4650-82d1-61e0986acc90.jpg',
         'snd0': 'https://www.youtube.com/watch?v=BRlveus9GJI&list=PL7sjlsgQMhAALYQJJ8ehmtrBG3JDWnZGA&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Twisted%20Metal-%20Black%20(USA).pdf',
     },
     'SCUS97196': {
         'id': 'SCUS97196',
@@ -14059,6 +15570,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Twisted%20Metal-%20Black%20ONLINE%20(GH)%20(USA).pdf',
     },
     'SCUS97621': {
         'id': 'SCUS97621',
@@ -14067,6 +15579,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//61bf7af5-af97-455c-be2c-8b7ae0fb2b59.png',
         'pic1': 'https://images.launchbox-app.com//4d86d2f8-be6b-4430-9355-94cc02b4b8f2.jpg',
         'snd0': 'https://www.youtube.com/watch?v=bGg8S7yLm0g&list=PLDF0E5B0E3A42BAEE&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Twisted%20Metal-%20Head%20On-%20Extra%20Twisted%20Edition%20(USA).pdf',
     },
     'SLUS20571': {
         'id': 'SLUS20571',
@@ -14075,6 +15588,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ty%20the%20Tasmanian%20Tiger%20(USA).pdf',
     },
     'SLUS21057': {
         'id': 'SLUS21057',
@@ -14083,6 +15597,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ty%20the%20Tasmanian%20Tiger%202-%20Bush%20Rescue%20(USA).pdf',
     },
     'SLUS21253': {
         'id': 'SLUS21253',
@@ -14091,6 +15606,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ty%20the%20Tasmanian%20Tiger%203-%20Night%20of%20the%20Quinkan%20(USA).pdf',
     },
     'SLUS20936': {
         'id': 'SLUS20936',
@@ -14099,6 +15615,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/UEFA%20EURO%202004%20(USA).pdf',
     },
     'SLUS21699': {
         'id': 'SLUS21699',
@@ -14107,6 +15624,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/UEFA%20EURO%202008%20(USA).pdf',
     },
     'SLUS20596': {
         'id': 'SLUS20596',
@@ -14115,6 +15633,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ultimate%20Fighting%20Championship-%20UFC%20Sudden%20Impact%20(USA).pdf',
     },
     'SLUS20252': {
         'id': 'SLUS20252',
@@ -14123,6 +15642,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ultimate%20Fighting%20Championship-%20UFC%20Throwdown%20(USA).pdf',
     },
     'SLUS21366': {
         'id': 'SLUS21366',
@@ -14131,6 +15651,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ultimate%20Board%20Game%20Collection%20(USA).pdf',
     },
     'SLUS20870': {
         'id': 'SLUS20870',
@@ -14139,6 +15660,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ultimate%20Spider-Man%20(USA).pdf',
     },
     'SLUS21285': {
         'id': 'SLUS21285',
@@ -14147,6 +15669,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ultimate%20Spider-Man%20(Limited%20Edition)%20(USA).pdf',
     },
     'SLUS20985': {
         'id': 'SLUS20985',
@@ -14155,6 +15678,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Under%20the%20Skin%20(USA).pdf',
     },
     'SLUS20173': {
         'id': 'SLUS20173',
@@ -14163,6 +15687,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Unison-%20Rebels%20of%20Rhythm%20and%20Dance%20(USA).pdf',
     },
     'SLUS20678': {
         'id': 'SLUS20678',
@@ -14171,6 +15696,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//4d5b78f6-ec85-40fc-8d25-37fb5382deca.png',
         'pic1': 'https://images.launchbox-app.com//dce8e693-3018-4b40-b330-d8301081b0d9.jpg',
         'snd0': 'https://www.youtube.com/watch?v=47R9VFirriM',
+        'manual': 'https://www.videogamemanual.com/PS2/Unlimited%20SaGa%20(USA).pdf',
     },
     'SLUS20034': {
         'id': 'SLUS20034',
@@ -14179,6 +15705,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Unreal%20Tournament%20(USA).pdf',
     },
     'SLUS21390': {
         'id': 'SLUS21390',
@@ -14187,6 +15714,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Urban%20Chaos-%20Riot%20Response%20(USA).pdf',
     },
     'SLUS21209': {
         'id': 'SLUS21209',
@@ -14195,6 +15723,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//5df166eb-ce81-4e64-b5e5-1f4411a6634b.png',
         'pic1': 'https://images.launchbox-app.com//f2da4c0a-3531-442a-a918-9cbceb72bb6c.jpg',
         'snd0': 'https://www.youtube.com/watch?v=4kDxYqPzpHc&list=PLGjX0uNPAWvUzhqNSxxezYqEyLKYsAeNP&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Urban%20Reign%20(USA).pdf',
     },
     'SLUS20496': {
         'id': 'SLUS20496',
@@ -14203,6 +15732,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/V-Rally%203%20(USA).pdf',
     },
     'SLUS21452': {
         'id': 'SLUS21452',
@@ -14211,6 +15741,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/550cf26d-7a49-40ae-8d84-c102bec903a2.png',
         'pic1': 'https://images.launchbox-app.com/ccef3541-8085-4f98-b387-5b62a6a78b71.jpg',
         'snd0': 'https://www.youtube.com/watch?v=xGmMAVneqfk&list=PL0889103227470300&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Valkyrie%20Profile%202-%20Silmeria%20(USA).pdf',
     },
     'SLUS20221': {
         'id': 'SLUS20221',
@@ -14219,6 +15750,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Vampire%20Night%20(USA).pdf',
     },
     'SLUS20738': {
         'id': 'SLUS20738',
@@ -14227,6 +15759,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Van%20Helsing%20(USA).pdf',
     },
     'SLUS20383': {
         'id': 'SLUS20383',
@@ -14235,6 +15768,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Vexx%20(USA).pdf',
     },
     'SLUS20282': {
         'id': 'SLUS20282',
@@ -14243,6 +15777,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Victorious%20Boxers-%20Ippo\'s%20Road%20To%20Glory%20(USA).pdf',
     },
     'SLUS21204': {
         'id': 'SLUS21204',
@@ -14251,6 +15786,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Victorious%20Boxers%202-%20Fighting%20Spirit%20(USA).pdf',
     },
     'SLUS21068': {
         'id': 'SLUS21068',
@@ -14259,6 +15795,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Vietcong-%20Purple%20Haze%20(USA).pdf',
     },
     'SLUS20951': {
         'id': 'SLUS20951',
@@ -14267,6 +15804,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Viewtiful%20Joe%20(USA).pdf',
     },
     'SLUS20939': {
         'id': 'SLUS20939',
@@ -14275,6 +15813,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Viewtiful%20Joe%202%20(USA).pdf',
     },
     'SLUS20323': {
         'id': 'SLUS20323',
@@ -14283,6 +15822,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Virtua%20Fighter%204%20(USA).pdf',
     },
     'SLUS20616': {
         'id': 'SLUS20616',
@@ -14291,6 +15831,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Virtua%20Fighter%204-%20Evolution%20(GH)%20(USA).pdf',
     },
     'SLUS20977': {
         'id': 'SLUS20977',
@@ -14299,6 +15840,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Virtua%20Quest%20(USA).pdf',
     },
     'SLUS20418': {
         'id': 'SLUS20418',
@@ -14307,6 +15849,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Wakeboarding%20Unleashed%20featuring%20Shaun%20Murray%20(USA).pdf',
     },
     'SLUS21312': {
         'id': 'SLUS21312',
@@ -14315,6 +15858,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Wallace%20%26%20Gromit-%20The%20Curse%20of%20the%20Were-Rabbit%20(USA).pdf',
     },
     'SLUS20647': {
         'id': 'SLUS20647',
@@ -14323,6 +15867,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Wallace%20%26%20Gromit%20in%20Project%20Zoo%20(USA).pdf',
     },
     'SLUS20075': {
         'id': 'SLUS20075',
@@ -14331,6 +15876,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Jungle%20Book,%20The%20(Walt%20Disney\'s)-%20Rhythm%20n\'%20Groove%20(USA).pdf',
     },
     'SCUS91197': {
         'id': 'SCUS91197',
@@ -14339,6 +15885,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/War%20of%20the%20Monsters%20(USA).pdf',
     },
     'SLUS20597': {
         'id': 'SLUS20597',
@@ -14347,6 +15894,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Warhammer%2040,000-%20Fire%20Warrior%20(USA).pdf',
     },
     'SLUS20006': {
         'id': 'SLUS20006',
@@ -14355,6 +15903,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Warriors%20of%20Might%20%26%20Magic%20(USA).pdf',
     },
     'SLUS21662': {
         'id': 'SLUS21662',
@@ -14363,6 +15912,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Warriors%20Orochi%20(USA).pdf',
     },
     'SLUS21803': {
         'id': 'SLUS21803',
@@ -14371,6 +15921,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Warriors%20Orochi%202%20(USA).pdf',
     },
     'SLUS21387': {
         'id': 'SLUS21387',
@@ -14379,6 +15930,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Warship%20Gunner%202%20(USA).pdf',
     },
     'SLUS20313': {
         'id': 'SLUS20313',
@@ -14387,6 +15939,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Wave%20Rally%20(USA).pdf',
     },
     'SLUS20407': {
         'id': 'SLUS20407',
@@ -14395,6 +15948,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Way%20of%20the%20Samurai%20(USA).pdf',
     },
     'SLUS20893': {
         'id': 'SLUS20893',
@@ -14403,6 +15957,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Way%20of%20the%20Samurai%202%20(USA).pdf',
     },
     'SLUS21230': {
         'id': 'SLUS21230',
@@ -14411,6 +15966,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/We%20Love%20Katamari%20(USA).pdf',
     },
     'SLUS20790': {
         'id': 'SLUS20790',
@@ -14419,6 +15975,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Wheel%20of%20Fortune%20(USA).pdf',
     },
     'SLUS20684': {
         'id': 'SLUS20684',
@@ -14427,6 +15984,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Whiplash%20(USA).pdf',
     },
     'SLUS20489': {
         'id': 'SLUS20489',
@@ -14435,6 +15993,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Whirl%20Tour%20(USA).pdf',
     },
     'SLUS20599': {
         'id': 'SLUS20599',
@@ -14443,6 +16002,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Whiteout%20(USA).pdf',
     },
     'SLUS20937': {
         'id': 'SLUS20937',
@@ -14451,6 +16011,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//9566c941-9c31-4127-9c0f-2f3e49577b5a.png',
         'pic1': 'https://images.launchbox-app.com//114d40f8-37b6-4700-97f8-efa1242c9d37.jpg',
         'snd0': 'https://www.youtube.com/watch?v=QFUShod65JM&list=PLhPt7n-ALrSDEmz3Fu12SfWQXPzlXUAL6&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Wild%20ARMs%20Alter%20Code-%20F%20(USA).pdf',
     },
     'SCUS97203': {
         'id': 'SCUS97203',
@@ -14459,6 +16020,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//ca2fa3a7-31f0-4761-a1b4-1295d4d5e631.png',
         'pic1': 'https://images.launchbox-app.com//4f5b5b8f-794e-47df-8d96-94cf202c5c15.jpg',
         'snd0': 'https://www.youtube.com/watch?v=UNVQK3tuqsc&list=PL0SE-2dwrmrpQgLM4ZuPTTuEhf_k4WzeC&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Wild%20ARMs%203%20(USA).pdf',
     },
     'SLUS21292': {
         'id': 'SLUS21292',
@@ -14467,6 +16029,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//b651fff9-83c0-42bf-b13a-fe29c1352f2e.png',
         'pic1': 'https://images.launchbox-app.com//4da909f0-cabe-49b4-b02a-654998836c03.jpg',
         'snd0': 'https://www.youtube.com/watch?v=VUlFvqje7qc&list=PLhPt7n-ALrSDqWrggZFXsMmfjIJ8FND_C&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Wild%20ARMs%204%20(USA).pdf',
     },
     'SLUS21615': {
         'id': 'SLUS21615',
@@ -14475,6 +16038,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//f7b39617-b749-412b-942f-97cbe8b2c59d.png',
         'pic1': 'https://images.launchbox-app.com//527c1e59-ac16-417f-8904-6e8e0b944083.jpg',
         'snd0': 'https://www.youtube.com/watch?v=ZUe371wt7Ac&list=PLjyLjyXJQJUMZV9uuXQLw_f_BE-UOPL2M&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Wild%20ARMs%205%20(USA).pdf',
     },
     'SLUS20108': {
         'id': 'SLUS20108',
@@ -14483,6 +16047,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Wild%20Wild%20Racing%20(USA).pdf',
     },
     'SLUS20160': {
         'id': 'SLUS20160',
@@ -14491,6 +16056,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WinBack-%20Covert%20Operations%20(USA).pdf',
     },
     'SLUS20947': {
         'id': 'SLUS20947',
@@ -14499,6 +16065,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WinBack%202-%20Project%20Poseidon%20(USA).pdf',
     },
     'SLUS21464': {
         'id': 'SLUS21464',
@@ -14515,6 +16082,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Soccer%20Winning%20Eleven%206%20International%20(USA).pdf',
     },
     'SLUS20863': {
         'id': 'SLUS20863',
@@ -14523,6 +16091,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Soccer%20Winning%20Eleven%207%20International%20(USA).pdf',
     },
     'SLUS21117': {
         'id': 'SLUS21117',
@@ -14531,6 +16100,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Soccer%20Winning%20Eleven%208%20International%20(USA).pdf',
     },
     'SLUS21220': {
         'id': 'SLUS21220',
@@ -14539,6 +16109,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Soccer%20Winning%20Eleven%209%20International%20(USA).pdf',
     },
     'SLUS21849': {
         'id': 'SLUS21849',
@@ -14547,6 +16118,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Winter%20Sports%202-%20The%20Next%20Challenge%20(USA).pdf',
     },
     'SLUS21713': {
         'id': 'SLUS21713',
@@ -14555,6 +16127,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Winter%20Sports%202008-%20The%20Ultimate%20Challenge%20(USA).pdf',
     },
     'SLUS20462': {
         'id': 'SLUS20462',
@@ -14563,6 +16136,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Wipeout%20Fusion%20(USA).pdf',
     },
     'SLUS21156': {
         'id': 'SLUS21156',
@@ -14571,6 +16145,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Without%20Warning%20(USA).pdf',
     },
     'SLUS20259': {
         'id': 'SLUS20259',
@@ -14579,6 +16154,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Wizardry-%20Tale%20of%20the%20Forsaken%20Land%20(USA).pdf',
     },
     'SLUS21742': {
         'id': 'SLUS21742',
@@ -14587,6 +16163,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Women\'s%20Volleyball%20Championship%20(USA).pdf',
     },
     'SLUS20341': {
         'id': 'SLUS20341',
@@ -14595,6 +16172,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Woody%20Woodpecker-%20Escape%20from%20Buzz%20Buzzard%20Park%20(USA).pdf',
     },
     'SLUS21340': {
         'id': 'SLUS21340',
@@ -14603,6 +16181,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Championship%20Cards%20(USA).pdf',
     },
     'SLUS21457': {
         'id': 'SLUS21457',
@@ -14611,6 +16190,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Championship%20Paintball%20(USA).pdf',
     },
     'SLUS21028': {
         'id': 'SLUS21028',
@@ -14619,6 +16199,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Championship%20Poker%20(USA).pdf',
     },
     'SLUS21176': {
         'id': 'SLUS21176',
@@ -14627,6 +16208,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Championship%20Poker%202-%20Featuring%20Howard%20Lederer%20(USA).pdf',
     },
     'SLUS21412': {
         'id': 'SLUS21412',
@@ -14635,6 +16217,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Championship%20Poker-%20Featuring%20Howard%20Lederer%20-%20All%20In%20(USA).pdf',
     },
     'SLUS20760': {
         'id': 'SLUS20760',
@@ -14643,6 +16226,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Championship%20Pool%202004%20(USA).pdf',
     },
     'SLUS20005': {
         'id': 'SLUS20005',
@@ -14651,6 +16235,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Destruction%20League-%20Thunder%20Tanks%20(USA).pdf',
     },
     'SLUS20007': {
         'id': 'SLUS20007',
@@ -14659,6 +16244,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Destruction%20League-%20War%20Jetz%20(USA).pdf',
     },
     'SLUS21725': {
         'id': 'SLUS21725',
@@ -14667,6 +16253,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Heroes%20Anthology%20(USA).pdf',
     },
     'SLUS20283': {
         'id': 'SLUS20283',
@@ -14675,6 +16262,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20of%20Outlaws-%20Sprint%20Cars%202002%20(USA).pdf',
     },
     'SLUS21333': {
         'id': 'SLUS21333',
@@ -14683,6 +16271,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Poker%20Tour%202K6%20(USA).pdf',
     },
     'SLUS20611': {
         'id': 'SLUS20611',
@@ -14691,6 +16280,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Series%20Baseball%202K3%20(USA).pdf',
     },
     'SLUS21301': {
         'id': 'SLUS21301',
@@ -14699,6 +16289,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Series%20of%20Poker%20(USA).pdf',
     },
     'SLUS21491': {
         'id': 'SLUS21491',
@@ -14707,6 +16298,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Series%20of%20Poker-%20Tournament%20of%20Champions%20(USA).pdf',
     },
     'SLUS21686': {
         'id': 'SLUS21686',
@@ -14715,6 +16307,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Series%20of%20Poker%202008-%20Battle%20for%20the%20Bracelets%20(USA).pdf',
     },
     'SCUS97172': {
         'id': 'SCUS97172',
@@ -14723,6 +16316,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Tour%20Soccer%202002%20(USA).pdf',
     },
     'SCUS97233': {
         'id': 'SCUS97233',
@@ -14731,6 +16325,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Tour%20Soccer%202003%20(USA).pdf',
     },
     'SCUS97365': {
         'id': 'SCUS97365',
@@ -14739,6 +16334,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Tour%20Soccer%202005%20(USA).pdf',
     },
     'SCUS97463': {
         'id': 'SCUS97463',
@@ -14747,6 +16343,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/World%20Tour%20Soccer%202006%20(USA).pdf',
     },
     'SLUS20894': {
         'id': 'SLUS20894',
@@ -14755,6 +16352,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Worms%203D%20(USA).pdf',
     },
     'SLUS21093': {
         'id': 'SLUS21093',
@@ -14763,6 +16361,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Worms%20Forts-%20Under%20Siege!%20(USA).pdf',
     },
     'SLUS20840': {
         'id': 'SLUS20840',
@@ -14771,6 +16370,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Wrath%20Unleashed%20(USA).pdf',
     },
     'SLUS20419': {
         'id': 'SLUS20419',
@@ -14779,6 +16379,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WRC-%20World%20Rally%20Championship%20(USA).pdf',
     },
     'SLUS20431': {
         'id': 'SLUS20431',
@@ -14787,6 +16388,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Wreckless-%20The%20Yakuza%20Missions%20(USA).pdf',
     },
     'SLUS20357': {
         'id': 'SLUS20357',
@@ -14795,6 +16397,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WTA%20Tour%20Tennis%20(USA).pdf',
     },
     'SLUS21940': {
         'id': 'SLUS21940',
@@ -14803,6 +16406,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WWE%20All-Stars%20(USA).pdf',
     },
     'SLUS20385': {
         'id': 'SLUS20385',
@@ -14811,6 +16415,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WWE%20Crush%20Hour%20(USA).pdf',
     },
     'SLUS20787': {
         'id': 'SLUS20787',
@@ -14819,6 +16424,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WWE%20SmackDown!-%20Here%20Comes%20the%20Pain!%20(USA).pdf',
     },
     'SLUS20316': {
         'id': 'SLUS20316',
@@ -14827,6 +16433,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WWF%20SmackDown!%20Just%20Bring%20It!%20(USA).pdf',
     },
     'SLUS20483': {
         'id': 'SLUS20483',
@@ -14835,6 +16442,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WWE%20SmackDown!%20Shut%20Your%20Mouth%20(USA).pdf',
     },
     'SLUS21060': {
         'id': 'SLUS21060',
@@ -14843,6 +16451,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WWE%20SmackDown!%20vs.%20Raw%20(USA).pdf',
     },
     'SLUS21286': {
         'id': 'SLUS21286',
@@ -14851,6 +16460,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WWE%20SmackDown!%20vs.%20Raw%202006%20(USA).pdf',
     },
     'SLUS21427': {
         'id': 'SLUS21427',
@@ -14859,6 +16469,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WWE%20SmackDown!%20vs.%20Raw%202007%20(USA).pdf',
     },
     'SLUS21645': {
         'id': 'SLUS21645',
@@ -14867,6 +16478,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WWE%20SmackDown!%20vs.%20Raw%202008%20(USA).pdf',
     },
     'SLUS21810': {
         'id': 'SLUS21810',
@@ -14883,6 +16495,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WWE%20SmackDown!%20vs.%20Raw%202010%20(USA).pdf',
     },
     'SLUS21939': {
         'id': 'SLUS21939',
@@ -14891,6 +16504,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/WWE%20SmackDown!%20vs.%20Raw%202011%20(USA).pdf',
     },
     'SLUS20094': {
         'id': 'SLUS20094',
@@ -15043,6 +16657,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1067c941-cac8-493d-a839-2aa0c0fba2ec.png',
         'pic1': 'https://images.launchbox-app.com/8d4ff8fe-3c0d-4977-b0a3-cbf3e6556961.jpg',
         'snd0': 'https://www.youtube.com/watch?v=lEtkXhAklfI&list=PLU_iZ-e4vsqzpu5vfvc6DyxlzLDmY9pKZ&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Yakuza%20(USA).pdf',
     },
     'SLES54171': {
         'id': 'SLES54171',
@@ -15051,6 +16666,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/1067c941-cac8-493d-a839-2aa0c0fba2ec.png',
         'pic1': 'https://images.launchbox-app.com/8d4ff8fe-3c0d-4977-b0a3-cbf3e6556961.jpg',
         'snd0': 'https://www.youtube.com/watch?v=lEtkXhAklfI&list=PLU_iZ-e4vsqzpu5vfvc6DyxlzLDmY9pKZ&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Yakuza%20(USA).pdf',
     },
     'SLUS21769': {
         'id': 'SLUS21769',
@@ -15059,6 +16675,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/0a8afa8c-0eab-4e31-a01c-78043baaa79f.png',
         'pic1': 'https://images.launchbox-app.com/07eebe80-7344-4973-a436-8327dc7ceb71.jpg',
         'snd0': 'https://www.youtube.com/watch?v=gcoG_zL1r4U&list=PLg10XkQAvVGAhX_qktf20gLzS_WNpDvWn&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Yakuza%202%20(USA).pdf',
     },
     'SLES55242': {
         'id': 'SLES55242',
@@ -15067,6 +16684,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com/0a8afa8c-0eab-4e31-a01c-78043baaa79f.png',
         'pic1': 'https://images.launchbox-app.com/07eebe80-7344-4973-a436-8327dc7ceb71.jpg',
         'snd0': 'https://www.youtube.com/watch?v=gcoG_zL1r4U&list=PLg10XkQAvVGAhX_qktf20gLzS_WNpDvWn&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Yakuza%202%20(USA).pdf',
     },
     'SLUS20278': {
         'id': 'SLUS20278',
@@ -15075,6 +16693,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Yanya%20Caballista%20(USA).pdf',
     },
     'SLUS21149': {
         'id': 'SLUS21149',
@@ -15083,6 +16702,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Yourself!Fitness%20(USA).pdf',
     },
     'SLUS20980': {
         'id': 'SLUS20980',
@@ -15091,6 +16711,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Ys-%20The%20Ark%20of%20Napishtim%20(USA).pdf',
     },
     'SLUS20805': {
         'id': 'SLUS20805',
@@ -15099,6 +16720,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Yu%20Yu%20Hakusho-%20Dark%20Tournament%20(USA).pdf',
     },
     'SLUS20940': {
         'id': 'SLUS20940',
@@ -15107,6 +16729,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Yu-Gi-Oh!%20Capsule%20Monster%20Coliseum%20(USA).pdf',
     },
     'SLUS20515': {
         'id': 'SLUS20515',
@@ -15115,6 +16738,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Yu-Gi-Oh!%20The%20Duelists%20of%20the%20Roses%20(USA).pdf',
     },
     'SLUS21683': {
         'id': 'SLUS21683',
@@ -15123,6 +16747,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Yu-Gi-Oh!%20GX-%20The%20Beginning%20of%20Destiny%20(USA).pdf',
     },
     'SLUS20528': {
         'id': 'SLUS20528',
@@ -15131,6 +16756,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Zapper-%20One%20Wicked%20Cricket%20(USA).pdf',
     },
     'SLUS21254': {
         'id': 'SLUS21254',
@@ -15139,6 +16765,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Zatchbell!-%20Mamodo%20Battles%20(USA).pdf',
     },
     'SLUS21363': {
         'id': 'SLUS21363',
@@ -15147,6 +16774,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Zatchbell!-%20Mamodo%20Fury%20(USA).pdf',
     },
     'SLUS21336': {
         'id': 'SLUS21336',
@@ -15155,6 +16783,7 @@ games_ntsc_u = {
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
+        'manual': 'https://www.videogamemanual.com/PS2/Zathura-%20A%20Space%20Adventure%20(USA).pdf',
     },
     'SLUS20148': {
         'id': 'SLUS20148',
@@ -15163,6 +16792,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//d06cef4d-42ef-4f96-9f62-70e543f25315.png',
         'pic1': 'https://images.launchbox-app.com//ea193528-d383-4f92-9ed4-e6af09fe9820.jpg',
         'snd0': 'https://www.youtube.com/watch?v=j6btnZbA3LU&list=PL29DA79E9A70534DC&index=2',
+        'manual': 'https://www.videogamemanual.com/PS2/Zone%20of%20the%20Enders%20(USA).pdf',
     },
     'SLUS20545': {
         'id': 'SLUS20545',
@@ -15171,5 +16801,6 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//118d1b6b-8710-46df-8cdc-2df82e7e943f.png',
         'pic1': 'https://images.launchbox-app.com//34b83db8-4c01-499a-9b70-ea04b8f56e01.jpg',
         'snd0': 'https://www.youtube.com/watch?v=vKMBeYKhcFg&list=PL74AE21771638356A&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Zone%20of%20the%20Enders-%20The%202nd%20Runner%20(USA).pdf',
     },
 }
