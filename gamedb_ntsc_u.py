@@ -1917,10 +1917,11 @@ games_ntsc_u = {
     'SLUS20962': {
         'id': 'SLUS20962',
         'title': 'Castle of Shikigami 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/a6321b43-ff7c-4a20-86a5-f09e29e34b0c.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_f0d16546-0323-4b40-9327-df6abc4bcf36.png',
+        'pic1': 'https://images.launchbox-app.com/d286e04c-9573-47fd-91de-8f5ec5d7f8b0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=BBSTv9t7-qs',
+        'manual': 'https://www.videogamemanual.com/PS2/Castle%20Shikigami%202%20(USA).pdf',
     },
     'SLUS21168': {
         'id': 'SLUS21168',
@@ -1941,34 +1942,38 @@ games_ntsc_u = {
     'SLUS20992': {
         'id': 'SLUS20992',
         'title': 'Catwoman',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/77327c14-63c9-4c84-9d01-e1e53a0b01ca.jpg',
+        'pic0': 'https://images.launchbox-app.com/2394b9e4-007f-4840-b2be-c50e3e889d0b.png',
+        'pic1': 'https://images.launchbox-app.com/ddc3a248-fdda-48ca-a3f7-fd0c71a9bb79.png',
+        'snd0': 'https://www.youtube.com/watch?v=OTs4BPIAb5U',
+        'manual': 'https://www.videogamemanual.com/PS2/Catwoman%20(USA).pdf',
     },
     'SLUS20973': {
         'id': 'SLUS20973',
         'title': 'Champions - Return to Arms',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/c1336f58-bf00-414c-959e-0ea2d86ae2e6.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_3a3e07c5-8f9f-42da-8598-c468d3e7a314.png',
+        'pic1': 'https://images.launchbox-app.com/7c5d62cf-c096-488c-a9f9-139df6c2cb6d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=xKf-7wLB7YM',
+        'manual': 'https://www.videogamemanual.com/PS2/Champions-%20Return%20to%20Arms%20(USA).pdf',
     },
     'SLUS20565': {
         'id': 'SLUS20565',
         'title': 'CHAMPIONS OF NORRATH',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/c3fd8eb0-b865-4817-9ec3-5cdcbacc1279.jpg',
+        'pic0': 'https://images.launchbox-app.com/4410cd40-c9bf-4e40-9f92-6bb78d1a1077.png',
+        'pic1': 'https://images.launchbox-app.com/a4d73adc-0635-474d-be9e-a194baf8adcc.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=6FstF-blY38',
+        'manual': 'https://www.videogamemanual.com/PS2/Champions%20of%20Norrath-%20Realms%20of%20EverQuest%20(USA).pdf',
     },
     'SLUS20695': {
         'id': 'SLUS20695',
         'title': 'CHAOS LEGION',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/f74f0aa7-6f7d-42fc-b502-d74ce1059e9a.jpg',
+        'pic0': 'https://images.launchbox-app.com/f0c74e30-b7b6-4e54-98a0-61992dfbe709.png',
+        'pic1': 'https://images.launchbox-app.com/f965352b-6258-4f23-842e-d0573643f09e.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=xP4QvaUFwu0',
+        'manual': 'https://www.videogamemanual.com/PS2/Chaos%20Legion%20(USA).pdf',
     },
     'SLUS21722': {
         'id': 'SLUS21722',
@@ -1981,10 +1986,11 @@ games_ntsc_u = {
     'SLUS21246': {
         'id': 'SLUS21246',
         'title': 'Charlie and the Chocolate Factory',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/90f9ac82-46ec-4bdd-9134-8388d1f35970.jpg',
+        'pic0': 'https://images.launchbox-app.com/9a174898-4e5d-4974-bdaf-a9baf239ef8b.png',
+        'pic1': 'https://images.launchbox-app.com/dd9f4a43-6a53-4cda-a4b3-9520bfeb7549.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=kLSSasbd6w4',
+        'manual': 'https://www.videogamemanual.com/PS2/Charlie%20and%20the%20Chocolate%20Factory%20(USA).pdf',
     },
     'SLUS20637': {
         'id': 'SLUS20637',
@@ -2029,10 +2035,11 @@ games_ntsc_u = {
     'SLUS20633': {
         'id': 'SLUS20633',
         'title': 'CLOCK TOWER 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/6b6a8e59-bffd-4fa3-a1b2-4c6f1fdd35ab.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_a5a5a279-485a-4ac9-ad97-666aacf7344f.png',
+        'pic1': 'https://images.launchbox-app.com/79c64d76-f266-4e05-b070-e82c6e797ff1.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=b_eHYtXE2Ro',
+        'manual': 'https://www.videogamemanual.com/PS2/Clock%20Tower%203%20(USA).pdf',
     },
     'SLUS21663': {
         'id': 'SLUS21663',
@@ -2077,10 +2084,11 @@ games_ntsc_u = {
     'SLUS20502': {
         'id': 'SLUS20502',
         'title': 'Colin McRae 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/155538d5-6e25-4f02-9745-257f28a56263.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_22fe6844-e5ac-4c7c-8af6-652610ed18e7.png',
+        'pic1': 'https://images.launchbox-app.com/r2_713eb067-2a11-4dc3-b6e2-5fe61dffd04e.png',
+        'snd0': 'https://www.youtube.com/watch?v=oSNBQr59UpU',
+        'manual': 'https://www.videogamemanual.com/PS2/Colin%20McRae%20Rally%203%20(USA).pdf',
     },
     'SLUS21232': {
         'id': 'SLUS21232',
@@ -2125,18 +2133,20 @@ games_ntsc_u = {
     'SLUS20086': {
         'id': 'SLUS20086',
         'title': 'Commandos 2 - Men of Courage',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/bc02dc5b-3f69-4d33-aaff-17a377e8cc1f.jpg',
+        'pic0': 'https://images.launchbox-app.com/e293d83c-7145-4ff1-9f63-eb7cb3bd0e3c.png',
+        'pic1': 'https://images.launchbox-app.com/fc357a0b-a6bb-4602-b133-4033f1759941.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=7yezyieJq74',
+        'manual': 'https://www.videogamemanual.com/PS2/Commandos%202-%20Men%20of%20Courage%20(USA).pdf',
     },
     'SLUS21103': {
         'id': 'SLUS21103',
         'title': 'COMMANDOS - STRIKE FORCE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/aa7478cc-eb7e-4ce5-bbc7-f5b19303517f.png',
+        'pic0': 'https://images.launchbox-app.com/8ba00f4a-f4e0-42be-9a0a-834b1f45889d.png',
+        'pic1': 'https://images.launchbox-app.com/f4ae8314-d1ec-49da-bf54-f9f5cfb864fb.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=kuzWtVbE2MI',
+        'manual': 'https://www.videogamemanual.com/PS2/Commandos-%20Strike%20Force%20(USA).pdf',
     },
     'SLUS20549': {
         'id': 'SLUS20549',
@@ -2149,18 +2159,20 @@ games_ntsc_u = {
     'SLUS20689': {
         'id': 'SLUS20689',
         'title': 'Conflict - Desert Storm 2 - Back to Baghdad',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/2db4da18-eb9a-4b31-aa10-fc023a84056e.jpg',
+        'pic0': 'https://images.launchbox-app.com/2fb459fc-bc54-4833-97c1-d0ddcb6186d3.png',
+        'pic1': 'https://images.launchbox-app.com/f6837b9a-7b32-497a-bbc0-2b2aefd8e4b4.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=h9umAkw6zFM',
+        'manual': 'https://www.videogamemanual.com/PS2/Conflict-%20Desert%20Storm%20II-%20Back%20to%20Baghdad%20(USA).pdf',
     },
     'SLUS21172': {
         'id': 'SLUS21172',
         'title': 'Conflict - Global Terror',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/21c18d77-fc9b-41db-b724-be9e9bff5d4d.jpg',
+        'pic0': 'https://images.launchbox-app.com/f031d5ea-8430-4cd6-9614-8caadb810ee9.png',
+        'pic1': 'https://images.launchbox-app.com/ac8ae903-3b41-4165-b47e-7157236d0d86.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Jwoy6Dyf7To',
+        'manual': 'https://www.videogamemanual.com/PS2/Conflict-%20Global%20Terror%20(USA).pdf',
     },
     'SLUS21045': {
         'id': 'SLUS21045',
@@ -2189,10 +2201,11 @@ games_ntsc_u = {
     'SLUS20306': {
         'id': 'SLUS20306',
         'title': 'CONTRA - SHATTERED SOLDIER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/704eff92-ccf9-4936-86c1-01b1ec3d210d.jpg',
+        'pic0': 'https://images.launchbox-app.com/3c00422d-4bac-41af-9c5e-b5a1ebd87011.png',
+        'pic1': 'https://images.launchbox-app.com/r2_2bb4a2d6-0f5a-4498-85d0-e1036857b2e8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=p6IJU6zri7I',
+        'manual': 'https://www.videogamemanual.com/PS2/Contra-%20Shattered%20Soldier%20(USA).pdf',
     },
     'SCUS97108': {
         'id': 'SCUS97108',
@@ -2205,10 +2218,11 @@ games_ntsc_u = {
     'SLUS21854': {
         'id': 'SLUS21854',
         'title': 'Coraline',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/cd1c6591-0dfd-478f-b5d6-e32375954923.png',
+        'pic0': 'https://images.launchbox-app.com/00b64349-d60f-43e9-bbad-53753083053b.png',
+        'pic1': 'https://images.launchbox-app.com/r2_6fa7db6d-865c-4f15-944c-a311e27e4ad4.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=_Qk6MEfDIJM',
+        'manual': 'https://www.videogamemanual.com/PS2/Coraline%20(USA).pdf',
     },
     'SLUS20858': {
         'id': 'SLUS20858',
