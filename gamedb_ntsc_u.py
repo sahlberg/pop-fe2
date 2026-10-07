@@ -2243,10 +2243,11 @@ games_ntsc_u = {
     'SLUS21013': {
         'id': 'SLUS21013',
         'title': 'Crash \'N\' Burn',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//4006bee6-174c-417a-8dc4-ee344af912ed.jpg',
+        'pic0': 'https://gamesdb-images.launchbox.gg/r2_ee0a7213-fa6f-4302-9c58-83fd997a9b61.png',
+        'pic1': 'https://images.launchbox-app.com//a63bb070-e693-4d4f-b36d-70b20e49ff06.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=TnyQMo8BsU0&list=PLj4j8VNmZvFMpxJzolGf2I5cVBlNCc9tZ&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Crash%20\'N\'%20Burn%20(USA).pdf',
     },
     'SLUS21728': {
         'id': 'SLUS21728',
@@ -2255,6 +2256,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//d30e0f7f-7fbd-47ee-9c6c-4e041b3b05eb.png',
         'pic1': 'https://www.crashmania.net/images/games/crash-mind-over-mutant/overview/overview-1.jpg',
         'snd0': 'https://www.youtube.com/watch?v=SzyjsHPUUPs&list=PLO4jlmGoc6uDzJK_uPP6BeYjMf8vH3x3U&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Crash%20Bandicoot-%20Mind%20Over%20Mutant%20(USA).pdf',
     },
     'SLUS20238': {
         'id': 'SLUS20238',
@@ -2263,6 +2265,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//a3d38a05-bd6e-46c7-b3d0-80ecb6788657.png',
         'pic1': 'https://images.launchbox-app.com//5f518482-088f-4e3a-978e-7136b2a139b0.jpg',
         'snd0': 'https://www.youtube.com/watch?v=-f6_p-WyuDo&list=PLBAVkU2_A-jOIVSkIm1XJzxUW3HPuAurf&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Crash%20Bandicoot-%20The%20Wrath%20of%20Cortex%20(USA).pdf',
     },
     'SLUS20649': {
         'id': 'SLUS20649',
@@ -2279,6 +2282,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//4f4e7679-bf4e-434f-99a8-fdebd7a48f0e.png',
         'pic1': 'https://images.launchbox-app.com//147d7396-1318-416f-96eb-4b9e576d4acc.jpg',
         'snd0': 'https://www.youtube.com/watch?v=bl2_nxX3jWk&list=PLqdXQVLs8ag897eYydg08RtNuX3jO3_0M&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Crash%20of%20the%20Titans%20(USA).pdf',
     },
     'SLUS21191': {
         'id': 'SLUS21191',
@@ -2287,6 +2291,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//cbb6154c-227a-4240-a86c-e1aca9130c4d.png',
         'pic1': 'https://images.launchbox-app.com//a925be71-7a24-47ea-8d26-f158068fbe99.jpg',
         'snd0': 'https://www.youtube.com/watch?v=ERxqgDpl0TA&list=PL18y-mZEtF79R-Mmsdv6lxQdtHIEWIDAu&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Crash%20Tag%20Team%20Racing%20(USA).pdf',
     },
     'SLUS20909': {
         'id': 'SLUS20909',
@@ -2295,6 +2300,7 @@ games_ntsc_u = {
         'pic0': 'https://images.launchbox-app.com//462e0b1d-67ff-43fd-85bf-f28dfaee0d93.png',
         'pic1': 'https://images.launchbox-app.com//d8f66636-aa63-4d90-8a5e-96b847230ee5.jpg',
         'snd0': 'https://www.youtube.com/watch?v=PzbnWihnBK4&list=PLnJrDuh8udCXVSoJdevjbdNWpOPVBQdvQ&index=1',
+        'manual': 'https://www.videogamemanual.com/PS2/Crash%20Bandicoot-%20Twinsanity%20(USA).pdf',
     },
     'SLUS21634': {
         'id': 'SLUS21634',
