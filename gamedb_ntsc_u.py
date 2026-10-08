@@ -12588,10 +12588,10 @@ games_ntsc_u = {
     'SCUS97355': {
         'id': 'SCUS97355',
         'title': 'SIREN',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com//1c92744f-791a-4cb6-93e4-eb7a5f73a511.jpg',
+        'pic0': 'https://images.launchbox-app.com//fa5d9702-d3b2-40e1-ab95-cf3ba549e604.png',
+        'pic1': 'https://images.launchbox-app.com//e3a6c9fa-5c47-4bfd-9479-9b41338eabee.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=0rEyCVRelds&list=PLEE2727EDFDE65968&index=1',
         'manual': 'https://www.videogamemanual.com/PS2/Siren%20(USA).pdf',
     },
     'SLUS20886': {
