@@ -2382,54 +2382,54 @@ games_ntsc_u = {
     'SLUS20202': {
         'id': 'SLUS20202',
         'title': 'CRAZY TAXI',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com/3c550bd0-fe19-4c37-9fbb-84c1df7144af.jpg',
+        'pic0': 'https://images.launchbox-app.com/9f744a47-46a4-46e6-9464-e6bb534df57b.png',
+        'pic1': 'https://images.launchbox-app.com/a1e20818-cb3a-42c2-ba6d-bb46454a07e3.jpg',
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Crazy%20Taxi%20(USA).pdf',
     },
     'SLUS20877': {
         'id': 'SLUS20877',
         'title': 'Crimsom Sea 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/d07667a0-5734-4577-bc9e-b99d28882a4b.jpg',
+        'pic0': 'https://images.launchbox-app.com/7701ac1a-eac1-4909-b2b1-9aacf41b3136.png',
+        'pic1': 'https://images.launchbox-app.com/1a7c5bbc-fdf2-400e-b4d1-8bc7d7a92207.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=D-a_nNc937s',
         'manual': 'https://www.videogamemanual.com/PS2/Crimson%20Sea%202%20(USA).pdf',
     },
     'SLUS20948': {
         'id': 'SLUS20948',
         'title': 'Crimsom Tears',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/6a5626f7-b8ae-4588-bfca-768ebb0d1d19.jpg',
+        'pic0': 'https://images.launchbox-app.com/cce45d00-96cd-42db-b3b8-dda169858488.png',
+        'pic1': 'https://images.launchbox-app.com/ccb71fe2-f36d-468e-9683-10e45a5f037a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=m3ArgKASbuo',
         'manual': 'https://www.videogamemanual.com/PS2/Crimson%20Tears%20(USA).pdf',
     },
     'SLUS20523': {
         'id': 'SLUS20523',
         'title': 'CROUCHING TIGER, HIDDEN DRAGON',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com/r2_6b0717b3-8514-485d-b359-22c69197c195.png',
+        'pic0': 'https://images.launchbox-app.com/f99c676f-d60c-4341-984a-ea25b44d6394.png',
+        'pic1': 'https://images.launchbox-app.com/7a55e4eb-932b-4c03-ba92-0b2cd81b0247.jpg',
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Crouching%20Tiger,%20Hidden%20Dragon%20(USA).pdf',
     },
     'SLUS21655': {
         'id': 'SLUS21655',
         'title': 'CSI - 3 DIMENSIONS OF MURDER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/57b56ac5-1259-4010-a8f5-b3ea1e6c253e.png',
+        'pic0': 'https://images.launchbox-app.com/18c4f5f8-03c4-4534-b937-a6e08e676632.png',
+        'pic1': 'https://images.launchbox-app.com/a10549d1-ea53-4903-9dd6-9a8daeae3120.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=2-HjjwKc9MI',
         'manual': 'https://www.videogamemanual.com/PS2/CSI-%203%20Dimensions%20of%20Murder%20(USA).pdf',
     },
     'SLUS20547': {
         'id': 'SLUS20547',
         'title': 'Cubix Robots for Everyone - Showdown',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com/c2c6fd3c-0d20-4db8-9d7d-413cf6da5ed1.png',
+        'pic0': 'https://images.launchbox-app.com/5596ca9d-bfaa-4739-9dcc-0cd1df315523.png',
+        'pic1': 'https://images.launchbox-app.com/ba429302-1707-46f5-bc9d-6a953191878a.png',
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Cubix%20Robots%20For%20Everyone-%20Showdown%20(USA).pdf',
     },
@@ -2454,19 +2454,19 @@ games_ntsc_u = {
     'SLUS20697': {
         'id': 'SLUS20697',
         'title': 'CY GIRLS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/6c15d84e-f787-4101-9242-440e6080e568.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_9633ae11-7039-454e-9b6e-4191eab5e040.png',
+        'pic1': 'https://images.launchbox-app.com/bc05c1e1-8a73-44b8-8e1b-da8d19caba09.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=qeZLqwRr3oI',
         'manual': 'https://www.videogamemanual.com/PS2/Cy%20Girls%20(USA).pdf',
     },
     'SLUS20854': {
         'id': 'SLUS20854',
         'title': 'CY GIRLS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/6c15d84e-f787-4101-9242-440e6080e568.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_9633ae11-7039-454e-9b6e-4191eab5e040.png',
+        'pic1': 'https://images.launchbox-app.com/bc05c1e1-8a73-44b8-8e1b-da8d19caba09.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=qeZLqwRr3oI',
         'manual': 'https://www.videogamemanual.com/PS2/Cy%20Girls%20(USA).pdf',
     },
     'SLUS20674': {
@@ -2490,10 +2490,10 @@ games_ntsc_u = {
     'SLUS21352': {
         'id': 'SLUS21352',
         'title': 'Dai Senryaku VII Exceed',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/aaf5f38e-0c00-45ba-a98e-b428a6a820a0.jpg',
+        'pic0': 'https://images.launchbox-app.com/7a2d1068-794f-4983-9637-c7d70a787ff7.png',
+        'pic1': 'https://images.launchbox-app.com/r2_b7ab346d-05e0-4ba3-ba61-a2f89292654c.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=HkrSGv4pxnU',
         'manual': 'https://www.videogamemanual.com/PS2/Dai%20Senryaku%20VII-%20Exceed%20(USA).pdf',
     },
     'SLUS21609': {
@@ -2535,9 +2535,9 @@ games_ntsc_u = {
     'SLUS21608': {
         'id': 'SLUS21608',
         'title': 'Dance Dance Revolution SuperNOVA 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com/68eb30c4-1142-47c7-9ff5-0735f40ec400.jpg',
+        'pic0': 'https://images.launchbox-app.com/ab3e479c-d17d-4b43-8cfe-8e622d407b47.png',
+        'pic1': 'https://images.launchbox-app.com/f8401649-2316-41eb-974d-0173f88bb026.jpg',
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20SuperNOVA%202%20(USA).pdf',
     },
@@ -2616,18 +2616,18 @@ games_ntsc_u = {
     'SLUS21042': {
         'id': 'SLUS21042',
         'title': 'Darkwatch',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/d8486513-f0ce-4157-966d-8baaa250accc.jpg',
+        'pic0': 'https://images.launchbox-app.com/4e5f51ab-d19b-4dbd-83c0-9b931e205d78.png',
+        'pic1': 'https://images.launchbox-app.com/8a3d4b66-e4b0-42a0-894e-0108335fea95.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=0Adn31F2GH8',
         'manual': 'https://www.videogamemanual.com/PS2/Darkwatch%20(USA).pdf',
     },
     'SLUS20159': {
         'id': 'SLUS20159',
         'title': 'Dave Mirra Freestyle BMX 2',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com/58d73ab7-aeb5-43cc-accd-18f9683f0968.jpg',
+        'pic0': 'https://images.launchbox-app.com/078dcd18-8c5d-4846-a695-f7b8351ba2cd.png',
+        'pic1': 'https://images.launchbox-app.com/f8243ec5-426e-45a8-961f-da7b41fad731.png',
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dave%20Mirra%20Freestyle%20BMX%202%20(Acclaim)%20(USA).pdf',
     },
@@ -2661,10 +2661,10 @@ games_ntsc_u = {
     'SLUS20071': {
         'id': 'SLUS20071',
         'title': 'DEAD OR ALIVE 2 - HARDCORE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/r2_5b10a841-6c47-4de1-ad06-bf25c2a62658.png',
+        'pic0': 'https://images.launchbox-app.com/b07b4031-9e97-41b8-aa91-3ab04c3326f6.png',
+        'pic1': 'https://images.launchbox-app.com/2b3b8973-d821-474f-8a4d-9ad1f31e649e.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=YC2yVSc1mss',
         'manual': 'https://www.videogamemanual.com/PS2/DOA2-%20Hardcore%20(USA).pdf',
     },
     'SLUS20220': {
@@ -2679,10 +2679,10 @@ games_ntsc_u = {
     'SLUS20843': {
         'id': 'SLUS20843',
         'title': 'Dead to Rights II',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/e0e4bc4f-9f26-4a34-a7e7-b7637de0f751.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_bbabd5f3-0c06-40a1-9db5-65eaf40b249f.png',
+        'pic1': 'https://images.launchbox-app.com/d6173862-b3e6-450b-9c85-f20f35c045a8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Pj_AvQrjo3A',
         'manual': 'https://www.videogamemanual.com/PS2/Dead%20to%20Rights%20II%20(USA).pdf',
     },
     'SLUS20626': {
@@ -2706,46 +2706,46 @@ games_ntsc_u = {
     'SLUS20639': {
         'id': 'SLUS20639',
         'title': 'DEF JAM VENDETTA',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com/41d3bea8-f074-4edd-9bda-ef795db14086.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_cebff015-c5ee-4d99-9623-33a9989967b1.png',
+        'pic1': 'https://images.launchbox-app.com/2ec7932a-8d61-43db-9415-bcf5cca6e53d.jpg',
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Def%20Jam%20VENDETTA%20(USA).pdf',
     },
     'SLUS20191': {
         'id': 'SLUS20191',
         'title': 'Defender',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/6e2f733c-e1b3-4410-aace-88d959ba3382.jpg',
+        'pic0': 'https://images.launchbox-app.com/86a814f0-d535-44e1-b47c-43066b8d4de7.png',
+        'pic1': 'https://images.launchbox-app.com/r2_21dbff76-b965-4783-b588-17094b549c05.png',
+        'snd0': 'https://www.youtube.com/watch?v=ZWeptXfasvI',
         'manual': 'https://www.videogamemanual.com/PS2/Defender%20(USA).pdf',
     },
     'SLUS21124': {
         'id': 'SLUS21124',
         'title': 'DELTA FORCE - BLACK HAWK DOWN',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/5c5a5e31-31f8-420d-bb30-ab638761add5.jpg',
+        'pic0': 'https://images.launchbox-app.com/5eec9575-3f31-439c-b603-0077e38477a8.png',
+        'pic1': 'https://images.launchbox-app.com/r2_91a7bcf5-2b27-4ddb-b9ef-5f959d28a446.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=07PVIk9C_w0',
         'manual': 'https://www.videogamemanual.com/PS2/Delta%20Force-%20Black%20Hawk%20Down%20(USA).pdf',
     },
     'SLUS21414': {
         'id': 'SLUS21414',
         'title': 'Delta Force - Black Hawk Down - Team Sabre',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/7e17ce45-7d5e-454c-8ae7-fc342c1699d5.jpg',
+        'pic0': 'https://images.launchbox-app.com/55c33a8c-c861-4939-831c-0a2d7ac9d72b.png',
+        'pic1': 'https://images.launchbox-app.com/r2_10e00652-d16b-493c-a9e5-84f394b97771.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=yCXgi3Dem4Q',
         'manual': 'https://www.videogamemanual.com/PS2/Delta%20Force-%20Black%20Hawk%20Down-%20Team%20Sabre%20(USA).pdf',
     },
     'SLUS21933': {
         'id': 'SLUS21933',
         'title': 'DESPICABLE ME - THE GAME',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/f365dd4a-413f-487d-abf2-23bc8296bc63.jpg',
+        'pic0': 'https://images.launchbox-app.com/0b7975b5-086d-4781-ae0e-f966456aa5b7.png',
+        'pic1': 'https://images.launchbox-app.com/596f962b-5d5e-4cb4-bbe5-840d51bb1366.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=oJdvomUXzD0',
         'manual': 'https://www.videogamemanual.com/PS2/Despicable%20Me%20-%20The%20Game%20(USA).pdf',
     },
     'SLUS20945': {
@@ -2768,28 +2768,28 @@ games_ntsc_u = {
     'SLUS20855': {
         'id': 'SLUS20855',
         'title': 'Destruction Derby Arenas',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/e1efe9ea-a9b3-4045-a29e-f0b089d72e2b.jpg',
+        'pic0': 'https://images.launchbox-app.com/93a2c064-85c4-4faa-abf4-99ec0adbc0c4.png',
+        'pic1': 'https://images.launchbox-app.com/e057feef-162e-4fcb-97cd-b48ac0db1873.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Iyn6lNhqcHg',
         'manual': 'https://www.videogamemanual.com/PS2/Destruction%20Derby%20Arenas%20(USA).pdf',
     },
     'SLUS20111': {
         'id': 'SLUS20111',
         'title': 'DEUS EX - THE CONSPIRACY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/r2_01c2f8f6-80b5-4f16-b93a-80136738d172.png',
+        'pic0': 'https://images.launchbox-app.com/d2bc17ed-ebf0-43de-936e-45bd09e5ae27.png',
+        'pic1': 'https://images.launchbox-app.com/d7b7d62c-3e7f-4382-b582-0003d4c03021.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=Rm9PJNF3sE0',
         'manual': 'https://www.videogamemanual.com/PS2/Deus%20Ex-%20The%20Conspiracy%20(USA).pdf',
     },
     'SLUS21297': {
         'id': 'SLUS21297',
         'title': 'DEVIL KINGS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/6d2f1a9f-cae9-49d8-b82d-c86c867cee01.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_72646bc9-c214-406f-aa48-b0beec33f629.png',
+        'pic1': 'https://images.launchbox-app.com/c3ef10d8-0664-4247-a630-1733fb602782.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=y7JbsWXAFSM',
         'manual': 'https://www.videogamemanual.com/PS2/Devil%20Kings%20(USA).pdf',
     },
     'SLUS20216': {
@@ -2822,19 +2822,19 @@ games_ntsc_u = {
     'SLUS20964': {
         'id': 'SLUS20964',
         'title': 'Devil May Cry 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/1e19ec6c-4519-45e6-a77c-d25ef6b9e0af.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_776a6f43-9b8f-419a-9d93-dedbaa003a1b.png',
+        'pic1': 'https://images.launchbox-app.com/c0c4afc8-1392-48a9-817b-fdfadb471000.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=tZZ1aBNDuzs',
         'manual': 'https://www.videogamemanual.com/PS2/Devil%20May%20Cry%203-%20Dante\'s%20Awakening%20(USA).pdf',
     },
     'SLUS21361': {
         'id': 'SLUS21361',
         'title': 'Devil May Cry 3 - Dante\'s Awakening (Special Edition)',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/9e9a1ed6-5de7-4850-9531-109762b252bc.png',
     #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/8afdb6f2-a821-4d5b-962e-be0ebf799de9.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=not8Q1h39qE',
         'manual': 'https://www.videogamemanual.com/PS2/Devil%20May%20Cry%203-%20Dante\'s%20Awakening%20Special%20Edition%20(USA).pdf',
     },
     'SLUS21181': {
@@ -2885,19 +2885,19 @@ games_ntsc_u = {
     'SLUS20485': {
         'id': 'SLUS20485',
         'title': 'DINO STALKER',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/e94ab4ca-79fa-4ce0-8641-0cecd14a5abb.jpg',
+        'pic0': 'https://images.launchbox-app.com/77c30a10-2250-4210-9015-934256e0cefa.png',
+        'pic1': 'https://images.launchbox-app.com/r2_4ab661f0-5d19-40ef-b7a3-96ffe6d84d72.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=0N3eKQ7xdJo',
         'manual': 'https://www.videogamemanual.com/PS2/Dino%20Stalker%20(USA).pdf',
     },
     'SLUS20561': {
         'id': 'SLUS20561',
         'title': 'DISASTER REPORT',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/fdcac518-2152-418b-91fd-ecaca2e8fd47.jpg',
+        'pic0': 'https://images.launchbox-app.com/9c9a3fe6-eb2f-4622-9ec7-e1816d01ff67.png',
+        'pic1': 'https://images.launchbox-app.com/d8246209-4d5a-463d-be7b-0b53aaaddbf8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=wcXFIFgKjZg',
         'manual': 'https://www.videogamemanual.com/PS2/Disaster%20Report%20(USA).pdf',
     },
     'SLUS20666': {
@@ -2939,9 +2939,9 @@ games_ntsc_u = {
     'SLUS21599': {
         'id': 'SLUS21599',
         'title': 'Disney High School Musical - Sing It!',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com/e0f100b4-03d4-4e53-8638-fe544b1c335d.jpg',
+        'pic0': 'https://images.launchbox-app.com/f0060029-cc4f-466a-bd34-27b748fd98a4.png',
+        'pic1': 'https://images.launchbox-app.com/b235b81f-61ec-45ca-b366-de76a834a110.jpg',
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Sing%20It%20(Disney)-%20High%20School%20Musical%20(USA).pdf',
     },
@@ -2957,28 +2957,28 @@ games_ntsc_u = {
     'SLUS21545': {
         'id': 'SLUS21545',
         'title': 'Disney Pirates of the Caribbean - At World\'s End',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/87631315-e5b5-4eae-bc7b-f3cd210e59c9.jpg',
+        'pic0': 'https://images.launchbox-app.com/1592f1cc-9d24-4534-9edb-de2cff2fd2a4.png',
+        'pic1': 'https://images.launchbox-app.com/r2_65217a41-79d0-444b-8bd9-fedf2318e192.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=8R9FuaSINLU',
         'manual': 'https://www.videogamemanual.com/PS2/Pirates%20of%20the%20Caribbean-%20At%20World\'s%20End%20(USA).pdf',
     },
     'SLUS21110': {
         'id': 'SLUS21110',
         'title': 'Disney Pirates of the Caribbean - The Legend of Jack Sparrow',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/84fa5009-95e2-44d9-9807-380d72eae420.jpg',
+        'pic0': 'https://images.launchbox-app.com/ea6ab282-b851-4239-93f2-e3ae125725d6.png',
+        'pic1': 'https://images.launchbox-app.com/fb92f697-4a30-4656-bdbe-a3e2a3f0e4d2.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=GBvx93GcBbs',
         'manual': 'https://www.videogamemanual.com/PS2/Pirates%20of%20the%20Caribbean-%20The%20Legend%20of%20Jack%20Sparrow%20(USA).pdf',
     },
     'SLUS21660': {
         'id': 'SLUS21660',
         'title': 'Disney Princess - Enchanted Journey',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/dcc7a5d2-e1c1-4e5f-8d10-6b891bf2b95c.jpg',
+        'pic0': 'https://images.launchbox-app.com/e8986309-07cb-496a-94ac-e23290bd0805.png',
+        'pic1': 'https://images.launchbox-app.com/r2_4343cbb2-e3ec-43cb-ae9a-5e78138319bd.png',
+        'snd0': 'https://www.youtube.com/watch?v=iLKOxFSt5y8',
         'manual': 'https://www.videogamemanual.com/PS2/Disney%20Princess-%20Enchanted%20Journey%20(USA).pdf',
     },
     'SLUS21826': {
@@ -3011,37 +3011,37 @@ games_ntsc_u = {
     'SLUS21844': {
         'id': 'SLUS21844',
         'title': 'Disney\'s Bolt',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/ee73ea26-4367-4c12-96d5-64d3ea23b458.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_a15c3af9-68d2-4750-8490-f3bbf5e08192.png',
+        'pic1': 'https://images.launchbox-app.com/1c9013d0-a40f-4400-884b-c917613dd4d9.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=uMI-V4fqiXg',
         'manual': 'https://www.videogamemanual.com/PS2/Bolt%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21088': {
         'id': 'SLUS21088',
         'title': 'DISNEY\'S CHICKEN LITTLE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/e469c9eb-c8ef-4ddd-acf2-379e6a98aba5.jpg',
+        'pic0': 'https://images.launchbox-app.com/2c0f2294-7832-4677-8dd8-c8d4269cd728.png',
+        'pic1': 'https://images.launchbox-app.com/r2_beee1abf-de4b-4d2c-bb68-61b6f6530c26.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=gtYseM54qHg',
         'manual': 'https://www.videogamemanual.com/PS2/Chicken%20Little%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21420': {
         'id': 'SLUS21420',
         'title': 'Disney\'s Chicken Little - Ace in Action',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/017f3b52-ad97-4384-bb99-af6101f85e3b.jpg',
+        'pic0': 'https://images.launchbox-app.com/6d44006f-c0fb-4a06-b8b3-d7b32abd7289.png',
+        'pic1': 'https://images.launchbox-app.com/r2_8b598250-6b80-4c6a-aeee-b4a278aa17e4.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=u85Cbw78v_o',
         'manual': 'https://www.videogamemanual.com/PS2/Chicken%20Little%20(Disney\'s)-%20Ace%20in%20Action%20(USA).pdf',
     },
     'SLUS20077': {
         'id': 'SLUS20077',
         'title': 'Disney\'s Donald Duck - Goin\' Quackers',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/63034e9c-5ac5-4c82-b1db-0229eecd74fa.jpg',
     #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/35a870a7-3832-488b-badc-ef29d258e7f7.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=tYl5uGSBzBA',
         'manual': 'https://www.videogamemanual.com/PS2/Donald%20Duck%20Goin\'%20Quackers%20(USA).pdf',
     },
     'SLUS20607': {
@@ -3056,36 +3056,36 @@ games_ntsc_u = {
     'SLUS21891': {
         'id': 'SLUS21891',
         'title': 'Disney\'s G-Force',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/b0f0f545-7ed2-4180-8209-65948dde83a4.jpg',
+        'pic0': 'https://images.launchbox-app.com/f32fe179-1769-4ec8-963d-2ed18b5339f3.png',
+        'pic1': 'https://images.launchbox-app.com/r2_bdd4c47f-c45a-4e3f-b17b-59de8f4d4841.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=6CTDmtQHHyI',
         'manual': 'https://www.videogamemanual.com/PS2/G-Force%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21437': {
         'id': 'SLUS21437',
         'title': 'DISNEY\'S KIM POSSIBLE - WHAT\'S THE SWITCH?',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/b78ce45f-a5c4-4c0c-b89a-d5a55e952d73.jpg',
+        'pic0': 'https://images.launchbox-app.com/0e327b61-5bb7-4962-bb19-325eae4b69c5.png',
+        'pic1': 'https://images.launchbox-app.com/e3a02034-e5e6-4c9f-ae8a-0f0d62dee550.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=C_U5IUCQDRQ',
         'manual': 'https://www.videogamemanual.com/PS2/Kim%20Possible%20(Disney\'s)-%20What\'s%20The%20Switch%20(USA).pdf',
     },
     'SLUS21453': {
         'id': 'SLUS21453',
         'title': 'DISNEY\'S MEET THE ROBINSONS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/119afbf7-59c2-49cd-8b4f-3bd4ab72d189.jpg',
+        'pic0': 'https://images.launchbox-app.com/05d2d6c7-c0db-4689-8671-efaab96c5195.png',
+        'pic1': 'https://images.launchbox-app.com/8570aeb8-7b04-4fed-bc99-de98556491eb.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=CeYJEzABzUQ',
         'manual': 'https://www.videogamemanual.com/PS2/Meet%20the%20Robinsons%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS20659': {
         'id': 'SLUS20659',
         'title': 'DISNEY\'S PIGLET\'S BIG GAME',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/142e9f9e-8056-45d1-b1fc-0d977b77159f.jpg',
     #    'pic0': 
-    #    'pic1': 
+        'pic1': 'https://images.launchbox-app.com/ade02fcf-2d14-48ec-a129-f476c88f7fa4.jpg',
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Piglet\'s%20BIG%20Game%20(USA).pdf',
     },
@@ -3137,73 +3137,73 @@ games_ntsc_u = {
     'SLUS21814': {
         'id': 'SLUS21814',
         'title': 'DISNEY\'S TH!NK FAST',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com/f8276ead-df42-4c5a-805b-71425f812d02.jpg',
+        'pic0': 'https://images.launchbox-app.com/593a9d82-6bed-4dab-b7a7-f21f48f43ca9.png',
+        'pic1': 'https://images.launchbox-app.com/25d2d8f9-ffde-4252-83ca-6db1bd082a0f.jpg',
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Th!nk%20Fast%20(Disney)%20(USA).pdf',
     },
     'SCUS97146': {
         'id': 'SCUS97146',
         'title': 'Disney\'s Treasure Planet',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5548413b-3f7e-437e-9b89-85effb86073b.jpg',
     #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/a32d3912-4d4e-46d7-b795-547f9b0b16f5.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=WjmqFjjewUo',
         'manual': 'https://www.videogamemanual.com/PS2/Treasure%20Planet%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21054': {
         'id': 'SLUS21054',
         'title': 'Disney\'s Treasure Planet (Classics)',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5548413b-3f7e-437e-9b89-85effb86073b.jpg',
     #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'pic1': 'https://images.launchbox-app.com/a32d3912-4d4e-46d7-b795-547f9b0b16f5.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=WjmqFjjewUo',
         'manual': 'https://www.videogamemanual.com/PS2/Treasure%20Planet%20(Disney\'s)%20[Disney%20Classics]%20(USA).pdf',
     },
     'SLUS21084': {
         'id': 'SLUS21084',
         'title': 'Disney\'s Winnie the Pooh\'s Rumbly Tumbly Adventure',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/ebaad075-93d6-44fb-aa89-bc8569844c41.jpg',
+        'pic0': 'https://images.launchbox-app.com/d10e3cc6-b947-4b4d-af65-be616472191d.png',
+        'pic1': 'https://images.launchbox-app.com/05ab984a-ef81-4d72-bc2b-5da98a5becb5.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=HkUz3S9UHZk',
         'manual': 'https://www.videogamemanual.com/PS2/Winnie%20the%20Pooh\'s%20Rumbly%20Tumbly%20Adventure%20(USA).pdf',
     },
     'SLUS21151': {
         'id': 'SLUS21151',
         'title': 'DISNEY\'S PIXAR - CARS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/f4f180cd-1aa6-4fc9-8bd0-5599f1a4afea.jpg',
+        'pic0': 'https://images.launchbox-app.com/ec896570-8585-4a5e-9ccf-69b6058b4c1b.png',
+        'pic1': 'https://images.launchbox-app.com/07832931-f28a-4051-8d0a-2b9f72438fad.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=XCqweGMoM_c',
         'manual': 'https://www.videogamemanual.com/PS2/Cars%20(Disney-Pixar)%20(USA).pdf',
     },
     'SLUS21637': {
         'id': 'SLUS21637',
         'title': 'Disney-Pixar\'s Cars - Mater National Championship',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/1a2f67f0-9a34-43d7-a3d5-e5d061948cb8.jpg',
+        'pic0': 'https://images.launchbox-app.com/5fd4ce15-119d-47dd-a86d-0c56eb625905.png',
+        'pic1': 'https://images.launchbox-app.com/886f578e-c664-481e-8ae7-bcd8894209bf.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=nEm-Q1xrfCw',
         'manual': 'https://www.videogamemanual.com/PS2/Cars%20(Disney-Pixar)-%20Mater-National%20Championship%20(USA).pdf',
     },
     'SLUS21883': {
         'id': 'SLUS21883',
         'title': 'Disney-Pixar\'s Cars - Race-O-Rama',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/1a0af405-32da-4cf7-a4a3-1afb11e8d4b5.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_e4ea2508-aae1-42df-ae21-9c5833b49776.png',
+        'pic1': 'https://images.launchbox-app.com/r2_14958a42-ddd5-43f9-868e-70ac58efbca1.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=dvvF3RFvTdU',
         'manual': 'https://www.videogamemanual.com/PS2/Cars%20(Disney-Pixar)-%20Race-O-Rama%20(USA).pdf',
     },
     'SLUS20628': {
         'id': 'SLUS20628',
         'title': 'Disney-Pixar\'s Finding Nemo',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/71adbbd5-1061-47fd-afda-1138c92184c2.jpg',
+        'pic0': 'https://images.launchbox-app.com/f93d16f2-85f8-4c9b-b3c0-1bcb990f2c69.png',
+        'pic1': 'https://images.launchbox-app.com/ac867c19-2399-48ef-a785-f4969ab922d0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=nE8JcW-exq4',
         'manual': 'https://www.videogamemanual.com/PS2/Finding%20Nemo%20(Disney-Pixar)%20(USA).pdf',
     },
     'SCUS97123': {
@@ -3227,19 +3227,19 @@ games_ntsc_u = {
     'SLUS21541': {
         'id': 'SLUS21541',
         'title': 'DISNEY\'S PIXAR - RATATOUILLE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/86f8145e-112f-4737-aa6d-9cded5a235b4.jpg',
+        'pic0': 'https://images.launchbox-app.com/52ff1b09-7d9f-4169-b5c3-6f6f734bbc1f.png',
+        'pic1': 'https://images.launchbox-app.com/f9669a4e-1739-44a3-95bf-33f20f964380.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=sSjPnokR-RE',
         'manual': 'https://www.videogamemanual.com/PS2/Ratatouille%20(USA).pdf',
     },
     'SLUS20905': {
         'id': 'SLUS20905',
         'title': 'DISNEY\'S PIXAR - THE INCREDIBLES',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/47744778-9c01-40b4-b840-4cd9ec78d976.jpg',
+        'pic0': 'https://images.launchbox-app.com/082d9a4d-161c-4ca7-b2c0-a3a40206ae91.png',
+        'pic1': 'https://images.launchbox-app.com/265f8ef6-1f87-4097-87d6-0b33c4dfa9f1.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=EAa6yEHrPnM',
         'manual': 'https://www.videogamemanual.com/PS2/Incredibles,%20The%20(USA).pdf',
     },
     'SLUS21217': {
@@ -3254,35 +3254,35 @@ games_ntsc_u = {
     'SLUS21931': {
         'id': 'SLUS21931',
         'title': 'DISNEY\'S PIXAR - TOY STORY 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/c6824e2d-beac-49d6-beca-b5c5b02c55e8.jpg',
+        'pic0': 'https://images.launchbox-app.com/06fad180-5bd3-4b2a-bc2a-796bec4170c4.png',
+        'pic1': 'https://images.launchbox-app.com/d3314ec1-5f7c-49a4-8d24-1ff9891379a0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=VoVR2mK8VIQ',
     },
     'SCUS90174': {
         'id': 'SCUS90174',
         'title': 'DISNEY\'S PIXAR - TOY STORY 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/c6824e2d-beac-49d6-beca-b5c5b02c55e8.jpg',
+        'pic0': 'https://images.launchbox-app.com/06fad180-5bd3-4b2a-bc2a-796bec4170c4.png',
+        'pic1': 'https://images.launchbox-app.com/d3314ec1-5f7c-49a4-8d24-1ff9891379a0.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=VoVR2mK8VIQ',
     },
     'SLUS21864': {
         'id': 'SLUS21864',
         'title': 'Disney-Pixar\'s Up',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
+        'icon0': 'https://images.launchbox-app.com/2dc8a936-e6ad-4b93-8fa9-7b7c9050ae3e.jpg',
+        'pic0': 'https://images.launchbox-app.com/1ef42178-977b-4966-8afd-4095c38b9393.png',
+        'pic1': 'https://images.launchbox-app.com/9ce71d45-04b4-4297-9f7a-1f34638c2b5f.jpg',
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/UP%20(Disney\'s)%20(USA).pdf',
     },
     'SLUS21736': {
         'id': 'SLUS21736',
         'title': 'DISNEY\'S PIXAR - WALL-E',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/0861a89f-ebcc-48f0-ae71-7deb333efaba.jpg',
+        'pic0': 'https://images.launchbox-app.com/3ef56bde-b73d-41c4-bb09-317a57cd66da.png',
+        'pic1': 'https://images.launchbox-app.com/32b87a49-989d-4cf7-a960-ad470e327901.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=JsLtiCBXQcM',
         'manual': 'https://www.videogamemanual.com/PS2/Wall-E%20(USA).pdf',
     },
     'SLUS21909': {
@@ -3297,19 +3297,19 @@ games_ntsc_u = {
     'SLUS21018': {
         'id': 'SLUS21018',
         'title': 'Dog\'s Life',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/9d154b02-6907-4404-b279-c377db2731cd.jpg',
+        'pic0': 'https://images.launchbox-app.com/87dd3aeb-c804-4279-98a8-cc8a11b8eed4.png',
+        'pic1': 'https://images.launchbox-app.com/6fdd38fb-475e-4657-9d29-db4d85f96732.png',
+        'snd0': 'https://www.youtube.com/watch?v=V0InrV_pbRY',
         'manual': 'https://www.videogamemanual.com/PS2/Dog\'s%20Life%20(USA).pdf',
     },
     'SLUS21778': {
         'id': 'SLUS21778',
         'title': 'Dokapon Kingdom',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/6deefdb0-1e75-4e87-bf7b-fb98dad72147.jpg',
+        'pic0': 'https://images.launchbox-app.com/6a366749-4ef8-438f-89c9-63b2dfbff618.png',
+        'pic1': 'https://images.launchbox-app.com/60a7a2f9-cc8f-4b0b-bb92-d31a9ce33a39.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=sFLgzsC2478',
         'manual': 'https://www.videogamemanual.com/PS2/Dokapon%20Kingdom%20(USA).pdf',
     },
     'SLUS21796': {
@@ -10614,19 +10614,19 @@ games_ntsc_u = {
     'SLUS21545': {
         'id': 'SLUS21545',
         'title': 'Pirates of the Caribbean - At World\'s End',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/87631315-e5b5-4eae-bc7b-f3cd210e59c9.jpg',
+        'pic0': 'https://images.launchbox-app.com/1592f1cc-9d24-4534-9edb-de2cff2fd2a4.png',
+        'pic1': 'https://images.launchbox-app.com/r2_65217a41-79d0-444b-8bd9-fedf2318e192.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=8R9FuaSINLU',
         'manual': 'https://www.videogamemanual.com/PS2/Pirates%20of%20the%20Caribbean-%20At%20World\'s%20End%20(USA).pdf',
     },
     'SLUS21110': {
         'id': 'SLUS21110',
         'title': 'Pirates of the Caribbean - The Legend of Jack Sparrow',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
+        'icon0': 'https://images.launchbox-app.com/84fa5009-95e2-44d9-9807-380d72eae420.jpg',
+        'pic0': 'https://images.launchbox-app.com/ea6ab282-b851-4239-93f2-e3ae125725d6.png',
+        'pic1': 'https://images.launchbox-app.com/fb92f697-4a30-4656-bdbe-a3e2a3f0e4d2.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=GBvx93GcBbs',
         'manual': 'https://www.videogamemanual.com/PS2/Pirates%20of%20the%20Caribbean-%20The%20Legend%20of%20Jack%20Sparrow%20(USA).pdf',
     },
     'SLUS20408': {
