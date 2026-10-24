@@ -132,7 +132,7 @@ games_ntsc_u = {
         'id': 'SLUS20091',
         'title': '4x4 Evolution',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/b74f8305-cf5c-4f56-a408-38f52cab7298.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/4X4%20Evolution%20(USA).pdf',
@@ -141,7 +141,7 @@ games_ntsc_u = {
         'id': 'SLUS21693',
         'title': '7 Wonders of the Ancient World',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/c2115374-d000-4da4-97dd-b4782e03a5a1.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/7%20Wonders%20of%20the%20Ancient%20World%20(USA).pdf',
@@ -159,7 +159,7 @@ games_ntsc_u = {
         'id': 'SLUS21268',
         'title': '24 THE GAME',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/r2_eb9b1a26-fce3-4b19-8a8b-47d41dd85b34.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/24-%20The%20Game%20(USA).pdf',
@@ -925,7 +925,7 @@ games_ntsc_u = {
         'id': 'SLUS20876',
         'title': 'Backyard Football 2006',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/ee86de00-def3-4680-aa13-383ea8b275ef.png',
     #    'pic1': 
     #    'snd0': 
          'manual': 'https://www.videogamemanual.com/PS2/Backyard%20Football%202006%20(USA).pdf',
@@ -1699,7 +1699,7 @@ games_ntsc_u = {
         'id': 'SLUS20534',
         'title': 'Cabela\'s Big Game Hunter',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/d030498c-c146-4573-bd19-a260d9688f25.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Big%20Game%20Hunter%20(USA).pdf',
@@ -1708,7 +1708,7 @@ games_ntsc_u = {
         'id': 'SLUS21011',
         'title': 'Cabela\'s Big Game Hunter - 2005 Adventures',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/21ad43cf-b385-4be6-8240-768707ad3459.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Big%20Game%20Hunter-%202005%20Adventures%20(USA).pdf',
@@ -1735,7 +1735,7 @@ games_ntsc_u = {
         'id': 'SLUS21350',
         'title': 'Cabela\'s Dangerous Hunts 2',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/9bb938a0-9ee5-4e2c-82ae-c84708ecb0cb.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Dangerous%20Hunts%202%20(USA).pdf',
@@ -1753,7 +1753,7 @@ games_ntsc_u = {
         'id': 'SLUS20665',
         'title': 'Cabela\'s Deer Hunt - 2004 Season',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/ef788d75-9899-4f27-8434-321027066f0e.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Deer%20Hunt-%202004%20Season%20(USA).pdf',
@@ -1762,7 +1762,7 @@ games_ntsc_u = {
         'id': 'SLUS21021',
         'title': 'Cabela\'s Deer Hunt - 2005 Season',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/r2_302c5ebb-1dd7-4892-9e9e-5b29e837397e.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Deer%20Hunt-%202005%20Season%20(USA).pdf',
@@ -1816,7 +1816,7 @@ games_ntsc_u = {
         'id': 'SLUS21624',
         'title': 'Cabela\'s Trophy Bucks',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/27d4b912-1583-46ca-b984-032e11d97755.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Cabela\'s%20Trophy%20Bucks%20(USA).pdf',
@@ -1825,7 +1825,7 @@ games_ntsc_u = {
         'id': 'SLUS21764',
         'title': 'Cake Mania - Baker\'s Challenge',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/b4514afe-6d92-4d97-8d34-6bc42787099e.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Cake%20Mania-%20Baker\'s%20Challenge%20(USA).pdf',
@@ -1933,7 +1933,7 @@ games_ntsc_u = {
         'id': 'SLUS20141',
         'title': 'CART Fury - Championship Racing',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/ca08ee26-f601-44e8-9f6e-8fe884d80292.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/CART%20Fury-%20Championship%20Racing%20(USA).pdf',
@@ -1951,7 +1951,7 @@ games_ntsc_u = {
         'id': 'SLUS20205',
         'title': 'Casper Spirit Dimensions',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/5a29faa9-a95a-409e-a5f1-c544b6e8772b.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Casper-%20Spirit%20Dimensions%20(USA).pdf',
@@ -2023,7 +2023,7 @@ games_ntsc_u = {
         'id': 'SLUS21722',
         'title': 'CHAOS WARS',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/r2_691438b9-1f7a-4b39-b650-05a8ab90ae76.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Chaos%20Wars%20(USA).pdf',
@@ -2041,7 +2041,7 @@ games_ntsc_u = {
         'id': 'SLUS20637',
         'title': 'Chessmaster',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/r2_780098aa-cce8-4eeb-8b36-cf25a19a3263.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Chessmaster%20(USA).pdf',
@@ -2059,7 +2059,7 @@ games_ntsc_u = {
         'id': 'SLUS20742',
         'title': 'CHULIP',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/ff567e0d-f214-4c85-83a0-70899d426c2e.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Chulip%20(USA).pdf',
@@ -2068,7 +2068,7 @@ games_ntsc_u = {
         'id': 'SLUS21754',
         'title': 'CID The Dummy',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/7e14c719-0157-44a9-9185-defc452d4583.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/CID%20The%20Dummy%20(USA).pdf',
@@ -2077,7 +2077,7 @@ games_ntsc_u = {
         'id': 'SLUS20274',
         'title': 'City Crisis',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/121f510d-7d1c-48ba-adbb-e5a1cb205743.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/City%20Crisis%20(USA).pdf',
@@ -2095,7 +2095,7 @@ games_ntsc_u = {
         'id': 'SLUS21663',
         'title': 'Cocoto - Fishing Master',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/c0ec22fa-2786-4104-9645-21535e9bd66f.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Cocoto%20Fishing%20Master%20(USA).pdf',
@@ -2104,7 +2104,7 @@ games_ntsc_u = {
         'id': 'SLUS21743',
         'title': 'Code Lyoko - Quest for Infinity',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/cd2d2f34-e55a-453a-bd99-bf21c939a6aa.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Code%20Lyoko-%20Quest%20For%20Infinity%20(USA).pdf',
@@ -2113,7 +2113,7 @@ games_ntsc_u = {
         'id': 'SLUS21155',
         'title': 'CODENAME - KIDS NEXT DOOR - OPERATION V.I.D.E.O.G.A.M.E.',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/cdbbe551-b9db-4717-bfff-f765d0601925.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Codename-%20Kids%20Next%20Door-%20Operation%20VIDEOGAME%20(USA).pdf',
@@ -2131,7 +2131,7 @@ games_ntsc_u = {
         'id': 'SLUS20845',
         'title': 'Cold Winter',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/952fa35f-aebb-431b-8309-6dd6c01fe22d.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Cold%20Winter%20(USA).pdf',
@@ -2185,7 +2185,7 @@ games_ntsc_u = {
         'id': 'SLUS20715',
         'title': 'Combat Elite - WWII Paratroopers',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/bba4d7b4-f643-4593-9a90-6cc5914e668d.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Combat%20Elite-%20WWII%20Paratroopers%20(USA).pdf',
@@ -2212,7 +2212,7 @@ games_ntsc_u = {
         'id': 'SLUS20549',
         'title': 'Conflict - Desert Storm',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/458e0f7f-8f6b-4a47-acf6-4ff3c8701fe5.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Conflict-%20Desert%20Storm%20(USA).pdf',
@@ -2248,7 +2248,7 @@ games_ntsc_u = {
         'id': 'SLUS20240',
         'title': 'Conflict Zone',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/d3b1de7e-0d9e-449b-9594-13771975f51a.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Conflict%20Zone-%20Modern%20War%20Strategy%20(USA).pdf',
@@ -2275,7 +2275,7 @@ games_ntsc_u = {
         'id': 'SCUS97108',
         'title': 'COOL BOARDERS 2001',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/363c060b-897c-4e3a-b6bd-77bd0e241154.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Cool%20Boarders%202001%20(USA).pdf',
@@ -2293,7 +2293,7 @@ games_ntsc_u = {
         'id': 'SLUS20858',
         'title': 'CORVETTE',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/795ea8b2-309e-4d12-98c6-a3fb876281a3.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Corvette%2050th%20Anniversary%20(USA).pdf',
@@ -2302,7 +2302,7 @@ games_ntsc_u = {
         'id': 'SLUS21499',
         'title': 'CORVETTE EVOLUTION GT',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/83bdab83-fd2a-4c1d-aaf0-b4f42ed2c297.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Corvette%20Evolution%20GT%20(USA).pdf',
@@ -2374,7 +2374,7 @@ games_ntsc_u = {
         'id': 'SLUS21634',
         'title': 'Crazy Frog Arcade Racer',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/14cf5c2e-dd98-41a5-885f-363d7827161c.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Crazy%20Frog%20Arcade%20Racer%20(USA).pdf',
@@ -2437,7 +2437,7 @@ games_ntsc_u = {
         'id': 'SLUS20774',
         'title': 'Culdcept',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/d924493e-49d5-4f99-9a78-ce43b63cee20.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Culdcept%20(USA).pdf',
@@ -2446,7 +2446,7 @@ games_ntsc_u = {
         'id': 'SLUS21354',
         'title': 'Curious George',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/52118c91-1169-4675-a1b5-b945b6e3b950.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Curious%20George%20(USA).pdf',
@@ -2473,7 +2473,7 @@ games_ntsc_u = {
         'id': 'SLUS20674',
         'title': 'CYBER TROOPERS VIRTUAL-ON - MARZ',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/r2_696bb006-a22a-4cdc-ae05-3ccd299d0d96.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Virtual-On%20Marz%20(USA).pdf',
@@ -2482,7 +2482,7 @@ games_ntsc_u = {
         'id': 'SLUS21416',
         'title': 'D1 PROFESSIONAL DRIFT GRAND PRIX SERIES',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/1d03bd9b-c179-482a-9af5-1aeb704d26b8.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/D1-%20Professional%20Drift%20Grand%20Prix%20Series%20(USA).pdf',
@@ -2500,7 +2500,7 @@ games_ntsc_u = {
         'id': 'SLUS21609',
         'title': 'Dance Dance Revolution - Disney Channel Edition',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/97e8e838-627f-42aa-b764-7f9f65c5dc89.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20Disney%20Channel%20Edition%20(USA).pdf',
@@ -2509,7 +2509,7 @@ games_ntsc_u = {
         'id': 'SLUS20916',
         'title': 'Dance Dance Revolution X',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/061ee8e9-7ddc-4339-b207-1d1e135822d7.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20X%20(USA).pdf',
@@ -2527,7 +2527,7 @@ games_ntsc_u = {
         'id': 'SLUS21377',
         'title': 'DANCE DANCE REVOLUTION SUPERNOVA',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/0115f97b-fd6c-4339-9573-3df0a78776ed.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20SuperNOVA%20(USA).pdf',
@@ -2545,7 +2545,7 @@ games_ntsc_u = {
         'id': 'SLUS21767',
         'title': 'Dance Dance Revolution X',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/061ee8e9-7ddc-4339-b207-1d1e135822d7.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dance%20Dance%20Revolution%20X%20(USA).pdf',
@@ -2563,7 +2563,7 @@ games_ntsc_u = {
         'id': 'SLUS21296',
         'title': 'Dance Factory',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/9a1ca0c4-5f0c-4471-838e-34b81f2319ce.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dance%20Factory%20(USA).pdf',
@@ -2572,7 +2572,7 @@ games_ntsc_u = {
         'id': 'SLUS21676',
         'title': 'DANCING WITH THE STARS',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/bec1e0cf-66a0-4181-9be9-1f71cc055ea3.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dancing%20with%20the%20Stars%20(USA).pdf',
@@ -2581,7 +2581,7 @@ games_ntsc_u = {
         'id': 'SLUS20131',
         'title': 'Dark Angel - Vampire Apocalypse',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/f17718fa-f53c-49e8-8810-3965a69b1161.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dark%20Angel-%20Vampire%20Apocalypse%20(USA).pdf',
@@ -2608,7 +2608,7 @@ games_ntsc_u = {
         'id': 'SLUS20300',
         'title': 'Dark Summit',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/bafad956-7fbc-4d68-818e-788aad08a81b.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dark%20Summit%20(USA).pdf',
@@ -2689,7 +2689,7 @@ games_ntsc_u = {
         'id': 'SLUS20626',
         'title': 'DEER HUNTER',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/44455a27-02f9-4cfe-a808-dc556b735eaf.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Deer%20Hunter%20(USA).pdf',
@@ -2841,7 +2841,7 @@ games_ntsc_u = {
         'id': 'SLUS21181',
         'title': 'DICE - DNA Integrated Cybernetic Enterprises',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/0ae7949f-37cb-4ebd-a6d0-f65b6052f31a.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/DICE%20-%20DNA%20Integrated%20Cybernetic%20Enterprises%20(USA).pdf',
@@ -2850,7 +2850,7 @@ games_ntsc_u = {
         'id': 'SLUS21067',
         'title': 'DIGIMON RUMBLE ARENA 2',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/df39c983-e567-4c14-bc5e-ae87ae1a9589.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Digimon%20Rumble%20Arena%202%20(USA).pdf',
@@ -2859,7 +2859,7 @@ games_ntsc_u = {
         'id': 'SLUS21598',
         'title': 'Digimon World - Data Squad',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/ece8a226-f508-40aa-9e78-799b93bd2eee.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Digimon%20World-%20Data%20Squad%20(USA).pdf',
@@ -2868,7 +2868,7 @@ games_ntsc_u = {
         'id': 'SLUS20836',
         'title': 'DIGIMON WORLD 4',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/d6273f6c-4f7c-4633-957b-fd2a23f7acdb.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Digimon%20World%204%20(USA).pdf',
@@ -2877,7 +2877,7 @@ games_ntsc_u = {
         'id': 'SLUS20785',
         'title': 'Digital Hitz Factory',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/eb05dd66-b2ce-436b-8fd3-abd64b0ded44.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/FunkMaster%20Flex\'s%20Digital%20Hitz%20Factory%20(USA).pdf',
@@ -2922,7 +2922,7 @@ games_ntsc_u = {
         'id': 'SLUS20532',
         'title': 'DISNEY GOLF',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/a712deea-4c24-4bd8-bb8d-21253a0d0793.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Disney%20Golf%20(USA).pdf',
@@ -2931,7 +2931,7 @@ games_ntsc_u = {
         'id': 'SLUS21750',
         'title': 'Disney Hannah Montana - Spotlight World Tour',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/95731cbc-458e-458d-93e9-c144b56d9d64.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Hannah%20Montana-%20Spotlight%20World%20Tour%20(USA).pdf',
@@ -2949,7 +2949,7 @@ games_ntsc_u = {
         'id': 'SLUS21819',
         'title': 'Disney High School Musical 3 - Senior Year DANCE!',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/24258d1a-6bc3-43cd-96e3-3f2fa460b976.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/High%20School%20Musical%203-%20Senior%20Year%20Dance!%20(Disney)%20(USA).pdf',
@@ -2985,7 +2985,7 @@ games_ntsc_u = {
         'id': 'SLUS21826',
         'title': 'Disney Sing It!',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/d7460a1f-05da-42af-803d-c6fd6bfe5b46.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Sing%20It%20(Disney)%20(USA).pdf',
@@ -2994,7 +2994,7 @@ games_ntsc_u = {
         'id': 'SLUS21861',
         'title': 'Disney Sing It - High School Musical 3 - Senior Year',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/f400a79e-d032-4e76-ab2c-b52b05092ad1.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Sing%20It%20(Disney)-%20High%20School%20Musical%203%20-%20Senior%20Year%20(USA).pdf',
@@ -3048,7 +3048,7 @@ games_ntsc_u = {
         'id': 'SLUS20607',
         'title': 'DISNEY\'S EXTREME SKATE ADVENTURE',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/dadb779f-d263-4615-95dd-9f3ec62ac8cc.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Extreme%20Skate%20Adventure%20(Disney\'s)%20(USA).pdf',
@@ -3120,7 +3120,7 @@ games_ntsc_u = {
         'id': 'SLUS20076',
         'title': 'DISNEY\'S TARZAN UNTAMED',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/70ad651b-24bc-455d-9fd7-b877aafb3db7.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Tarzan%20Untamed%20(Disney\'s)%20(USA).pdf',
@@ -3325,7 +3325,7 @@ games_ntsc_u = {
         'id': 'SLUS21944',
         'title': 'Dora the Explorer- Dora\'s Big Birthday Adventure',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/b93913fa-2839-425c-9895-38dae633f38e.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dora%20the%20Explorer-%20Dora\'s%20Big%20Birthday%20Adventure%20(USA).pdf',
@@ -3343,7 +3343,7 @@ games_ntsc_u = {
         'id': 'SLUS21717',
         'title': 'Dora the Explorer - Dora Saves the Mermaids',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/a4a3be58-265c-4f94-b7a2-bb92a373ce74.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dora%20the%20Explorer-%20Dora%20Saves%20the%20Mermaids%20(USA).pdf',
@@ -3361,7 +3361,7 @@ games_ntsc_u = {
         'id': 'SLUS20405',
         'title': 'Downforce',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/c4eb15fa-9b55-4695-92ea-0205233321c3.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Downforce%20(USA).pdf',
@@ -3469,7 +3469,7 @@ games_ntsc_u = {
         'id': 'SLUS20874',
         'title': 'Dragon Ball Z - Sagas',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/984d5510-bdb1-4b8e-b713-10cf085aea52.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Ball%20Z-%20Sagas%20(USA).pdf',
@@ -3487,7 +3487,7 @@ games_ntsc_u = {
         'id': 'SLUS20195',
         'title': 'Dragon Rage',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/r2_be0dc258-ff11-4b0a-800f-169694ece16c.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dragon%20Rage%20(USA).pdf',
@@ -3694,7 +3694,7 @@ games_ntsc_u = {
         'id': 'SLUS20113',
         'title': 'DRIVING EMOTION TYPE-S',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/r2_910bbe63-92a5-4be4-9f49-3ef916761200.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Driving%20Emotion%20Type-S%20(USA).pdf',
@@ -3703,7 +3703,7 @@ games_ntsc_u = {
         'id': 'SLUS20577',
         'title': 'Drome Racers',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/761c29b2-032b-4d64-8a34-64d32cd98c83.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Drome%20Racers%20(USA).pdf',
@@ -3712,7 +3712,7 @@ games_ntsc_u = {
         'id': 'SLUS20463',
         'title': 'Dropship - United Peace Force',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/79579bbf-afc5-4730-b137-f24ea57fa7dc.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dropship-%20United%20Peace%20Force%20(USA).pdf',
@@ -3721,7 +3721,7 @@ games_ntsc_u = {
         'id': 'SLUS21793',
         'title': 'DT Carnage',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/9ad1a7d9-c042-43b8-8797-b823349f5f76.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/DT%20Carnage%20(USA).pdf',
@@ -3784,7 +3784,7 @@ games_ntsc_u = {
         'id': 'SLUS20079',
         'title': 'DYNASTY WARRIORS 2',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/ffa01f51-a69a-4d83-b3f6-58776248ae49.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%202%20(USA).pdf',
@@ -3802,7 +3802,7 @@ games_ntsc_u = {
         'id': 'SLUS20617',
         'title': 'Dynasty Warriors 3 - Xtreme Legends',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/621557b3-7ec4-4f43-bcf2-2c26e18efdf5.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%203-%20Xtreme%20Legends%20(USA).pdf',
@@ -3820,7 +3820,7 @@ games_ntsc_u = {
         'id': 'SLUS20938',
         'title': 'Dynasty Warriors 4 - Empires',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/71f43766-c558-42fb-8ba4-c54a17747a46.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%204-%20Empires%20(USA).pdf',
@@ -3829,7 +3829,7 @@ games_ntsc_u = {
         'id': 'SLUS20812',
         'title': 'Dynasty Warriors 4 - Xtreme Legends',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/c425f426-8306-45cf-8cea-450e21ba5b12.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%204-%20Xtreme%20Legends%20(USA).pdf',
@@ -3856,7 +3856,7 @@ games_ntsc_u = {
         'id': 'SLUS21299',
         'title': 'Dynasty Warriors 5 - Xtreme Legends',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/63ecb0a2-381d-4ec1-a71b-a543cc711a3b.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Dynasty%20Warriors%205-%20Xtreme%20Legends%20(USA).pdf',
@@ -3928,7 +3928,7 @@ games_ntsc_u = {
         'id': 'SLUS21486',
         'title': 'EAGLE EYE GOLF',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/74f52a03-c128-452d-a134-42598a7784fd.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Eagle%20Eye%20Golf%20(USA).pdf',
@@ -3946,7 +3946,7 @@ games_ntsc_u = {
         'id': 'SLUS20928',
         'title': 'ECHO NIGHT BEYOND',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/5209e792-3911-4f3e-8003-6cb9dc1efcda.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Echo%20Night-%20Beyond%20(USA).pdf',
@@ -3955,7 +3955,7 @@ games_ntsc_u = {
         'id': 'SLUS21260',
         'title': 'Ed, Edd, \'n Eddy - The Mis-Edventures',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/b1afd82f-053c-4d0c-853e-c562527b26a7.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Ed,%20Edd,%20\'n%20Eddy-%20The%20Mis-Edventures%20(USA).pdf',
@@ -3964,7 +3964,7 @@ games_ntsc_u = {
         'id': 'SLUS20452',
         'title': 'Egg Mania - Eggstreme Madness',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/49be8e9d-c8a5-4cd7-a48e-dfe3babb3339.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Egg%20Mania-%20Eggstreme%20Madness%20(USA).pdf',
@@ -4009,7 +4009,7 @@ games_ntsc_u = {
         'id': 'SLUS20967',
         'title': 'ENTHUSIA PROFESSIONAL RACING',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/1bd6ad6e-7be3-4d56-ad18-84dddf8e45ce.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Enthusia%20Professional%20Racing%20(USA).pdf',
@@ -4018,7 +4018,7 @@ games_ntsc_u = {
         'id': 'SLUS20169',
         'title': 'EPHEMERAL FANTASIA',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/d6ba2f12-b707-47b9-ac3b-b2cc1f6b27ee.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Ephemeral%20Fantasia%20(USA).pdf',
@@ -4045,7 +4045,7 @@ games_ntsc_u = {
         'id': 'SLUS20729',
         'title': 'ESPN College Hoops',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/r2_700903ee-f5c0-4719-89e9-7e57c144c5ff.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20College%20Hoops%20(USA).pdf',
@@ -4063,7 +4063,7 @@ games_ntsc_u = {
         'id': 'SLUS20041',
         'title': 'ESPN INTERNATIONAL TRACK & FIELD',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/a0f4969b-96fd-4dfb-8dbc-c2c7d219777a.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20International%20Track%20&%20Field%20(USA).pdf',
@@ -4072,7 +4072,7 @@ games_ntsc_u = {
         'id': 'SLUS20320',
         'title': 'ESPN INTERNATIONAL WINTER SPORTS 2002',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/dd60643a-f83f-4b6c-a5d2-37487ef19936.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20International%20Winter%20Sports%202002%20(USA).pdf',
@@ -4099,7 +4099,7 @@ games_ntsc_u = {
         'id': 'SLUS20166',
         'title': 'ESPN National Hockey Night',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/fa7ad93e-bf78-44d5-81f1-039cd917e9d6.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20National%20Hockey%20Night%20(USA).pdf',
@@ -4126,7 +4126,7 @@ games_ntsc_u = {
         'id': 'SLUS20920',
         'title': 'ESPN NBA 2K5',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/70b58d33-54ac-4dbf-8e1d-18148c9a02b6.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NBA%202K5%20(USA).pdf',
@@ -4135,7 +4135,7 @@ games_ntsc_u = {
         'id': 'SLUS20726',
         'title': 'ESPN NBA Basketball',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/f80e5eb0-9305-4d76-8d05-2c7c2c138023.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NBA%20Basketball%20(USA).pdf',
@@ -4144,7 +4144,7 @@ games_ntsc_u = {
         'id': 'SLUS20919',
         'title': 'ESPN NFL 2K5',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/4069e81e-bb72-493b-bfe7-b45acb7dea16.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NFL%202K5%20(USA).pdf',
@@ -4153,7 +4153,7 @@ games_ntsc_u = {
         'id': 'SLUS20727',
         'title': 'ESPN NFL Football',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/d4c1a767-c782-43ce-b06f-921b02e81fe7.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NFL%20Football%20(USA).pdf',
@@ -4171,7 +4171,7 @@ games_ntsc_u = {
         'id': 'SLUS20921',
         'title': 'ESPN NHL 2K5',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/2aa9e6d1-85bd-4d9a-b452-1f30d792249b.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NHL%202K5%20(USA).pdf',
@@ -4180,7 +4180,7 @@ games_ntsc_u = {
         'id': 'SLUS20728',
         'title': 'ESPN NHL Hockey',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/135eaab8-13ee-432e-848a-a372982eec9d.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20NHL%20Hockey%20(USA).pdf',
@@ -4189,7 +4189,7 @@ games_ntsc_u = {
         'id': 'SLUS20089',
         'title': 'ESPN Winter X Games - Snowboarding',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/47455006-388e-465b-aaa4-c3fd6f43358a.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20Winter%20X-Games%20Snowboarding%20(USA).pdf',
@@ -4198,7 +4198,7 @@ games_ntsc_u = {
         'id': 'SLUS20321',
         'title': 'ESPN Winter X Games - Snowboarding 2002',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/37a2791c-f196-4028-9f98-0ad1b6d469d4.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20Winter%20X-Games%20Snowboarding%202002%20(USA).pdf',
@@ -4207,7 +4207,7 @@ games_ntsc_u = {
         'id': 'SLUS20237',
         'title': 'ESPN X Games Skateboarding',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/fc2b5d54-57ea-459d-98c1-f3d55c8d7d9b.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/ESPN%20X%20Games%20Skateboarding%20(USA).pdf',
@@ -4225,7 +4225,7 @@ games_ntsc_u = {
         'id': 'SLUS20015',
         'title': 'Eternal Ring',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/a127cdc1-a0df-4fd3-b88d-09a068dcc5dd.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Eternal%20Ring%20(USA).pdf',
@@ -4252,7 +4252,7 @@ games_ntsc_u = {
         'id': 'SLUS20598',
         'title': 'Everblue 2',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/e966f4dd-438a-4d05-9e68-8c573ce559fc.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Everblue%202%20(USA).pdf',
@@ -4270,7 +4270,7 @@ games_ntsc_u = {
         'id': 'SLUS20470',
         'title': 'EverQuest - Online Adventures',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/0ea4ec21-136f-407d-a974-dd2ad1e96b48.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/EverQuest%20Online%20Adventures%20(USA).pdf',
@@ -4279,7 +4279,7 @@ games_ntsc_u = {
         'id': 'SLUS20744',
         'title': 'EverQuest - Online Adventures - Frontiers',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/37f4add2-b84e-451a-a8d7-5b756dce24ec.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/EverQuest%20Online%20Adventures-%20Frontiers%20(USA).pdf',
@@ -4306,7 +4306,7 @@ games_ntsc_u = {
         'id': 'SLUS20540',
         'title': 'Evolution Skateboarding',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/ab0cae52-6552-4cc9-8b65-752c3ac941a7.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Evolution%20Skateboarding%20(USA).pdf',
@@ -4315,7 +4315,7 @@ games_ntsc_u = {
         'id': 'SLUS20546',
         'title': 'Evolution Snowboarding',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/e2003ea1-4c1e-4abe-9e67-3a1b1e58df19.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Evolution%20Snowboarding%20(USA).pdf',
@@ -4324,7 +4324,7 @@ games_ntsc_u = {
         'id': 'SCUS97112',
         'title': 'Extermination',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/cfcf2b64-517f-4452-8bf6-9ad9023601b9.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Extermination%20(USA).pdf',
@@ -4342,7 +4342,7 @@ games_ntsc_u = {
         'id': 'SCUS97345',
         'title': 'EyeToy - Groove',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/43f4e21f-4c9c-4844-8773-a231f717f79d.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Groove%20(USA).pdf',
@@ -4360,7 +4360,7 @@ games_ntsc_u = {
         'id': 'SCUS97478',
         'title': 'EyeToy - Kinetic',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/f0364e92-9dd5-4689-aa13-6ec6e8e672d2.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Kinetic%20(USA).pdf',
@@ -4378,7 +4378,7 @@ games_ntsc_u = {
         'id': 'SCUS97523',
         'title': 'EyeToy - Operation Spy!',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/9f9c4e00-cff2-454f-862b-3d62706a273f.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Operation%20Spy!%20(USA).pdf',
@@ -4387,7 +4387,7 @@ games_ntsc_u = {
         'id': 'SCUS97319',
         'title': 'EyeToy - Play',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/d9476149-f854-45e0-8256-62beee5c7ada.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Play%20(USA).pdf',
@@ -4396,7 +4396,7 @@ games_ntsc_u = {
         'id': 'SCUS97468',
         'title': 'EyeToy - Play 2',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/7feb502b-70c2-4d3a-acad-ee87d9a9e76d.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/EyeToy-%20Play%202%20(USA).pdf',
@@ -4414,7 +4414,7 @@ games_ntsc_u = {
         'id': 'SLUS20264',
         'title': 'F1 2001',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/r2_10758a70-8d3e-4a77-88ab-a4a555b126d6.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/F1%202001%20(USA).pdf',
