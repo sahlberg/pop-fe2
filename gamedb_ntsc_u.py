@@ -131,7 +131,7 @@ games_ntsc_u = {
     'SLUS20091': {
         'id': 'SLUS20091',
         'title': '4x4 Evolution',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/71f217d2-1f3a-4fa4-a584-2cd8c370a793.jpg',
         'pic0': 'https://images.launchbox-app.com/b74f8305-cf5c-4f56-a408-38f52cab7298.png',
     #    'pic1': 
     #    'snd0': 
@@ -140,7 +140,7 @@ games_ntsc_u = {
     'SLUS21693': {
         'id': 'SLUS21693',
         'title': '7 Wonders of the Ancient World',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e2d68595-ed9d-4c6c-92a0-1f99edbcd0a9.jpg',
         'pic0': 'https://images.launchbox-app.com/c2115374-d000-4da4-97dd-b4782e03a5a1.png',
     #    'pic1': 
     #    'snd0': 
@@ -158,7 +158,7 @@ games_ntsc_u = {
     'SLUS21268': {
         'id': 'SLUS21268',
         'title': '24 THE GAME',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/1d6d4d63-79c5-412a-934a-970285cac00c.jpg',
         'pic0': 'https://images.launchbox-app.com/r2_eb9b1a26-fce3-4b19-8a8b-47d41dd85b34.png',
     #    'pic1': 
     #    'snd0': 
@@ -365,7 +365,7 @@ games_ntsc_u = {
     'SLUS20838': {
         'id': 'SLUS20838',
         'title': 'All-Star Baseball 2005',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ad926535-8cb8-49a7-bd52-2275f8393119.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -924,7 +924,7 @@ games_ntsc_u = {
     'SLUS20876': {
         'id': 'SLUS20876',
         'title': 'Backyard Football 2006',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/f79bda54-77f3-4983-a1e2-1990d1805e91.png',
         'pic0': 'https://images.launchbox-app.com/ee86de00-def3-4680-aa13-383ea8b275ef.png',
     #    'pic1': 
     #    'snd0': 
@@ -1698,7 +1698,7 @@ games_ntsc_u = {
     'SLUS20534': {
         'id': 'SLUS20534',
         'title': 'Cabela\'s Big Game Hunter',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/71f37ebb-682e-4b58-9b8a-87cc3f35be0d.jpg',
         'pic0': 'https://images.launchbox-app.com/d030498c-c146-4573-bd19-a260d9688f25.png',
     #    'pic1': 
     #    'snd0': 
@@ -1707,7 +1707,7 @@ games_ntsc_u = {
     'SLUS21011': {
         'id': 'SLUS21011',
         'title': 'Cabela\'s Big Game Hunter - 2005 Adventures',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/27f1af15-49c0-4cd1-af95-0790ff5e897a.jpg',
         'pic0': 'https://images.launchbox-app.com/21ad43cf-b385-4be6-8240-768707ad3459.png',
     #    'pic1': 
     #    'snd0': 
@@ -1716,7 +1716,7 @@ games_ntsc_u = {
     'SLUS21625': {
         'id': 'SLUS21625',
         'title': 'Cabela\'s Big Game Hunter 2008',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/643db907-abb6-43de-b327-17454421d19e.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -1734,7 +1734,7 @@ games_ntsc_u = {
     'SLUS21350': {
         'id': 'SLUS21350',
         'title': 'Cabela\'s Dangerous Hunts 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a9b4db3d-5a8e-4c3d-8449-37b275d234bd.png',
         'pic0': 'https://images.launchbox-app.com/9bb938a0-9ee5-4e2c-82ae-c84708ecb0cb.png',
     #    'pic1': 
     #    'snd0': 
@@ -1752,7 +1752,7 @@ games_ntsc_u = {
     'SLUS20665': {
         'id': 'SLUS20665',
         'title': 'Cabela\'s Deer Hunt - 2004 Season',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/7d6b88b8-958e-4219-a20b-eda737afed79.jpg',
         'pic0': 'https://images.launchbox-app.com/ef788d75-9899-4f27-8434-321027066f0e.png',
     #    'pic1': 
     #    'snd0': 
@@ -1761,7 +1761,7 @@ games_ntsc_u = {
     'SLUS21021': {
         'id': 'SLUS21021',
         'title': 'Cabela\'s Deer Hunt - 2005 Season',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/834414f8-b62e-4679-af8b-9d847689d19e.jpg',
         'pic0': 'https://images.launchbox-app.com/r2_302c5ebb-1dd7-4892-9e9e-5b29e837397e.png',
     #    'pic1': 
     #    'snd0': 
@@ -1815,7 +1815,7 @@ games_ntsc_u = {
     'SLUS21624': {
         'id': 'SLUS21624',
         'title': 'Cabela\'s Trophy Bucks',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/f720faab-cbfc-4eda-ad9d-bc02c0dd2e9e.jpg',
         'pic0': 'https://images.launchbox-app.com/27d4b912-1583-46ca-b984-032e11d97755.png',
     #    'pic1': 
     #    'snd0': 
@@ -1824,7 +1824,7 @@ games_ntsc_u = {
     'SLUS21764': {
         'id': 'SLUS21764',
         'title': 'Cake Mania - Baker\'s Challenge',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e3f0e20d-639b-4e57-8c4b-696cb34b6e95.jpg',
         'pic0': 'https://images.launchbox-app.com/b4514afe-6d92-4d97-8d34-6bc42787099e.png',
     #    'pic1': 
     #    'snd0': 
@@ -1914,7 +1914,7 @@ games_ntsc_u = {
     'SLUS20849': {
         'id': 'SLUS20849',
         'title': 'CARMEN SANDIEGO - THE SECRET OF THE STOLEN DRUMS',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5960c907-4ded-4c71-8c56-6e3766447c2f.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -1923,7 +1923,7 @@ games_ntsc_u = {
     'SLUS21495': {
         'id': 'SLUS21495',
         'title': 'Carol Vorderman\'s Sudoku',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/28d470ce-a925-4c08-b378-93335ec3ef06.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -1932,7 +1932,7 @@ games_ntsc_u = {
     'SLUS20141': {
         'id': 'SLUS20141',
         'title': 'CART Fury - Championship Racing',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/42476d81-2edb-4255-ae94-c5702a348427.jpg',
         'pic0': 'https://images.launchbox-app.com/ca08ee26-f601-44e8-9f6e-8fe884d80292.png',
     #    'pic1': 
     #    'snd0': 
@@ -1950,7 +1950,7 @@ games_ntsc_u = {
     'SLUS20205': {
         'id': 'SLUS20205',
         'title': 'Casper Spirit Dimensions',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/r2_6d612304-ccdc-49ab-b084-62a0a03567ab.jpg',
         'pic0': 'https://images.launchbox-app.com/5a29faa9-a95a-409e-a5f1-c544b6e8772b.png',
     #    'pic1': 
     #    'snd0': 
@@ -2022,7 +2022,7 @@ games_ntsc_u = {
     'SLUS21722': {
         'id': 'SLUS21722',
         'title': 'CHAOS WARS',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8eca7f2b-aee4-4112-a965-bc9c0f84f76c.jpg',
         'pic0': 'https://images.launchbox-app.com/r2_691438b9-1f7a-4b39-b650-05a8ab90ae76.png',
     #    'pic1': 
     #    'snd0': 
@@ -2040,7 +2040,7 @@ games_ntsc_u = {
     'SLUS20637': {
         'id': 'SLUS20637',
         'title': 'Chessmaster',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/768a6e3a-2aa7-4aca-8614-b5c657ec0626.png',
         'pic0': 'https://images.launchbox-app.com/r2_780098aa-cce8-4eeb-8b36-cf25a19a3263.png',
     #    'pic1': 
     #    'snd0': 
@@ -2058,7 +2058,7 @@ games_ntsc_u = {
     'SLUS20742': {
         'id': 'SLUS20742',
         'title': 'CHULIP',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/0e117d7d-11dc-46c7-9dce-7f005835f3fc.jpg',
         'pic0': 'https://images.launchbox-app.com/ff567e0d-f214-4c85-83a0-70899d426c2e.png',
     #    'pic1': 
     #    'snd0': 
@@ -2067,7 +2067,7 @@ games_ntsc_u = {
     'SLUS21754': {
         'id': 'SLUS21754',
         'title': 'CID The Dummy',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/9d1ce518-d895-457e-bbdc-db24ff70c34b.jpg',
         'pic0': 'https://images.launchbox-app.com/7e14c719-0157-44a9-9185-defc452d4583.png',
     #    'pic1': 
     #    'snd0': 
@@ -2076,7 +2076,7 @@ games_ntsc_u = {
     'SLUS20274': {
         'id': 'SLUS20274',
         'title': 'City Crisis',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/4f8cfeea-3583-4593-933a-562b9dca8d9f.jpg',
         'pic0': 'https://images.launchbox-app.com/121f510d-7d1c-48ba-adbb-e5a1cb205743.png',
     #    'pic1': 
     #    'snd0': 
@@ -2094,7 +2094,7 @@ games_ntsc_u = {
     'SLUS21663': {
         'id': 'SLUS21663',
         'title': 'Cocoto - Fishing Master',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/17a73f0c-52a1-43c3-9698-c018a107e08d.png',
         'pic0': 'https://images.launchbox-app.com/c0ec22fa-2786-4104-9645-21535e9bd66f.png',
     #    'pic1': 
     #    'snd0': 
@@ -2103,7 +2103,7 @@ games_ntsc_u = {
     'SLUS21743': {
         'id': 'SLUS21743',
         'title': 'Code Lyoko - Quest for Infinity',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/r2_56dec6b9-a724-42e0-967c-0786defa6a44.jpg',
         'pic0': 'https://images.launchbox-app.com/cd2d2f34-e55a-453a-bd99-bf21c939a6aa.png',
     #    'pic1': 
     #    'snd0': 
@@ -2112,7 +2112,7 @@ games_ntsc_u = {
     'SLUS21155': {
         'id': 'SLUS21155',
         'title': 'CODENAME - KIDS NEXT DOOR - OPERATION V.I.D.E.O.G.A.M.E.',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/463da599-dd42-47ce-8e36-d7c55a6cf399.jpg',
         'pic0': 'https://images.launchbox-app.com/cdbbe551-b9db-4717-bfff-f765d0601925.png',
     #    'pic1': 
     #    'snd0': 
@@ -2130,7 +2130,7 @@ games_ntsc_u = {
     'SLUS20845': {
         'id': 'SLUS20845',
         'title': 'Cold Winter',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5ee2e954-2800-4e5c-9fa8-81790bd68396.jpg',
         'pic0': 'https://images.launchbox-app.com/952fa35f-aebb-431b-8309-6dd6c01fe22d.png',
     #    'pic1': 
     #    'snd0': 
@@ -2148,7 +2148,7 @@ games_ntsc_u = {
     'SLUS21232': {
         'id': 'SLUS21232',
         'title': 'College Hoops 2K6',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a44456a5-3cea-4e45-a283-d225b4bab92d.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -2157,7 +2157,7 @@ games_ntsc_u = {
     'SLUS21463': {
         'id': 'SLUS21463',
         'title': 'College Hoops 2K7',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/d5bfd292-a1f1-4ffc-98f6-a4204d2807e3.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -2166,7 +2166,7 @@ games_ntsc_u = {
     'SLUS21673': {
         'id': 'SLUS21673',
         'title': 'College Hoops 2K8',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/f724e47a-ebed-4171-b095-c24e31e65262.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -2184,7 +2184,7 @@ games_ntsc_u = {
     'SLUS20715': {
         'id': 'SLUS20715',
         'title': 'Combat Elite - WWII Paratroopers',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ae5d3011-7741-46ef-9ee8-9cf12ba56aaf.jpg',
         'pic0': 'https://images.launchbox-app.com/bba4d7b4-f643-4593-9a90-6cc5914e668d.png',
     #    'pic1': 
     #    'snd0': 
@@ -2211,7 +2211,7 @@ games_ntsc_u = {
     'SLUS20549': {
         'id': 'SLUS20549',
         'title': 'Conflict - Desert Storm',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/c0d24c45-6515-4780-9a5c-d4881e604b29.jpg',
         'pic0': 'https://images.launchbox-app.com/458e0f7f-8f6b-4a47-acf6-4ff3c8701fe5.png',
     #    'pic1': 
     #    'snd0': 
@@ -2238,7 +2238,7 @@ games_ntsc_u = {
     'SLUS21045': {
         'id': 'SLUS21045',
         'title': 'CONFLICT - VIETNAM',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/039a323e-af9d-4795-8f66-b3e5ef119f23.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -2274,7 +2274,7 @@ games_ntsc_u = {
     'SCUS97108': {
         'id': 'SCUS97108',
         'title': 'COOL BOARDERS 2001',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/r2_7df842a3-7539-48c1-b03b-88a8f502a474.png',
         'pic0': 'https://images.launchbox-app.com/363c060b-897c-4e3a-b6bd-77bd0e241154.png',
     #    'pic1': 
     #    'snd0': 
@@ -2292,7 +2292,7 @@ games_ntsc_u = {
     'SLUS20858': {
         'id': 'SLUS20858',
         'title': 'CORVETTE',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/1020e011-7c0b-4625-8ae0-d06ea4ee2511.png',
         'pic0': 'https://images.launchbox-app.com/795ea8b2-309e-4d12-98c6-a3fb876281a3.png',
     #    'pic1': 
     #    'snd0': 
@@ -2301,7 +2301,7 @@ games_ntsc_u = {
     'SLUS21499': {
         'id': 'SLUS21499',
         'title': 'CORVETTE EVOLUTION GT',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/daf1f438-8fbd-4d10-ab28-5836abf1067d.jpg',
         'pic0': 'https://images.launchbox-app.com/83bdab83-fd2a-4c1d-aaf0-b4f42ed2c297.png',
     #    'pic1': 
     #    'snd0': 
@@ -2373,7 +2373,7 @@ games_ntsc_u = {
     'SLUS21634': {
         'id': 'SLUS21634',
         'title': 'Crazy Frog Arcade Racer',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e1b097a9-6b5b-4003-bef8-026a77600416.jpg',
         'pic0': 'https://images.launchbox-app.com/14cf5c2e-dd98-41a5-885f-363d7827161c.png',
     #    'pic1': 
     #    'snd0': 
@@ -2436,7 +2436,7 @@ games_ntsc_u = {
     'SLUS20774': {
         'id': 'SLUS20774',
         'title': 'Culdcept',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ddf0bc76-fd49-46b0-ad29-c48ea1eb41c4.jpg',
         'pic0': 'https://images.launchbox-app.com/d924493e-49d5-4f99-9a78-ce43b63cee20.png',
     #    'pic1': 
     #    'snd0': 
@@ -2445,7 +2445,7 @@ games_ntsc_u = {
     'SLUS21354': {
         'id': 'SLUS21354',
         'title': 'Curious George',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5155a622-33e6-4d11-9fd0-269ae5036e2e.jpg',
         'pic0': 'https://images.launchbox-app.com/52118c91-1169-4675-a1b5-b945b6e3b950.png',
     #    'pic1': 
     #    'snd0': 
@@ -2472,7 +2472,7 @@ games_ntsc_u = {
     'SLUS20674': {
         'id': 'SLUS20674',
         'title': 'CYBER TROOPERS VIRTUAL-ON - MARZ',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/afbac72b-6757-4275-a476-891c8f4aa2b0.jpg',
         'pic0': 'https://images.launchbox-app.com/r2_696bb006-a22a-4cdc-ae05-3ccd299d0d96.png',
     #    'pic1': 
     #    'snd0': 
@@ -2481,7 +2481,7 @@ games_ntsc_u = {
     'SLUS21416': {
         'id': 'SLUS21416',
         'title': 'D1 PROFESSIONAL DRIFT GRAND PRIX SERIES',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/6cc74efd-2942-4ed6-8779-3becc3b0a169.jpg',
         'pic0': 'https://images.launchbox-app.com/1d03bd9b-c179-482a-9af5-1aeb704d26b8.png',
     #    'pic1': 
     #    'snd0': 
@@ -2499,7 +2499,7 @@ games_ntsc_u = {
     'SLUS21609': {
         'id': 'SLUS21609',
         'title': 'Dance Dance Revolution - Disney Channel Edition',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/1d01161c-54d5-4f64-8176-87459b936dbf.jpg',
         'pic0': 'https://images.launchbox-app.com/97e8e838-627f-42aa-b764-7f9f65c5dc89.png',
     #    'pic1': 
     #    'snd0': 
@@ -2508,7 +2508,7 @@ games_ntsc_u = {
     'SLUS20916': {
         'id': 'SLUS20916',
         'title': 'Dance Dance Revolution X',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/4d8d6820-0207-44d9-8585-858f46d7cd1a.jpg',
         'pic0': 'https://images.launchbox-app.com/061ee8e9-7ddc-4339-b207-1d1e135822d7.png',
     #    'pic1': 
     #    'snd0': 
@@ -2517,7 +2517,7 @@ games_ntsc_u = {
     'SLUS21174': {
         'id': 'SLUS21174',
         'title': 'Dance Dance Revolution X2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8842cd6b-58eb-4455-9620-dea481bc6b03.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -2526,7 +2526,7 @@ games_ntsc_u = {
     'SLUS21377': {
         'id': 'SLUS21377',
         'title': 'DANCE DANCE REVOLUTION SUPERNOVA',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/afed64c0-6e1d-4da8-8c81-d79f8a737dd2.jpg',
         'pic0': 'https://images.launchbox-app.com/0115f97b-fd6c-4339-9573-3df0a78776ed.png',
     #    'pic1': 
     #    'snd0': 
@@ -2544,7 +2544,7 @@ games_ntsc_u = {
     'SLUS21767': {
         'id': 'SLUS21767',
         'title': 'Dance Dance Revolution X',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/4d8d6820-0207-44d9-8585-858f46d7cd1a.jpg',
         'pic0': 'https://images.launchbox-app.com/061ee8e9-7ddc-4339-b207-1d1e135822d7.png',
     #    'pic1': 
     #    'snd0': 
@@ -2553,7 +2553,7 @@ games_ntsc_u = {
     'SLUS21917': {
         'id': 'SLUS21917',
         'title': 'Dance Dance Revolution X2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8842cd6b-58eb-4455-9620-dea481bc6b03.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -2562,7 +2562,7 @@ games_ntsc_u = {
     'SLUS21296': {
         'id': 'SLUS21296',
         'title': 'Dance Factory',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/135ea65a-d419-420b-b56d-e295fd6c275d.jpg',
         'pic0': 'https://images.launchbox-app.com/9a1ca0c4-5f0c-4471-838e-34b81f2319ce.png',
     #    'pic1': 
     #    'snd0': 
@@ -2571,7 +2571,7 @@ games_ntsc_u = {
     'SLUS21676': {
         'id': 'SLUS21676',
         'title': 'DANCING WITH THE STARS',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/c9fc9a14-f741-43f4-86f6-da71b7d35012.jpg',
         'pic0': 'https://images.launchbox-app.com/bec1e0cf-66a0-4181-9be9-1f71cc055ea3.png',
     #    'pic1': 
     #    'snd0': 
@@ -2580,7 +2580,7 @@ games_ntsc_u = {
     'SLUS20131': {
         'id': 'SLUS20131',
         'title': 'Dark Angel - Vampire Apocalypse',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/2179f9f4-c13b-4b64-9ab6-b70226a4c7cd.jpg',
         'pic0': 'https://images.launchbox-app.com/f17718fa-f53c-49e8-8810-3965a69b1161.png',
     #    'pic1': 
     #    'snd0': 
@@ -2607,7 +2607,7 @@ games_ntsc_u = {
     'SLUS20300': {
         'id': 'SLUS20300',
         'title': 'Dark Summit',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/cecad181-ee09-4dbb-8cfa-6246896ac2f3.jpg',
         'pic0': 'https://images.launchbox-app.com/bafad956-7fbc-4d68-818e-788aad08a81b.png',
     #    'pic1': 
     #    'snd0': 
@@ -2670,7 +2670,7 @@ games_ntsc_u = {
     'SLUS20220': {
         'id': 'SLUS20220',
         'title': 'DEAD TO RIGHTS',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/219eeb33-06f0-4776-8892-98aba24395f6.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -2688,7 +2688,7 @@ games_ntsc_u = {
     'SLUS20626': {
         'id': 'SLUS20626',
         'title': 'DEER HUNTER',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e29777a5-c1b0-47b6-8297-560cc471731d.jpg',
         'pic0': 'https://images.launchbox-app.com/44455a27-02f9-4cfe-a808-dc556b735eaf.png',
     #    'pic1': 
     #    'snd0': 
@@ -2849,7 +2849,7 @@ games_ntsc_u = {
     'SLUS21067': {
         'id': 'SLUS21067',
         'title': 'DIGIMON RUMBLE ARENA 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/18673a8e-3ad1-45c9-96a7-ca00e6acadd7.jpg',
         'pic0': 'https://images.launchbox-app.com/df39c983-e567-4c14-bc5e-ae87ae1a9589.png',
     #    'pic1': 
     #    'snd0': 
@@ -2858,7 +2858,7 @@ games_ntsc_u = {
     'SLUS21598': {
         'id': 'SLUS21598',
         'title': 'Digimon World - Data Squad',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e778e308-8e39-4dc6-b246-5bf087d3898e.jpg',
         'pic0': 'https://images.launchbox-app.com/ece8a226-f508-40aa-9e78-799b93bd2eee.png',
     #    'pic1': 
     #    'snd0': 
@@ -2867,7 +2867,7 @@ games_ntsc_u = {
     'SLUS20836': {
         'id': 'SLUS20836',
         'title': 'DIGIMON WORLD 4',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/2510f685-d886-4ebc-829c-92c39e263410.jpg',
         'pic0': 'https://images.launchbox-app.com/d6273f6c-4f7c-4633-957b-fd2a23f7acdb.png',
     #    'pic1': 
     #    'snd0': 
@@ -2876,7 +2876,7 @@ games_ntsc_u = {
     'SLUS20785': {
         'id': 'SLUS20785',
         'title': 'Digital Hitz Factory',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/427a01fc-473b-4a79-93de-1fe9811dc45a.jpg',
         'pic0': 'https://images.launchbox-app.com/eb05dd66-b2ce-436b-8fd3-abd64b0ded44.png',
     #    'pic1': 
     #    'snd0': 
@@ -2921,7 +2921,7 @@ games_ntsc_u = {
     'SLUS20532': {
         'id': 'SLUS20532',
         'title': 'DISNEY GOLF',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/cba15aa0-41b8-4d76-b9d9-5ff10645af98.png',
         'pic0': 'https://images.launchbox-app.com/a712deea-4c24-4bd8-bb8d-21253a0d0793.png',
     #    'pic1': 
     #    'snd0': 
@@ -2930,7 +2930,7 @@ games_ntsc_u = {
     'SLUS21750': {
         'id': 'SLUS21750',
         'title': 'Disney Hannah Montana - Spotlight World Tour',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/03002bea-36d3-4487-b43e-05d3f3b135cc.jpg',
         'pic0': 'https://images.launchbox-app.com/95731cbc-458e-458d-93e9-c144b56d9d64.png',
     #    'pic1': 
     #    'snd0': 
@@ -2948,7 +2948,7 @@ games_ntsc_u = {
     'SLUS21819': {
         'id': 'SLUS21819',
         'title': 'Disney High School Musical 3 - Senior Year DANCE!',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/c8923883-4614-4462-ba4c-4c6108d29ea0.jpg',
         'pic0': 'https://images.launchbox-app.com/24258d1a-6bc3-43cd-96e3-3f2fa460b976.png',
     #    'pic1': 
     #    'snd0': 
@@ -2984,7 +2984,7 @@ games_ntsc_u = {
     'SLUS21826': {
         'id': 'SLUS21826',
         'title': 'Disney Sing It!',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/77f4ff40-3613-4624-8241-6ee4b02d2973.jpg',
         'pic0': 'https://images.launchbox-app.com/d7460a1f-05da-42af-803d-c6fd6bfe5b46.png',
     #    'pic1': 
     #    'snd0': 
@@ -2993,7 +2993,7 @@ games_ntsc_u = {
     'SLUS21861': {
         'id': 'SLUS21861',
         'title': 'Disney Sing It - High School Musical 3 - Senior Year',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a1a57f09-74e7-4ab7-b6b7-25a47ab34f26.jpg',
         'pic0': 'https://images.launchbox-app.com/f400a79e-d032-4e76-ab2c-b52b05092ad1.png',
     #    'pic1': 
     #    'snd0': 
@@ -3002,7 +3002,7 @@ games_ntsc_u = {
     'SLUS21920': {
         'id': 'SLUS21920',
         'title': 'Disney Sing It - Pop Hits',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/6533f8d5-0d9d-460e-82f2-bc4533cf3e19.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -3047,7 +3047,7 @@ games_ntsc_u = {
     'SLUS20607': {
         'id': 'SLUS20607',
         'title': 'DISNEY\'S EXTREME SKATE ADVENTURE',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/d8cef8a0-6dc1-4855-b94d-e688b568f6df.jpg',
         'pic0': 'https://images.launchbox-app.com/dadb779f-d263-4615-95dd-9f3ec62ac8cc.png',
     #    'pic1': 
     #    'snd0': 
@@ -3092,7 +3092,7 @@ games_ntsc_u = {
     'SLUS20478': {
         'id': 'SLUS20478',
         'title': 'DISNEY\'S PK - OUT OF THE SHADOWS',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/830ae126-2787-426f-919b-a2980f0e707b.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -3101,7 +3101,7 @@ games_ntsc_u = {
     'SCUS97145': {
         'id': 'SCUS97145',
         'title': 'Disney\'s Stitch - Experiment 626',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ec239afe-9210-453e-b462-9f665869737c.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -3119,7 +3119,7 @@ games_ntsc_u = {
     'SLUS20076': {
         'id': 'SLUS20076',
         'title': 'DISNEY\'S TARZAN UNTAMED',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/cdfe6c92-2541-4e3d-a31a-2288f9656f97.jpg',
         'pic0': 'https://images.launchbox-app.com/70ad651b-24bc-455d-9fd7-b877aafb3db7.png',
     #    'pic1': 
     #    'snd0': 
@@ -3128,7 +3128,7 @@ games_ntsc_u = {
     'SLUS20681': {
         'id': 'SLUS20681',
         'title': 'Disney\'s The Haunted Mansion',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ff3236a5-3457-4756-bc1d-e882ec638642.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -3245,7 +3245,7 @@ games_ntsc_u = {
     'SLUS21217': {
         'id': 'SLUS21217',
         'title': 'Disney-Pixar\'s The Incredibles - Rise of the Underminer',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e70208af-e6a5-4080-9b9d-81da5d7fd407.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -3324,7 +3324,7 @@ games_ntsc_u = {
     'SLUS21944': {
         'id': 'SLUS21944',
         'title': 'Dora the Explorer- Dora\'s Big Birthday Adventure',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/477d6dad-e19a-44a7-95b5-7a8409be099d.jpg',
         'pic0': 'https://images.launchbox-app.com/b93913fa-2839-425c-9895-38dae633f38e.png',
     #    'pic1': 
     #    'snd0': 
@@ -3342,7 +3342,7 @@ games_ntsc_u = {
     'SLUS21717': {
         'id': 'SLUS21717',
         'title': 'Dora the Explorer - Dora Saves the Mermaids',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b25d0b0a-88f5-4b0c-bc6b-e7d6d7748e86.jpg',
         'pic0': 'https://images.launchbox-app.com/a4a3be58-265c-4f94-b7a2-bb92a373ce74.png',
     #    'pic1': 
     #    'snd0': 
@@ -3360,7 +3360,7 @@ games_ntsc_u = {
     'SLUS20405': {
         'id': 'SLUS20405',
         'title': 'Downforce',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/dd2f69cf-6ee8-4961-90a3-f0c9ebb92fac.jpg',
         'pic0': 'https://images.launchbox-app.com/c4eb15fa-9b55-4695-92ea-0205233321c3.png',
     #    'pic1': 
     #    'snd0': 
@@ -3468,7 +3468,7 @@ games_ntsc_u = {
     'SLUS20874': {
         'id': 'SLUS20874',
         'title': 'Dragon Ball Z - Sagas',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/dd3acc80-6f2c-47fe-97ff-82e21cb4ff95.jpg',
         'pic0': 'https://images.launchbox-app.com/984d5510-bdb1-4b8e-b713-10cf085aea52.png',
     #    'pic1': 
     #    'snd0': 
@@ -3486,7 +3486,7 @@ games_ntsc_u = {
     'SLUS20195': {
         'id': 'SLUS20195',
         'title': 'Dragon Rage',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/78a427af-2e5e-483a-ac2a-3b8a9e944714.jpg',
         'pic0': 'https://images.launchbox-app.com/r2_be0dc258-ff11-4b0a-800f-169694ece16c.png',
     #    'pic1': 
     #    'snd0': 
@@ -3648,7 +3648,7 @@ games_ntsc_u = {
     'SLUS21109': {
         'id': 'SLUS21109',
         'title': 'DRIVE TO SURVIVE',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b959edee-38b6-45d4-9266-c3bf337f24b1.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -3693,7 +3693,7 @@ games_ntsc_u = {
     'SLUS20113': {
         'id': 'SLUS20113',
         'title': 'DRIVING EMOTION TYPE-S',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/121b4951-2876-43dc-98c9-a7993b7547b7.jpg',
         'pic0': 'https://images.launchbox-app.com/r2_910bbe63-92a5-4be4-9f49-3ef916761200.png',
     #    'pic1': 
     #    'snd0': 
@@ -3702,7 +3702,7 @@ games_ntsc_u = {
     'SLUS20577': {
         'id': 'SLUS20577',
         'title': 'Drome Racers',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/dce78de3-0118-4d71-9398-1d6eb3947d5f.jpg',
         'pic0': 'https://images.launchbox-app.com/761c29b2-032b-4d64-8a34-64d32cd98c83.png',
     #    'pic1': 
     #    'snd0': 
@@ -3711,7 +3711,7 @@ games_ntsc_u = {
     'SLUS20463': {
         'id': 'SLUS20463',
         'title': 'Dropship - United Peace Force',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/21bd764d-e281-401a-9738-bef43b3a7e6d.jpg',
         'pic0': 'https://images.launchbox-app.com/79579bbf-afc5-4730-b137-f24ea57fa7dc.png',
     #    'pic1': 
     #    'snd0': 
@@ -3720,7 +3720,7 @@ games_ntsc_u = {
     'SLUS21793': {
         'id': 'SLUS21793',
         'title': 'DT Carnage',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/d3a38257-1968-45cc-8c24-c370aa259bed.jpg',
         'pic0': 'https://images.launchbox-app.com/9ad1a7d9-c042-43b8-8797-b823349f5f76.png',
     #    'pic1': 
     #    'snd0': 
@@ -3783,7 +3783,7 @@ games_ntsc_u = {
     'SLUS20079': {
         'id': 'SLUS20079',
         'title': 'DYNASTY WARRIORS 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/779a7782-2932-4a92-a866-6f8fdfb7ada3.jpg',
         'pic0': 'https://images.launchbox-app.com/ffa01f51-a69a-4d83-b3f6-58776248ae49.png',
     #    'pic1': 
     #    'snd0': 
@@ -3801,7 +3801,7 @@ games_ntsc_u = {
     'SLUS20617': {
         'id': 'SLUS20617',
         'title': 'Dynasty Warriors 3 - Xtreme Legends',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/f0be8de3-83fa-41a1-b7d4-3ba248bd8d23.png',
         'pic0': 'https://images.launchbox-app.com/621557b3-7ec4-4f43-bcf2-2c26e18efdf5.png',
     #    'pic1': 
     #    'snd0': 
@@ -3819,7 +3819,7 @@ games_ntsc_u = {
     'SLUS20938': {
         'id': 'SLUS20938',
         'title': 'Dynasty Warriors 4 - Empires',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/58269c02-e7df-4f51-b6bc-c31345dec1c2.jpg',
         'pic0': 'https://images.launchbox-app.com/71f43766-c558-42fb-8ba4-c54a17747a46.png',
     #    'pic1': 
     #    'snd0': 
@@ -3828,7 +3828,7 @@ games_ntsc_u = {
     'SLUS20812': {
         'id': 'SLUS20812',
         'title': 'Dynasty Warriors 4 - Xtreme Legends',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/3c7071f3-d536-4fb5-9913-648df89ffeae.png',
         'pic0': 'https://images.launchbox-app.com/c425f426-8306-45cf-8cea-450e21ba5b12.png',
     #    'pic1': 
     #    'snd0': 
@@ -3855,7 +3855,7 @@ games_ntsc_u = {
     'SLUS21299': {
         'id': 'SLUS21299',
         'title': 'Dynasty Warriors 5 - Xtreme Legends',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/1b5094ac-e92e-4e80-9e72-ccaf60d54b96.jpg',
         'pic0': 'https://images.launchbox-app.com/63ecb0a2-381d-4ec1-a71b-a543cc711a3b.png',
     #    'pic1': 
     #    'snd0': 
@@ -3927,7 +3927,7 @@ games_ntsc_u = {
     'SLUS21486': {
         'id': 'SLUS21486',
         'title': 'EAGLE EYE GOLF',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/57796af8-711d-4561-9711-92350bc83897.jpg',
         'pic0': 'https://images.launchbox-app.com/74f52a03-c128-452d-a134-42598a7784fd.png',
     #    'pic1': 
     #    'snd0': 
@@ -3945,7 +3945,7 @@ games_ntsc_u = {
     'SLUS20928': {
         'id': 'SLUS20928',
         'title': 'ECHO NIGHT BEYOND',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/42b6c0f0-f552-4333-9543-880921ac4d05.jpg',
         'pic0': 'https://images.launchbox-app.com/5209e792-3911-4f3e-8003-6cb9dc1efcda.png',
     #    'pic1': 
     #    'snd0': 
@@ -3954,7 +3954,7 @@ games_ntsc_u = {
     'SLUS21260': {
         'id': 'SLUS21260',
         'title': 'Ed, Edd, \'n Eddy - The Mis-Edventures',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ebd43f09-0c28-4eee-b465-9bbe4cb99596.jpg',
         'pic0': 'https://images.launchbox-app.com/b1afd82f-053c-4d0c-853e-c562527b26a7.png',
     #    'pic1': 
     #    'snd0': 
@@ -3963,7 +3963,7 @@ games_ntsc_u = {
     'SLUS20452': {
         'id': 'SLUS20452',
         'title': 'Egg Mania - Eggstreme Madness',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b685a1a9-32a0-4f34-97bd-aa5ade0372eb.jpg',
         'pic0': 'https://images.launchbox-app.com/49be8e9d-c8a5-4cd7-a48e-dfe3babb3339.png',
     #    'pic1': 
     #    'snd0': 
@@ -4008,7 +4008,7 @@ games_ntsc_u = {
     'SLUS20967': {
         'id': 'SLUS20967',
         'title': 'ENTHUSIA PROFESSIONAL RACING',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ae6b7b9d-babd-474a-8b71-972ce74c4aa3.jpg',
         'pic0': 'https://images.launchbox-app.com/1bd6ad6e-7be3-4d56-ad18-84dddf8e45ce.png',
     #    'pic1': 
     #    'snd0': 
@@ -4017,7 +4017,7 @@ games_ntsc_u = {
     'SLUS20169': {
         'id': 'SLUS20169',
         'title': 'EPHEMERAL FANTASIA',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e26063c4-4f78-4ce5-a145-361b8678ab69.jpg',
         'pic0': 'https://images.launchbox-app.com/d6ba2f12-b707-47b9-ac3b-b2cc1f6b27ee.png',
     #    'pic1': 
     #    'snd0': 
@@ -4044,7 +4044,7 @@ games_ntsc_u = {
     'SLUS20729': {
         'id': 'SLUS20729',
         'title': 'ESPN College Hoops',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b7c5cf89-f6fb-4f2e-936a-6cb7d124e122.jpg',
         'pic0': 'https://images.launchbox-app.com/r2_700903ee-f5c0-4719-89e9-7e57c144c5ff.png',
     #    'pic1': 
     #    'snd0': 
@@ -4062,7 +4062,7 @@ games_ntsc_u = {
     'SLUS20041': {
         'id': 'SLUS20041',
         'title': 'ESPN INTERNATIONAL TRACK & FIELD',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/beb163d0-5884-4121-b19a-93c8e47d2a03.jpg',
         'pic0': 'https://images.launchbox-app.com/a0f4969b-96fd-4dfb-8dbc-c2c7d219777a.png',
     #    'pic1': 
     #    'snd0': 
@@ -4071,7 +4071,7 @@ games_ntsc_u = {
     'SLUS20320': {
         'id': 'SLUS20320',
         'title': 'ESPN INTERNATIONAL WINTER SPORTS 2002',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/cb0f00f7-8e2d-4e82-8875-048811fb05a9.jpg',
         'pic0': 'https://images.launchbox-app.com/dd60643a-f83f-4b6c-a5d2-37487ef19936.png',
     #    'pic1': 
     #    'snd0': 
@@ -4098,7 +4098,7 @@ games_ntsc_u = {
     'SLUS20166': {
         'id': 'SLUS20166',
         'title': 'ESPN National Hockey Night',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/663ee320-ff7a-4609-8056-44c66c3560eb.jpg',
         'pic0': 'https://images.launchbox-app.com/fa7ad93e-bf78-44d5-81f1-039cd917e9d6.png',
     #    'pic1': 
     #    'snd0': 
@@ -4125,7 +4125,7 @@ games_ntsc_u = {
     'SLUS20920': {
         'id': 'SLUS20920',
         'title': 'ESPN NBA 2K5',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/37db154d-5a9f-4758-9f90-1fc651eb8e82.jpg',
         'pic0': 'https://images.launchbox-app.com/70b58d33-54ac-4dbf-8e1d-18148c9a02b6.png',
     #    'pic1': 
     #    'snd0': 
@@ -4134,7 +4134,7 @@ games_ntsc_u = {
     'SLUS20726': {
         'id': 'SLUS20726',
         'title': 'ESPN NBA Basketball',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/7e4002de-6eaa-4a90-bba0-e9754eea0857.png',
         'pic0': 'https://images.launchbox-app.com/f80e5eb0-9305-4d76-8d05-2c7c2c138023.png',
     #    'pic1': 
     #    'snd0': 
@@ -4143,7 +4143,7 @@ games_ntsc_u = {
     'SLUS20919': {
         'id': 'SLUS20919',
         'title': 'ESPN NFL 2K5',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/cf3a4ed3-49a0-43b3-8c03-f9e8602c6552.jpg',
         'pic0': 'https://images.launchbox-app.com/4069e81e-bb72-493b-bfe7-b45acb7dea16.png',
     #    'pic1': 
     #    'snd0': 
@@ -4152,7 +4152,7 @@ games_ntsc_u = {
     'SLUS20727': {
         'id': 'SLUS20727',
         'title': 'ESPN NFL Football',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/504c4ace-ec2d-459d-935c-89270100c81b.jpg',
         'pic0': 'https://images.launchbox-app.com/d4c1a767-c782-43ce-b06f-921b02e81fe7.png',
     #    'pic1': 
     #    'snd0': 
@@ -4161,7 +4161,7 @@ games_ntsc_u = {
     'SLUS20308': {
         'id': 'SLUS20308',
         'title': 'ESPN NFL Prime Time 2002',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/2f26e9e2-2c15-46ce-b7bd-82765cddf522.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -4170,7 +4170,7 @@ games_ntsc_u = {
     'SLUS20921': {
         'id': 'SLUS20921',
         'title': 'ESPN NHL 2K5',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/529b505b-1020-471f-94f8-0e7175beeff3.jpg',
         'pic0': 'https://images.launchbox-app.com/2aa9e6d1-85bd-4d9a-b452-1f30d792249b.png',
     #    'pic1': 
     #    'snd0': 
@@ -4179,7 +4179,7 @@ games_ntsc_u = {
     'SLUS20728': {
         'id': 'SLUS20728',
         'title': 'ESPN NHL Hockey',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b86cd6d9-09ce-4b59-9201-318553795ba3.png',
         'pic0': 'https://images.launchbox-app.com/135eaab8-13ee-432e-848a-a372982eec9d.png',
     #    'pic1': 
     #    'snd0': 
@@ -4188,7 +4188,7 @@ games_ntsc_u = {
     'SLUS20089': {
         'id': 'SLUS20089',
         'title': 'ESPN Winter X Games - Snowboarding',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/01028455-bf48-4590-8167-a2b8a334fe05.jpg',
         'pic0': 'https://images.launchbox-app.com/47455006-388e-465b-aaa4-c3fd6f43358a.png',
     #    'pic1': 
     #    'snd0': 
@@ -4197,7 +4197,7 @@ games_ntsc_u = {
     'SLUS20321': {
         'id': 'SLUS20321',
         'title': 'ESPN Winter X Games - Snowboarding 2002',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/855ed9db-a04d-4707-96eb-8d52e1d05b9c.jpg',
         'pic0': 'https://images.launchbox-app.com/37a2791c-f196-4028-9f98-0ad1b6d469d4.png',
     #    'pic1': 
     #    'snd0': 
@@ -4206,7 +4206,7 @@ games_ntsc_u = {
     'SLUS20237': {
         'id': 'SLUS20237',
         'title': 'ESPN X Games Skateboarding',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ab6fbbfb-d55a-4010-8e94-abb281fec365.jpg',
         'pic0': 'https://images.launchbox-app.com/fc2b5d54-57ea-459d-98c1-f3d55c8d7d9b.png',
     #    'pic1': 
     #    'snd0': 
@@ -4224,7 +4224,7 @@ games_ntsc_u = {
     'SLUS20015': {
         'id': 'SLUS20015',
         'title': 'Eternal Ring',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/55a19ed9-ed19-4e3e-9f43-f61295324a95.jpg',
         'pic0': 'https://images.launchbox-app.com/a127cdc1-a0df-4fd3-b88d-09a068dcc5dd.png',
     #    'pic1': 
     #    'snd0': 
@@ -4251,7 +4251,7 @@ games_ntsc_u = {
     'SLUS20598': {
         'id': 'SLUS20598',
         'title': 'Everblue 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/c71137bf-e611-4f83-a5aa-deb7406249bf.jpg',
         'pic0': 'https://images.launchbox-app.com/e966f4dd-438a-4d05-9e68-8c573ce559fc.png',
     #    'pic1': 
     #    'snd0': 
@@ -4269,7 +4269,7 @@ games_ntsc_u = {
     'SLUS20470': {
         'id': 'SLUS20470',
         'title': 'EverQuest - Online Adventures',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/169f114f-82bb-47f6-90a2-0c739094d84f.jpg',
         'pic0': 'https://images.launchbox-app.com/0ea4ec21-136f-407d-a974-dd2ad1e96b48.png',
     #    'pic1': 
     #    'snd0': 
@@ -4278,7 +4278,7 @@ games_ntsc_u = {
     'SLUS20744': {
         'id': 'SLUS20744',
         'title': 'EverQuest - Online Adventures - Frontiers',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/fd60fa24-3a64-4c15-b4dd-3f57ac3e37dc.jpg',
         'pic0': 'https://images.launchbox-app.com/37f4add2-b84e-451a-a8d7-5b756dce24ec.png',
     #    'pic1': 
     #    'snd0': 
@@ -4305,7 +4305,7 @@ games_ntsc_u = {
     'SLUS20540': {
         'id': 'SLUS20540',
         'title': 'Evolution Skateboarding',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/f97c018e-482a-4dc1-992f-6e7f6bb61a43.jpg',
         'pic0': 'https://images.launchbox-app.com/ab0cae52-6552-4cc9-8b65-752c3ac941a7.png',
     #    'pic1': 
     #    'snd0': 
@@ -4314,7 +4314,7 @@ games_ntsc_u = {
     'SLUS20546': {
         'id': 'SLUS20546',
         'title': 'Evolution Snowboarding',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/bc790fe1-6f62-4251-b75f-1a4c67ad8a3f.jpg',
         'pic0': 'https://images.launchbox-app.com/e2003ea1-4c1e-4abe-9e67-3a1b1e58df19.png',
     #    'pic1': 
     #    'snd0': 
@@ -4323,7 +4323,7 @@ games_ntsc_u = {
     'SCUS97112': {
         'id': 'SCUS97112',
         'title': 'Extermination',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8bdfaf11-512a-4a45-a754-c7d83f2251b0.jpg',
         'pic0': 'https://images.launchbox-app.com/cfcf2b64-517f-4452-8bf6-9ad9023601b9.png',
     #    'pic1': 
     #    'snd0': 
@@ -4332,7 +4332,7 @@ games_ntsc_u = {
     'SCUS97414': {
         'id': 'SCUS97414',
         'title': 'EyeToy - AntiGrav',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/cf494a13-4b30-4a8d-9ab2-213cad24eae9.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -4341,7 +4341,7 @@ games_ntsc_u = {
     'SCUS97345': {
         'id': 'SCUS97345',
         'title': 'EyeToy - Groove',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/70180073-65a7-4e6a-b5d3-0f929c7f307c.jpg',
         'pic0': 'https://images.launchbox-app.com/43f4e21f-4c9c-4844-8773-a231f717f79d.png',
     #    'pic1': 
     #    'snd0': 
@@ -4359,7 +4359,7 @@ games_ntsc_u = {
     'SCUS97478': {
         'id': 'SCUS97478',
         'title': 'EyeToy - Kinetic',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/0b9e6074-dc38-4006-a943-3065c4c5f690.jpg',
         'pic0': 'https://images.launchbox-app.com/f0364e92-9dd5-4689-aa13-6ec6e8e672d2.png',
     #    'pic1': 
     #    'snd0': 
@@ -4377,7 +4377,7 @@ games_ntsc_u = {
     'SCUS97523': {
         'id': 'SCUS97523',
         'title': 'EyeToy - Operation Spy!',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/c11572fb-acb9-436b-88f9-3a895896cbba.jpg',
         'pic0': 'https://images.launchbox-app.com/9f9c4e00-cff2-454f-862b-3d62706a273f.png',
     #    'pic1': 
     #    'snd0': 
@@ -4386,7 +4386,7 @@ games_ntsc_u = {
     'SCUS97319': {
         'id': 'SCUS97319',
         'title': 'EyeToy - Play',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5daabdac-5bf1-45b4-9b16-f0799071003c.jpg',
         'pic0': 'https://images.launchbox-app.com/d9476149-f854-45e0-8256-62beee5c7ada.png',
     #    'pic1': 
     #    'snd0': 
@@ -4395,7 +4395,7 @@ games_ntsc_u = {
     'SCUS97468': {
         'id': 'SCUS97468',
         'title': 'EyeToy - Play 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b2fe5f7a-d4bc-4862-a8bc-ce4800e7db31.jpg',
         'pic0': 'https://images.launchbox-app.com/7feb502b-70c2-4d3a-acad-ee87d9a9e76d.png',
     #    'pic1': 
     #    'snd0': 
@@ -4413,7 +4413,7 @@ games_ntsc_u = {
     'SLUS20264': {
         'id': 'SLUS20264',
         'title': 'F1 2001',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8db1ae6d-7ec6-4eef-91db-1257ca46fd63.jpg',
         'pic0': 'https://images.launchbox-app.com/r2_10758a70-8d3e-4a77-88ab-a4a555b126d6.png',
     #    'pic1': 
     #    'snd0': 
@@ -4503,8 +4503,8 @@ games_ntsc_u = {
     'SCUS97105': {
         'id': 'SCUS97105',
         'title': 'FANTAVISION',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/4a78350e-553d-48b9-ad66-1e86dbe66594.jpg',
+        'pic0': 'https://images.launchbox-app.com/e629ef0e-addd-41b2-bb5c-c0e0a72abb00.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/FantaVision%20(USA).pdf',
@@ -4566,8 +4566,8 @@ games_ntsc_u = {
     'SLUS20558': {
         'id': 'SLUS20558',
         'title': 'FERRARI F355 CHALLENGE',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/1fee0da7-1d61-4807-b135-38b9d55ca4ab.jpg',
+        'pic0': 'https://images.launchbox-app.com/fa25ad02-90b8-4efd-a31e-bf611dd02eda.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Ferrari%20F355%20Challenge%20(USA).pdf',
@@ -4575,8 +4575,8 @@ games_ntsc_u = {
     'SLUS21280': {
         'id': 'SLUS21280',
         'title': 'Fifa Soccer 06',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/7bf1f79d-b868-4ef4-9677-22227520e2df.jpg',
+        'pic0': 'https://images.launchbox-app.com/1ca0ffe2-3090-4778-b0bd-5d29e29f1c66.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2006%20(USA).pdf',
@@ -4584,8 +4584,8 @@ games_ntsc_u = {
     'SLUS21433': {
         'id': 'SLUS21433',
         'title': 'Fifa Soccer 07',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/00e2cc89-170b-4a70-93c1-cf1276171e0d.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_afe3a66b-95f9-4d72-8b3e-63356c56d5b4.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2007%20(USA).pdf',
@@ -4593,8 +4593,8 @@ games_ntsc_u = {
     'SLUS21648': {
         'id': 'SLUS21648',
         'title': 'Fifa Soccer 08',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/b59c9897-8cab-4120-98f9-d33e78b56d6f.jpg',
+        'pic0': 'https://images.launchbox-app.com/546604c1-6a7e-439c-bd82-c36719d43b24.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2008%20(USA).pdf',
@@ -4611,8 +4611,8 @@ games_ntsc_u = {
     'SLUS21905': {
         'id': 'SLUS21905',
         'title': 'Fifa Soccer 10',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/d8b6fe9d-3797-467d-9390-6b524d230e6f.jpg',
+        'pic0': 'https://images.launchbox-app.com/60f28de1-3d87-427a-868b-c4eab1636bd8.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%2010%20(USA).pdf',
@@ -4656,8 +4656,8 @@ games_ntsc_u = {
     'SLUS20097': {
         'id': 'SLUS20097',
         'title': 'Fifa 2001',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/c0393085-6a2f-49de-8c8d-ff4cff6d88ef.jpg',
+        'pic0': 'https://images.launchbox-app.com/bc08ceef-1485-46a6-9be0-018fe43fbd22.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%202001%20(USA).pdf',
@@ -4674,8 +4674,8 @@ games_ntsc_u = {
     'SLUS20580': {
         'id': 'SLUS20580',
         'title': 'Fifa Soccer 2003',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/0a102196-fe65-42cd-b88e-17cd66e0a0f6.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_69157507-3da8-49b6-8d4a-fcc81c645e84.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Soccer%202003%20(USA).pdf',
@@ -4701,8 +4701,8 @@ games_ntsc_u = {
     'SLUS21147': {
         'id': 'SLUS21147',
         'title': 'Fifa Street',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/50336b5c-61fa-49dc-8bf2-d1311690b697.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_ffa49802-0bfa-4d9d-937a-a3a9fb0d11ad.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/FIFA%20Street%20(USA).pdf',
@@ -4719,8 +4719,8 @@ games_ntsc_u = {
     'SLUS21408': {
         'id': 'SLUS21408',
         'title': 'Fifa World Cup - Germany 2006',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/4ade2637-b6c4-4246-9921-ab6dafdf23b3.jpg',
+        'pic0': 'https://images.launchbox-app.com/a08ed741-dfbd-452e-b388-fb382626dd21.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/FIFA%20World%20Cup%20Germany%202006%20(USA).pdf',
@@ -4728,8 +4728,8 @@ games_ntsc_u = {
     'SLUS20857': {
         'id': 'SLUS20857',
         'title': 'FIGHT CLUB',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/96e1b3eb-33d9-4e81-b000-71185645b54d.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_a09ae046-ba13-4faa-b855-b9ceee32a8d3.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Fight%20Club%20(USA).pdf',
@@ -4737,8 +4737,8 @@ games_ntsc_u = {
     'SLUS20906': {
         'id': 'SLUS20906',
         'title': 'Fight Night 2004',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/44f176d3-b8bc-4e4f-8367-19817d264ed2.jpg',
+        'pic0': 'https://images.launchbox-app.com/d17bc8af-a8d2-4627-a3a9-243d5ae37d06.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Fight%20Night%202004%20(USA).pdf',
@@ -4764,7 +4764,7 @@ games_ntsc_u = {
     'SLUS20524': {
         'id': 'SLUS20524',
         'title': 'Fighter Maker 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/4022e834-c2e3-4dc8-986a-a49226238b00.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -4878,7 +4878,7 @@ games_ntsc_u = {
     'SLUS21238': {
         'id': 'SLUS21238',
         'title': 'FINAL FIGHT STREETWISE',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/3768bbaa-bd76-457e-894e-cf417c28dca9.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -4887,8 +4887,8 @@ games_ntsc_u = {
     'SLUS21072': {
         'id': 'SLUS21072',
         'title': 'FINNY THE FISH & THE SEVEN WATERS',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/e83f1bb6-9850-4876-a6a6-a7d16b1e2efe.jpg',
+        'pic0': 'https://images.launchbox-app.com/ff981c60-2676-4bce-b12b-f00b58a62db8.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Finny%20the%20Fish%20&%20The%20Seven%20Waters%20(USA).pdf',
@@ -4896,8 +4896,8 @@ games_ntsc_u = {
     'SLUS20198': {
         'id': 'SLUS20198',
         'title': 'Fire Blade',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/16a7c785-218d-4a91-90eb-250eb0b76cc5.jpg',
+        'pic0': 'https://images.launchbox-app.com/bd98b7cb-00de-4ba5-b23f-f39bc4d38b8d.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Fire%20Blade%20(USA).pdf',
@@ -4923,8 +4923,8 @@ games_ntsc_u = {
     'SLUS20428': {
         'id': 'SLUS20428',
         'title': 'Fisherman\'s Bass Club',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/b490235a-fcab-40aa-9abb-7e538e19bd28.jpg',
+        'pic0': 'https://images.launchbox-app.com/887149e6-8d43-46b0-944f-30df9bf0779a.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Fisherman\'s%20Bass%20Club%20(USA).pdf',
@@ -4932,7 +4932,7 @@ games_ntsc_u = {
     'SLUS20553': {
         'id': 'SLUS20553',
         'title': 'Fisherman\'s Challenge',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/4cd7a228-aa78-4eb4-87fd-b4e33b9c23ad.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -4950,8 +4950,8 @@ games_ntsc_u = {
     'SLUS21251': {
         'id': 'SLUS21251',
         'title': 'FLATOUT 2',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/2d7265ec-ccfd-4a94-b313-e8e006c74d37.jpg',
+        'pic0': 'https://images.launchbox-app.com/efca221d-dae9-4750-9646-9dca4411a477.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/FlatOut%202%20(USA).pdf',
@@ -4959,7 +4959,7 @@ games_ntsc_u = {
     'SLUS21157': {
         'id': 'SLUS21157',
         'title': 'FLIPNIC - ULTIMSTE PINBALL',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a048b59b-3f6d-403b-8f1f-3c861d0cea3c.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -4968,7 +4968,7 @@ games_ntsc_u = {
     'SLUS21319': {
         'id': 'SLUS21319',
         'title': 'FLOW - URBAN DANCE UPRISING',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/7e4e9ede-8ecf-4f68-8abe-685ec3540cc5.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -4977,8 +4977,8 @@ games_ntsc_u = {
     'SLUS21290': {
         'id': 'SLUS21290',
         'title': 'Ford Bold Moves Street Racing',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/6d2de712-f2ba-4387-9d93-2a13dd2f2552.jpg',
+        'pic0': 'https://images.launchbox-app.com/460266e8-a916-4143-9dfd-22bb15fb6e2b.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Ford%20Bold%20Moves%20Street%20Racing%20(USA).pdf',
@@ -4986,8 +4986,8 @@ games_ntsc_u = {
     'SLUS21162': {
         'id': 'SLUS21162',
         'title': 'Ford Mustang - The Legend Lives',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/340d86ae-1289-4b7e-86e6-742102e44311.jpg',
+        'pic0': 'https://images.launchbox-app.com/f698d6d5-c285-4b48-ac5a-f4933b6b0b90.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Ford%20Mustang%20-%20The%20Legend%20Lives%20(USA).pdf',
@@ -4995,8 +4995,8 @@ games_ntsc_u = {
     'SLUS20788': {
         'id': 'SLUS20788',
         'title': 'FORD RACING 2',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/9634db8a-a003-4d04-8d02-6f3a20da3242.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_8b31c7da-38a2-4b6c-a2fa-ad6cfb6224b7.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Ford%20Racing%202%20(USA).pdf',
@@ -5004,8 +5004,8 @@ games_ntsc_u = {
     'SLUS20976': {
         'id': 'SLUS20976',
         'title': 'Ford Racing 3',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/r2_5fbe8e40-25a2-4911-be7b-d4ee885e723b.jpg',
+        'pic0': 'https://images.launchbox-app.com/b52c42b3-3b7b-4ca8-b65b-34c6583a7db2.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Ford%20Racing%203%20(USA).pdf',
@@ -5013,8 +5013,8 @@ games_ntsc_u = {
     'SLUS21696': {
         'id': 'SLUS21696',
         'title': 'Ford Racing - Off Road',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/r2_4331ebfa-2cb1-4f07-83f3-292a77f0b2ed.jpg',
+        'pic0': 'https://images.launchbox-app.com/ae7249ab-c5f5-4219-a30e-1c8b1f1cd106.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Ford%20Racing-%20Off%20Road%20(USA).pdf',
@@ -5022,8 +5022,8 @@ games_ntsc_u = {
     'SLUS21276': {
         'id': 'SLUS21276',
         'title': 'Ford vs Chevy',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/c58dc1ee-135f-46eb-81f2-54068acef340.jpg',
+        'pic0': 'https://images.launchbox-app.com/0ebb8902-5994-44c8-bb79-2f3a723189a8.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Ford%20vs%20Chevy%20(USA).pdf',
@@ -5031,8 +5031,8 @@ games_ntsc_u = {
     'SLUS20343': {
         'id': 'SLUS20343',
         'title': 'Forever Kingdom',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/f198a38f-a363-4965-9f17-a9d34de0328b.jpg',
+        'pic0': 'https://images.launchbox-app.com/6a2291a9-57c8-4d67-8b0b-a71a66aae2dc.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Forever%20Kingdom%20(USA).pdf',
@@ -5040,8 +5040,8 @@ games_ntsc_u = {
     'SLUS20804': {
         'id': 'SLUS20804',
         'title': 'FORGOTTEN REALMS - DEMON STONE',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/2c286d8f-dfe8-42e6-9777-72e5f92fc279.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_514182d8-225b-4fad-9263-07c6ce186f1c.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Demon%20Stone%20(Forgotten%20Realms)%20(USA).pdf',
@@ -5067,8 +5067,8 @@ games_ntsc_u = {
     'SLUS20284': {
         'id': 'SLUS20284',
         'title': 'Freaky Flyers',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/7b3c7b46-2624-4f67-bdce-f6f40f2f4ed8.jpg',
+        'pic0': 'https://images.launchbox-app.com/1ba5970d-9ac0-4e38-9dc2-4f0e209dd49d.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Freaky%20Flyers%20(USA).pdf',
@@ -5103,8 +5103,8 @@ games_ntsc_u = {
     'SCUS97125': {
         'id': 'SCUS97125',
         'title': 'Frequency',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/e61c9821-763b-4ad0-8091-16089b9d7e0d.jpg',
+        'pic0': 'https://images.launchbox-app.com/10d34596-1fb2-40e9-a81a-418f2867ea79.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Frequency%20(USA).pdf',
@@ -5130,8 +5130,8 @@ games_ntsc_u = {
     'SLUS20257': {
         'id': 'SLUS20257',
         'title': 'FROGGER - THE GREAT QUEST',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/af1c2364-6094-4ae2-87af-b26a7edc1207.jpg',
+        'pic0': 'https://images.launchbox-app.com/04bac29f-4eba-464b-83c4-3855f23605da.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Frogger-%20The%20Great%20Quest%20(USA).pdf',
@@ -5139,8 +5139,8 @@ games_ntsc_u = {
     'SLUS20734': {
         'id': 'SLUS20734',
         'title': 'Frogger\'s Adventures - The Rescue',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/27c89383-fecc-4eab-8fae-663997f3038e.jpg',
+        'pic0': 'https://images.launchbox-app.com/4720bf75-b472-4a22-9444-4d634bd27fd8.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Frogger\'s%20Adventures-%20The%20Rescue%20(USA).pdf',
@@ -5157,8 +5157,8 @@ games_ntsc_u = {
     'SLUS20464': {
         'id': 'SLUS20464',
         'title': 'Fugitive Hunter - War on Terror',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/fda3db6f-389b-447a-ba20-c1c7a36fe10b.png',
+        'pic0': 'https://images.launchbox-app.com/72089306-9ef1-4ac4-b715-daf2839862c5.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Fugitive%20Hunter-%20War%20on%20Terror%20(USA).pdf',
@@ -5220,7 +5220,7 @@ games_ntsc_u = {
     'SLUS20859': {
         'id': 'SLUS20859',
         'title': 'Future Tactics - The Uprising',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/cc205710-428c-4609-bf86-bb91825d3146.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -5239,7 +5239,7 @@ games_ntsc_u = {
         'id': 'SLUS20690',
         'title': 'G1 JOCKEY 3',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/0162990e-4047-4aee-9a2b-f91b0555045e.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/G1%20Jockey%203%20(USA).pdf',
@@ -5247,8 +5247,8 @@ games_ntsc_u = {
     'SLUS20225': {
         'id': 'SLUS20225',
         'title': 'Gadget Racers',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/2a61efc3-8792-4945-9fda-866ef913c791.png',
+        'pic0': 'https://images.launchbox-app.com/5917b93a-5ee7-4054-a00b-da60481bd032.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Gadget%20Racers%20(USA).pdf',
@@ -5265,8 +5265,8 @@ games_ntsc_u = {
     'SLUS20560': {
         'id': 'SLUS20560',
         'title': 'GALERIANS - ASH',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/9fd74eb2-6e86-483c-8672-d01c1668c36a.jpg',
+        'pic0': 'https://images.launchbox-app.com/ce929d84-6a20-4db0-a52e-4ce8c2b352a9.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Galerians-%20Ash%20(USA).pdf',
@@ -5274,8 +5274,8 @@ games_ntsc_u = {
     'SLUS20255': {
         'id': 'SLUS20255',
         'title': 'GALLOP RACER 2001',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/7d7b89e9-7492-41a4-aa7a-5d090806f344.png',
+        'pic0': 'https://images.launchbox-app.com/d8bb496e-a771-440f-8848-bff88bf539bb.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Gallop%20Racer%202001%20(USA).pdf',
@@ -5283,8 +5283,8 @@ games_ntsc_u = {
     'SLUS20662': {
         'id': 'SLUS20662',
         'title': 'Gallop Racer 2003 - A New Breed',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/4eb6eee0-cd3c-4205-b4e7-9d8520381311.jpg',
+        'pic0': 'https://images.launchbox-app.com/fc1a324c-a906-4717-94ee-0f231fa0db27.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Gallop%20Racer%202003-%20A%20New%20Breed%20(USA).pdf',
@@ -5292,8 +5292,8 @@ games_ntsc_u = {
     'SLUS21031': {
         'id': 'SLUS21031',
         'title': 'Gallop Racer 2004',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/51dc9dbe-4134-4867-816e-227ff3e543bf.png',
+        'pic0': 'https://images.launchbox-app.com/45467678-99cc-4cf1-9cc2-41db2bb70e7d.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Gallop%20Racer%202004%20(USA).pdf',
@@ -5301,8 +5301,8 @@ games_ntsc_u = {
     'SLUS21393': {
         'id': 'SLUS21393',
         'title': 'Gallop Racer 2006',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/f66c1108-10d7-44d1-9b7f-90ae7669415d.jpg',
+        'pic0': 'https://images.launchbox-app.com/b03966a8-3411-45da-b3e4-6282d62d4f77.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Gallop%20Racer%202006%20(USA).pdf',
@@ -5310,8 +5310,8 @@ games_ntsc_u = {
     'SLUS21749': {
         'id': 'SLUS21749',
         'title': 'GARFIELD - LASAGNA WORLD TOUR',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/73cd3162-e0e5-47bb-b14a-4f2b1c52de8f.jpg',
+        'pic0': 'https://images.launchbox-app.com/0154b11d-c6d2-4eb7-a0df-c0a6b8529649.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Garfield-%20Lasagna%20World%20Tour%20(USA).pdf',
@@ -5346,8 +5346,8 @@ games_ntsc_u = {
     'SLUS21668': {
         'id': 'SLUS21668',
         'title': 'GEORGE OF THE JUNGLE AND THE SEARCH FOR THE SECRET',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/f5f572d4-e722-472d-8af8-e3c05776ade9.jpg',
+        'pic0': 'https://images.launchbox-app.com/8010d6b0-55fe-4900-ba01-c0bc1389c9c8.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/George%20of%20the%20Jungle%20and%20the%20Search%20for%20the%20Secret%20(USA).pdf',
@@ -5355,8 +5355,8 @@ games_ntsc_u = {
     'SLUS21036': {
         'id': 'SLUS21036',
         'title': 'Get On Da Mic',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/07383a67-33f7-4145-8b23-919fdd42a6d7.jpg',
+        'pic0': 'https://images.launchbox-app.com/ce281df0-b03b-42e6-9d96-371e1070ea96.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Get%20On%20Da%20Mic%20(USA).pdf',
@@ -5409,8 +5409,8 @@ games_ntsc_u = {
     'SLUS20294': {
         'id': 'SLUS20294',
         'title': 'GITAROO MAN',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/300d5f9e-95d8-406a-9ecb-b4ef188555eb.jpg',
+        'pic0': 'https://images.launchbox-app.com/e7b8a719-3b87-4eea-a7ea-759014a4af80.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Gitaroo%20Man%20(USA).pdf',
@@ -5418,8 +5418,8 @@ games_ntsc_u = {
     'SLUS20793': {
         'id': 'SLUS20793',
         'title': 'Gladiator - Sword of Vengeance',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/d1f24e11-8af3-4886-9761-f19d54e89d5f.jpg',
+        'pic0': 'https://images.launchbox-app.com/12af288c-d574-4347-bf52-0430e99b6fd1.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Gladiator-%20Sword%20of%20Vengeance%20(USA).pdf',
@@ -5427,8 +5427,8 @@ games_ntsc_u = {
     'SLUS20490': {
         'id': 'SLUS20490',
         'title': 'GLADIUS',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/2a4fa8ab-884b-4930-87fa-dab7abb253f3.jpg',
+        'pic0': 'https://images.launchbox-app.com/561394a3-0e24-4dec-9d5c-511f77935dbb.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Gladius%20(USA).pdf',
@@ -5616,8 +5616,8 @@ games_ntsc_u = {
     'SLUS27003': {
         'id': 'SLUS27003',
         'title': 'GRAND THEFT AUTO - DOUBLE PACK',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/931d620a-8409-4e0f-a994-18fc7bd869aa.jpg',
+        'pic0': 'https://images.launchbox-app.com/c536d48b-2c0d-4697-9033-cd09edcc6a89.png',
     #    'pic1': 
     #    'snd0': 
     },
@@ -5696,8 +5696,8 @@ games_ntsc_u = {
     'SLUS20310': {
         'id': 'SLUS20310',
         'title': 'GRAVITY GAMES BIKE - STREET. VERT. DIRT.',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/9a7157ae-61b0-4b97-aeea-0d06db9eaf5a.jpg',
+        'pic0': 'https://images.launchbox-app.com/a298871d-8790-4bde-a760-aea4304c9aaf.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Gravity%20Games%20Bike-%20Street%20Vert%20Dirt%20(USA).pdf',
@@ -5705,7 +5705,7 @@ games_ntsc_u = {
     'SLUS21539': {
         'id': 'SLUS21539',
         'title': 'Greg Hastings Tournament Paintball Max\'d',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a251c573-d861-41f2-9947-82eaa3221904.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -5714,8 +5714,8 @@ games_ntsc_u = {
     'SCUS97466': {
         'id': 'SCUS97466',
         'title': 'Gretzky NHL \'06',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/62e0eca0-d3ba-4b06-aa12-2c643e5b629c.jpg',
+        'pic0': 'https://images.launchbox-app.com/590ae089-c96c-44eb-807b-9e6396e20a7e.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Gretzky%20NHL%20\'06%20(USA).pdf',
@@ -5723,7 +5723,7 @@ games_ntsc_u = {
     'SCUS97409': {
         'id': 'SCUS97409',
         'title': 'Gretzky NHL 2005',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8260fc1d-4a52-42c5-8f00-646ba55f11f5.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -5839,8 +5839,8 @@ games_ntsc_u = {
     'SLUS21866': {
         'id': 'SLUS21866',
         'title': 'Guitar Hero - Smash Hits',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/0b1fadf9-db14-4808-a83a-09f9da5c99db.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_cf1c430d-081d-4c1f-9cb6-59a6080cc2a1.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Guitar%20Hero-%20Smash%20Hits%20(USA).pdf',
@@ -5974,8 +5974,8 @@ games_ntsc_u = {
     'SLUS21656': {
         'id': 'SLUS21656',
         'title': 'HANNSPREE TEN KATE HONDA - SBK',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/62ea6cf6-67aa-4ceb-9345-dd2315836063.jpg',
+        'pic0': 'https://images.launchbox-app.com/4a5347e1-9133-4f8f-8d41-6edc62949c28.png',
     #    'pic1': 
     #    'snd0': 
     },
@@ -5991,16 +5991,16 @@ games_ntsc_u = {
     'SLUS20568': {
         'id': 'SLUS20568',
         'title': 'HARD HITTER TENNIS',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/6b220ec8-a410-4377-a497-1dc6fcdf2ac8.jpg',
+        'pic0': 'https://images.launchbox-app.com/172e918b-d211-4688-98a1-008c17749969.png',
     #    'pic1': 
     #    'snd0': 
     },
     'SLUS21102': {
         'id': 'SLUS21102',
         'title': 'Hard Rock Casino',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/083b6ba7-d5b5-4f40-ae20-9d9a39f8928e.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_2ebeb220-5491-4ad2-9ede-1d3481886c2d.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Hard%20Rock%20Casino%20(USA).pdf',
@@ -6089,8 +6089,8 @@ games_ntsc_u = {
     'SLUS20251': {
         'id': 'SLUS20251',
         'title': 'HARVEST MOON - SAVE THE HOMELAND',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/5e2a0064-1315-4ebd-9a30-6eeee0777cb1.jpg',
+        'pic0': 'https://images.launchbox-app.com/56de54ec-5186-43e8-b449-0d5eeb612fff.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Harvest%20Moon-%20Save%20the%20Homeland%20(USA).pdf',
@@ -6125,8 +6125,8 @@ games_ntsc_u = {
     'SLUS20517': {
         'id': 'SLUS20517',
         'title': 'HAVEN - CALL OF THE KING',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/3619d28c-518d-4bb0-85fd-50fe7cb5842a.jpg',
+        'pic0': 'https://images.launchbox-app.com/f32d1662-b0bb-47a5-be81-929e45474743.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Haven-%20Call%20of%20the%20King%20(USA).pdf',
@@ -6180,7 +6180,7 @@ games_ntsc_u = {
         'id': 'SLUS20158',
         'title': 'Heroes of Might and Magic - Quest for the DragonBone Staff',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/f0933b85-8478-4155-9775-bf3f7a0ee76a.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Heroes%20of%20Might%20and%20Magic-%20Quest%20for%20the%20DragonBone%20Staff%20(USA).pdf',
@@ -6197,7 +6197,7 @@ games_ntsc_u = {
     'SLUS20301': {
         'id': 'SLUS20301',
         'title': 'HIDDEN INVASION',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/6ab003b2-5136-4788-9721-fbd5d8e62eaa.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -6206,8 +6206,8 @@ games_ntsc_u = {
     'SLUS20133': {
         'id': 'SLUS20133',
         'title': 'High Heat Major League Baseball 2002',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/b9368a12-6dbf-4bf1-823d-67277710f138.jpg',
+        'pic0': 'https://images.launchbox-app.com/f35ef1b5-c2cd-44cc-945d-548550e616b9.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/High%20Heat%20Major%20League%20Baseball%202002%20(USA).pdf',
@@ -6215,8 +6215,8 @@ games_ntsc_u = {
     'SLUS20298': {
         'id': 'SLUS20298',
         'title': 'High Heat - Major League Baseball 2003',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/33ea4a95-d1b5-48e9-b41a-0dfd360616d0.png',
+        'pic0': 'https://images.launchbox-app.com/872b0930-e8ba-4e59-9ebf-2963b038c6fc.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/High%20Heat%20Major%20League%20Baseball%202003%20(USA).pdf',
@@ -6224,8 +6224,8 @@ games_ntsc_u = {
     'SLUS20602': {
         'id': 'SLUS20602',
         'title': 'High Heat - Major League Baseball 2004',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/5abc3646-6eaa-44fd-82df-db134e18e8f7.jpg',
+        'pic0': 'https://images.launchbox-app.com/3df95252-f179-4d81-aa3a-0a6d28d7cdaa.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/High%20Heat%20Major%20League%20Baseball%202004%20(USA).pdf',
@@ -6233,8 +6233,8 @@ games_ntsc_u = {
     'SLUS21014': {
         'id': 'SLUS21014',
         'title': 'High Roller Casino',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/076cec2b-0917-47d5-a896-723c927555bf.jpg',
+        'pic0': 'https://images.launchbox-app.com/7f313463-66af-4ecd-a035-333a24e1d929.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/High%20Rollers%20Casino%20(USA).pdf',
@@ -6269,8 +6269,8 @@ games_ntsc_u = {
     'SLUS21563': {
         'id': 'SLUS21563',
         'title': 'Horsez',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/6377d787-7e33-41ea-8164-3732d8c1c974.jpg',
+        'pic0': 'https://images.launchbox-app.com/6c063789-974c-46b6-85b0-eae178fccb6a.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Petz-%20Horsez%20(USA).pdf',
@@ -6314,8 +6314,8 @@ games_ntsc_u = {
     'SLUS20954': {
         'id': 'SLUS20954',
         'title': 'HOT WHEELS - STUNT TRACK CHALLENGE',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/6f0ff064-6e5b-41ad-82c8-581dd7d31d46.jpg',
+        'pic0': 'https://images.launchbox-app.com/c28e5fd0-3ed5-4c0a-8e91-0b5d06c320e4.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Hot%20Wheels-%20Stunt%20Track%20Challenge%20(USA).pdf',
@@ -6332,8 +6332,8 @@ games_ntsc_u = {
     'SLUS20737': {
         'id': 'SLUS20737',
         'title': 'Hot Wheels - World Race',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/28af6f05-fe4c-448a-b8f4-73b13c6e6768.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_88193d04-b62c-442c-9f73-fe072b94d21d.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Hot%20Wheels-%20World%20Race%20(USA).pdf',
@@ -6341,8 +6341,8 @@ games_ntsc_u = {
     'SLUS20592': {
         'id': 'SLUS20592',
         'title': 'HSX - HyperSonic.Xtreme',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/81bd21f8-0a5e-4db3-bda2-0b6e9b9efd5c.jpg',
+        'pic0': 'https://images.launchbox-app.com/ebc7fa7b-e192-4dfe-8c86-fefaabab2c52.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/HSX%20HyperSonic.Xtreme%20(USA).pdf',
@@ -6359,8 +6359,8 @@ games_ntsc_u = {
     'SLUS21357': {
         'id': 'SLUS21357',
         'title': 'Hummer - Badlands',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/df04cf5b-0d8f-41ab-9240-0d7a8be08463.jpg',
+        'pic0': 'https://images.launchbox-app.com/0af7189a-2229-4803-acf6-4549b0049d36.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Hummer-%20Badlands%20(USA).pdf',
@@ -6377,8 +6377,8 @@ games_ntsc_u = {
     'SLUS20705': {
         'id': 'SLUS20705',
         'title': 'I-NINJA',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/d181c145-b372-490a-87aa-e307b4ab9069.jpg',
+        'pic0': 'https://images.launchbox-app.com/b88fdfbc-e4b4-4cfd-9e3d-0cb334e13aa1.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/I-Ninja%20(USA).pdf',
@@ -6386,8 +6386,8 @@ games_ntsc_u = {
     'SLUS21878': {
         'id': 'SLUS21878',
         'title': 'Ice Age - Dawn of the Dinosaurs',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/fa6bff40-580a-4458-a9f4-16560eb83c60.jpg',
+        'pic0': 'https://images.launchbox-app.com/1e992e14-54a1-4d6e-b0f9-77acc7f92ac6.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Ice%20Age-%20Dawn%20of%20the%20Dinosaurs%20(USA).pdf',
@@ -6413,8 +6413,8 @@ games_ntsc_u = {
     'SLUS21430': {
         'id': 'SLUS21430',
         'title': 'IGPX - Immortal Grand Prix',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/82078439-ff6a-471d-b67d-7b3e9028b9ab.jpg',
+        'pic0': 'https://images.launchbox-app.com/ccf40322-ffec-4879-a50e-eb82cb97bf5d.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/IGPX-%20Immortal%20Grand%20Prix%20(USA).pdf',
@@ -6422,8 +6422,8 @@ games_ntsc_u = {
     'SLUS21256': {
         'id': 'SLUS21256',
         'title': 'IHRA Drag Racing - Sportsman Edition',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/39ec5473-4269-4a6f-9f02-49a10feb9800.jpg',
+        'pic0': 'https://images.launchbox-app.com/2e4deac1-bc50-4130-8af1-652d0bd14afb.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/IHRA%20Drag%20Racing-%20Sportsman%20Edition%20(USA).pdf',
@@ -6431,8 +6431,8 @@ games_ntsc_u = {
     'SLUS20586': {
         'id': 'SLUS20586',
         'title': 'IHRA Drag Racing 2',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/34236007-6e83-489f-8059-4492fbe3d4c5.jpg',
+        'pic0': 'https://images.launchbox-app.com/0d9db634-8640-408f-90d6-5ef4b7433138.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/IHRA%20Drag%20Racing%202%20(USA).pdf',
@@ -6440,8 +6440,8 @@ games_ntsc_u = {
     'SLUS20935': {
         'id': 'SLUS20935',
         'title': 'IHRA Professional Drag Racing 2005',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/f3f0361f-c75a-4dc6-b923-4551c886dd76.jpg',
+        'pic0': 'https://images.launchbox-app.com/0d65b441-a926-47fa-8471-32bf5a5bd41f.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/IHRA%20Professional%20Drag%20Racing%202005%20(USA).pdf',
@@ -6449,8 +6449,8 @@ games_ntsc_u = {
     'SLUS21177': {
         'id': 'SLUS21177',
         'title': 'In The Groove',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/5f574130-7f2c-449a-aec4-7131284fb876.jpg',
+        'pic0': 'https://images.launchbox-app.com/fb6be9e1-d14e-48d4-8704-3d9cadc7c707.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/In%20the%20Groove%20(USA).pdf',
@@ -6485,8 +6485,8 @@ games_ntsc_u = {
     'SLUS20641': {
         'id': 'SLUS20641',
         'title': 'Indycar Series',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/d17f42c9-e20e-44d9-a78d-214f19e9f80c.png',
+        'pic0': 'https://images.launchbox-app.com/bdc5eef8-4911-4d3e-ac8c-dbfb6a458bda.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/IndyCar%20Series%20(USA).pdf',
@@ -6503,8 +6503,8 @@ games_ntsc_u = {
     'SLUS20830': {
         'id': 'SLUS20830',
         'title': 'Intellivision Lives!',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/ddf7e33b-4beb-40a8-921b-dbc0576bcd9e.jpg',
+        'pic0': 'https://images.launchbox-app.com/r2_90fab174-8bb6-4f3b-9cbb-c670b5545a8c.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Intellivision%20Lives!%20(USA).pdf',
@@ -6530,8 +6530,8 @@ games_ntsc_u = {
     'SLUS21697': {
         'id': 'SLUS21697',
         'title': 'Iridium Runners',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/304994b5-eae4-43af-9f8e-cef8fef40cbe.jpg',
+        'pic0': 'https://images.launchbox-app.com/bf6e6ce4-c383-414d-82ca-8e60190df11b.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Iridium%20Runners%20(USA).pdf',
@@ -6566,8 +6566,8 @@ games_ntsc_u = {
     'SLUS20309': {
         'id': 'SLUS20309',
         'title': 'JADE COCOON 2',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/7a110c62-a0d3-4504-8ee6-24f33decb8d8.jpg',
+        'pic0': 'https://images.launchbox-app.com/0e11c4ec-9dac-4743-bdd5-cc2588922f34.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Jade%20Cocoon%202%20(USA).pdf',
@@ -6645,8 +6645,8 @@ games_ntsc_u = {
     'SLUS21760': {
         'id': 'SLUS21760',
         'title': 'Jeep Thrills',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/0586cc95-6578-4602-b8b5-7a35a3a58b89.jpg',
+        'pic0': 'https://images.launchbox-app.com/8c33e649-a834-4a50-b2fb-021d279750e3.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Jeep%20Thrills%20(USA).pdf',
@@ -6663,8 +6663,8 @@ games_ntsc_u = {
     'SLUS20245': {
         'id': 'SLUS20245',
         'title': 'JEREMY MCGRATH SUPERCROSS WORLD',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/08ce229b-ec3a-40d6-ba99-8b063ee0cb06.jpg',
+        'pic0': 'https://images.launchbox-app.com/d7542279-2fb5-4993-afc0-73d035ec0380.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Jeremy%20McGrath%20Supecross%20World%20(USA).pdf',
@@ -6789,8 +6789,8 @@ games_ntsc_u = {
     'SLUS20682': {
         'id': 'SLUS20682',
         'title': 'K-1 World Grand Prix',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/f4fb4151-36b9-45f2-9876-b93e9bbd1523.jpg',
+        'pic0': 'https://images.launchbox-app.com/a01940f1-ffd6-48ad-9c51-4a829eaf2dbf.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/K-1%20World%20Grand%20Prix%20(USA).pdf',
@@ -6798,8 +6798,8 @@ games_ntsc_u = {
     'SLUS20296': {
         'id': 'SLUS20296',
         'title': 'KAO THE KANGAROO - ROUND 2',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/ed55ccd0-5d8d-4316-8667-7e536bb57cc1.jpg',
+        'pic0': 'https://images.launchbox-app.com/b2b77dc1-c7f3-42ce-b09a-b40ccdf1fa50.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Kao%20The%20Kangaroo-%20Round%20Two%20(USA).pdf',
@@ -6807,8 +6807,8 @@ games_ntsc_u = {
     'SLUS20781': {
         'id': 'SLUS20781',
         'title': 'Karaoke Revolution',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/20f435e5-a13c-46c7-b151-b08f5b32fc41.jpg',
+        'pic0': 'https://images.launchbox-app.com/7bde28d5-4a2b-4fb4-9faf-f8a8a1bb54eb.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20(USA).pdf',
@@ -6816,7 +6816,7 @@ games_ntsc_u = {
     'SLUS21329': {
         'id': 'SLUS21329',
         'title': 'Karaoke Revolution Country - CMT Presents',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a11067f0-43a0-4404-ba5c-714564b3444e.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -6825,8 +6825,8 @@ games_ntsc_u = {
     'SLUS21223': {
         'id': 'SLUS21223',
         'title': 'Karaoke Revolution Party',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/4f0fbe6e-f160-4916-8540-571e28ff37fa.jpg',
+        'pic0': 'https://images.launchbox-app.com/40b014e7-411c-4969-b78e-4628c3ae2af2.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20Party%20(USA).pdf',
@@ -6834,8 +6834,8 @@ games_ntsc_u = {
     'SLUS21540': {
         'id': 'SLUS21540',
         'title': 'Karaoke Revolution Presents - American Idol',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/1f1e2cab-ea80-4691-8fb2-a07bfa4c1e7e.jpg',
+        'pic0': 'https://images.launchbox-app.com/6f8f4762-b946-427a-9255-c7e8568b6e43.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20Presents-%20American%20Idol%20(USA).pdf',
@@ -6843,8 +6843,8 @@ games_ntsc_u = {
     'SLUS21719': {
         'id': 'SLUS21719',
         'title': 'Karaoke Revolution Presents - American Idol Encore',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/66e33074-0af9-45b8-a341-6b832dd6c055.jpg',
+        'pic0': 'https://images.launchbox-app.com/8e02f882-1ccf-429f-8db3-5adf2dd4246c.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20Presents-%20American%20Idol%20Encore%20(USA).pdf',
@@ -6852,8 +6852,8 @@ games_ntsc_u = {
     'SLUS20968': {
         'id': 'SLUS20968',
         'title': 'Karaoke Revolution Volume 2',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/5024e184-a161-4446-bc9f-c40a2e293b7c.jpg',
+        'pic0': 'https://images.launchbox-app.com/920f22f5-160b-4fb7-afca-4a3e3db12def.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20Volume%202%20(USA).pdf',
@@ -6861,8 +6861,8 @@ games_ntsc_u = {
     'SLUS21089': {
         'id': 'SLUS21089',
         'title': 'Karaoke Revolution Volume 3',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/5a9a2135-e70d-4f00-80b3-b8f95132abd6.jpg',
+        'pic0': 'https://images.launchbox-app.com/21ecbd8e-8330-4a21-8fcc-27d73b871547.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Karaoke%20Revolution%20Volume%203%20(USA).pdf',
@@ -6879,8 +6879,8 @@ games_ntsc_u = {
     'SLUS20334': {
         'id': 'SLUS20334',
         'title': 'KELLY SLATER\'S PRO SURFER',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/cf9596b6-a3c8-47e1-b435-820276358472.jpg',
+        'pic0': 'https://images.launchbox-app.com/bad5c6f9-21c8-4d3b-be6a-da721319293e.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Kelly%20Slater\'s%20Pro%20Surfer%20(USA).pdf',
@@ -6888,8 +6888,8 @@ games_ntsc_u = {
     'SLUS20021': {
         'id': 'SLUS20021',
         'title': 'KENGO - MASTER OF BUSHIDO',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/4ae23474-0aca-47ea-9a35-b6b78c809c7d.png',
+        'pic0': 'https://images.launchbox-app.com/r2_d316e829-883b-44ac-ba7f-7f972d20eb13.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Kengo-%20Master%20of%20Bushido%20(USA).pdf',
@@ -6897,8 +6897,8 @@ games_ntsc_u = {
     'SLUS20098': {
         'id': 'SLUS20098',
         'title': 'KESSEN',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/617b1bf5-7ac4-4459-bc12-24bf25030576.jpg',
+        'pic0': 'https://images.launchbox-app.com/a9368626-568e-42c9-acd6-f4ebd7907866.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Kessen%20(USA).pdf',
@@ -6906,8 +6906,8 @@ games_ntsc_u = {
     'SLUS20275': {
         'id': 'SLUS20275',
         'title': 'Kessen II',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/06fb468b-89bc-4c75-945c-b8d456aa66a5.jpg',
+        'pic0': 'https://images.launchbox-app.com/dbba2cb6-9497-4619-ab9d-3e038d1f00c6.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Kessen%20II%20(USA).pdf',
@@ -6924,8 +6924,8 @@ games_ntsc_u = {
     'SLUS20706': {
         'id': 'SLUS20706',
         'title': 'KILL.SWITCH',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/f1dc90d1-88dd-4587-9792-fdb1f639012d.jpg',
+        'pic0': 'https://images.launchbox-app.com/bb40fe43-e9e0-4960-a3b2-eeb95ca288f9.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/kill.switch%20(USA).pdf',
@@ -6978,8 +6978,8 @@ games_ntsc_u = {
     'SLUS21799': {
         'id': 'SLUS21799',
         'title': 'KINGDOM HEARTS - RE:CHAIN OF MEMORIES',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/r2_9a87e820-e75d-4e1c-925f-27035c697460.png',
+        'pic0': 'https://images.launchbox-app.com/744af016-c92b-426a-be25-b145f90cce9f.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Kingdom%20Hearts%20Re-%20Chain%20of%20Memories%20(USA).pdf',
@@ -7014,8 +7014,8 @@ games_ntsc_u = {
     'SLUS20150': {
         'id': 'SLUS20150',
         'title': 'Knockout Kings 2001',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/809dec5f-ea99-4a56-bc82-03a93e82b51e.jpg',
+        'pic0': 'https://images.launchbox-app.com/5c48f0ff-1808-4044-b831-291ed3a43faf.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Knockout%20Kings%202001%20(USA).pdf',
@@ -7023,8 +7023,8 @@ games_ntsc_u = {
     'SLUS20369': {
         'id': 'SLUS20369',
         'title': 'Knockout Kings 2002',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/42ca78c3-af4b-4274-a441-00785d5c12d5.jpg',
+        'pic0': 'https://images.launchbox-app.com/25a2bde2-5252-46a5-9103-78f0fb262ef9.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Knockout%20Kings%202002%20(USA).pdf',
@@ -7032,8 +7032,8 @@ games_ntsc_u = {
     'SLUS21559': {
         'id': 'SLUS21559',
         'title': 'Konami Kids Playground - Alphabet Circus',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/a4a29f49-3c65-481a-8016-1b40a8667c11.png',
+        'pic0': 'https://images.launchbox-app.com/r2_20d48099-9b3b-4b4c-a065-02311ceb4083.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Konami%20Kids%20Playground-%20Alphabet%20Circus%20(USA).pdf',
@@ -7041,8 +7041,8 @@ games_ntsc_u = {
     'SLUS21556': {
         'id': 'SLUS21556',
         'title': 'Konami Kids Playground - Dinosaur Shapes & Colors',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/276ff3f7-a503-4b4e-84d0-4557286b5b50.png',
+        'pic0': 'https://images.launchbox-app.com/r2_e269dd5c-b0e2-4431-9a4d-8a7c04441cb0.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Konami%20Kids%20Playground-%20Dinosaurs%20Shapes%20&%20Colors%20(USA).pdf',
@@ -7051,7 +7051,7 @@ games_ntsc_u = {
         'id': 'SLUS21557',
         'title': 'Konami Kids Playground - Frogger Hop, Skip & Jumpin\' Fun',
     #    'icon0': 
-    #    'pic0': 
+        'pic0': 'https://images.launchbox-app.com/r2_fe48e6f8-884f-4ea3-a0b4-9d782b1cc33b.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Konami%20Kids%20Playground-%20Frogger%20Hop,%20Skip%20&%20Jumpin\'%20Fun%20(USA).pdf',
@@ -7059,8 +7059,8 @@ games_ntsc_u = {
     'SLUS21558': {
         'id': 'SLUS21558',
         'title': 'Konami Kids Playground - Toy Pals Fun with Numbers',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/01ed37f7-629e-4f35-b7ad-093b4f1312ed.png',
+        'pic0': 'https://images.launchbox-app.com/r2_feb775a5-788a-44ac-bb23-5f6d74b13067.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Konami%20Kids%20Playground-%20Toy%20Pals%20Fun%20With%20Numbers%20(USA).pdf',
@@ -7086,8 +7086,8 @@ games_ntsc_u = {
     'SLUS21112': {
         'id': 'SLUS21112',
         'title': 'L.A. RUSH',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/79eecd78-8f53-4f3d-9729-79d7664baf10.png',
+        'pic0': 'https://images.launchbox-app.com/81999fef-653a-4a48-951a-56d0d7e25b16.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/LA%20Rush%20(USA).pdf',
@@ -7140,8 +7140,8 @@ games_ntsc_u = {
     'SLUS20207': {
         'id': 'SLUS20207',
         'title': 'LE MANS 24 HOURS',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/9088b241-6806-4bd1-b46a-c804ed4a3601.jpg',
+        'pic0': 'https://images.launchbox-app.com/89ee7895-d948-4171-87b2-040270bde237.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Le%20Mans%2024%20Hours%20(USA).pdf',
@@ -7149,8 +7149,8 @@ games_ntsc_u = {
     'SLUS20024': {
         'id': 'SLUS20024',
         'title': 'LEGACY OF KAIN - BLOOD OMEN 2',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/19ae267b-f794-40ae-a24d-9c72f39b227a.jpg',
+        'pic0': 'https://images.launchbox-app.com/c88f661a-71a2-4823-b7eb-75dfdd851b02.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Legacy%20of%20Kain-%20Blood%20Omen%202%20(USA).pdf',
@@ -7185,8 +7185,8 @@ games_ntsc_u = {
     'SLUS21248': {
         'id': 'SLUS21248',
         'title': 'LEGEND OF KAY',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/6cfaa28e-c6b2-4533-932c-68e372bee932.jpg',
+        'pic0': 'https://images.launchbox-app.com/5556ae37-bce9-4d9f-8af5-415717820cfe.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Legend%20of%20Kay%20(USA).pdf',
@@ -7203,8 +7203,8 @@ games_ntsc_u = {
     'SLUS20242': {
         'id': 'SLUS20242',
         'title': 'Legend of Wrestling',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/097c8e55-7066-47c3-a9c7-d82d5b6702bb.jpg',
+        'pic0': 'https://images.launchbox-app.com/ca75cd2c-6a42-4c64-8341-3dcc3ac7a16f.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Legends%20of%20Wrestling%20(USA).pdf',
@@ -7257,7 +7257,7 @@ games_ntsc_u = {
     'SLUS20575': {
         'id': 'SLUS20575',
         'title': 'LEGO Island Xtreme Stunts',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/62f33f26-e237-4dee-928c-a7594b14c1ff.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7266,7 +7266,7 @@ games_ntsc_u = {
     'SLUS20042': {
         'id': 'SLUS20042',
         'title': 'LEGO RACERS 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/r2_64c5e00a-22de-4017-a240-34a7045af13d.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7275,7 +7275,7 @@ games_ntsc_u = {
     'SLUS20456': {
         'id': 'SLUS20456',
         'title': 'LEGO Soccer Mania',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/50439c94-5541-46e6-b5ce-ddf83f0dbc79.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7302,8 +7302,8 @@ games_ntsc_u = {
     'SLUS20956': {
         'id': 'SLUS20956',
         'title': 'LEISURE SUIT LARRY - MAGNA CUM LAUDE',
-    #    'icon0': 
-    #    'pic0': 
+        'icon0': 'https://images.launchbox-app.com/59078a47-fa42-48a4-ab68-569d031ad399.jpg',
+        'pic0': 'https://images.launchbox-app.com/095aa7d3-4c7f-4a48-b65e-7e9604a56989.png',
     #    'pic1': 
     #    'snd0': 
         'manual': 'https://www.videogamemanual.com/PS2/Leisure%20Suit%20Larry-%20Magna%20Cum%20Laude%20(USA).pdf',
@@ -7311,7 +7311,7 @@ games_ntsc_u = {
     'SLUS21078': {
         'id': 'SLUS21078',
         'title': 'LEMONY SNICKET\'S - A SERIES OF UNFORTUNATE EVENTS',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/7500300b-6501-4c3d-95a9-c590ef925b06.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7320,7 +7320,7 @@ games_ntsc_u = {
     'SLUS21309': {
         'id': 'SLUS21309',
         'title': 'LET\'S RIDE - SILVER BUCKLE STABLES',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/70f90bc1-f68e-4d2b-ab1d-d2124569d33f.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7329,7 +7329,7 @@ games_ntsc_u = {
     'SLUS20386': {
         'id': 'SLUS20386',
         'title': 'Lethal Skies - Elite Pilot - Team SW',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5419c397-0be2-411c-a502-91bb2dab8418.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7338,7 +7338,7 @@ games_ntsc_u = {
     'SLUS20735': {
         'id': 'SLUS20735',
         'title': 'Lethal Skies 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/3581cdb8-e06d-4584-8e94-5c7e160163f0.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7365,7 +7365,7 @@ games_ntsc_u = {
     'SLUS20853': {
         'id': 'SLUS20853',
         'title': 'LOONEY TUNES - BACK IN ACTION',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5b9bea21-1e3b-4078-acfe-b38d188828bc.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7374,7 +7374,7 @@ games_ntsc_u = {
     'SLUS20352': {
         'id': 'SLUS20352',
         'title': 'LOONEY TUNES - SPACE RACE',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/300cc1b1-baf4-4dc8-84d1-37e131277cee.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7383,7 +7383,7 @@ games_ntsc_u = {
     'SLUS20676': {
         'id': 'SLUS20676',
         'title': 'Lowrider',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/abae05ee-bc9b-42cb-a9ff-9956056b50ff.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7392,7 +7392,7 @@ games_ntsc_u = {
     'SLUS21401': {
         'id': 'SLUS21401',
         'title': 'Lucinda Green\'s Equestrian Challenge',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a5a07dc6-1188-4c82-9a20-4f78313c3982.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7401,7 +7401,7 @@ games_ntsc_u = {
     'SLUS21553': {
         'id': 'SLUS21553',
         'title': 'Lumines Plus',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/r2_111c13e1-25ba-4543-9c4a-10ae3a3e3478.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7419,7 +7419,7 @@ games_ntsc_u = {
     'SLUS21703': {
         'id': 'SLUS21703',
         'title': 'Luxor - Pharaoh\'s Challenge',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/0bc26462-d05a-4095-a689-00dcf98ea2bf.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7446,7 +7446,7 @@ games_ntsc_u = {
     'SLUS21213': {
         'id': 'SLUS21213',
         'title': 'Madden NFL \'06',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/2ddda915-3dc0-4f98-9781-23f86b355011.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7455,7 +7455,7 @@ games_ntsc_u = {
     'SLUS21476': {
         'id': 'SLUS21476',
         'title': 'Madden NFL \'07',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/57e481fd-f680-4f55-ad8a-ea6c2f2e9086.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7464,7 +7464,7 @@ games_ntsc_u = {
     'SLUS21477': {
         'id': 'SLUS21477',
         'title': 'Madden NFL \'07 (Hall of Fame Edition)',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/2b84ef2d-569a-4a6f-b531-464ae93db272.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7473,7 +7473,7 @@ games_ntsc_u = {
     'SLUS21638': {
         'id': 'SLUS21638',
         'title': 'MADDEN NFL \'08',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ad9eb75c-1cb9-4395-bdef-40e295d669d6.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7482,7 +7482,7 @@ games_ntsc_u = {
     'SLUS21705': {
         'id': 'SLUS21705',
         'title': 'MADDEN NFL \'08',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ad9eb75c-1cb9-4395-bdef-40e295d669d6.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7491,7 +7491,7 @@ games_ntsc_u = {
     'SLUS21770': {
         'id': 'SLUS21770',
         'title': 'Madden NFL \'09',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ddb7ab2f-b3ee-4327-a195-99ce4ac944ca.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7500,7 +7500,7 @@ games_ntsc_u = {
     'SLUS21893': {
         'id': 'SLUS21893',
         'title': 'Madden NFL \'10',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/7524ab24-1264-4ab3-9183-60ae876c2d70.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7509,7 +7509,7 @@ games_ntsc_u = {
     'SLUS21937': {
         'id': 'SLUS21937',
         'title': 'Madden NFL \'11',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e17c6c7e-6d44-45b3-8bbf-0498ea9571d6.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7518,7 +7518,7 @@ games_ntsc_u = {
     'SLUS21946': {
         'id': 'SLUS21946',
         'title': 'Madden NFL \'12',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/9e007598-c1df-4c88-b2d4-4f450b1ff29e.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7527,7 +7527,7 @@ games_ntsc_u = {
     'SLUS20093': {
         'id': 'SLUS20093',
         'title': 'Madden NFL 2001',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/12644129-69cf-45b1-9390-c6eb4dfa7674.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7536,7 +7536,7 @@ games_ntsc_u = {
     'SLUS20263': {
         'id': 'SLUS20263',
         'title': 'Madden NFL 2002',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/050a8205-d240-43d5-b9c1-cf3b1fb8521b.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7545,7 +7545,7 @@ games_ntsc_u = {
     'SLUS20529': {
         'id': 'SLUS20529',
         'title': 'Madden NFL 2003',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/502393ee-f238-417a-9551-d821feeb7991.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7554,7 +7554,7 @@ games_ntsc_u = {
     'SLUS20752': {
         'id': 'SLUS20752',
         'title': 'Madden NFL 2004',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/196d3daa-e907-4f2e-aee4-bfd44fdfe838.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7563,7 +7563,7 @@ games_ntsc_u = {
     'SLUS21000': {
         'id': 'SLUS21000',
         'title': 'Madden NFL 2005',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a2514524-b3f3-468d-afe2-5ea41c0648ad.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7581,7 +7581,7 @@ games_ntsc_u = {
     'SLUS21587': {
         'id': 'SLUS21587',
         'title': 'MADE MAN - CONFESSIONS OF THE FAMILY BLOOD',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ca6948e5-9d58-47f7-89fb-597f988c4577.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7608,7 +7608,7 @@ games_ntsc_u = {
     'SLUS20609': {
         'id': 'SLUS20609',
         'title': 'Magix Music Maker',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/731bcae8-cd61-4488-8541-086ede918b51.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7635,7 +7635,7 @@ games_ntsc_u = {
     'SLUS21035': {
         'id': 'SLUS21035',
         'title': 'Major League Baseball 2K5',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/494d0fb6-7b42-4bd9-a62a-7b315afb1fbe.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7653,7 +7653,7 @@ games_ntsc_u = {
     'SLUS21235': {
         'id': 'SLUS21235',
         'title': 'Major League Baseball 2K6',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/963a8779-efce-420a-b3bd-900db11627fe.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7662,7 +7662,7 @@ games_ntsc_u = {
     'SLUS21561': {
         'id': 'SLUS21561',
         'title': 'Major League Baseball 2K7',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5cd71d1d-0d09-4e91-b5fb-6ebf565d610d.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7671,7 +7671,7 @@ games_ntsc_u = {
     'SLUS21729': {
         'id': 'SLUS21729',
         'title': 'Major League Baseball 2K8',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/fafb0fb4-7d5a-4182-9ddc-a5f90c1a8b20.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7680,7 +7680,7 @@ games_ntsc_u = {
     'SLUS21871': {
         'id': 'SLUS21871',
         'title': 'Major League Baseball 2K9',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/d6424f67-39c9-43fa-aa11-f51ee4fd4967.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7689,7 +7689,7 @@ games_ntsc_u = {
     'SLUS21929': {
         'id': 'SLUS21929',
         'title': 'Major League Baseball 2K10',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/f7f5dc8e-e679-4bea-b2a2-9bc34a3d4bc7.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7698,7 +7698,7 @@ games_ntsc_u = {
     'SLUS21945': {
         'id': 'SLUS21945',
         'title': 'Major League Baseball 2K11',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a2586297-71b9-4695-b6ae-9fa09a854483.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7707,7 +7707,7 @@ games_ntsc_u = {
     'SLUS21951': {
         'id': 'SLUS21951',
         'title': 'Major League Baseball 2K12',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/bb2ad08e-0d7f-4482-8fe7-0607ec8fbe2d.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7716,7 +7716,7 @@ games_ntsc_u = {
     'SLUS21170': {
         'id': 'SLUS21170',
         'title': 'MAKAI KINGDOM - CHRONICLES OF THE SACRED TOME',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/dc50d466-42cd-4dd6-aa90-26b09221051c.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7770,7 +7770,7 @@ games_ntsc_u = {
     'SLUS21032': {
         'id': 'SLUS21032',
         'title': 'MARC ECKO\'S GETTING UP - CONTENT UNDER PRESSURE',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/6e629326-6b0d-450a-b7b8-e59f9fd16a02.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7779,7 +7779,7 @@ games_ntsc_u = {
     'SLUS21294': {
         'id': 'SLUS21294',
         'title': 'MARC ECKO\'S GETTING UP - CONTENT UNDER PRESSURE',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/6e629326-6b0d-450a-b7b8-e59f9fd16a02.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7788,7 +7788,7 @@ games_ntsc_u = {
     'SLUS20646': {
         'id': 'SLUS20646',
         'title': 'Mark Davis Pro Bass Challenge',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8b2378f7-0fd1-49e1-8139-c4556ba6eeca.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7842,7 +7842,7 @@ games_ntsc_u = {
     'SLUS20603': {
         'id': 'SLUS20603',
         'title': 'Mary-Kate & Ashley - Sweet Sixteen - Licensed to Drive',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/1138397b-293e-4bc3-a979-54dc691aae32.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7851,7 +7851,7 @@ games_ntsc_u = {
     'SLUS20335': {
         'id': 'SLUS20335',
         'title': 'MAT HOFFMAN\'S PRO BMX 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/57846e5d-65ea-460b-bce3-e410875f53f9.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7896,7 +7896,7 @@ games_ntsc_u = {
     'SLUS20657': {
         'id': 'SLUS20657',
         'title': 'MCFARLANE\'S EVIL PROPHECY',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/89580f32-0639-4ad2-8dfa-9bf5301323b6.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7914,7 +7914,7 @@ games_ntsc_u = {
     'SLUS21199': {
         'id': 'SLUS21199',
         'title': 'MEDAL OF HONOR - EUROPEAN ASSAULT',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/3eeb0eda-4a79-4d78-9c0f-6ef5a0ed8e36.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -7995,7 +7995,7 @@ games_ntsc_u = {
     'SLUS20373': {
         'id': 'SLUS20373',
         'title': 'MEN IN BLACK II - ALIEN ESCAPE',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/670c6a8e-2a26-48cf-baf1-a68a239806e2.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8022,7 +8022,7 @@ games_ntsc_u = {
     'SLUS21548': {
         'id': 'SLUS21548',
         'title': 'MERCURY MELTDOWN REMIX',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b0397f4a-9e27-4143-afc8-fcc17ead1b48.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8130,7 +8130,7 @@ games_ntsc_u = {
     'SLUS20377': {
         'id': 'SLUS20377',
         'title': 'METROPOLISMANIA',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/3e75a8a1-1377-4c8e-b652-0341348cc6cc.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8139,7 +8139,7 @@ games_ntsc_u = {
     'SLUS21606': {
         'id': 'SLUS21606',
         'title': 'Metropolismania 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/0d60da64-4573-453a-9e8a-90f686f68d19.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8148,7 +8148,7 @@ games_ntsc_u = {
     'SLUS20472': {
         'id': 'SLUS20472',
         'title': 'MICRO MACHINES',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/55a48af2-53dc-49d8-89bb-28c19cca9707.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8157,7 +8157,7 @@ games_ntsc_u = {
     'SLUS21402': {
         'id': 'SLUS21402',
         'title': 'MICRO MACHINES V4',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/c9417b72-9f8a-4013-b373-d27efd9327fc.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8202,7 +8202,7 @@ games_ntsc_u = {
     'SLUS20801': {
         'id': 'SLUS20801',
         'title': 'Midway Arcade Treasures 1',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/6bcdeaaf-e04d-4653-8a69-77f6cfeb7adf.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8211,7 +8211,7 @@ games_ntsc_u = {
     'SLUS20997': {
         'id': 'SLUS20997',
         'title': 'Midway Arcade Treasures 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/r2_bd32ae2e-a117-485f-81c0-0e89e4d76bf0.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8220,7 +8220,7 @@ games_ntsc_u = {
     'SLUS21094': {
         'id': 'SLUS21094',
         'title': 'Midway Arcade Treasures 3',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/530cd294-4d9c-4087-ba7c-7f30a3b1d1f7.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8229,7 +8229,7 @@ games_ntsc_u = {
     'SLUS20345': {
         'id': 'SLUS20345',
         'title': 'Mike Tyson - Heavyweight Boxing',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/fc13c642-a75c-4f98-af88-b82719b94825.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8256,7 +8256,7 @@ games_ntsc_u = {
     'SLUS20375': {
         'id': 'SLUS20375',
         'title': 'MISTER MOSKEETO',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b7676f2e-d5c4-46cb-90f0-5b206c1a15d6.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8265,7 +8265,7 @@ games_ntsc_u = {
     'SCUS97500': {
         'id': 'SCUS97500',
         'title': 'MLB \'06 - The Show',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a5070e5f-46d7-4e08-b331-1cfa774d9f72.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8274,7 +8274,7 @@ games_ntsc_u = {
     'SCUS97556': {
         'id': 'SCUS97556',
         'title': 'MLB \'07 - The Show',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ad313b30-7f52-4a46-b6e0-7c2f06dfd31a.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8283,7 +8283,7 @@ games_ntsc_u = {
     'SCUS97583': {
         'id': 'SCUS97583',
         'title': 'MLB \'08 - The Show',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/d59bbd22-baf8-4c76-9460-614f89015188.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8292,7 +8292,7 @@ games_ntsc_u = {
     'SCUS97644': {
         'id': 'SCUS97644',
         'title': 'MLB \'09 - The Show',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a0e94f0f-5b00-444d-b83e-9a8c1cb6aa20.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8301,7 +8301,7 @@ games_ntsc_u = {
     'SCUS97653': {
         'id': 'SCUS97653',
         'title': 'MLB \'10 - The Show',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/f03088d8-9b80-4b68-9b1f-408ce33b030a.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8310,7 +8310,7 @@ games_ntsc_u = {
     'SCUS97657': {
         'id': 'SCUS97657',
         'title': 'MLB \'11 - The Show',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/cb68f299-d143-4f74-a40d-5ec6eae95f60.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8319,7 +8319,7 @@ games_ntsc_u = {
     'SCUS97256': {
         'id': 'SCUS97256',
         'title': 'MLB 2004',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/662c478e-4347-435f-8163-8dc9e6cc4c16.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8328,7 +8328,7 @@ games_ntsc_u = {
     'SCUS97326': {
         'id': 'SCUS97326',
         'title': 'MLB 2005',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/96d8b10b-23c9-43c0-9756-ca89719b517c.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8337,7 +8337,7 @@ games_ntsc_u = {
     'SCUS97347': {
         'id': 'SCUS97347',
         'title': 'MLB 2006',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8710a5d0-a5db-45bd-a235-4d9f10ee63ea.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8364,7 +8364,7 @@ games_ntsc_u = {
     'SLUS20889': {
         'id': 'SLUS20889',
         'title': 'MLB Slugfest - Loaded',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a26aab12-8dfc-409b-ad4d-b1185de58651.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8373,7 +8373,7 @@ games_ntsc_u = {
     'SLUS20049': {
         'id': 'SLUS20049',
         'title': 'MLB Slugfest 2003',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/2a642dd4-1cc3-401a-ad17-dfd1745025ae.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8382,7 +8382,7 @@ games_ntsc_u = {
     'SLUS20618': {
         'id': 'SLUS20618',
         'title': 'MLB Slugfest 2004',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/78c5e58d-9e25-4780-a112-cdb6b61d601f.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8391,7 +8391,7 @@ games_ntsc_u = {
     'SLUS21342': {
         'id': 'SLUS21342',
         'title': 'MLB Slugfest 2006',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a4bf9e9b-2b71-449e-ac6b-b0c544259682.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8400,7 +8400,7 @@ games_ntsc_u = {
     'SLUS20608': {
         'id': 'SLUS20608',
         'title': 'Mobil Light Force 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/61d84c7b-c608-48ad-b429-414775bbb5ea.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8409,7 +8409,7 @@ games_ntsc_u = {
     'SLUS20740': {
         'id': 'SLUS20740',
         'title': 'Mobile Suit Gundam - Encounters in Space',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b2dde641-dd91-4857-a8a5-0d267a85bfee.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8427,7 +8427,7 @@ games_ntsc_u = {
     'SLUS20821': {
         'id': 'SLUS20821',
         'title': 'Mobile Suit Gundam - Gundam vs. Zeta Gundam',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/20061d9b-c469-4e98-9f38-a8b3fd2e2956.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8454,7 +8454,7 @@ games_ntsc_u = {
     'SLUS21140': {
         'id': 'SLUS21140',
         'title': 'Mobile Suit Gundam Seed - Never Ending Tomorrow',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/6a05c478-dff5-4090-8f4c-6d5a84293040.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8463,7 +8463,7 @@ games_ntsc_u = {
     'SLUS20741': {
         'id': 'SLUS20741',
         'title': 'Mojo!',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/f2258987-e140-454d-b331-66772c1a59fe.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8472,7 +8472,7 @@ games_ntsc_u = {
     'SLUS21753': {
         'id': 'SLUS21753',
         'title': 'Monopoly',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/r2_45c70fed-1f50-4e62-a2a2-752db97ce74a.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8490,7 +8490,7 @@ games_ntsc_u = {
     'SLUS20796': {
         'id': 'SLUS20796',
         'title': 'Monster 4x4 - Masters of Metal',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/70e039f6-f25d-48fa-92e4-3d635a5c5d46.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8508,7 +8508,7 @@ games_ntsc_u = {
     'SLUS20896': {
         'id': 'SLUS20896',
         'title': 'MONSTER HUNTER',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a916089c-28da-4107-b303-fd62ad8e308d.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8517,7 +8517,7 @@ games_ntsc_u = {
     'SLUS21635': {
         'id': 'SLUS21635',
         'title': 'Monster Jam',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8eee11e2-0f77-4d7d-bafd-f96e8c3e22f2.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8526,7 +8526,7 @@ games_ntsc_u = {
     'SLUS20186': {
         'id': 'SLUS20186',
         'title': 'Monster Jam - Maximum Destruction',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/17c7bf60-a237-4773-b72e-8cae51359ad4.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8535,7 +8535,7 @@ games_ntsc_u = {
     'SLUS21807': {
         'id': 'SLUS21807',
         'title': 'Monster Jam - Urban Assault',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/357c5614-6f9e-4fb8-b7ca-a2e59a7e997b.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8553,7 +8553,7 @@ games_ntsc_u = {
     'SLUS20190': {
         'id': 'SLUS20190',
         'title': 'MONSTER RANCHER 3',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8a4d395a-891e-4d11-88aa-d5c1a2aa9133.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8571,7 +8571,7 @@ games_ntsc_u = {
     'SLUS21330': {
         'id': 'SLUS21330',
         'title': 'Monster Rancher EVO',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a2ad2c6a-075c-412d-88ff-1ae7748ab832.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8634,7 +8634,7 @@ games_ntsc_u = {
     'SLUS21229': {
         'id': 'SLUS21229',
         'title': 'Motocross Mania 3',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/9fb218c9-e577-446e-be9a-3980cf01595c.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8643,7 +8643,7 @@ games_ntsc_u = {
     'SLUS20058': {
         'id': 'SLUS20058',
         'title': 'MOTOGP',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a22c02e4-b324-41f7-97c1-87cbe2c34a2e.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8652,7 +8652,7 @@ games_ntsc_u = {
     'SLUS20285': {
         'id': 'SLUS20285',
         'title': 'MOTOGP 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/6253f964-738f-48a0-88b6-51be13bc0684.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8661,7 +8661,7 @@ games_ntsc_u = {
     'SLUS20625': {
         'id': 'SLUS20625',
         'title': 'MOTOGP 3',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/24601648-bbc2-42ed-bcca-8c74885399a5.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8670,7 +8670,7 @@ games_ntsc_u = {
     'SLUS21159': {
         'id': 'SLUS21159',
         'title': 'MotoGP 4',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/eaa1a1e4-6dea-48b2-bde6-0918f2cf42ba.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8679,7 +8679,7 @@ games_ntsc_u = {
     'SLUS21688': {
         'id': 'SLUS21688',
         'title': 'MOTOGP 07',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b6bd64db-b1ac-4c17-98a7-312b7a55475e.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8688,7 +8688,7 @@ games_ntsc_u = {
     'SLUS21811': {
         'id': 'SLUS21811',
         'title': 'MotoGP 08',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5a05041e-670f-475a-ba52-33826c46d6f3.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8697,7 +8697,7 @@ games_ntsc_u = {
     'SLUS20171': {
         'id': 'SLUS20171',
         'title': 'Motor Mayhem - Vehicular Combat League',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/2450114d-8d04-430e-b15a-479f497ef42b.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8715,7 +8715,7 @@ games_ntsc_u = {
     'SLUS21666': {
         'id': 'SLUS21666',
         'title': 'MOUNTAIN BIKE ADRENALINE',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/66780251-57f4-4e8b-8e2c-39bb91be1bcc.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8724,7 +8724,7 @@ games_ntsc_u = {
     'SLUS21270': {
         'id': 'SLUS21270',
         'title': 'MS SAGA - A NEW DAWN',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/6f5772c2-0391-4f8e-a43e-ff3f72022f5e.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8733,7 +8733,7 @@ games_ntsc_u = {
     'SLUS20222': {
         'id': 'SLUS20222',
         'title': 'MTV - Music Generator 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/c9c58071-fd55-4c75-af1f-8a4b0e1d1ed8.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8751,7 +8751,7 @@ games_ntsc_u = {
     'SLUS21580': {
         'id': 'SLUS21580',
         'title': 'MTV - Pimp my Ride',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/14034e22-2d59-4447-8a99-3186a8f89303.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8760,7 +8760,7 @@ games_ntsc_u = {
     'SLUS21872': {
         'id': 'SLUS21872',
         'title': 'MTV - Pimp my Ride - Street Racing',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/3625ef10-74f5-4c9d-b6ad-da7b3c387b53.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8769,7 +8769,7 @@ games_ntsc_u = {
     'SLUS20604': {
         'id': 'SLUS20604',
         'title': 'MTV\'S Celebrity Deathmatch',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/803c1831-36aa-4513-8856-e175014474f0.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8787,7 +8787,7 @@ games_ntsc_u = {
     'SLUS20635': {
         'id': 'SLUS20635',
         'title': 'MUPPETS PARTY CRUISE',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e64acc7e-314c-45ae-a4b0-639743369f9e.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8805,7 +8805,7 @@ games_ntsc_u = {
     'SLUS21367': {
         'id': 'SLUS21367',
         'title': 'MVP \'06 - NCAA Baseball',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/dd3b5c7c-da08-4358-b096-df90fb51332f.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8814,7 +8814,7 @@ games_ntsc_u = {
     'SLUS21582': {
         'id': 'SLUS21582',
         'title': 'MVP \'07 - NCAA Baseball',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/71699ffb-fef0-46ac-a785-6e7f3566a1ac.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8823,7 +8823,7 @@ games_ntsc_u = {
     'SLUS20650': {
         'id': 'SLUS20650',
         'title': 'MVP Baseball 2003',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/0a403bd9-1032-4c16-b2ed-9694c3cc036c.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8832,7 +8832,7 @@ games_ntsc_u = {
     'SLUS20868': {
         'id': 'SLUS20868',
         'title': 'MVP Baseball 2004',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e3b98af4-c884-4fd1-ba3a-b69c1a247352.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8841,7 +8841,7 @@ games_ntsc_u = {
     'SLUS21135': {
         'id': 'SLUS21135',
         'title': 'MVP Baseball 2005',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5c6d6b09-ede6-4f4b-8b24-57ff49e4cb72.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8850,7 +8850,7 @@ games_ntsc_u = {
     'SLUS20072': {
         'id': 'SLUS20072',
         'title': 'MX 2002 featuring Ricky Carmichael',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/7e170772-17ac-4dd2-9d41-41fa76ed4dcb.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8859,7 +8859,7 @@ games_ntsc_u = {
     'SLUS20234': {
         'id': 'SLUS20234',
         'title': 'MX Rider',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/c1d09c26-3548-4746-a498-6fd2ecac5437.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8868,7 +8868,7 @@ games_ntsc_u = {
     'SLUS20381': {
         'id': 'SLUS20381',
         'title': 'MX Superfly featuring Ricky Carmichae',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/86d00999-9f90-4609-b86f-3d141e71cbd8.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8877,7 +8877,7 @@ games_ntsc_u = {
     'SLUS20767': {
         'id': 'SLUS20767',
         'title': 'MX Unleashed',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/56e862bf-3408-4cee-9f0e-a70ff4ce325f.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8895,7 +8895,7 @@ games_ntsc_u = {
     'SLUS21701': {
         'id': 'SLUS21701',
         'title': 'MX vs. ATV - Untamed',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/1753172d-6ca9-4243-a3be-78419088e923.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8904,7 +8904,7 @@ games_ntsc_u = {
     'SLUS21097': {
         'id': 'SLUS21097',
         'title': 'MX World Tour featuring Jamie Little',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/2c57c80c-879f-4bdc-bc8e-192fd387324d.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8913,7 +8913,7 @@ games_ntsc_u = {
     'SCUS97212': {
         'id': 'SCUS97212',
         'title': 'My Street',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/bb0358e6-ba97-446a-ac1d-7cca83aa29a8.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8940,7 +8940,7 @@ games_ntsc_u = {
     'SLUS20273': {
         'id': 'SLUS20273',
         'title': 'Namco Museum',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/93e0d214-591a-4e9b-9cd8-e1328e4affbf.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8949,7 +8949,7 @@ games_ntsc_u = {
     'SLUS21164': {
         'id': 'SLUS21164',
         'title': 'Namco Museum -50th Anniversary Greatest Hits',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/9311acfc-3a5f-4dce-b08c-51211e159250.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -8994,7 +8994,7 @@ games_ntsc_u = {
     'SLUS21727': {
         'id': 'SLUS21727',
         'title': 'Naruto - Ultimate Ninja 3',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/d8c6fe52-f5a7-471d-9fbe-69e2d871c808.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9003,7 +9003,7 @@ games_ntsc_u = {
     'SLUS21498': {
         'id': 'SLUS21498',
         'title': 'NARUTO - UZUMAKI CHRONICLES',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/58125cb8-baa8-4089-a8a7-6fe86bac66fc.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9012,7 +9012,7 @@ games_ntsc_u = {
     'SLUS21594': {
         'id': 'SLUS21594',
         'title': 'Naruto - Uzumaki Chronicles 2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/7d22b4a3-556c-4e84-b9c8-13c4ca09eb3d.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9021,7 +9021,7 @@ games_ntsc_u = {
     'SLUS21862': {
         'id': 'SLUS21862',
         'title': 'Naruto Shippuden - Ultimate Ninja 4',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/f86e736b-666c-4065-82ec-4b9428c7c82a.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9030,7 +9030,7 @@ games_ntsc_u = {
     'SLUS20441': {
         'id': 'SLUS20441',
         'title': 'NASCAR - Dirt to Daytona',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/aa346003-2c40-4a2b-aa44-0f87fdbfb567.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9039,7 +9039,7 @@ games_ntsc_u = {
     'SLUS20176': {
         'id': 'SLUS20176',
         'title': 'NASCAR - Heat 2002',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/fa4996f8-5f0f-4ce8-86f9-577bff4dd233.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9048,7 +9048,7 @@ games_ntsc_u = {
     'SLUS20266': {
         'id': 'SLUS20266',
         'title': 'NASCAR - Thunder 2002',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/6f616faf-2812-4faf-941c-2b10721d9f31.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9057,7 +9057,7 @@ games_ntsc_u = {
     'SLUS20535': {
         'id': 'SLUS20535',
         'title': 'NASCAR - Thunder 2003',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/84f6d053-14a8-4110-aaf2-4884e8f488de.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9066,7 +9066,7 @@ games_ntsc_u = {
     'SLUS20824': {
         'id': 'SLUS20824',
         'title': 'NASCAR - Thunder 2004',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/fc46adef-5978-42f1-80f5-794fce54c761.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9075,7 +9075,7 @@ games_ntsc_u = {
     'SLUS21266': {
         'id': 'SLUS21266',
         'title': 'NASCAR \'06 - Total Team Control',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/abd8322d-b79a-4f68-a377-cde3e057873f.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9084,7 +9084,7 @@ games_ntsc_u = {
     'SLUS21461': {
         'id': 'SLUS21461',
         'title': 'NASCAR \'07',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/9dae0130-d3ae-4806-92b7-c13d6120da30.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9093,7 +9093,7 @@ games_ntsc_u = {
     'SLUS21639': {
         'id': 'SLUS21639',
         'title': 'NASCAR \'08',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/73e2a6f3-7640-43d9-a8f7-185edaa80ef5.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9102,7 +9102,7 @@ games_ntsc_u = {
     'SLUS21744': {
         'id': 'SLUS21744',
         'title': 'NASCAR \'09',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e5fe141c-ba62-4a3c-8e71-994f1091388e.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9111,7 +9111,7 @@ games_ntsc_u = {
     'SLUS20101': {
         'id': 'SLUS20101',
         'title': 'NASCAR 2001',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/4131f94c-3719-4e77-8cc7-53d5806ae6ef.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9120,7 +9120,7 @@ games_ntsc_u = {
     'SLUS21003': {
         'id': 'SLUS21003',
         'title': 'NASCAR 2005 - Chase for the Cup',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/7124a412-268e-4afe-ba7b-9e32693f324f.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9129,7 +9129,7 @@ games_ntsc_u = {
     'SLUS20871': {
         'id': 'SLUS20871',
         'title': 'Naval Ops - Commander',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/3d255d43-bb1c-4b3a-a9c0-8a68b23c5824.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9138,7 +9138,7 @@ games_ntsc_u = {
     'SLUS20663': {
         'id': 'SLUS20663',
         'title': 'Naval Ops - Warship Gunner',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/022c459f-f114-41da-89a1-4eca32a002b2.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9174,7 +9174,7 @@ games_ntsc_u = {
     'SCUS97625': {
         'id': 'SCUS97625',
         'title': 'NBA \'09 - The Inside',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/1a4cd4f4-a5c4-4b64-84b2-58cc8f9e9f81.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9183,7 +9183,7 @@ games_ntsc_u = {
     'SLUS20330': {
         'id': 'SLUS20330',
         'title': 'NBA 2K2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/9dc87ff0-d37c-4d91-89f3-c9133354b816.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9192,7 +9192,7 @@ games_ntsc_u = {
     'SLUS20476': {
         'id': 'SLUS20476',
         'title': 'NBA 2K3',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b7c9067e-80da-4d1b-9702-ff1bafd2f363.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9201,7 +9201,7 @@ games_ntsc_u = {
     'SLUS21233': {
         'id': 'SLUS21233',
         'title': 'NBA 2K6',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/da66a0ca-09b3-4d06-be0a-f74c16ece7d9.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9210,7 +9210,7 @@ games_ntsc_u = {
     'SLUS21424': {
         'id': 'SLUS21424',
         'title': 'NBA 2K7',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8efc3e65-359d-4deb-ae74-cb5e9125de37.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9219,7 +9219,7 @@ games_ntsc_u = {
     'SLUS21669': {
         'id': 'SLUS21669',
         'title': 'NBA 2K8',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/179a2f44-ee18-4fc4-8416-9e98d57a38fd.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9228,7 +9228,7 @@ games_ntsc_u = {
     'SLUS21745': {
         'id': 'SLUS21745',
         'title': 'NBA 2K9',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b5dfe9ed-d391-4970-8f09-9ca1d40ba1db.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9237,7 +9237,7 @@ games_ntsc_u = {
     'SLUS21908': {
         'id': 'SLUS21908',
         'title': 'NBA 2K10',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/65b4b223-cea4-41c4-afaa-0c1fbc3ccf77.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9246,7 +9246,7 @@ games_ntsc_u = {
     'SLUS21936': {
         'id': 'SLUS21936',
         'title': 'NBA 2K11',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/68fb5570-0e75-4468-8eb5-6d41a2fd7415.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9255,7 +9255,7 @@ games_ntsc_u = {
     'SLUS21950': {
         'id': 'SLUS21950',
         'title': 'NBA 2K12',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/4df9a3b0-fb1f-4f44-8299-6d274906cab1.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9264,7 +9264,7 @@ games_ntsc_u = {
     'SLUS20541': {
         'id': 'SLUS20541',
         'title': 'NBA Ballers',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/714f8bb3-9414-4485-9b99-659b44b4135d.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9273,7 +9273,7 @@ games_ntsc_u = {
     'SLUS21186': {
         'id': 'SLUS21186',
         'title': 'NBA Ballers - Phenom',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ea30ee09-1296-4dc1-89f5-1ef0709eefec.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9282,7 +9282,7 @@ games_ntsc_u = {
     'SLUS20050': {
         'id': 'SLUS20050',
         'title': 'NBA Hoopz',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/34013667-16b3-49d0-b57a-ecf94690264e.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9291,7 +9291,7 @@ games_ntsc_u = {
     'SLUS20648': {
         'id': 'SLUS20648',
         'title': 'NBA Jam',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/228381b5-fa51-426a-92c0-13cd2ae12346.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9300,7 +9300,7 @@ games_ntsc_u = {
     'SLUS21279': {
         'id': 'SLUS21279',
         'title': 'NBA Live \'06',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/ae23847e-29e3-46f3-a3fa-5f514190a5b5.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9309,7 +9309,7 @@ games_ntsc_u = {
     'SLUS21460': {
         'id': 'SLUS21460',
         'title': 'NBA Live \'07',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/0a30117f-31e5-4c59-91b4-ecb79cb7ee26.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9318,7 +9318,7 @@ games_ntsc_u = {
     'SLUS21649': {
         'id': 'SLUS21649',
         'title': 'NBA Live \'08',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/d01e14cb-4e4b-4cd4-8184-52b1c4431f43.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9327,7 +9327,7 @@ games_ntsc_u = {
     'SLUS21777': {
         'id': 'SLUS21777',
         'title': 'NBA Live \'09',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/029a43e4-b52a-42a3-9902-c328832054ca.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9336,7 +9336,7 @@ games_ntsc_u = {
     'SLUS20102': {
         'id': 'SLUS20102',
         'title': 'NBA Live 2001',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5d47f717-e893-4743-ac55-f3bf5e2ff352.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9345,7 +9345,7 @@ games_ntsc_u = {
     'SLUS20303': {
         'id': 'SLUS20303',
         'title': 'NBA Live 2002',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/757ba633-04aa-4edd-834d-dac4a3b13001.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9354,7 +9354,7 @@ games_ntsc_u = {
     'SLUS20536': {
         'id': 'SLUS20536',
         'title': 'NBA Live 2003',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/64a716f8-796a-4b27-89c0-b25e118b4e9d.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9363,7 +9363,7 @@ games_ntsc_u = {
     'SLUS20755': {
         'id': 'SLUS20755',
         'title': 'NBA Live 2004',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e38f5af5-3df3-401d-b974-5f0afab94947.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9372,7 +9372,7 @@ games_ntsc_u = {
     'SLUS21058': {
         'id': 'SLUS21058',
         'title': 'NBA Live 2005',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/1ccb3490-6b05-488a-b6de-dd3f4b2fa4a0.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9381,7 +9381,7 @@ games_ntsc_u = {
     'SCUS97114': {
         'id': 'SCUS97114',
         'title': 'NBA Shootout 2001',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/5b164a26-0a53-4bac-b51b-a377fac63f6c.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9390,7 +9390,7 @@ games_ntsc_u = {
     'SCUS97217': {
         'id': 'SCUS97217',
         'title': 'NBA Shootout 2003',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/27f8a7f3-83de-4cec-a988-fe9481ca5e11.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9399,7 +9399,7 @@ games_ntsc_u = {
     'SCUS97318': {
         'id': 'SCUS97318',
         'title': 'NBA Shootout 2004',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/1ab63ce0-5180-47e6-accc-2569b45e1c27.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9408,7 +9408,7 @@ games_ntsc_u = {
     'SLUS20513': {
         'id': 'SLUS20513',
         'title': 'NBA Starting Five',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/adceab1a-5edc-4a84-b0ad-028d9be17dd5.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9417,7 +9417,7 @@ games_ntsc_u = {
     'SLUS20187': {
         'id': 'SLUS20187',
         'title': 'NBA STREET',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/74d329ec-4f2d-4e60-8c7c-f2cc0193e6d0.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9426,7 +9426,7 @@ games_ntsc_u = {
     'SLUS20651': {
         'id': 'SLUS20651',
         'title': 'NBA Street Vol.2',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b94fbd79-0b1b-4506-849a-74ab3745b251.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9435,7 +9435,7 @@ games_ntsc_u = {
     'SLUS21126': {
         'id': 'SLUS21126',
         'title': 'NBA Street V3',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/3baa0009-d394-44ed-ba1c-f5a71addc658.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9444,7 +9444,7 @@ games_ntsc_u = {
     'SLUS21851': {
         'id': 'SLUS21851',
         'title': 'NCAA Basketball \'09',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/90f887d8-7646-4963-94e5-92eaf9aae762.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9453,7 +9453,7 @@ games_ntsc_u = {
     'SLUS20538': {
         'id': 'SLUS20538',
         'title': 'NCAA College Basketball 2K3',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/d865f3fc-acf9-46ea-ba51-b83fb6c54e09.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9462,7 +9462,7 @@ games_ntsc_u = {
     'SLUS20453': {
         'id': 'SLUS20453',
         'title': 'NCAA College Football 2K3',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/cf31354e-ec34-4643-a843-de82d43a1c8a.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9471,7 +9471,7 @@ games_ntsc_u = {
     'SCUS97109': {
         'id': 'SCUS97109',
         'title': 'NCAA Final Four 2001',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/29d1a404-b3b7-43bc-b80d-a49786ae20a9.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9480,7 +9480,7 @@ games_ntsc_u = {
     'SCUS97136': {
         'id': 'SCUS97136',
         'title': 'NCAA Final Four 2002',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/a5ce84b5-e819-425d-be22-9002fcf9b72e.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9489,7 +9489,7 @@ games_ntsc_u = {
     'SCUS97204': {
         'id': 'SCUS97204',
         'title': 'NCAA Final Four 2003',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/d427aea3-497c-4331-bd9a-c0adbfa3b5f1.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9498,7 +9498,7 @@ games_ntsc_u = {
     'SCUS97278': {
         'id': 'SCUS97278',
         'title': 'NCAA Final Four 2004',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/f0105579-c5a0-4902-a8e9-0a83a8334031.png',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9507,7 +9507,7 @@ games_ntsc_u = {
     'SLUS21214': {
         'id': 'SLUS21214',
         'title': 'NCAA Football \'06',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/e2ab5882-9634-4cbb-a0c5-8d4c1b8c992d.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9516,7 +9516,7 @@ games_ntsc_u = {
     'SLUS21459': {
         'id': 'SLUS21459',
         'title': 'NCAA Football \'07',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/77415dc7-f99b-444c-b046-e69e0a3325c3.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9525,7 +9525,7 @@ games_ntsc_u = {
     'SLUS21620': {
         'id': 'SLUS21620',
         'title': 'NCAA Football \'08',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/41d47ca7-3a74-431d-abdb-d75ff500e9c4.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9534,7 +9534,7 @@ games_ntsc_u = {
     'SLUS21752': {
         'id': 'SLUS21752',
         'title': 'NCAA Football \'09',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/4549ed8c-7f91-40b7-a50e-aec24e011fbe.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9543,7 +9543,7 @@ games_ntsc_u = {
     'SLUS21892': {
         'id': 'SLUS21892',
         'title': 'NCAA Football \'10',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/67b9fee2-233d-4ec4-bc0d-4fada05b9bad.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9552,7 +9552,7 @@ games_ntsc_u = {
     'SLUS21932': {
         'id': 'SLUS21932',
         'title': 'NCAA Football \'11',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/eac9c3be-23e1-4e96-bee2-23fbacc418f1.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9561,7 +9561,7 @@ games_ntsc_u = {
     'SLUS20241': {
         'id': 'SLUS20241',
         'title': 'NCAA Football 2002',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/3c810d4f-92ae-4504-958c-b9a603fa70af.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9570,7 +9570,7 @@ games_ntsc_u = {
     'SLUS20530': {
         'id': 'SLUS20530',
         'title': 'NCAA Football 2003',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/b30654b9-9698-4ebb-a618-6201fb94aa02.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9579,7 +9579,7 @@ games_ntsc_u = {
     'SLUS20719': {
         'id': 'SLUS20719',
         'title': 'NCAA Football 2004',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/8ce65b7f-fe01-4a90-846c-34ed7f373cab.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9588,7 +9588,7 @@ games_ntsc_u = {
     'SLUS20991': {
         'id': 'SLUS20991',
         'title': 'NCAA Football 2005',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/f6a5747a-7c94-4506-8f43-bd2e98e883e3.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
@@ -9597,7 +9597,7 @@ games_ntsc_u = {
     'SCUS97107': {
         'id': 'SCUS97107',
         'title': 'NCAA Gamebreaker 2001',
-    #    'icon0': 
+        'icon0': 'https://images.launchbox-app.com/d5d45fdf-09ec-4811-be65-8e38626d3438.jpg',
     #    'pic0': 
     #    'pic1': 
     #    'snd0': 
