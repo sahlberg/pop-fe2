@@ -18844,27 +18844,27 @@ games_ntsc_j = {
     },
     'SLPS25733': {
         'id': 'SLPS25733',
-        'title': 'Super Robot Taisen Original Genretaions',
-        #'icon0':
-        #'pic0':
-        #'pic1':
-        #'snd0':
+        'title': 'Super Robot Taisen Original Genertaions',
+        'icon0': 'https://images.launchbox-app.com//f3536c2a-1e81-4fa9-a74e-a9fd24d09265.jpg',
+        'pic0': 'https://images.launchbox-app.com//dc02818f-2132-439b-8156-e04e4c29c6be.png',
+        'pic1': 'https://gamesdb-images.launchbox.gg/r2_1dcfd4a7-c7fa-41a8-b59b-fd136972c1a8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=s0Uiq0_N5nk&list=PL55AAEC06385EECD3&index=1',
     },
     'SCAJ20200': {
         'id': 'SCAJ20200',
         'title': 'Super Robot Taisen Original Generations (Playstation 2 The Best)',
-        #'icon0':
-        #'pic0':
-        #'pic1':
-        #'snd0':
+        'icon0': 'https://images.launchbox-app.com//f3536c2a-1e81-4fa9-a74e-a9fd24d09265.jpg',
+        'pic0': 'https://images.launchbox-app.com//dc02818f-2132-439b-8156-e04e4c29c6be.png',
+        'pic1': 'https://gamesdb-images.launchbox.gg/r2_1dcfd4a7-c7fa-41a8-b59b-fd136972c1a8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=s0Uiq0_N5nk&list=PL55AAEC06385EECD3&index=1',
     },
     'SLPM73262': {
         'id': 'SLPM73262',
         'title': 'Super Robot Taisen Original Generations (Playstation 2 The Best)',
-        #'icon0':
-        #'pic0':
-        #'pic1':
-        #'snd0':
+        'icon0': 'https://images.launchbox-app.com//f3536c2a-1e81-4fa9-a74e-a9fd24d09265.jpg',
+        'pic0': 'https://images.launchbox-app.com//dc02818f-2132-439b-8156-e04e4c29c6be.png',
+        'pic1': 'https://gamesdb-images.launchbox.gg/r2_1dcfd4a7-c7fa-41a8-b59b-fd136972c1a8.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=s0Uiq0_N5nk&list=PL55AAEC06385EECD3&index=1',
     },
     'SCAJ20192': {
         'id': 'SCAJ20192',
