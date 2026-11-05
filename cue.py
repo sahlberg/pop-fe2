@@ -109,42 +109,54 @@ def parse_cue(cuefile, raw=False, psxtruncate=False):
     filesize = 0
     cue['TRACKS'] = {}
     track = None
-    with open(cuefile, 'r') as f:
-        for line in f.readlines():
-            line = strip_line(line)
-            if not line:
-                continue
+    # Cue files are usually 7-bit ASCII but may be UTF-8 (possibly with a BOM)
+    # or in the local codepage. Try UTF-8 first and fall back to the locale
+    # encoding if that fails.
+    try:
+        with open(cuefile, 'r', encoding='utf-8-sig') as f:
+            lines = f.readlines()
+    except UnicodeDecodeError:
+        with open(cuefile, 'r') as f:
+            lines = f.readlines()
+    for line in lines:
+        line = strip_line(line)
+        if not line:
+            continue
 
-            if line.upper()[:5] == 'FILE ':
-                file = strip_line(line[5:line.rindex(' ')])
-                if not is_abs_path(file):
-                    file = path_dirname(cuefile) + file
-                print('CUE %s: track file [%s]' % (cuefile, file)) if verbose else None
-            if line.upper()[:6] == 'TRACK ':
-                track = int(strip_line(line[6:line.rindex(' ')]))
-                mode = strip_line(line[line.rindex(' '):]).upper()
-                cue['TRACKS'][track] = {}
-                cue['TRACKS'][track]['MODE'] = mode
-                cue['TRACKS'][track]['FILE'] = file
-                cue['TRACKS'][track]['INDEX'] = {}
+        if line.upper()[:5] == 'FILE ':
+            file = strip_line(line[5:line.rindex(' ')])
+            # Some cue files quote the file name with single quotes
+            # instead of double quotes. Strip a matching pair.
+            if len(file) >= 2 and file[0] == file[-1] and file[0] in ['"', "'"]:
+                file = file[1:-1]
+            if not is_abs_path(file):
+                file = path_dirname(cuefile) + file
+            print('CUE %s: track file [%s]' % (cuefile, file)) if verbose else None
+        if line.upper()[:6] == 'TRACK ':
+            track = int(strip_line(line[6:line.rindex(' ')]))
+            mode = strip_line(line[line.rindex(' '):]).upper()
+            cue['TRACKS'][track] = {}
+            cue['TRACKS'][track]['MODE'] = mode
+            cue['TRACKS'][track]['FILE'] = file
+            cue['TRACKS'][track]['INDEX'] = {}
 
-            if line.upper()[:6] == 'INDEX ':
-                idx = int(strip_line(line[6:line.rindex(' ')]))
-                min, sec, frame = strip_line(line[line.rindex(' '):]).split(':')
-                min = int(min)
-                sec = int(sec)
-                frame = int(frame)
+        if line.upper()[:6] == 'INDEX ':
+            idx = int(strip_line(line[6:line.rindex(' ')]))
+            min, sec, frame = strip_line(line[line.rindex(' '):]).split(':')
+            min = int(min)
+            sec = int(sec)
+            frame = int(frame)
 
-                sector = 75 * ( int(min) * 60 + int(sec) ) + int(frame)
-                if idx == 1 and cue['TRACKS'][track]['MODE'] == 'AUDIO' and len(cue['TRACKS'][track]['INDEX']) == 0:
-                    cue['TRACKS'][track]['INDEX'][0] = {}
-                    cue['TRACKS'][track]['INDEX'][0]['STARTSECT'] = sector - 150
-                cue['TRACKS'][track]['INDEX'][idx] = {}
-                cue['TRACKS'][track]['INDEX'][idx]['STARTSECT'] = sector
+            sector = 75 * ( int(min) * 60 + int(sec) ) + int(frame)
+            if idx == 1 and cue['TRACKS'][track]['MODE'] == 'AUDIO' and len(cue['TRACKS'][track]['INDEX']) == 0:
+                cue['TRACKS'][track]['INDEX'][0] = {}
+                cue['TRACKS'][track]['INDEX'][0]['STARTSECT'] = sector - 150
+            cue['TRACKS'][track]['INDEX'][idx] = {}
+            cue['TRACKS'][track]['INDEX'][idx]['STARTSECT'] = sector
 
-                if idx > 1:
-                    raise Exception('Can not handle TRACK INDEX > 1 yet')
-                
+            if idx > 1:
+                raise Exception('Can not handle TRACK INDEX > 1 yet')
+            
     fixup_cue(cue, raw=raw, psxtruncate=psxtruncate)
     
     return cue
