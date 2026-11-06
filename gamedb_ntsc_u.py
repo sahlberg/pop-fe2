@@ -16803,4 +16803,89 @@ games_ntsc_u = {
         'snd0': 'https://www.youtube.com/watch?v=vKMBeYKhcFg&list=PL74AE21771638356A&index=1',
         'manual': 'https://www.videogamemanual.com/PS2/Zone%20of%20the%20Enders-%20The%202nd%20Runner%20(USA).pdf',
     },
+    #
+    # Automatically generated from the redump database for retail
+    # games that were missing. Titles are derived from the redump
+    # names; please send corrections.
+    #
+    'SCUS97479': {
+        'id': 'SCUS97479',
+        'title': 'ATV Offroad Fury 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLUS20703': {
+        'id': 'SLUS20703',
+        'title': 'AirForce Delta Strike',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLUS21761': {
+        'id': 'SLUS21761',
+        'title': 'B-Boy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLUS21695': {
+        'id': 'SLUS21695',
+        'title': 'DreamWorks Bee Movie Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLUS21792': {
+        'id': 'SLUS21792',
+        'title': "Mercenaries 2 - L'enfer des Favelas",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLUS21617': {
+        'id': 'SLUS21617',
+        'title': 'Spider-Man 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLUS21245': {
+        'id': 'SLUS21245',
+        'title': 'Suikoden Tactics',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLUS20039': {
+        'id': 'SLUS20039',
+        'title': 'Top Gear Dare Devil',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLUS21581': {
+        'id': 'SLUS21581',
+        'title': 'UEFA Champions League 2006-2007',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCUS97197': {
+        'id': 'SCUS97197',
+        'title': 'War of the Monsters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
 }

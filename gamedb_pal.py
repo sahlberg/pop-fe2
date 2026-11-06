@@ -3250,6 +3250,14 @@ games_pal = {
         #'pic1':
         #'snd0':
     },
+    'SLES50386': {
+        'id': 'SLES50386',
+        'title': 'Crash Bandicoot - The Wrath of Cortex',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
     'SLES52339': {
         'id': 'SLES52339',
         'title': 'Crash \'n Burn',
@@ -18173,6 +18181,10355 @@ games_pal = {
     'SLES52533': {
         'id': 'SLES52533',
         'title': 'Zoo Puzzle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    #
+    # Automatically generated from the redump database for retail
+    # games that were missing. Titles are derived from the redump
+    # names; please send corrections.
+    #
+    'SLES50539': {
+        'id': 'SLES50539',
+        'title': '007 - Agent Under Fire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52005': {
+        'id': 'SLES52005',
+        'title': '007 - Everything or Nothing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52046': {
+        'id': 'SLES52046',
+        'title': '007 - Everything or Nothing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53553': {
+        'id': 'SLES53553',
+        'title': '007 - From Russia with Love',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51258': {
+        'id': 'SLES51258',
+        'title': '007 - Nightfire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51260': {
+        'id': 'SLES51260',
+        'title': '007 - Nightfire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55345': {
+        'id': 'SLES55345',
+        'title': '007 - Quantum of Solace',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53481': {
+        'id': 'SLES53481',
+        'title': '10.000 Bullets',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50214': {
+        'id': 'SLES50214',
+        'title': '18 Wheeler - American Pro Trucker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52276': {
+        'id': 'SLES52276',
+        'title': '187 - Ride or Die',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53358': {
+        'id': 'SCES53358',
+        'title': '24 - The Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53199': {
+        'id': 'SLES53199',
+        'title': '25 to Life',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53734': {
+        'id': 'SLES53734',
+        'title': '50 Cent - Bulletproof',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53906': {
+        'id': 'SLES53906',
+        'title': '50 Cent - Bulletproof',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53994': {
+        'id': 'SLES53994',
+        'title': '50 Cent - Bulletproof',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50109': {
+        'id': 'SLES50109',
+        'title': '7 Blades',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53280': {
+        'id': 'SLES53280',
+        'title': '7 Sins',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53297': {
+        'id': 'SLES53297',
+        'title': '7 Sins',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53364': {
+        'id': 'SLES53364',
+        'title': '7 Sins',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51716': {
+        'id': 'SLES51716',
+        'title': 'A-Train 6',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50410': {
+        'id': 'SCES50410',
+        'title': 'Ace Combat - Distant Thunder',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52424': {
+        'id': 'SCES52424',
+        'title': 'Ace Combat - Squadron Leader',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54712': {
+        'id': 'SLES54712',
+        'title': 'Action Man A.T.O.M. - Alpha Teens on Machines',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52521': {
+        'id': 'SLES52521',
+        'title': 'Adiboo and the Energy Thieves',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53956': {
+        'id': 'SLES53956',
+        'title': 'Aeon Flux',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54169': {
+        'id': 'SLES54169',
+        'title': 'Aeon Flux',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50282': {
+        'id': 'SLES50282',
+        'title': 'Age of Empires II - The Age of Kings',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53910': {
+        'id': 'SLES53910',
+        'title': 'Agent Hugo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54520': {
+        'id': 'SLES54520',
+        'title': 'Agent Hugo - RoboRumble',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50480': {
+        'id': 'SLES50480',
+        'title': 'Aggressive Inline',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50246': {
+        'id': 'SCES50246',
+        'title': 'AirBlade',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52939': {
+        'id': 'SLES52939',
+        'title': 'Airborne Troops - Countdown to D-Day',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50919': {
+        'id': 'SLES50919',
+        'title': 'Akira Psycho Ball',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51821': {
+        'id': 'SLES51821',
+        'title': 'Alias',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51822': {
+        'id': 'SLES51822',
+        'title': 'Alias',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54883': {
+        'id': 'SLES54883',
+        'title': 'Alone in the Dark',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54884': {
+        'id': 'SLES54884',
+        'title': 'Alone in the Dark',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55207': {
+        'id': 'SLES55207',
+        'title': 'Alone in the Dark',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50887': {
+        'id': 'SCES50887',
+        'title': 'Alpine Racer 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53024': {
+        'id': 'SLES53024',
+        'title': 'Altered Beast',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51102': {
+        'id': 'SCES51102',
+        'title': 'Ape Escape 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51103': {
+        'id': 'SCES51103',
+        'title': 'Ape Escape 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51104': {
+        'id': 'SCES51104',
+        'title': 'Ape Escape 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51105': {
+        'id': 'SCES51105',
+        'title': 'Ape Escape 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50053': {
+        'id': 'SLES50053',
+        'title': 'Aqua Aqua - Wetrix 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51910': {
+        'id': 'SCES51910',
+        'title': 'Arc - Twilight of the Spirits',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50274': {
+        'id': 'SLES50274',
+        'title': 'Arctic Thunder',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52570': {
+        'id': 'SLES52570',
+        'title': 'Area 51',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53075': {
+        'id': 'SLES53075',
+        'title': 'Area 51',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54790': {
+        'id': 'SLES54790',
+        'title': 'Art of Fighting Anthology',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53233': {
+        'id': 'SLES53233',
+        'title': 'Assault Suits Valken',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51838': {
+        'id': 'SLES51838',
+        'title': 'Asterix & Obelix XXL',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53060': {
+        'id': 'SLES53060',
+        'title': 'Asterix & Obelix XXL 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53725': {
+        'id': 'SLES53725',
+        'title': 'Asterix & Obelix XXL 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52486': {
+        'id': 'SLES52486',
+        'title': 'Astro Boy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53764': {
+        'id': 'SLES53764',
+        'title': 'Atelier Iris - Eternal Mana',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52410': {
+        'id': 'SCES52410',
+        'title': 'Athens 2004',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52411': {
+        'id': 'SCES52411',
+        'title': 'Athens 2004',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51191': {
+        'id': 'SLES51191',
+        'title': 'Auto Modellista',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54695': {
+        'id': 'SLES54695',
+        'title': 'Azur & Asmar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53960': {
+        'id': 'SCES53960',
+        'title': 'B-Boy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50548': {
+        'id': 'SLES50548',
+        'title': 'BDFL Manager 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54434': {
+        'id': 'SLES54434',
+        'title': 'Babe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51978': {
+        'id': 'SLES51978',
+        'title': 'Baphomets Fluch - Der Schlafende Drache',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50972': {
+        'id': 'SLES50972',
+        'title': 'Barbarian',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50355': {
+        'id': 'SLES50355',
+        'title': 'Batman - Vengeance',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53387': {
+        'id': 'SLES53387',
+        'title': 'Batman Begins',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53729': {
+        'id': 'SLES53729',
+        'title': 'Battlefield 2 - Modern Combat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53730': {
+        'id': 'SLES53730',
+        'title': 'Battlefield 2 - Modern Combat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51702': {
+        'id': 'SLES51702',
+        'title': 'Battlestar Galactica',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53505': {
+        'id': 'SLES53505',
+        'title': 'Beat Down - Fists of Vengeance',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54951': {
+        'id': 'SLES54951',
+        'title': 'Ben 10 - Protector of Earth',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54952': {
+        'id': 'SLES54952',
+        'title': 'Ben 10 - Protector of Earth',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51350': {
+        'id': 'SLES51350',
+        'title': 'Ben Hur - Blood of Braves',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54789': {
+        'id': 'SLES54789',
+        'title': 'Beta Bloc',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53886': {
+        'id': 'SLES53886',
+        'title': 'Black',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54030': {
+        'id': 'SLES54030',
+        'title': 'Black',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54213': {
+        'id': 'SLES54213',
+        'title': 'Black Buccaneer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50771': {
+        'id': 'SLES50771',
+        'title': 'Blood Omen 2 - The Legacy of Kain Series',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50772': {
+        'id': 'SLES50772',
+        'title': 'Blood Omen 2 - The Legacy of Kain Series',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50815': {
+        'id': 'SLES50815',
+        'title': 'Blood Omen 2 - The Legacy of Kain Series',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50203': {
+        'id': 'SLES50203',
+        'title': 'Bloody Roar 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51635': {
+        'id': 'SCES51635',
+        'title': 'Brave - The Search for Spirit Dancer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51496': {
+        'id': 'SLES51496',
+        'title': 'Breath of Fire - Dragon Quarter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51557': {
+        'id': 'SLES51557',
+        'title': 'Broken Sword - The Sleeping Dragon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53659': {
+        'id': 'SLES53659',
+        'title': 'Brothers in Arms - Earned in Blood',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51890': {
+        'id': 'SLES51890',
+        'title': 'Buffy the Vampire Slayer - Chaos Bleeds',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52495': {
+        'id': 'SLES52495',
+        'title': 'Bujingai - Swordmaster',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51713': {
+        'id': 'SLES51713',
+        'title': 'Bust-A-Bloc',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55421': {
+        'id': 'SCES55421',
+        'title': 'Buzz! Brain of Switzerland',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55385': {
+        'id': 'SCES55385',
+        'title': 'Buzz! Brain of the UK',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55425': {
+        'id': 'SCES55425',
+        'title': 'Buzz! Brain of the World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54259': {
+        'id': 'SCES54259',
+        'title': 'Buzz! Das Sport-Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54262': {
+        'id': 'SCES54262',
+        'title': 'Buzz! El Gran Concurso de Deportes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55213': {
+        'id': 'SCES55213',
+        'title': 'Buzz! Escuela de Talentos',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55210': {
+        'id': 'SCES55210',
+        'title': 'Buzz! Junior - Ace Racers',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55211': {
+        'id': 'SCES55211',
+        'title': 'Buzz! Junior - Ace Racers',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54260': {
+        'id': 'SCES54260',
+        'title': 'Buzz! Le Quiz du Sport',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54690': {
+        'id': 'SCES54690',
+        'title': 'Buzz! Mega Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54501': {
+        'id': 'SCES54501',
+        'title': 'Buzz! The Mega Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53304': {
+        'id': 'SCES53304',
+        'title': 'Buzz! The Music Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53305': {
+        'id': 'SCES53305',
+        'title': 'Buzz! The Music Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53307': {
+        'id': 'SCES53307',
+        'title': 'Buzz! The Music Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53308': {
+        'id': 'SCES53308',
+        'title': 'Buzz! The Music Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53663': {
+        'id': 'SCES53663',
+        'title': 'Buzz! The Music Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53669': {
+        'id': 'SCES53669',
+        'title': 'Buzz! The Music Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55100': {
+        'id': 'SCES55100',
+        'title': 'Buzz! The Pop Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54258': {
+        'id': 'SCES54258',
+        'title': 'Buzz! The Sports Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54261': {
+        'id': 'SCES54261',
+        'title': 'Buzz! The Sports Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54264': {
+        'id': 'SCES54264',
+        'title': 'Buzz! The Sports Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54265': {
+        'id': 'SCES54265',
+        'title': 'Buzz! The Sports Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54266': {
+        'id': 'SCES54266',
+        'title': 'Buzz! The Sports Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54465': {
+        'id': 'SLES54465',
+        'title': 'CSI - Crime Scene Investigation',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52782': {
+        'id': 'SLES52782',
+        'title': 'Call of Duty - Finest Hour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52783': {
+        'id': 'SLES52783',
+        'title': 'Call of Duty - Finest Hour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52784': {
+        'id': 'SLES52784',
+        'title': 'Call of Duty - Finest Hour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53415': {
+        'id': 'SLES53415',
+        'title': 'Call of Duty 2 - Big Red One',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53416': {
+        'id': 'SLES53416',
+        'title': 'Call of Duty 2 - Big Red One',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53417': {
+        'id': 'SLES53417',
+        'title': 'Call of Duty 2 - Big Red One',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53722': {
+        'id': 'SLES53722',
+        'title': "Call of Duty 2 - Big Red One (Collector's Edition)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54166': {
+        'id': 'SLES54166',
+        'title': 'Call of Duty 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54167': {
+        'id': 'SLES54167',
+        'title': 'Call of Duty 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54168': {
+        'id': 'SLES54168',
+        'title': 'Call of Duty 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53561': {
+        'id': 'SLES53561',
+        'title': 'Canis Canem Edit',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52854': {
+        'id': 'SLES52854',
+        'title': 'Capcom Fighting Jam',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54612': {
+        'id': 'SLES54612',
+        'title': 'Captain Scarlet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53485': {
+        'id': 'SLES53485',
+        'title': 'Car Racing Challenge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52143': {
+        'id': 'SLES52143',
+        'title': 'Carmen Sandiego - The Secret of the Stolen Drums',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54383': {
+        'id': 'SLES54383',
+        'title': 'Casper and the Ghostly Trio',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54426': {
+        'id': 'SLES54426',
+        'title': 'Casper and the Ghostly Trio',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54435': {
+        'id': 'SLES54435',
+        'title': 'Casper and the Ghostly Trio',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52118': {
+        'id': 'SLES52118',
+        'title': 'Castlevania',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54949': {
+        'id': 'SLES54949',
+        'title': 'Catz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50636': {
+        'id': 'SLES50636',
+        'title': 'Centre Court - Hard Hitter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52325': {
+        'id': 'SLES52325',
+        'title': 'Champions of Norrath',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52373': {
+        'id': 'SLES52373',
+        'title': 'Champions of Norrath',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51553': {
+        'id': 'SLES51553',
+        'title': 'Chaos Legion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53921': {
+        'id': 'SLES53921',
+        'title': 'Chemist Tycoon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51630': {
+        'id': 'SLES51630',
+        'title': 'Chess Challenger',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54485': {
+        'id': 'SLES54485',
+        'title': 'Cinderella',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54890': {
+        'id': 'SLES54890',
+        'title': 'Clever Kids - Dino Land',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54891': {
+        'id': 'SLES54891',
+        'title': 'Clever Kids - Pony World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51619': {
+        'id': 'SLES51619',
+        'title': 'Clock Tower 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51080': {
+        'id': 'SLES51080',
+        'title': 'Club Football - AC Milan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51079': {
+        'id': 'SLES51079',
+        'title': 'Club Football - Ajax Amsterdam',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51089': {
+        'id': 'SLES51089',
+        'title': 'Club Football - Arsenal',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51085': {
+        'id': 'SLES51085',
+        'title': 'Club Football - Aston Villa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51083': {
+        'id': 'SLES51083',
+        'title': 'Club Football - Borussia Dortmund',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51423': {
+        'id': 'SLES51423',
+        'title': 'Club Football - Celtic FC',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51086': {
+        'id': 'SLES51086',
+        'title': 'Club Football - Chelsea FC',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51078': {
+        'id': 'SLES51078',
+        'title': 'Club Football - FC Barcelona',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51084': {
+        'id': 'SLES51084',
+        'title': 'Club Football - FC Bayern Muenchen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51094': {
+        'id': 'SLES51094',
+        'title': 'Club Football - FC Internazionale',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51082': {
+        'id': 'SLES51082',
+        'title': 'Club Football - Hamburger SV',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51081': {
+        'id': 'SLES51081',
+        'title': 'Club Football - Juventus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51087': {
+        'id': 'SLES51087',
+        'title': 'Club Football - Leeds United',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51076': {
+        'id': 'SLES51076',
+        'title': 'Club Football - Liverpool FC',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51100': {
+        'id': 'SLES51100',
+        'title': 'Club Football - Liverpool FC',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51090': {
+        'id': 'SLES51090',
+        'title': 'Club Football - Manchester United',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51088': {
+        'id': 'SLES51088',
+        'title': 'Club Football - Rangers FC',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51077': {
+        'id': 'SLES51077',
+        'title': 'Club Football - Real Madrid',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53685': {
+        'id': 'SLES53685',
+        'title': 'Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53812': {
+        'id': 'SLES53812',
+        'title': 'Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53158': {
+        'id': 'SLES53158',
+        'title': 'Cold Fear',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51824': {
+        'id': 'SLES51824',
+        'title': 'Colin McRae Rally 04',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52768': {
+        'id': 'SLES52768',
+        'title': 'Commandos - Strike Force',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52451': {
+        'id': 'SLES52451',
+        'title': 'Conan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50901': {
+        'id': 'SLES50901',
+        'title': 'Conflict - Desert Storm',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52630': {
+        'id': 'SLES52630',
+        'title': 'Conflict - Vietnam',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51284': {
+        'id': 'SLES51284',
+        'title': 'Contra - Shattered Soldier',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52219': {
+        'id': 'SLES52219',
+        'title': 'Corvette',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53046': {
+        'id': 'SLES53046',
+        'title': 'Counter Terrorist Special Forces - Fire for Effect',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54568': {
+        'id': 'SLES54568',
+        'title': 'Covert Command',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51511': {
+        'id': 'SLES51511',
+        'title': 'Crash Nitro Kart',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52568': {
+        'id': 'SLES52568',
+        'title': 'Crash Twinsanity',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54841': {
+        'id': 'SLES54841',
+        'title': 'Crash of the Titans',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54842': {
+        'id': 'SLES54842',
+        'title': 'Crash of the Titans',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54843': {
+        'id': 'SLES54843',
+        'title': 'Crash of the Titans',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53318': {
+        'id': 'SLES53318',
+        'title': 'Crazy Golf - World Tour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50215': {
+        'id': 'SLES50215',
+        'title': 'Crazy Taxi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52530': {
+        'id': 'SCES52530',
+        'title': 'Crisis Zone',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53710': {
+        'id': 'SLES53710',
+        'title': 'Cronicas de Narnia, Las - El Leon, la Bruja y el Armario',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51916': {
+        'id': 'SLES51916',
+        'title': 'Crouching Tiger, Hidden Dragon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54146': {
+        'id': 'SLES54146',
+        'title': 'Crusty Demons',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51934': {
+        'id': 'SLES51934',
+        'title': 'Curse - The Eye of Isis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82019': {
+        'id': 'SLES82019',
+        'title': 'Cy Girls (Aska Disc)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82021': {
+        'id': 'SLES82021',
+        'title': 'Cy Girls (Aska Disc)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82018': {
+        'id': 'SLES82018',
+        'title': 'Cy Girls (Ice Disc)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82020': {
+        'id': 'SLES82020',
+        'title': 'Cy Girls (Ice Disc)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50558': {
+        'id': 'SLES50558',
+        'title': 'DSF Fussball Manager 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52638': {
+        'id': 'SLES52638',
+        'title': 'DTM Race Driver 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50879': {
+        'id': 'SLES50879',
+        'title': 'Dakar 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54341': {
+        'id': 'SLES54341',
+        'title': 'Dancing Stage SuperNova',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51190': {
+        'id': 'SCES51190',
+        'title': 'Dark Chronicle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50295': {
+        'id': 'SCES50295',
+        'title': 'Dark Cloud',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50003': {
+        'id': 'SCES50003',
+        'title': 'Dead or Alive 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51581': {
+        'id': 'SLES51581',
+        'title': 'Dead to Rights',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52284': {
+        'id': 'SLES52284',
+        'title': 'Deadly Skies III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52507': {
+        'id': 'SLES52507',
+        'title': 'Def Jam - Fight for NY',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51479': {
+        'id': 'SLES51479',
+        'title': 'Def Jam - Vendetta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53299': {
+        'id': 'SLES53299',
+        'title': 'Delta Force - Black Hawk Down',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52803': {
+        'id': 'SLES52803',
+        'title': 'Der Herr der Ringe - Das dritte Zeitalter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52018': {
+        'id': 'SLES52018',
+        'title': 'Der Herr der Ringe - Die Rueckkehr des Koenigs',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51254': {
+        'id': 'SLES51254',
+        'title': 'Der Herr der Ringe - Die zwei Tuerme',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53969': {
+        'id': 'SLES53969',
+        'title': 'Der Pate',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55625': {
+        'id': 'SLES55625',
+        'title': 'Despicable Me - The Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53196': {
+        'id': 'SLES53196',
+        'title': 'Destroy All Humans!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53197': {
+        'id': 'SLES53197',
+        'title': 'Destroy All Humans!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53641': {
+        'id': 'SLES53641',
+        'title': 'Destroy All Humans!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50804': {
+        'id': 'SLES50804',
+        'title': 'Deus Ex',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50805': {
+        'id': 'SLES50805',
+        'title': 'Deus Ex',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50806': {
+        'id': 'SLES50806',
+        'title': 'Deus Ex',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50807': {
+        'id': 'SLES50807',
+        'title': 'Deus Ex',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50808': {
+        'id': 'SLES50808',
+        'title': 'Deus Ex',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53870': {
+        'id': 'SLES53870',
+        'title': 'Devil Kings',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50358': {
+        'id': 'SLES50358',
+        'title': 'Devil May Cry',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82011': {
+        'id': 'SLES82011',
+        'title': 'Devil May Cry 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82012': {
+        'id': 'SLES82012',
+        'title': 'Devil May Cry 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55274': {
+        'id': 'SLES55274',
+        'title': 'Diabolik - The Original Sin',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53707': {
+        'id': 'SLES53707',
+        'title': 'Die Chroniken von Narnia - Der Koenig von Narnia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51347': {
+        'id': 'SLES51347',
+        'title': 'Die Hard - Vendetta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51348': {
+        'id': 'SLES51348',
+        'title': 'Die Hard - Vendetta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52631': {
+        'id': 'SLES52631',
+        'title': 'Digimon Rumble Arena 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53405': {
+        'id': 'SLES53405',
+        'title': 'Digimon World 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50930': {
+        'id': 'SLES50930',
+        'title': 'Dino Stalker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51095': {
+        'id': 'SLES51095',
+        'title': 'Dino Stalker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51096': {
+        'id': 'SLES51096',
+        'title': 'Dino Stalker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54185': {
+        'id': 'SLES54185',
+        'title': 'Dirge of Cerberus - Final Fantasy VII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53738': {
+        'id': 'SLES53738',
+        'title': 'Disney Chicken Little',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55502': {
+        'id': 'SLES55502',
+        'title': 'Disney G-Force',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51042': {
+        'id': 'SLES51042',
+        'title': 'Disney Golf',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51659': {
+        'id': 'SLES51659',
+        'title': 'Disney Les Aventures de Porcinet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55433': {
+        'id': 'SLES55433',
+        'title': 'Disney Otvechaj-ne zevaj!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51666': {
+        'id': 'SLES51666',
+        'title': 'Disney Piglet el Gran Juego',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55542': {
+        'id': 'SLES55542',
+        'title': 'Disney Sing It - Pop Hits',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55394': {
+        'id': 'SLES55394',
+        'title': 'Disney Think Fast',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55395': {
+        'id': 'SLES55395',
+        'title': 'Disney Think Fast',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55415': {
+        'id': 'SLES55415',
+        'title': 'Disney Think Fast',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53739': {
+        'id': 'SLES53739',
+        'title': "Disney's Chicken Little",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53741': {
+        'id': 'SLES53741',
+        'title': "Disney's Chicken Little",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53743': {
+        'id': 'SLES53743',
+        'title': "Disney's Chicken Little",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53744': {
+        'id': 'SLES53744',
+        'title': "Disney's Chicken Little",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50042': {
+        'id': 'SLES50042',
+        'title': "Disney's Dinosaur",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50043': {
+        'id': 'SLES50043',
+        'title': "Disney's Dinosaur",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50773': {
+        'id': 'SLES50773',
+        'title': "Disney's Donald Duck PK",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51720': {
+        'id': 'SLES51720',
+        'title': "Disney's Extreme Skate Adventure",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51721': {
+        'id': 'SLES51721',
+        'title': "Disney's Extreme Skate Adventure",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54388': {
+        'id': 'SLES54388',
+        'title': "Disney's Kim Possible - What's the Switch",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50522': {
+        'id': 'SCES50522',
+        'title': "Disney's Peter Pan - The Legend of Never Land",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50526': {
+        'id': 'SCES50526',
+        'title': "Disney's Peter Pan - The Legend of Never Land",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50531': {
+        'id': 'SCES50531',
+        'title': "Disney's Peter Pan - The Legend of Never Land",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51594': {
+        'id': 'SLES51594',
+        'title': "Disney's Piglet's Big Game",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50350': {
+        'id': 'SLES50350',
+        'title': "Disney's Tarzan - Freeride",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54011': {
+        'id': 'SLES54011',
+        'title': 'Disney-Pixar Bilar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53624': {
+        'id': 'SLES53624',
+        'title': 'Disney-Pixar Cars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54004': {
+        'id': 'SLES54004',
+        'title': 'Disney-Pixar Cars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54006': {
+        'id': 'SLES54006',
+        'title': 'Disney-Pixar Cars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54007': {
+        'id': 'SLES54007',
+        'title': 'Disney-Pixar Cars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54010': {
+        'id': 'SLES54010',
+        'title': 'Disney-Pixar Cars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54012': {
+        'id': 'SLES54012',
+        'title': 'Disney-Pixar Cars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54015': {
+        'id': 'SLES54015',
+        'title': 'Disney-Pixar Cars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50600': {
+        'id': 'SCES50600',
+        'title': 'Disney-Pixar Die Monster AG - Schreckens-Insel',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52815': {
+        'id': 'SLES52815',
+        'title': 'Disney-Pixar Die Unglaublichen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52814': {
+        'id': 'SLES52814',
+        'title': 'Disney-Pixar Gli Incredibili',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55623': {
+        'id': 'SLES55623',
+        'title': "Disney-Pixar Istoriya Igrushek - Bol'shoj Pobeg",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52816': {
+        'id': 'SLES52816',
+        'title': 'Disney-Pixar Los Increibles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50598': {
+        'id': 'SCES50598',
+        'title': 'Disney-Pixar Monsterit Oy - Saeikkysaari',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50601': {
+        'id': 'SCES50601',
+        'title': "Disney-Pixar Monsters & Co. - L'Isola dello Spavento",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50597': {
+        'id': 'SCES50597',
+        'title': 'Disney-Pixar Monsters en Co. - Schrik Eiland',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50595': {
+        'id': 'SCES50595',
+        'title': 'Disney-Pixar Monsters, Inc. - Scare Island',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50604': {
+        'id': 'SCES50604',
+        'title': 'Disney-Pixar Monsters, Inc. - Skraemmaroen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50596': {
+        'id': 'SCES50596',
+        'title': 'Disney-Pixar Monsters, Inc. - Skraemmeoen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50599': {
+        'id': 'SCES50599',
+        'title': "Disney-Pixar Monstres & Cie - L'ile de l'Epouvante",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50603': {
+        'id': 'SCES50603',
+        'title': 'Disney-Pixar Monstruos, S.A. - Isla de los Sustos',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55526': {
+        'id': 'SLES55526',
+        'title': 'Disney-Pixar Psila ston Ourano',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54733': {
+        'id': 'SLES54733',
+        'title': 'Disney-Pixar Ratatouille',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54734': {
+        'id': 'SLES54734',
+        'title': 'Disney-Pixar Ratatouille',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54735': {
+        'id': 'SLES54735',
+        'title': 'Disney-Pixar Ratatouille',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54736': {
+        'id': 'SLES54736',
+        'title': 'Disney-Pixar Ratatouille',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54744': {
+        'id': 'SLES54744',
+        'title': 'Disney-Pixar Ratatouille',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54745': {
+        'id': 'SLES54745',
+        'title': 'Disney-Pixar Ratatouille',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54747': {
+        'id': 'SLES54747',
+        'title': 'Disney-Pixar Ratatouille',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52812': {
+        'id': 'SLES52812',
+        'title': 'Disney-Pixar The Incredibles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52813': {
+        'id': 'SLES52813',
+        'title': 'Disney-Pixar The Incredibles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52820': {
+        'id': 'SLES52820',
+        'title': 'Disney-Pixar The Incredibles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55622': {
+        'id': 'SLES55622',
+        'title': 'Disney-Pixar Toy Story 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55185': {
+        'id': 'SLES55185',
+        'title': 'Disney-Pixar WALL-E',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55186': {
+        'id': 'SLES55186',
+        'title': 'Disney-Pixar WALL-E',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55187': {
+        'id': 'SLES55187',
+        'title': 'Disney-Pixar WALL-E',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55193': {
+        'id': 'SLES55193',
+        'title': 'Disney-Pixar WALL-E',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55194': {
+        'id': 'SLES55194',
+        'title': 'Disney-Pixar WALL-E',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55195': {
+        'id': 'SLES55195',
+        'title': 'Disney-Pixar WALL-E',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55188': {
+        'id': 'SLES55188',
+        'title': 'Disney-Pixar WALL-E - Der Letzte raeumt die Erde auf',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51658': {
+        'id': 'SLES51658',
+        'title': 'Disneys Ferkels grosses Abenteuer-Spiel',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53740': {
+        'id': 'SLES53740',
+        'title': 'Disneys Himmel und Huhn',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54838': {
+        'id': 'SLES54838',
+        'title': 'Donkey Xote',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52237': {
+        'id': 'SLES52237',
+        'title': 'Dot Hack Part 1 - Infection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52202': {
+        'id': 'SLES52202',
+        'title': 'Downhill Domination',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53963': {
+        'id': 'SLES53963',
+        'title': 'Downhill Slalom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54433': {
+        'id': 'SLES54433',
+        'title': 'Dr. Dolittle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50710': {
+        'id': 'SLES50710',
+        'title': 'Dr. Muto',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51233': {
+        'id': 'SLES51233',
+        'title': 'Dragon Ball Z - Budokai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51839': {
+        'id': 'SLES51839',
+        'title': 'Dragon Ball Z - Budokai 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53974': {
+        'id': 'SLES53974',
+        'title': 'Dragon Quest - The Journey of the Cursed King',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51696': {
+        'id': 'SLES51696',
+        'title': "Dragon's Lair 3D - Special Edition",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50006': {
+        'id': 'SCES50006',
+        'title': "Drakan - The Ancients' Gates",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52322': {
+        'id': 'SLES52322',
+        'title': 'Drakengard',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55031': {
+        'id': 'SLES55031',
+        'title': 'DreamWorks Kung Fu Panda',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55234': {
+        'id': 'SLES55234',
+        'title': 'DreamWorks Kung Fu Panda',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55235': {
+        'id': 'SLES55235',
+        'title': 'DreamWorks Kung Fu Panda',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55236': {
+        'id': 'SLES55236',
+        'title': 'DreamWorks Kung Fu Panda',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53225': {
+        'id': 'SLES53225',
+        'title': 'DreamWorks Madagascar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53226': {
+        'id': 'SLES53226',
+        'title': 'DreamWorks Madagascar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53227': {
+        'id': 'SLES53227',
+        'title': 'DreamWorks Madagascar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53246': {
+        'id': 'SLES53246',
+        'title': 'DreamWorks Madagascar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53373': {
+        'id': 'SLES53373',
+        'title': 'DreamWorks Madagascar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54553': {
+        'id': 'SLES54553',
+        'title': "DreamWorks Shrek - Smash n' Crash Racing",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54770': {
+        'id': 'SLES54770',
+        'title': 'DreamWorks Shrek the Third',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54771': {
+        'id': 'SLES54771',
+        'title': 'DreamWorks Shrek the Third',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54774': {
+        'id': 'SLES54774',
+        'title': 'DreamWorks Shrek the Third',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50073': {
+        'id': 'SLES50073',
+        'title': 'Driving Emotion Type-S',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50057': {
+        'id': 'SLES50057',
+        'title': 'Dynasty Warriors 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50058': {
+        'id': 'SLES50058',
+        'title': 'Dynasty Warriors 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50059': {
+        'id': 'SLES50059',
+        'title': 'Dynasty Warriors 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50641': {
+        'id': 'SLES50641',
+        'title': 'Dynasty Warriors 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50758': {
+        'id': 'SLES50758',
+        'title': 'E.O.E - Eve of Extinction',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50036': {
+        'id': 'SLES50036',
+        'title': 'ESPN International Track & Field',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50586': {
+        'id': 'SLES50586',
+        'title': 'ESPN International Winter Sports',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53484': {
+        'id': 'SLES53484',
+        'title': 'Eagle Eye Golf',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50499': {
+        'id': 'SCES50499',
+        'title': 'Ecco the Dolphin - Defender of the Future',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53414': {
+        'id': 'SLES53414',
+        'title': 'Echo Night - Beyond',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53971': {
+        'id': 'SLES53971',
+        'title': 'El Padrino',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52020': {
+        'id': 'SLES52020',
+        'title': 'El Senor de los Anillos - El Retorno del Rey',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52805': {
+        'id': 'SLES52805',
+        'title': 'El Senor de los Anillos - La Tercera Edad',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51256': {
+        'id': 'SLES51256',
+        'title': 'El Senor de los Anillos - Las Dos Torres',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50936': {
+        'id': 'SLES50936',
+        'title': 'Endgame',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52265': {
+        'id': 'SLES52265',
+        'title': 'Energy Airforce - Aim Strike!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52266': {
+        'id': 'SLES52266',
+        'title': 'Energy Airforce - Aim Strike!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52267': {
+        'id': 'SLES52267',
+        'title': 'Energy Airforce - Aim Strike!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53125': {
+        'id': 'SLES53125',
+        'title': 'Enthusia - Professional Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50110': {
+        'id': 'SLES50110',
+        'title': 'Ephemeral Fantasia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54159': {
+        'id': 'SLES54159',
+        'title': 'Eragon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50225': {
+        'id': 'SLES50225',
+        'title': 'Escape from Monkey Island',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50226': {
+        'id': 'SLES50226',
+        'title': 'Escape from Monkey Island',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52378': {
+        'id': 'SLES52378',
+        'title': 'Euro Rally Champion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51813': {
+        'id': 'SLES51813',
+        'title': 'European Tennis Pro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51725': {
+        'id': 'SCES51725',
+        'title': 'EverQuest - Online Adventures',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50050': {
+        'id': 'SLES50050',
+        'title': 'Evergrace',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52582': {
+        'id': 'SCES52582',
+        'title': "Everybody's Golf",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54535': {
+        'id': 'SCES54535',
+        'title': "Everybody's Tennis",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51806': {
+        'id': 'SLES51806',
+        'title': 'Evil Dead - A Fistful of Boomstick',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51588': {
+        'id': 'SLES51588',
+        'title': 'Evil Dead - A Fistful of Boomstick (Special Movie Edition)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53457': {
+        'id': 'SLES53457',
+        'title': 'Evil Dead - Regeneration',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50201': {
+        'id': 'SLES50201',
+        'title': "Evil Twin - Cyprien's Chronicles",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53976': {
+        'id': 'SLES53976',
+        'title': 'Evolution GT',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55652': {
+        'id': 'SLES55652',
+        'title': 'FIFA 12',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55653': {
+        'id': 'SLES55653',
+        'title': 'FIFA 12',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55654': {
+        'id': 'SLES55654',
+        'title': 'FIFA 12',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54064': {
+        'id': 'SLES54064',
+        'title': 'FIFA World Cup Germany 2006',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54081': {
+        'id': 'SLES54081',
+        'title': 'FIFA World Cup Germany 2006',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53539': {
+        'id': 'SLES53539',
+        'title': 'Fahrenheit',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53540': {
+        'id': 'SLES53540',
+        'title': 'Fahrenheit',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51525': {
+        'id': 'SLES51525',
+        'title': 'Fallout - Brotherhood of Steel',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51526': {
+        'id': 'SLES51526',
+        'title': 'Fallout - Brotherhood of Steel',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54126': {
+        'id': 'SLES54126',
+        'title': 'Family Guy - Video Game!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54394': {
+        'id': 'SLES54394',
+        'title': 'Family Guy - Video Game!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53143': {
+        'id': 'SLES53143',
+        'title': 'Fantastic 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53144': {
+        'id': 'SLES53144',
+        'title': 'Fantastic 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53145': {
+        'id': 'SLES53145',
+        'title': 'Fantastic 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53147': {
+        'id': 'SLES53147',
+        'title': 'Fantastic 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53281': {
+        'id': 'SLES53281',
+        'title': 'Fantastic 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54616': {
+        'id': 'SLES54616',
+        'title': 'Fantastic Four - Rise of the Silver Surfer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54776': {
+        'id': 'SLES54776',
+        'title': 'Fantastic Four - Rise of the Silver Surfer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53146': {
+        'id': 'SLES53146',
+        'title': 'Fantastici 4, I',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50002': {
+        'id': 'SCES50002',
+        'title': 'Fantavision',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50956': {
+        'id': 'SCES50956',
+        'title': 'Ferrari F355 Challenge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52718': {
+        'id': 'SLES52718',
+        'title': 'Fight Club',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53982': {
+        'id': 'SLES53982',
+        'title': 'Fight Night Round 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51056': {
+        'id': 'SLES51056',
+        'title': 'Fighting Fury',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54467': {
+        'id': 'SLES54467',
+        'title': 'Final Armada',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50490': {
+        'id': 'SCES50490',
+        'title': 'Final Fantasy X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50491': {
+        'id': 'SCES50491',
+        'title': 'Final Fantasy X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50492': {
+        'id': 'SCES50492',
+        'title': 'Final Fantasy X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50493': {
+        'id': 'SCES50493',
+        'title': 'Final Fantasy X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50494': {
+        'id': 'SCES50494',
+        'title': 'Final Fantasy X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51815': {
+        'id': 'SLES51815',
+        'title': 'Final Fantasy X-2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51816': {
+        'id': 'SLES51816',
+        'title': 'Final Fantasy X-2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51817': {
+        'id': 'SLES51817',
+        'title': 'Final Fantasy X-2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51818': {
+        'id': 'SLES51818',
+        'title': 'Final Fantasy X-2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51819': {
+        'id': 'SLES51819',
+        'title': 'Final Fantasy X-2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54354': {
+        'id': 'SLES54354',
+        'title': 'Final Fantasy XII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54355': {
+        'id': 'SLES54355',
+        'title': 'Final Fantasy XII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54356': {
+        'id': 'SLES54356',
+        'title': 'Final Fantasy XII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54357': {
+        'id': 'SLES54357',
+        'title': 'Final Fantasy XII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54358': {
+        'id': 'SLES54358',
+        'title': 'Final Fantasy XII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53853': {
+        'id': 'SLES53853',
+        'title': 'Final Fight - Streetwise',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54955': {
+        'id': 'SLES54955',
+        'title': 'Finkles World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53237': {
+        'id': 'SLES53237',
+        'title': 'Fire Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52096': {
+        'id': 'SLES52096',
+        'title': 'Firefighter F.D.18',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52983': {
+        'id': 'SLES52983',
+        'title': 'Fitness Fun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52753': {
+        'id': 'SLES52753',
+        'title': 'FlatOut',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52754': {
+        'id': 'SLES52754',
+        'title': 'FlatOut',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54002': {
+        'id': 'SLES54002',
+        'title': 'FlatOut 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54003': {
+        'id': 'SLES54003',
+        'title': 'FlatOut 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52065': {
+        'id': 'SLES52065',
+        'title': 'Flipnic',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53848': {
+        'id': 'SLES53848',
+        'title': 'Flow - Urban Dance Uprising',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50227': {
+        'id': 'SLES50227',
+        'title': 'Flucht von Monkey Island',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50549': {
+        'id': 'SLES50549',
+        'title': 'Football Manager Campionato 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51920': {
+        'id': 'SCES51920',
+        'title': 'Forbidden Siren',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52327': {
+        'id': 'SCES52327',
+        'title': 'Forbidden Siren',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52328': {
+        'id': 'SCES52328',
+        'title': 'Forbidden Siren',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52329': {
+        'id': 'SCES52329',
+        'title': 'Forbidden Siren',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52330': {
+        'id': 'SCES52330',
+        'title': 'Forbidden Siren',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51705': {
+        'id': 'SLES51705',
+        'title': 'Ford Racing 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52669': {
+        'id': 'SLES52669',
+        'title': 'Forgotten Realms - Demon Stone',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51592': {
+        'id': 'SCES51592',
+        'title': 'Formula One 2003',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53487': {
+        'id': 'SLES53487',
+        'title': 'Forty 4 Party',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50654': {
+        'id': 'SLES50654',
+        'title': "Frank Herbert's Dune",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53903': {
+        'id': 'SLES53903',
+        'title': 'Franklin the Turtle - A Birthday Surprise',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50310': {
+        'id': 'SLES50310',
+        'title': 'Freak Out',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51467': {
+        'id': 'SLES51467',
+        'title': 'Freedom Fighters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51468': {
+        'id': 'SLES51468',
+        'title': 'Freedom Fighters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51469': {
+        'id': 'SLES51469',
+        'title': 'Freedom Fighters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51470': {
+        'id': 'SLES51470',
+        'title': 'Freedom Fighters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51471': {
+        'id': 'SLES51471',
+        'title': 'Freedom Fighters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50753': {
+        'id': 'SLES50753',
+        'title': 'Freekstyle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50788': {
+        'id': 'SLES50788',
+        'title': 'Frogger - The Great Quest',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50228': {
+        'id': 'SLES50228',
+        'title': 'Fuga da Monkey Island',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53114': {
+        'id': 'SLES53114',
+        'title': 'Full Spectrum Warrior',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53131': {
+        'id': 'SLES53131',
+        'title': 'Full Spectrum Warrior',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50106': {
+        'id': 'SLES50106',
+        'title': "Fur Fighters - Viggo's Revenge",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51507': {
+        'id': 'SLES51507',
+        'title': 'Futurama',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55537': {
+        'id': 'SLES55537',
+        'title': 'G.I. Joe - The Rise of Cobra',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51357': {
+        'id': 'SLES51357',
+        'title': 'G1 Jockey 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52602': {
+        'id': 'SLES52602',
+        'title': 'GT Racers',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50472': {
+        'id': 'SLES50472',
+        'title': 'GTC Africa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52845': {
+        'id': 'SLES52845',
+        'title': 'Gadget & the Gadgetinis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51343': {
+        'id': 'SLES51343',
+        'title': 'Galerians - Ash',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52843': {
+        'id': 'SLES52843',
+        'title': 'Garfield',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54817': {
+        'id': 'SLES54817',
+        'title': 'Garfield - Lasagna World Tour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55042': {
+        'id': 'SLES55042',
+        'title': 'Garfield - Lasagna World Tour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55043': {
+        'id': 'SLES55043',
+        'title': 'Garfield - Lasagna World Tour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53587': {
+        'id': 'SLES53587',
+        'title': 'Garfield - Saving Arlene',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50211': {
+        'id': 'SLES50211',
+        'title': 'Gauntlet - Dark Legacy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53667': {
+        'id': 'SLES53667',
+        'title': 'Gauntlet - Seven Sorrows',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53328': {
+        'id': 'SCES53328',
+        'title': 'Genji',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54975': {
+        'id': 'SLES54975',
+        'title': 'George of the Jungle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55529': {
+        'id': 'SLES55529',
+        'title': "Germany's Next Topmodel",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52671': {
+        'id': 'SLES52671',
+        'title': 'Ghost Master - The Gravenville Chronicles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54317': {
+        'id': 'SLES54317',
+        'title': 'Ghost Rider',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53020': {
+        'id': 'SLES53020',
+        'title': 'Ghost in the Shell - Stand Alone Complex',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55571': {
+        'id': 'SCES55571',
+        'title': 'Ghostbusters - The Video Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51463': {
+        'id': 'SCES51463',
+        'title': 'Ghosthunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52156': {
+        'id': 'SCES52156',
+        'title': 'Ghosthunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50276': {
+        'id': 'SLES50276',
+        'title': 'Gift',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50296': {
+        'id': 'SLES50296',
+        'title': 'Gift',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50298': {
+        'id': 'SLES50298',
+        'title': 'Gift',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50299': {
+        'id': 'SLES50299',
+        'title': 'Gift',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50297': {
+        'id': 'SLES50297',
+        'title': 'Giftie',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50653': {
+        'id': 'SLES50653',
+        'title': 'Gitaroo Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51827': {
+        'id': 'SLES51827',
+        'title': 'Gladiator - Sword of Vengeance',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51064': {
+        'id': 'SLES51064',
+        'title': 'Gladius',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51065': {
+        'id': 'SLES51065',
+        'title': 'Gladius',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51066': {
+        'id': 'SLES51066',
+        'title': 'Gladius',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52117': {
+        'id': 'SLES52117',
+        'title': 'Go Go Copter - Remote Control Helicopter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51055': {
+        'id': 'SLES51055',
+        'title': 'Go Go Golf',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54490': {
+        'id': 'SLES54490',
+        'title': 'God Hand',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53133': {
+        'id': 'SCES53133',
+        'title': 'God of War',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54206': {
+        'id': 'SCES54206',
+        'title': 'God of War II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52766': {
+        'id': 'SLES52766',
+        'title': 'Godzilla - Save the Earth',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52977': {
+        'id': 'SLES52977',
+        'title': 'GoldenEye - Agente Corrupto',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52975': {
+        'id': 'SLES52975',
+        'title': 'GoldenEye - Au Service du Mal',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52974': {
+        'id': 'SLES52974',
+        'title': 'GoldenEye - Rogue Agent',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52976': {
+        'id': 'SLES52976',
+        'title': 'GoldenEye - Rogue Agent',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50038': {
+        'id': 'SLES50038',
+        'title': 'Gradius III and IV',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52095': {
+        'id': 'SLES52095',
+        'title': 'Gradius V',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53311': {
+        'id': 'SLES53311',
+        'title': 'Graffiti Kingdom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50294': {
+        'id': 'SCES50294',
+        'title': 'Gran Turismo 3 - A-Spec',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51061': {
+        'id': 'SLES51061',
+        'title': 'Grand Theft Auto - Vice City',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51316': {
+        'id': 'SLES51316',
+        'title': 'Grand Theft Auto - Vice City',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51595': {
+        'id': 'SLES51595',
+        'title': 'Grand Theft Auto - Vice City',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54622': {
+        'id': 'SLES54622',
+        'title': 'Grand Theft Auto - Vice City Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54623': {
+        'id': 'SLES54623',
+        'title': 'Grand Theft Auto - Vice City Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50330': {
+        'id': 'SLES50330',
+        'title': 'Grand Theft Auto III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50793': {
+        'id': 'SLES50793',
+        'title': 'Grand Theft Auto III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50498': {
+        'id': 'SLES50498',
+        'title': 'Grandia II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50715': {
+        'id': 'SLES50715',
+        'title': 'Gravity Games Bike - Street. Vert. Dirt.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51933': {
+        'id': 'SLES51933',
+        'title': 'Gregory Horror Show',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54897': {
+        'id': 'SLES54897',
+        'title': 'GrimGrimoire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50591': {
+        'id': 'SLES50591',
+        'title': 'Guilty Gear X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51344': {
+        'id': 'SLES51344',
+        'title': 'Guilty Gear X2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54093': {
+        'id': 'SLES54093',
+        'title': 'Guitar Hero',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54132': {
+        'id': 'SLES54132',
+        'title': 'Guitar Hero',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55191': {
+        'id': 'SLES55191',
+        'title': 'Guitar Hero - Aerosmith',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55200': {
+        'id': 'SLES55200',
+        'title': 'Guitar Hero - Aerosmith',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54859': {
+        'id': 'SLES54859',
+        'title': 'Guitar Hero - Rocks the 80s',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54860': {
+        'id': 'SLES54860',
+        'title': 'Guitar Hero - Rocks the 80s',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55518': {
+        'id': 'SLES55518',
+        'title': 'Guitar Hero - Van Halen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53523': {
+        'id': 'SLES53523',
+        'title': 'Gun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53647': {
+        'id': 'SLES53647',
+        'title': 'Gun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53021': {
+        'id': 'SLES53021',
+        'title': 'Gunbird Special Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52620': {
+        'id': 'SLES52620',
+        'title': 'Guncom 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51289': {
+        'id': 'SLES51289',
+        'title': 'Gunfighter II - Revenge of Jesse James',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51236': {
+        'id': 'SLES51236',
+        'title': 'Gungrave',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52749': {
+        'id': 'SLES52749',
+        'title': 'Habitrail Hamster Ball',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50504': {
+        'id': 'SLES50504',
+        'title': 'Half-Life',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50505': {
+        'id': 'SLES50505',
+        'title': 'Half-Life',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50507': {
+        'id': 'SLES50507',
+        'title': 'Half-Life',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50508': {
+        'id': 'SLES50508',
+        'title': 'Half-Life',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50509': {
+        'id': 'SLES50509',
+        'title': 'Half-Life',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54685': {
+        'id': 'SLES54685',
+        'title': 'Hansel and Gretel',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55464': {
+        'id': 'SCES55464',
+        'title': 'Hanuman - Boy Warrior',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54421': {
+        'id': 'SLES54421',
+        'title': 'Happy Feet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51057': {
+        'id': 'SLES51057',
+        'title': 'Hard Hitter 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54143': {
+        'id': 'SLES54143',
+        'title': 'Hard Rock Casino',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54606': {
+        'id': 'SLES54606',
+        'title': 'Harley-Davidson Motor Cycles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54631': {
+        'id': 'SLES54631',
+        'title': 'Harley-Davidson Motor Cycles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53726': {
+        'id': 'SLES53726',
+        'title': 'Harry Potter and the Goblet of Fire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53727': {
+        'id': 'SLES53727',
+        'title': 'Harry Potter and the Goblet of Fire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53728': {
+        'id': 'SLES53728',
+        'title': 'Harry Potter and the Goblet of Fire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54778': {
+        'id': 'SLES54778',
+        'title': 'Harry Potter and the Order of the Phoenix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54779': {
+        'id': 'SLES54779',
+        'title': 'Harry Potter and the Order of the Phoenix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54780': {
+        'id': 'SLES54780',
+        'title': 'Harry Potter and the Order of the Phoenix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54781': {
+        'id': 'SLES54781',
+        'title': 'Harry Potter and the Order of the Phoenix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52055': {
+        'id': 'SLES52055',
+        'title': "Harry Potter and the Philosopher's Stone",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52056': {
+        'id': 'SLES52056',
+        'title': "Harry Potter and the Philosopher's Stone",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53282': {
+        'id': 'SLES53282',
+        'title': 'Harvest Fishing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53480': {
+        'id': 'SLES53480',
+        'title': 'Harvest Moon - A Wonderful Life - Special Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55342': {
+        'id': 'SLES55342',
+        'title': 'Hasbro Family Game Night',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52877': {
+        'id': 'SLES52877',
+        'title': 'Haunting Ground',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51209': {
+        'id': 'SLES51209',
+        'title': 'Haven - Call of the King',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54540': {
+        'id': 'SLES54540',
+        'title': 'Hawk Superbike Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50500': {
+        'id': 'SCES50500',
+        'title': 'Headhunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51682': {
+        'id': 'SLES51682',
+        'title': 'Headhunter - Redemption',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52511': {
+        'id': 'SLES52511',
+        'title': 'Headhunter - Redemption',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52512': {
+        'id': 'SLES52512',
+        'title': 'Headhunter - Redemption',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51865': {
+        'id': 'SLES51865',
+        'title': 'Heartbeat Boxing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54346': {
+        'id': 'SLES54346',
+        'title': 'Heatseeker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54596': {
+        'id': 'SLES54596',
+        'title': 'Heatseeker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53509': {
+        'id': 'SLES53509',
+        'title': 'Hello Kitty - Roller Rescue',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50751': {
+        'id': 'SLES50751',
+        'title': 'Herdy Gerdy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53441': {
+        'id': 'SLES53441',
+        'title': 'Heroes of the Pacific',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50260': {
+        'id': 'SLES50260',
+        'title': 'Hidden Invasion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53028': {
+        'id': 'SLES53028',
+        'title': 'Hitman - Blood Money',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53029': {
+        'id': 'SLES53029',
+        'title': 'Hitman - Blood Money',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53030': {
+        'id': 'SLES53030',
+        'title': 'Hitman - Blood Money',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53031': {
+        'id': 'SLES53031',
+        'title': 'Hitman - Blood Money',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53032': {
+        'id': 'SLES53032',
+        'title': 'Hitman - Blood Money',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52247': {
+        'id': 'SLES52247',
+        'title': 'Hobbit - Predystoriya Sagi Vlastelin Kolets',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55091': {
+        'id': 'SLES55091',
+        'title': 'Hoppie',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52481': {
+        'id': 'SLES52481',
+        'title': 'Hot Wheels - Stunt Track Challenge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51823': {
+        'id': 'SLES51823',
+        'title': 'Hunter - The Reckoning - Wayward',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52099': {
+        'id': 'SCES52099',
+        'title': 'I-Ninja',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53984': {
+        'id': 'SLES53984',
+        'title': 'Ice Age 2 - The Meltdown',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54147': {
+        'id': 'SLES54147',
+        'title': 'Ice Age 2 - The Meltdown',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50760': {
+        'id': 'SCES50760',
+        'title': 'Ico',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53970': {
+        'id': 'SLES53970',
+        'title': 'Il Padrino',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52021': {
+        'id': 'SLES52021',
+        'title': 'Il Signore degli Anelli - Il Ritorno del Re',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52804': {
+        'id': 'SLES52804',
+        'title': 'Il Signore degli Anelli - La Terza Era',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51255': {
+        'id': 'SLES51255',
+        'title': 'Il Signore degli Anelli - Le Due Torri',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50836': {
+        'id': 'SLES50836',
+        'title': "Indiana Jones and the Emperor's Tomb",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55448': {
+        'id': 'SLES55448',
+        'title': 'Indiana Jones and the Staff of Kings',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50839': {
+        'id': 'SLES50839',
+        'title': "Indiana Jones e la Tomba dell'Imperatore",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50837': {
+        'id': 'SLES50837',
+        'title': "Indiana Jones et le Tombeau de l'Empereur",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50838': {
+        'id': 'SLES50838',
+        'title': 'Indiana Jones und die Legende der Kaisergruft',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50840': {
+        'id': 'SLES50840',
+        'title': 'Indiana Jones y la Tumba del Emperador',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51247': {
+        'id': 'SLES51247',
+        'title': 'Inspector Gadget - Mad Robots Invasion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52349': {
+        'id': 'SLES52349',
+        'title': 'International Golf Pro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52350': {
+        'id': 'SLES52350',
+        'title': 'International Golf Pro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50039': {
+        'id': 'SLES50039',
+        'title': 'International Superstar Soccer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50060': {
+        'id': 'SLES50060',
+        'title': 'International Superstar Soccer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55132': {
+        'id': 'SLES55132',
+        'title': 'Iron Chef',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55198': {
+        'id': 'SLES55198',
+        'title': 'Iron Man - The Official Videogame',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52412': {
+        'id': 'SCES52412',
+        'title': 'Jackie Chan Adventures',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50735': {
+        'id': 'SLES50735',
+        'title': 'Jade Cocoon 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51608': {
+        'id': 'SCES51608',
+        'title': 'Jak II - Renegade',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53286': {
+        'id': 'SCES53286',
+        'title': 'Jak X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50361': {
+        'id': 'SCES50361',
+        'title': 'Jak and Daxter - The Precursor Legacy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51333': {
+        'id': 'SLES51333',
+        'title': "James Cameron's Dark Angel",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53682': {
+        'id': 'SLES53682',
+        'title': 'James Pond - Codename - RoboCod',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54170': {
+        'id': 'SLES54170',
+        'title': 'Jaws Unleashed',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50209': {
+        'id': 'SLES50209',
+        'title': 'Jeremy McGrath Supercross World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51971': {
+        'id': 'SCES51971',
+        'title': 'Jet Li - Rise to Honour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50552': {
+        'id': 'SLES50552',
+        'title': 'Jet Ski Riders',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52230': {
+        'id': 'SLES52230',
+        'title': "Jim Henson's Muppets Party Cruise",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54671': {
+        'id': 'SLES54671',
+        'title': 'Johnny Bravo in the Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51649': {
+        'id': 'SLES51649',
+        'title': 'Judge Dredd - Dredd vs. Death',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51650': {
+        'id': 'SLES51650',
+        'title': 'Judge Dredd - Dredd vs. Death',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53044': {
+        'id': 'SLES53044',
+        'title': 'Juiced',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53151': {
+        'id': 'SLES53151',
+        'title': 'Juiced',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54436': {
+        'id': 'SLES54436',
+        'title': 'Jumanji',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55129': {
+        'id': 'SLES55129',
+        'title': "Jumper - Griffin's Story",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51354': {
+        'id': 'SLES51354',
+        'title': 'Jurassic Park - Operation Genesis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54137': {
+        'id': 'SLES54137',
+        'title': 'Just Cause',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54200': {
+        'id': 'SLES54200',
+        'title': 'Just Cause',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54423': {
+        'id': 'SLES54423',
+        'title': 'Justice League Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54694': {
+        'id': 'SLES54694',
+        'title': 'K-1 World GP',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51998': {
+        'id': 'SLES51998',
+        'title': 'Kao the Kangaroo - Round 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51200': {
+        'id': 'SLES51200',
+        'title': "Kelly Slater's Pro Surfer",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51201': {
+        'id': 'SLES51201',
+        'title': "Kelly Slater's Pro Surfer",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50114': {
+        'id': 'SLES50114',
+        'title': 'Kengo - Master of Bushido',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50018': {
+        'id': 'SLES50018',
+        'title': 'Kessen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50019': {
+        'id': 'SLES50019',
+        'title': 'Kessen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50020': {
+        'id': 'SLES50020',
+        'title': 'Kessen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52124': {
+        'id': 'SCES52124',
+        'title': 'Kill Switch',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53366': {
+        'id': 'SLES53366',
+        'title': 'Killer7',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52004': {
+        'id': 'SCES52004',
+        'title': 'Killzone',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52893': {
+        'id': 'SCES52893',
+        'title': 'Killzone',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52861': {
+        'id': 'SLES52861',
+        'title': 'King Arthur',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50967': {
+        'id': 'SCES50967',
+        'title': 'Kingdom Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50968': {
+        'id': 'SCES50968',
+        'title': 'Kingdom Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50969': {
+        'id': 'SCES50969',
+        'title': 'Kingdom Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50970': {
+        'id': 'SCES50970',
+        'title': 'Kingdom Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50971': {
+        'id': 'SCES50971',
+        'title': 'Kingdom Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54725': {
+        'id': 'SLES54725',
+        'title': 'Kirikou and the Wild Beasts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50354': {
+        'id': 'SCES50354',
+        'title': "Klonoa 2 - Lunatea's Veil",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51011': {
+        'id': 'SLES51011',
+        'title': 'Knight Rider - The Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52448': {
+        'id': 'SLES52448',
+        'title': 'Knights of the Temple - Infernal Crusade',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53645': {
+        'id': 'SLES53645',
+        'title': 'Knights of the Temple II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53411': {
+        'id': 'SLES53411',
+        'title': 'Kuon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50224': {
+        'id': 'SLES50224',
+        'title': 'Kuri Kuri Mix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51473': {
+        'id': 'SLES51473',
+        'title': 'Kya - Dark Lineage',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53419': {
+        'id': 'SLES53419',
+        'title': 'L.A. Rush',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55135': {
+        'id': 'SLES55135',
+        'title': 'LEGO Batman - The Videogame',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55133': {
+        'id': 'SLES55133',
+        'title': 'LEGO Indiana Jones - The Original Adventures',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50443': {
+        'id': 'SLES50443',
+        'title': 'LEGO Racers 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53194': {
+        'id': 'SLES53194',
+        'title': 'LEGO Star Wars - The Video Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54221': {
+        'id': 'SLES54221',
+        'title': 'LEGO Star Wars II - The Original Trilogy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50546': {
+        'id': 'SLES50546',
+        'title': 'LMA Manager 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53149': {
+        'id': 'SLES53149',
+        'title': 'LMA Manager 2005 (SLES-53149)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50229': {
+        'id': 'SLES50229',
+        'title': 'La Fuga de Monkey Island',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52978': {
+        'id': 'SLES52978',
+        'title': 'La Pucelle - Tactics',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54674': {
+        'id': 'SLES54674',
+        'title': 'Lara Croft Tomb Raider - Anniversary',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53908': {
+        'id': 'SLES53908',
+        'title': 'Lara Croft Tomb Raider - Legend',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51227': {
+        'id': 'SLES51227',
+        'title': 'Lara Croft Tomb Raider - The Angel of Darkness',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50841': {
+        'id': 'SLES50841',
+        'title': 'Largo Winch - Empire Under Threat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51093': {
+        'id': 'SLES51093',
+        'title': 'Largo Winch - Empire Under Threat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53231': {
+        'id': 'SLES53231',
+        'title': 'Le Avventure di Lupin III - Il Tesoro del Re Stregone',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54973': {
+        'id': 'SLES54973',
+        'title': "Le Avventure di Lupin III - Lupin la Morte, Zenigata l'Amore",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53708': {
+        'id': 'SLES53708',
+        'title': "Le Cronache di Narnia - Il leone, la strega e l'armadio",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50131': {
+        'id': 'SLES50131',
+        'title': 'Le Mans 24 Hours',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53968': {
+        'id': 'SLES53968',
+        'title': 'Le Parrain',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52019': {
+        'id': 'SLES52019',
+        'title': 'Le Seigneur des Anneaux - Le Retour du Roi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52802': {
+        'id': 'SLES52802',
+        'title': 'Le Seigneur des Anneaux - Le Tiers Age',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51253': {
+        'id': 'SLES51253',
+        'title': 'Le Seigneur des Anneaux - Les Deux Tours',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50570': {
+        'id': 'SLES50570',
+        'title': 'Le Tour de France',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51488': {
+        'id': 'SLES51488',
+        'title': 'Le Tour de France - 1903-2003 - Centenary Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50196': {
+        'id': 'SLES50196',
+        'title': 'Legacy of Kain - Soul Reaver 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50891': {
+        'id': 'SLES50891',
+        'title': 'Legaia 2 - Duel Saga',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52931': {
+        'id': 'SLES52931',
+        'title': 'Legend of Kay',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55123': {
+        'id': 'SLES55123',
+        'title': 'Legend of Sayuki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54313': {
+        'id': 'SLES54313',
+        'title': 'Legend of the Dragon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50273': {
+        'id': 'SLES50273',
+        'title': 'Legion - The Legend of Excalibur',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52641': {
+        'id': 'SLES52641',
+        'title': 'Leisure Suit Larry - Magna Cum Laude',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52642': {
+        'id': 'SLES52642',
+        'title': 'Leisure Suit Larry - Magna Cum Laude',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52643': {
+        'id': 'SLES52643',
+        'title': 'Leisure Suit Larry - Magna Cum Laude',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52644': {
+        'id': 'SLES52644',
+        'title': 'Leisure Suit Larry - Magna Cum Laude',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52645': {
+        'id': 'SLES52645',
+        'title': 'Leisure Suit Larry - Magna Cum Laude',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54145': {
+        'id': 'SCES54145',
+        'title': 'Lemmings',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52809': {
+        'id': 'SLES52809',
+        'title': 'Lemony Snicket - Raetselhafte Ereignisse',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52810': {
+        'id': 'SLES52810',
+        'title': 'Lemony Snicket Una Serie di Sfortunati Eventi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52807': {
+        'id': 'SLES52807',
+        'title': "Lemony Snicket's A Series of Unfortunate Events",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52015': {
+        'id': 'SLES52015',
+        'title': 'Les Chevaliers de Baphomet - Le Manuscrit de Voynich',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52808': {
+        'id': 'SLES52808',
+        'title': "Les Desastreuses Aventures des Orphelins Baudelaire - D'Apres Lemony Snicket",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54151': {
+        'id': 'SLES54151',
+        'title': "Let's Make a Soccer Team!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55136': {
+        'id': 'SLES55136',
+        'title': "Let's Ride! Silver Buckle Stables",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54931': {
+        'id': 'SLES54931',
+        'title': 'Looney Tunes - Acme Arsenal',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51794': {
+        'id': 'SLES51794',
+        'title': 'Looney Tunes - Back in Action',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50487': {
+        'id': 'SLES50487',
+        'title': 'Looney Tunes - Space Race',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50230': {
+        'id': 'SLES50230',
+        'title': 'Lotus Challenge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50248': {
+        'id': 'SLES50248',
+        'title': 'MDK2 - Armageddon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51653': {
+        'id': 'SLES51653',
+        'title': 'Mace Griffin - Bounty Hunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51654': {
+        'id': 'SLES51654',
+        'title': 'Mace Griffin - Bounty Hunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50770': {
+        'id': 'SLES50770',
+        'title': 'Mad Maestro!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54812': {
+        'id': 'SLES54812',
+        'title': 'Madden NFL 08',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54443': {
+        'id': 'SLES54443',
+        'title': 'Made Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54444': {
+        'id': 'SLES54444',
+        'title': 'Made Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53949': {
+        'id': 'SLES53949',
+        'title': 'Magna Carta - Lacrime di Sangue',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53767': {
+        'id': 'SLES53767',
+        'title': 'Magna Carta - Les Larmes de Sang',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53483': {
+        'id': 'SLES53483',
+        'title': 'Magna Carta - Tears of Blood',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53690': {
+        'id': 'SLES53690',
+        'title': 'Makai Kingdom - Chronicles of the Sacred Tome',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51058': {
+        'id': 'SLES51058',
+        'title': 'Maken Shao - Demon Sword',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54839': {
+        'id': 'SLES54839',
+        'title': 'Mambo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50550': {
+        'id': 'SLES50550',
+        'title': 'Manager de Liga 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52698': {
+        'id': 'SLES52698',
+        'title': 'Manchester United Manager 2005',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52023': {
+        'id': 'SLES52023',
+        'title': 'Manhunt',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54819': {
+        'id': 'SLES54819',
+        'title': 'Manhunt 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53189': {
+        'id': 'SLES53189',
+        'title': 'Maniac Mole',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53459': {
+        'id': 'SLES53459',
+        'title': "Marc Ecko's Getting Up - Contents Under Pressure",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54123': {
+        'id': 'SLES54123',
+        'title': 'Marvel - Ultimate Alliance',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55572': {
+        'id': 'SLES55572',
+        'title': 'Marvel Super Hero Squad',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51174': {
+        'id': 'SLES51174',
+        'title': 'Marvel vs. Capcom 2 - New Age of Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52446': {
+        'id': 'SLES52446',
+        'title': 'Mashed - Drive to Survive',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53152': {
+        'id': 'SLES53152',
+        'title': 'Mashed - Fully Loaded',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52295': {
+        'id': 'SLES52295',
+        'title': 'Master Chess',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50906': {
+        'id': 'SLES50906',
+        'title': 'Master Rallye',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53035': {
+        'id': 'SLES53035',
+        'title': 'Masters of the Universe - He-Man - Defender of Grayskull',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50870': {
+        'id': 'SLES50870',
+        'title': "Mat Hoffman's Pro BMX 2",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50871': {
+        'id': 'SLES50871',
+        'title': "Mat Hoffman's Pro BMX 2",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50872': {
+        'id': 'SLES50872',
+        'title': "Mat Hoffman's Pro BMX 2",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50325': {
+        'id': 'SLES50325',
+        'title': 'Max Payne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50326': {
+        'id': 'SLES50326',
+        'title': 'Max Payne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51954': {
+        'id': 'SLES51954',
+        'title': 'Max Payne 2 - The Fall of Max Payne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52256': {
+        'id': 'SLES52256',
+        'title': 'Max Payne 2 - The Fall of Max Payne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52336': {
+        'id': 'SLES52336',
+        'title': 'Max Payne 2 - The Fall of Max Payne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52337': {
+        'id': 'SLES52337',
+        'title': 'Max Payne 2 - The Fall of Max Payne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52338': {
+        'id': 'SLES52338',
+        'title': 'Max Payne 2 - The Fall of Max Payne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53465': {
+        'id': 'SLES53465',
+        'title': 'Maxi Quiz du Foot Francais',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50703': {
+        'id': 'SLES50703',
+        'title': 'Maximo - Ghosts to Glory',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51759': {
+        'id': 'SLES51759',
+        'title': 'Maximo vs Army of Zin',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52710': {
+        'id': 'SLES52710',
+        'title': "McFarlane's Evil Prophecy",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50845': {
+        'id': 'SLES50845',
+        'title': 'Medal of Honor - En Premiere Ligne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53332': {
+        'id': 'SLES53332',
+        'title': 'Medal of Honor - European Assault',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53334': {
+        'id': 'SLES53334',
+        'title': 'Medal of Honor - European Assault',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53335': {
+        'id': 'SLES53335',
+        'title': 'Medal of Honor - European Assault',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53336': {
+        'id': 'SLES53336',
+        'title': 'Medal of Honor - European Assault',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50684': {
+        'id': 'SLES50684',
+        'title': 'Medal of Honor - Frontline',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50846': {
+        'id': 'SLES50846',
+        'title': 'Medal of Honor - Frontline',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53333': {
+        'id': 'SLES53333',
+        'title': 'Medal of Honor - Les Faucons de Guerre',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51873': {
+        'id': 'SLES51873',
+        'title': 'Medal of Honor - Rising Sun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51875': {
+        'id': 'SLES51875',
+        'title': 'Medal of Honor - Rising Sun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51876': {
+        'id': 'SLES51876',
+        'title': 'Medal of Honor - Rising Sun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51874': {
+        'id': 'SLES51874',
+        'title': 'Medal of Honor - Soleil Levant',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52832': {
+        'id': 'SLES52832',
+        'title': 'Mega Man X - Command Mission',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51885': {
+        'id': 'SLES51885',
+        'title': 'Mega Man X7',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52988': {
+        'id': 'SLES52988',
+        'title': 'Mega Man X8',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50789': {
+        'id': 'SLES50789',
+        'title': 'Men in Black II - Alien Escape',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52588': {
+        'id': 'SLES52588',
+        'title': 'Mercenaries',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52589': {
+        'id': 'SLES52589',
+        'title': 'Mercenaries',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52590': {
+        'id': 'SLES52590',
+        'title': 'Mercenaries',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53008': {
+        'id': 'SLES53008',
+        'title': 'Mercenaries',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54432': {
+        'id': 'SLES54432',
+        'title': 'Mercury Meltdown Remix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50383': {
+        'id': 'SLES50383',
+        'title': 'Metal Gear Solid 2 - Sons of Liberty',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50384': {
+        'id': 'SLES50384',
+        'title': 'Metal Gear Solid 2 - Sons of Liberty',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50385': {
+        'id': 'SLES50385',
+        'title': 'Metal Gear Solid 2 - Sons of Liberty',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82013': {
+        'id': 'SLES82013',
+        'title': 'Metal Gear Solid 3 - Snake Eater',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82024': {
+        'id': 'SLES82024',
+        'title': 'Metal Gear Solid 3 - Snake Eater',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82026': {
+        'id': 'SLES82026',
+        'title': 'Metal Gear Solid 3 - Snake Eater',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82032': {
+        'id': 'SLES82032',
+        'title': 'Metal Gear Solid 3 - Snake Eater',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82051': {
+        'id': 'SLES82051',
+        'title': 'Metal Gear Solid 3 - Subsistence (Existence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82053': {
+        'id': 'SLES82053',
+        'title': 'Metal Gear Solid 3 - Subsistence (Existence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82043': {
+        'id': 'SLES82043',
+        'title': 'Metal Gear Solid 3 - Subsistence (Persistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82045': {
+        'id': 'SLES82045',
+        'title': 'Metal Gear Solid 3 - Subsistence (Persistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82047': {
+        'id': 'SLES82047',
+        'title': 'Metal Gear Solid 3 - Subsistence (Persistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82049': {
+        'id': 'SLES82049',
+        'title': 'Metal Gear Solid 3 - Subsistence (Persistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82042': {
+        'id': 'SLES82042',
+        'title': 'Metal Gear Solid 3 - Subsistence (Subsistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82044': {
+        'id': 'SLES82044',
+        'title': 'Metal Gear Solid 3 - Subsistence (Subsistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82046': {
+        'id': 'SLES82046',
+        'title': 'Metal Gear Solid 3 - Subsistence (Subsistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82048': {
+        'id': 'SLES82048',
+        'title': 'Metal Gear Solid 3 - Subsistence (Subsistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52599': {
+        'id': 'SLES52599',
+        'title': 'Metal Slug 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53380': {
+        'id': 'SLES53380',
+        'title': 'Metal Slug 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53383': {
+        'id': 'SLES53383',
+        'title': 'Metal Slug 5',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54677': {
+        'id': 'SLES54677',
+        'title': 'Metal Slug Anthology',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51162': {
+        'id': 'SLES51162',
+        'title': 'Metropolismania',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52853': {
+        'id': 'SLES52853',
+        'title': 'Miami Vice',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53073': {
+        'id': 'SLES53073',
+        'title': 'Michigan - Report from Hell',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50820': {
+        'id': 'SLES50820',
+        'title': 'Micro Machines',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53668': {
+        'id': 'SLES53668',
+        'title': 'Micro Machines V4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50054': {
+        'id': 'SLES50054',
+        'title': 'Midnight Club - Street Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50071': {
+        'id': 'SLES50071',
+        'title': 'Midnight Club - Street Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51054': {
+        'id': 'SLES51054',
+        'title': 'Midnight Club II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51230': {
+        'id': 'SLES51230',
+        'title': 'Minority Report - Everybody Runs',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51318': {
+        'id': 'SLES51318',
+        'title': 'Minority Report - Everybody Runs',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51317': {
+        'id': 'SLES51317',
+        'title': 'Minority Report - Le Futur vous Rattrape',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52001': {
+        'id': 'SLES52001',
+        'title': 'Mission - Impossible - Operation Surma',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54215': {
+        'id': 'SLES54215',
+        'title': 'Monster House',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54216': {
+        'id': 'SLES54216',
+        'title': 'Monster House',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54217': {
+        'id': 'SLES54217',
+        'title': 'Monster House',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52707': {
+        'id': 'SLES52707',
+        'title': 'Monster Hunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54110': {
+        'id': 'SLES54110',
+        'title': 'Monster Trux Arenas - Special Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55122': {
+        'id': 'SLES55122',
+        'title': 'Moorhuhn Fun Kart 2008',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54156': {
+        'id': 'SLES54156',
+        'title': 'Mortal Kombat - Armageddon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50717': {
+        'id': 'SLES50717',
+        'title': 'Mortal Kombat - Deadly Alliance',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51439': {
+        'id': 'SLES51439',
+        'title': 'Mortal Kombat - Deadly Alliance',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52705': {
+        'id': 'SLES52705',
+        'title': 'Mortal Kombat - Deception',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52706': {
+        'id': 'SLES52706',
+        'title': 'Mortal Kombat - Deception',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53524': {
+        'id': 'SLES53524',
+        'title': 'Mortal Kombat - Shaolin Monks',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53525': {
+        'id': 'SLES53525',
+        'title': 'Mortal Kombat - Shaolin Monks',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50034': {
+        'id': 'SCES50034',
+        'title': 'MotoGP',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54959': {
+        'id': 'SLES54959',
+        'title': 'MotoGP 07',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50409': {
+        'id': 'SCES50409',
+        'title': 'MotoGP 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50982': {
+        'id': 'SCES50982',
+        'title': 'MotoGP 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52518': {
+        'id': 'SLES52518',
+        'title': 'Motorbike King',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54728': {
+        'id': 'SLES54728',
+        'title': 'Mountain Bike Adrenaline featuring Salomon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52525': {
+        'id': 'SLES52525',
+        'title': 'Mouse Trophy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50769': {
+        'id': 'SLES50769',
+        'title': 'Mr Moskeeto',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55203': {
+        'id': 'SLES55203',
+        'title': 'My Horse & Me 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51358': {
+        'id': 'SLES51358',
+        'title': 'Mystic Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51476': {
+        'id': 'SLES51476',
+        'title': 'Mystic Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51477': {
+        'id': 'SLES51477',
+        'title': 'Mystic Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53452': {
+        'id': 'SLES53452',
+        'title': 'Myth Makers - Trixie in Toyland',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55659': {
+        'id': 'SLES55659',
+        'title': 'NBA 2K12',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50219': {
+        'id': 'SLES50219',
+        'title': 'NBA Street',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55338': {
+        'id': 'SLES55338',
+        'title': 'NHL 09',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54211': {
+        'id': 'SLES54211',
+        'title': 'NHL 2K7',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52964': {
+        'id': 'SLES52964',
+        'title': 'Nanobreaker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54163': {
+        'id': 'SLES54163',
+        'title': 'Naruto - Ultimate Ninja',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54878': {
+        'id': 'SLES54878',
+        'title': 'Naruto - Ultimate Ninja 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54727': {
+        'id': 'SLES54727',
+        'title': 'Naruto - Uzumaki Chronicles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54508': {
+        'id': 'SLES54508',
+        'title': 'National Geographic - Safari Adventures Africa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54321': {
+        'id': 'SLES54321',
+        'title': 'Need for Speed - Carbon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54322': {
+        'id': 'SLES54322',
+        'title': 'Need for Speed - Carbon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54323': {
+        'id': 'SLES54323',
+        'title': 'Need for Speed - Carbon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54324': {
+        'id': 'SLES54324',
+        'title': 'Need for Speed - Carbon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54493': {
+        'id': 'SLES54493',
+        'title': 'Need for Speed - Carbon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54402': {
+        'id': 'SLES54402',
+        'title': "Need for Speed - Carbon - Collector's Edition",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54492': {
+        'id': 'SLES54492',
+        'title': "Need for Speed - Carbon - Collector's Edition",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50731': {
+        'id': 'SLES50731',
+        'title': 'Need for Speed - Hot Pursuit 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55006': {
+        'id': 'SLES55006',
+        'title': 'Need for Speed - ProStreet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51967': {
+        'id': 'SLES51967',
+        'title': 'Need for Speed - Underground',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52510': {
+        'id': 'SLES52510',
+        'title': 'Neo Contra',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54395': {
+        'id': 'SLES54395',
+        'title': 'NeoGeo Battle Coliseum',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54377': {
+        'id': 'SLES54377',
+        'title': 'Nick - Der tierisch verrueckte Bauernhof',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55263': {
+        'id': 'SLES55263',
+        'title': 'Nickelodeon Avatar - The Legend of Aang - Into the Inferno',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55264': {
+        'id': 'SLES55264',
+        'title': 'Nickelodeon Avatar - The Legend of Aang - Into the Inferno',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52986': {
+        'id': 'SLES52986',
+        'title': 'Nickelodeon Bob Esponja - La Pelicula',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53623': {
+        'id': 'SLES53623',
+        'title': "Nickelodeon Bob L'eponge - La Bataille de Bikini Bottom",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55281': {
+        'id': 'SLES55281',
+        'title': 'Nickelodeon Dora the Explorer - Dora Saves the Snow Princess',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55468': {
+        'id': 'SLES55468',
+        'title': 'Nickelodeon Dora the Explorer - Dora Saves the Snow Princess',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52700': {
+        'id': 'SLES52700',
+        'title': 'Nickelodeon Jimmy Neutron - Boy Genius - Attack of the Twonkies',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51312': {
+        'id': 'SLES51312',
+        'title': 'Nickelodeon Les Razmoket - La Rancon Royale',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51385': {
+        'id': 'SLES51385',
+        'title': 'Nickelodeon Rugrats - Rescate Real',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51311': {
+        'id': 'SLES51311',
+        'title': 'Nickelodeon Rugrats - Royal Ransom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52897': {
+        'id': 'SLES52897',
+        'title': 'Nickelodeon SpongeBob - Il Film',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53497': {
+        'id': 'SLES53497',
+        'title': 'Nickelodeon SpongeBob Schwammkopf - Film ab!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51970': {
+        'id': 'SLES51970',
+        'title': 'Nickelodeon SpongeBob Schwammkopf - Schlacht um Bikini Bottom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51968': {
+        'id': 'SLES51968',
+        'title': 'Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54400': {
+        'id': 'SLES54400',
+        'title': 'Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52907': {
+        'id': 'SLES52907',
+        'title': "Nickelodeon SpongeBob SquarePants - Movin' with Friends",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51285': {
+        'id': 'SLES51285',
+        'title': 'Nickelodeon SpongeBob SquarePants - Revenge of the Flying Dutchman',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53563': {
+        'id': 'SLES53563',
+        'title': 'Nickelodeon SpongeBob SquarePants and Friends Unite!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55271': {
+        'id': 'SLES55271',
+        'title': 'Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55272': {
+        'id': 'SLES55272',
+        'title': 'Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55402': {
+        'id': 'SLES55402',
+        'title': 'Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53500': {
+        'id': 'SLES53500',
+        'title': 'Nickelodeon Svampbob Fyrkant - Tystnad, Tagning, Tvaettsvamp!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53695': {
+        'id': 'SLES53695',
+        'title': 'Nickelodeon Tak - The Great Juju Challenge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53036': {
+        'id': 'SLES53036',
+        'title': 'Nickelodeon Tak 2 - The Staff of Dreams',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53129': {
+        'id': 'SLES53129',
+        'title': 'Nickelodeon Tak 2 - The Staff of Dreams',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55376': {
+        'id': 'SLES55376',
+        'title': 'Nickelodeon Tak and the Guardians of Gross',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52895': {
+        'id': 'SLES52895',
+        'title': 'Nickelodeon The SpongeBob SquarePants Movie',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52896': {
+        'id': 'SLES52896',
+        'title': 'Nickelodeon The SpongeBob SquarePants Movie',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54990': {
+        'id': 'SLES54990',
+        'title': 'Nicktoons - Attack of the Toybots',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53634': {
+        'id': 'SLES53634',
+        'title': 'Nicktoons Unite!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52238': {
+        'id': 'SLES52238',
+        'title': 'Nightshade',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50889': {
+        'id': 'SCES50889',
+        'title': 'Ninja Assault',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54311': {
+        'id': 'SLES54311',
+        'title': 'Noddy and the Magic Book',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52508': {
+        'id': 'SLES52508',
+        'title': 'Obscure',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52737': {
+        'id': 'SLES52737',
+        'title': 'Obscure',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52738': {
+        'id': 'SLES52738',
+        'title': 'Obscure',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53322': {
+        'id': 'SLES53322',
+        'title': 'Obscure',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54782': {
+        'id': 'SLES54782',
+        'title': 'Obscure II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55110': {
+        'id': 'SLES55110',
+        'title': 'Odin Sphere',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52731': {
+        'id': 'SLES52731',
+        'title': 'One Piece - Round the Land!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50134': {
+        'id': 'SLES50134',
+        'title': 'Oni',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50176': {
+        'id': 'SLES50176',
+        'title': 'Oni',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50177': {
+        'id': 'SLES50177',
+        'title': 'Oni',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50178': {
+        'id': 'SLES50178',
+        'title': 'Oni',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50179': {
+        'id': 'SLES50179',
+        'title': 'Oni',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51913': {
+        'id': 'SLES51913',
+        'title': 'Onimusha - Blade Warriors',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50247': {
+        'id': 'SLES50247',
+        'title': 'Onimusha - Warlords',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50978': {
+        'id': 'SLES50978',
+        'title': "Onimusha 2 - Samurai's Destiny",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51914': {
+        'id': 'SLES51914',
+        'title': 'Onimusha 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54439': {
+        'id': 'SLES54439',
+        'title': 'Ookami',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54310': {
+        'id': 'SLES54310',
+        'title': 'Open Season',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54316': {
+        'id': 'SLES54316',
+        'title': 'Open Season',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50062': {
+        'id': 'SLES50062',
+        'title': 'Orphen - Scion of Sorcery',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53998': {
+        'id': 'SLES53998',
+        'title': 'OutRun 2006 - Coast 2 Coast',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51926': {
+        'id': 'SLES51926',
+        'title': 'Outlaw Golf',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53490': {
+        'id': 'SLES53490',
+        'title': 'Outlaw Tennis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55018': {
+        'id': 'SLES55018',
+        'title': 'P3 - Persona 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55656': {
+        'id': 'SLES55656',
+        'title': 'PES 2012 - Pro Evolution Soccer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55657': {
+        'id': 'SLES55657',
+        'title': 'PES 2012 - Pro Evolution Soccer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55658': {
+        'id': 'SLES55658',
+        'title': 'PES 2012 - Pro Evolution Soccer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55666': {
+        'id': 'SLES55666',
+        'title': 'PES 2013 - Pro Evolution Soccer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55667': {
+        'id': 'SLES55667',
+        'title': 'PES 2013 - Pro Evolution Soccer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55668': {
+        'id': 'SLES55668',
+        'title': 'PES 2013 - Pro Evolution Soccer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55669': {
+        'id': 'SLES55669',
+        'title': 'PES 2013 - Pro Evolution Soccer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50408': {
+        'id': 'SCES50408',
+        'title': 'PaRappa the Rapper 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50888': {
+        'id': 'SCES50888',
+        'title': 'Pac-Man World 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53959': {
+        'id': 'SLES53959',
+        'title': 'Pac-Man World 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54665': {
+        'id': 'SLES54665',
+        'title': 'Paddington Bear',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54713': {
+        'id': 'SLES54713',
+        'title': 'Pajeczyna Charlotty',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50212': {
+        'id': 'SLES50212',
+        'title': 'Paris-Dakar Rally',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54458': {
+        'id': 'SLES54458',
+        'title': 'Party Carnival',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53703': {
+        'id': 'SLES53703',
+        'title': "Peter Jackson's King Kong - The Official Game of the Movie",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53704': {
+        'id': 'SLES53704',
+        'title': "Peter Jackson's King Kong - The Official Game of the Movie",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53705': {
+        'id': 'SLES53705',
+        'title': "Peter Jackson's King Kong - The Official Game of the Movie",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54308': {
+        'id': 'SLES54308',
+        'title': 'Phantasy Star Universe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53099': {
+        'id': 'SLES53099',
+        'title': 'Pilot Down - Behind Enemy Lines',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52863': {
+        'id': 'SLES52863',
+        'title': 'Pinball Hall of Fame - The Gottlieb Collection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50680': {
+        'id': 'SLES50680',
+        'title': 'Pirates - The Legend of Black Kat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52752': {
+        'id': 'SLES52752',
+        'title': 'Playboy - The Mansion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50285': {
+        'id': 'SLES50285',
+        'title': 'Police 24-7',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50263': {
+        'id': 'SLES50263',
+        'title': 'Portal Runner',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50444': {
+        'id': 'SLES50444',
+        'title': 'Portal Runner',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53091': {
+        'id': 'SLES53091',
+        'title': 'Predator - Concrete Jungle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51918': {
+        'id': 'SLES51918',
+        'title': 'Prince of Persia - The Sands of Time',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53777': {
+        'id': 'SLES53777',
+        'title': 'Prince of Persia - The Two Thrones',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52822': {
+        'id': 'SLES52822',
+        'title': 'Prince of Persia - Warrior Within',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50397': {
+        'id': 'SLES50397',
+        'title': 'Prisoner of War',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50637': {
+        'id': 'SLES50637',
+        'title': 'Pro Rally 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50752': {
+        'id': 'SLES50752',
+        'title': 'Pro Tennis WTA Tour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52859': {
+        'id': 'SLES52859',
+        'title': 'Project - Snowblind',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53124': {
+        'id': 'SLES53124',
+        'title': 'Project - Snowblind',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50821': {
+        'id': 'SLES50821',
+        'title': 'Project Zero',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53825': {
+        'id': 'SLES53825',
+        'title': 'Project Zero 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52384': {
+        'id': 'SLES52384',
+        'title': 'Project Zero II - Crimson Butterfly',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50721': {
+        'id': 'SLES50721',
+        'title': 'Pryzm - Chapter One - The Dark Unicorn',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52702': {
+        'id': 'SLES52702',
+        'title': 'Psi-Ops - The Mindgate Conspiracy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52703': {
+        'id': 'SLES52703',
+        'title': 'Psi-Ops - The Mindgate Conspiracy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53830': {
+        'id': 'SLES53830',
+        'title': 'Psychonauts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51951': {
+        'id': 'SLES51951',
+        'title': 'Puyo Pop Fever',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52309': {
+        'id': 'SLES52309',
+        'title': 'R-Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51952': {
+        'id': 'SLES51952',
+        'title': 'R-Type Final',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50077': {
+        'id': 'SLES50077',
+        'title': 'RC Revenge Pro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51345': {
+        'id': 'SLES51345',
+        'title': 'RLH - Run Like Hell',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52190': {
+        'id': 'SLES52190',
+        'title': 'RPM Tuning',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55378': {
+        'id': 'SLES55378',
+        'title': 'RTL Biathlon 2009',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55408': {
+        'id': 'SLES55408',
+        'title': 'RTL Biathlon 2009',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51069': {
+        'id': 'SLES51069',
+        'title': 'RTX - Red Rock',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51070': {
+        'id': 'SLES51070',
+        'title': 'RTX - Red Rock',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51071': {
+        'id': 'SLES51071',
+        'title': 'RTX - Red Rock',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51072': {
+        'id': 'SLES51072',
+        'title': 'RTX - Red Rock',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51073': {
+        'id': 'SLES51073',
+        'title': 'RTX - Red Rock',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50763': {
+        'id': 'SLES50763',
+        'title': 'Rally Championship',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53800': {
+        'id': 'SLES53800',
+        'title': 'Rampage - Total Destruction',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCED50916': {
+        'id': 'SCED50916',
+        'title': 'Ratchet & Clank',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50916': {
+        'id': 'SCES50916',
+        'title': 'Ratchet & Clank',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54587': {
+        'id': 'SLES54587',
+        'title': 'Raw Danger',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54307': {
+        'id': 'SLES54307',
+        'title': 'Rayman - Raving Rabbids',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51222': {
+        'id': 'SLES51222',
+        'title': 'Rayman 3 - Hoodlum Havoc',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55465': {
+        'id': 'SLES55465',
+        'title': 'Real Madrid - The Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53413': {
+        'id': 'SLES53413',
+        'title': 'Rebel Raiders - Operation Nighthawk',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52478': {
+        'id': 'SLES52478',
+        'title': 'Red Dead Revolver',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50277': {
+        'id': 'SLES50277',
+        'title': 'Red Faction',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50278': {
+        'id': 'SLES50278',
+        'title': 'Red Faction',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50279': {
+        'id': 'SLES50279',
+        'title': 'Red Faction',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53025': {
+        'id': 'SLES53025',
+        'title': 'Red Ninja - End of Honour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53026': {
+        'id': 'SLES53026',
+        'title': 'Red Ninja - End of Honour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50873': {
+        'id': 'SLES50873',
+        'title': 'Reign of Fire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53775': {
+        'id': 'SLES53775',
+        'title': 'Reservoir Dogs',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50306': {
+        'id': 'SLES50306',
+        'title': 'Resident Evil - Code - Veronica X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51448': {
+        'id': 'SLES51448',
+        'title': 'Resident Evil - Dead Aim',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51589': {
+        'id': 'SLES51589',
+        'title': 'Resident Evil - Outbreak',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50650': {
+        'id': 'SLES50650',
+        'title': 'Resident Evil - Survivor 2 - Code - Veronica',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53702': {
+        'id': 'SLES53702',
+        'title': 'Resident Evil 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53756': {
+        'id': 'SLES53756',
+        'title': 'Resident Evil 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51449': {
+        'id': 'SLES51449',
+        'title': 'Return to Castle Wolfenstein - Operation Resurrection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51450': {
+        'id': 'SLES51450',
+        'title': 'Return to Castle Wolfenstein - Operation Resurrection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51522': {
+        'id': 'SLES51522',
+        'title': 'Return to Castle Wolfenstein - Operation Resurrection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52466': {
+        'id': 'SLES52466',
+        'title': 'Ribbit King',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54125': {
+        'id': 'SLES54125',
+        'title': "Robin Hood's Quest",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51374': {
+        'id': 'SLES51374',
+        'title': 'RoboCop',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53052': {
+        'id': 'SLES53052',
+        'title': 'Robots',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51208': {
+        'id': 'SLES51208',
+        'title': 'Rocky',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50547': {
+        'id': 'SLES50547',
+        'title': 'Roger Lemerre - La Selection des Champions 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54552': {
+        'id': 'SCES54552',
+        'title': 'Rogue Galaxy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52002': {
+        'id': 'SLES52002',
+        'title': 'Rogue Ops',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52921': {
+        'id': 'SLES52921',
+        'title': 'Rogue Trooper',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53310': {
+        'id': 'SCES53310',
+        'title': 'Roland Garros 2005 - Powered by Smash Court Tennis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55131': {
+        'id': 'SLES55131',
+        'title': 'Roller Coaster Funfare',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50220': {
+        'id': 'SLES50220',
+        'title': 'Rugby',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50275': {
+        'id': 'SLES50275',
+        'title': 'Rugby',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54218': {
+        'id': 'SLES54218',
+        'title': 'Rule of Rose',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52535': {
+        'id': 'SLES52535',
+        'title': 'Rumble Roses',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51223': {
+        'id': 'SLES51223',
+        'title': 'Runabout 3 - Neo Age',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50335': {
+        'id': 'SLES50335',
+        'title': 'Rune - Viking Warlord',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50336': {
+        'id': 'SLES50336',
+        'title': 'Rune - Viking Warlord',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50337': {
+        'id': 'SLES50337',
+        'title': 'Rune - Viking Warlord',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50338': {
+        'id': 'SLES50338',
+        'title': 'Rune - Viking Warlord',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50339': {
+        'id': 'SLES50339',
+        'title': 'Rune - Viking Warlord',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51445': {
+        'id': 'SLES51445',
+        'title': 'Rygar - The Legendary Adventure',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54705': {
+        'id': 'SLES54705',
+        'title': 'SBK-07 - Superbike World Championship',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53065': {
+        'id': 'SLES53065',
+        'title': 'SNK vs. Capcom - SVC Chaos',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50928': {
+        'id': 'SCES50928',
+        'title': 'SOCOM - U.S. Navy SEALs',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51618': {
+        'id': 'SCES51618',
+        'title': 'SOCOM - U.S. Navy SEALs',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51301': {
+        'id': 'SLES51301',
+        'title': 'SOS - The Final Escape',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53045': {
+        'id': 'SLES53045',
+        'title': 'SRS - Street Racing Syndicate',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50030': {
+        'id': 'SLES50030',
+        'title': 'SSX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54162': {
+        'id': 'SLES54162',
+        'title': 'Saint Seiya - The Hades',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53201': {
+        'id': 'SLES53201',
+        'title': 'Saint Seiya - The Sanctuary',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53872': {
+        'id': 'SLES53872',
+        'title': 'Samurai Aces',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52479': {
+        'id': 'SLES52479',
+        'title': 'Samurai Jack - The Shadow of Aku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53059': {
+        'id': 'SLES53059',
+        'title': 'Samurai Shodown V',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53234': {
+        'id': 'SLES53234',
+        'title': 'Samurai Western',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52917': {
+        'id': 'SLES52917',
+        'title': 'Scaler',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52918': {
+        'id': 'SLES52918',
+        'title': 'Scaler',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54182': {
+        'id': 'SLES54182',
+        'title': 'Scarface - The World Is Yours',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54183': {
+        'id': 'SLES54183',
+        'title': 'Scarface - The World Is Yours',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54184': {
+        'id': 'SLES54184',
+        'title': 'Scarface - The World Is Yours',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54271': {
+        'id': 'SLES54271',
+        'title': 'Scarface - The World Is Yours',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54534': {
+        'id': 'SLES54534',
+        'title': 'Scarface - The World Is Yours',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55476': {
+        'id': 'SLES55476',
+        'title': 'Scooby-Doo! First Frights',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51018': {
+        'id': 'SLES51018',
+        'title': 'Scooby-Doo! La Nuit des 100 Frissons',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51883': {
+        'id': 'SLES51883',
+        'title': 'Scooby-Doo! Mystery Mayhem',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51019': {
+        'id': 'SLES51019',
+        'title': 'Scooby-Doo! Nacht der 100 Schrecken',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51017': {
+        'id': 'SLES51017',
+        'title': 'Scooby-Doo! Night of 100 Frights',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53100': {
+        'id': 'SLES53100',
+        'title': 'Scooby-Doo! Unmasked',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55609': {
+        'id': 'SLES55609',
+        'title': 'Scooby-Doo! and the Spooky Swamp',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52670': {
+        'id': 'SLES52670',
+        'title': 'Second Sight',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55496': {
+        'id': 'SCES55496',
+        'title': 'Secret Agent Clank',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51707': {
+        'id': 'SLES51707',
+        'title': 'Secret Weapons over Normandy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51708': {
+        'id': 'SLES51708',
+        'title': 'Secret Weapons over Normandy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51709': {
+        'id': 'SLES51709',
+        'title': 'Secret Weapons over Normandy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51710': {
+        'id': 'SLES51710',
+        'title': 'Secret Weapons over Normandy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51711': {
+        'id': 'SLES51711',
+        'title': 'Secret Weapons over Normandy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51603': {
+        'id': 'SLES51603',
+        'title': 'Seek and Destroy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53461': {
+        'id': 'SLES53461',
+        'title': 'Sega Classics Collection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53810': {
+        'id': 'SLES53810',
+        'title': 'Sensible Soccer 2006',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52825': {
+        'id': 'SLES52825',
+        'title': 'Serie de Catastroficas Desdichas de Lemony Snicket, Una',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52348': {
+        'id': 'SLES52348',
+        'title': 'Seven Samurai 20XX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50677': {
+        'id': 'SLES50677',
+        'title': 'Shadow Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50822': {
+        'id': 'SLES50822',
+        'title': 'Shadow Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82030': {
+        'id': 'SLES82030',
+        'title': 'Shadow Hearts II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82031': {
+        'id': 'SLES82031',
+        'title': 'Shadow Hearts II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52950': {
+        'id': 'SLES52950',
+        'title': 'Shadow of Rome',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53326': {
+        'id': 'SCES53326',
+        'title': 'Shadow of the Colossus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53542': {
+        'id': 'SLES53542',
+        'title': 'Shadow the Hedgehog',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55452': {
+        'id': 'SLES55452',
+        'title': 'Shaun White Snowboarding',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53363': {
+        'id': 'SLES53363',
+        'title': "Shin Megami Tensei - Lucifer's Call",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51428': {
+        'id': 'SCES51428',
+        'title': 'Shinobi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53931': {
+        'id': 'SCES53931',
+        'title': 'Shinobido - Way of the Ninja',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53579': {
+        'id': 'SLES53579',
+        'title': "Shonen Jump's One Piece - Grand Battle",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53353': {
+        'id': 'SLES53353',
+        'title': "Shonen Jump's Shaman King - Power of Spirit",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55569': {
+        'id': 'SLES55569',
+        'title': 'Silent Hill - Shattered Memories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50382': {
+        'id': 'SLES50382',
+        'title': 'Silent Hill 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51156': {
+        'id': 'SLES51156',
+        'title': "Silent Hill 2 - Director's Cut",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51434': {
+        'id': 'SLES51434',
+        'title': 'Silent Hill 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52445': {
+        'id': 'SLES52445',
+        'title': 'Silent Hill 4 - The Room',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55147': {
+        'id': 'SLES55147',
+        'title': 'Silent Hill Origins',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50037': {
+        'id': 'SLES50037',
+        'title': 'Silent Scope',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50284': {
+        'id': 'SLES50284',
+        'title': 'Silent Scope 2 - Fatal Judgement',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50193': {
+        'id': 'SLES50193',
+        'title': 'Silpheed - The Lost Planet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52268': {
+        'id': 'SCES52268',
+        'title': 'SingStar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52299': {
+        'id': 'SCES52299',
+        'title': 'SingStar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52564': {
+        'id': 'SCES52564',
+        'title': 'SingStar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52565': {
+        'id': 'SCES52565',
+        'title': 'SingStar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52566': {
+        'id': 'SCES52566',
+        'title': 'SingStar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53602': {
+        'id': 'SCES53602',
+        'title': "SingStar '80s",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53603': {
+        'id': 'SCES53603',
+        'title': "SingStar '80s",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53604': {
+        'id': 'SCES53604',
+        'title': "SingStar '80s",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53605': {
+        'id': 'SCES53605',
+        'title': "SingStar '80s",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53606': {
+        'id': 'SCES53606',
+        'title': "SingStar '80s",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53607': {
+        'id': 'SCES53607',
+        'title': "SingStar '80s",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53609': {
+        'id': 'SCES53609',
+        'title': "SingStar '80s",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53610': {
+        'id': 'SCES53610',
+        'title': "SingStar '80s",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55439': {
+        'id': 'SCES55439',
+        'title': 'SingStar ABBA',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55176': {
+        'id': 'SCES55176',
+        'title': 'SingStar Amped',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54741': {
+        'id': 'SCES54741',
+        'title': 'SingStar Deutsch Rock-Pop Vol. 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55160': {
+        'id': 'SCES55160',
+        'title': 'SingStar Hottest Hits',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55362': {
+        'id': 'SCES55362',
+        'title': 'SingStar Hottest Hits',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54769': {
+        'id': 'SCES54769',
+        'title': 'SingStar Latino',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55550': {
+        'id': 'SCES55550',
+        'title': 'SingStar Motown',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53183': {
+        'id': 'SCES53183',
+        'title': 'SingStar Pop',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54773': {
+        'id': 'SCES54773',
+        'title': 'SingStar Pop Hits',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55455': {
+        'id': 'SCES55455',
+        'title': 'SingStar Queen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55179': {
+        'id': 'SCES55179',
+        'title': 'SingStar Schlager',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52116': {
+        'id': 'SLES52116',
+        'title': 'Sitting Ducks',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54628': {
+        'id': 'SLES54628',
+        'title': 'Skate Attack',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52973': {
+        'id': 'SLES52973',
+        'title': 'Ski Racing 2005',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50105': {
+        'id': 'SCES50105',
+        'title': 'Sky Odyssey',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50776': {
+        'id': 'SLES50776',
+        'title': 'Slam Tennis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50683': {
+        'id': 'SLES50683',
+        'title': 'Sled Storm',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52529': {
+        'id': 'SCES52529',
+        'title': 'Sly 2 - Band of Thieves',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53409': {
+        'id': 'SCES53409',
+        'title': 'Sly 3 - Honour Among Thieves',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50917': {
+        'id': 'SCES50917',
+        'title': 'Sly Raccoon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51800': {
+        'id': 'SLES51800',
+        'title': 'Smash Cars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50810': {
+        'id': 'SCES50810',
+        'title': 'Smash Court Tennis - Pro Tournament',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52423': {
+        'id': 'SCES52423',
+        'title': 'Smash Court Tennis - Pro Tournament 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50055': {
+        'id': 'SLES50055',
+        'title': "Smuggler's Run",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50061': {
+        'id': 'SLES50061',
+        'title': "Smuggler's Run",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50739': {
+        'id': 'SLES50739',
+        'title': 'Soldier of Fortune - Gold Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51950': {
+        'id': 'SLES51950',
+        'title': 'Sonic Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53560': {
+        'id': 'SLES53560',
+        'title': 'Sonic Riders',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55380': {
+        'id': 'SLES55380',
+        'title': 'Sonic Unleashed',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55167': {
+        'id': 'SLES55167',
+        'title': 'Soul Nomad & the World Eaters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51799': {
+        'id': 'SLES51799',
+        'title': 'Soulcalibur II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53312': {
+        'id': 'SCES53312',
+        'title': 'Soulcalibur III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50611': {
+        'id': 'SCES50611',
+        'title': 'Space Channel 5',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50612': {
+        'id': 'SCES50612',
+        'title': 'Space Channel 5 Part 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55340': {
+        'id': 'SLES55340',
+        'title': 'Space Chimps',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55348': {
+        'id': 'SLES55348',
+        'title': 'Space Chimps',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51746': {
+        'id': 'SLES51746',
+        'title': 'Space Invaders - Invasion Day',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53915': {
+        'id': 'SLES53915',
+        'title': 'Space War Attack',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55075': {
+        'id': 'SLES55075',
+        'title': 'Speed Racer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51831': {
+        'id': 'SLES51831',
+        'title': 'Sphinx and the Cursed Mummy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50812': {
+        'id': 'SLES50812',
+        'title': 'Spider-Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50813': {
+        'id': 'SLES50813',
+        'title': 'Spider-Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50814': {
+        'id': 'SLES50814',
+        'title': 'Spider-Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50965': {
+        'id': 'SLES50965',
+        'title': 'Spider-Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52372': {
+        'id': 'SLES52372',
+        'title': 'Spider-Man 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52447': {
+        'id': 'SLES52447',
+        'title': 'Spider-Man 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52493': {
+        'id': 'SLES52493',
+        'title': 'Spider-Man 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52867': {
+        'id': 'SLES52867',
+        'title': 'SpinDrive Ping Pong',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50486': {
+        'id': 'SLES50486',
+        'title': 'Splashdown',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52505': {
+        'id': 'SLES52505',
+        'title': 'Spy Fiction',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53078': {
+        'id': 'SLES53078',
+        'title': 'Spy vs. Spy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50268': {
+        'id': 'SLES50268',
+        'title': 'SpyHunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51841': {
+        'id': 'SLES51841',
+        'title': 'SpyHunter 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52387': {
+        'id': 'SLES52387',
+        'title': 'SpyHunter 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52569': {
+        'id': 'SLES52569',
+        'title': "Spyro - A Hero's Tail",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82028': {
+        'id': 'SLES82028',
+        'title': 'Star Ocean - Till the End of Time',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82029': {
+        'id': 'SLES82029',
+        'title': 'Star Ocean - Till the End of Time',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52209': {
+        'id': 'SLES52209',
+        'title': 'Star Trek - Shattered Universe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52545': {
+        'id': 'SLES52545',
+        'title': 'Star Wars - Battlefront',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52546': {
+        'id': 'SLES52546',
+        'title': 'Star Wars - Battlefront',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52547': {
+        'id': 'SLES52547',
+        'title': 'Star Wars - Battlefront',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50831': {
+        'id': 'SLES50831',
+        'title': 'Star Wars - Bounty Hunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50832': {
+        'id': 'SLES50832',
+        'title': 'Star Wars - Bounty Hunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50833': {
+        'id': 'SLES50833',
+        'title': 'Star Wars - Bounty Hunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50834': {
+        'id': 'SLES50834',
+        'title': 'Star Wars - Bounty Hunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50835': {
+        'id': 'SLES50835',
+        'title': 'Star Wars - Bounty Hunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53157': {
+        'id': 'SLES53157',
+        'title': 'Star Wars - Episode III - Die Rache der Sith',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53156': {
+        'id': 'SLES53156',
+        'title': 'Star Wars - Episode III - La Revanche des Sith',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53155': {
+        'id': 'SLES53155',
+        'title': 'Star Wars - Episode III - Revenge of the Sith',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50371': {
+        'id': 'SLES50371',
+        'title': 'Star Wars - Jedi Starfighter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50372': {
+        'id': 'SLES50372',
+        'title': 'Star Wars - Jedi Starfighter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50373': {
+        'id': 'SLES50373',
+        'title': 'Star Wars - Jedi Starfighter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50374': {
+        'id': 'SLES50374',
+        'title': 'Star Wars - Jedi Starfighter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50375': {
+        'id': 'SLES50375',
+        'title': 'Star Wars - Jedi Starfighter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50829': {
+        'id': 'SLES50829',
+        'title': 'Star Wars - La Guerra dei Cloni',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50830': {
+        'id': 'SLES50830',
+        'title': 'Star Wars - Las Guerras Clon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50366': {
+        'id': 'SLES50366',
+        'title': 'Star Wars - Racer Revenge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50204': {
+        'id': 'SLES50204',
+        'title': 'Star Wars - Super Bombad Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50205': {
+        'id': 'SLES50205',
+        'title': 'Star Wars - Super Bombad Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50206': {
+        'id': 'SLES50206',
+        'title': 'Star Wars - Super Bombad Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50207': {
+        'id': 'SLES50207',
+        'title': 'Star Wars - Super Bombad Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50208': {
+        'id': 'SLES50208',
+        'title': 'Star Wars - Super Bombad Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50826': {
+        'id': 'SLES50826',
+        'title': 'Star Wars - The Clone Wars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50827': {
+        'id': 'SLES50827',
+        'title': 'Star Wars - The Clone Wars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50828': {
+        'id': 'SLES50828',
+        'title': 'Star Wars - The Clone Wars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51617': {
+        'id': 'SLES51617',
+        'title': 'Starsky & Hutch',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51783': {
+        'id': 'SLES51783',
+        'title': 'Starsky & Hutch',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50606': {
+        'id': 'SLES50606',
+        'title': 'State of Emergency',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51046': {
+        'id': 'SLES51046',
+        'title': 'State of Emergency',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54089': {
+        'id': 'SLES54089',
+        'title': 'State of Emergency 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54092': {
+        'id': 'SLES54092',
+        'title': 'State of Emergency 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54138': {
+        'id': 'SLES54138',
+        'title': 'Steambot Chronicles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54309': {
+        'id': 'SLES54309',
+        'title': 'Strawberry Shortcake - The Sweet Dreams Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50072': {
+        'id': 'SLES50072',
+        'title': 'Street Fighter EX3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53172': {
+        'id': 'SLES53172',
+        'title': 'Strike Force Bowling',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53422': {
+        'id': 'SCES53422',
+        'title': 'Stuart Little 3 - Big Photo Adventure',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51160': {
+        'id': 'SLES51160',
+        'title': 'Sub Rebellion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55220': {
+        'id': 'SLES55220',
+        'title': 'Summer Athletics',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51778': {
+        'id': 'SLES51778',
+        'title': 'Summer Heat Beach Volleyball',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82001': {
+        'id': 'SLES82001',
+        'title': 'Summoner',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82003': {
+        'id': 'SLES82003',
+        'title': 'Summoner',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES82005': {
+        'id': 'SLES82005',
+        'title': 'Summoner',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53701': {
+        'id': 'SLES53701',
+        'title': 'Super Monkey Ball Adventure',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53037': {
+        'id': 'SLES53037',
+        'title': 'Super Monkey Ball Deluxe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50795': {
+        'id': 'SLES50795',
+        'title': 'Superman - Shadow of Apokolips',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50033': {
+        'id': 'SLES50033',
+        'title': 'Swing Away Golf',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51290': {
+        'id': 'SLES51290',
+        'title': 'Sword of the Samurai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51393': {
+        'id': 'SLES51393',
+        'title': 'Syberia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52831': {
+        'id': 'SLES52831',
+        'title': 'Syberia II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53235': {
+        'id': 'SLES53235',
+        'title': 'Syberia II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52033': {
+        'id': 'SCES52033',
+        'title': 'Syphon Filter - The Omega Strain',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52637': {
+        'id': 'SLES52637',
+        'title': 'TOCA Race Driver 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53438': {
+        'id': 'SLES53438',
+        'title': 'Taito Legends',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53966': {
+        'id': 'SLES53966',
+        'title': 'Taito Legends',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52103': {
+        'id': 'SLES52103',
+        'title': 'Tak & Le Pouvoir de Juju',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52011': {
+        'id': 'SLES52011',
+        'title': 'Tak and the Power of Juju',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52287': {
+        'id': 'SLES52287',
+        'title': 'Tak e la Magia Juju',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52104': {
+        'id': 'SLES52104',
+        'title': 'Tak und die Macht des Juju',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52286': {
+        'id': 'SLES52286',
+        'title': 'Tak y el Poder Juju',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50649': {
+        'id': 'SLES50649',
+        'title': 'Taz - Wanted',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54430': {
+        'id': 'SLES54430',
+        'title': 'Teen Titans',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54431': {
+        'id': 'SLES54431',
+        'title': 'Teen Titans',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51931': {
+        'id': 'SLES51931',
+        'title': 'Teenage Mutant Ninja Turtles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50001': {
+        'id': 'SCES50001',
+        'title': 'Tekken Tag Tournament',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52586': {
+        'id': 'SCES52586',
+        'title': "Tekken's Nina Williams in - Death by Degrees",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53053': {
+        'id': 'SCES53053',
+        'title': "Tekken's Nina Williams in - Death by Degrees",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53054': {
+        'id': 'SCES53054',
+        'title': "Tekken's Nina Williams in - Death by Degrees",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51403': {
+        'id': 'SLES51403',
+        'title': 'Tenchu - La Colere Divine',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51400': {
+        'id': 'SLES51400',
+        'title': 'Tenchu - La Ira del Cielo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50679': {
+        'id': 'SLES50679',
+        'title': 'Tenchu - Wrath of Heaven',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51401': {
+        'id': 'SLES51401',
+        'title': 'Tenchu - Wrath of Heaven',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51402': {
+        'id': 'SLES51402',
+        'title': 'Tenchu - Wrath of Heaven',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53871': {
+        'id': 'SLES53871',
+        'title': 'Tengai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52039': {
+        'id': 'SLES52039',
+        'title': 'Terminator 3 - La Rebelion de las Maquinas',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52151': {
+        'id': 'SLES52151',
+        'title': 'Terminator 3 - Le Macchine Ribelli',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51957': {
+        'id': 'SLES51957',
+        'title': 'Terminator 3 - Le Soulevement des Machines',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52038': {
+        'id': 'SLES52038',
+        'title': 'Terminator 3 - Rebellion der Maschinen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52152': {
+        'id': 'SLES52152',
+        'title': 'Terminator 3 - Rise of the Machines',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50551': {
+        'id': 'SLES50551',
+        'title': 'Tetris Worlds',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54152': {
+        'id': 'SLES54152',
+        'title': 'The Ant Bully',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54178': {
+        'id': 'SLES54178',
+        'title': 'The Ant Bully',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52894': {
+        'id': 'SLES52894',
+        'title': "The Bard's Tale",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53154': {
+        'id': 'SLES53154',
+        'title': "The Bard's Tale",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55099': {
+        'id': 'SCES55099',
+        'title': 'The Big! Pop Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES54526': {
+        'id': 'SCES54526',
+        'title': 'The Big! Sports Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50241': {
+        'id': 'SCES50241',
+        'title': 'The Bouncer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52034': {
+        'id': 'SLES52034',
+        'title': 'The Cat in the Hat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53706': {
+        'id': 'SLES53706',
+        'title': 'The Chronicles of Narnia - The Lion, the Witch and the Wardrobe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53709': {
+        'id': 'SLES53709',
+        'title': 'The Chronicles of Narnia - The Lion, the Witch and the Wardrobe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53712': {
+        'id': 'SLES53712',
+        'title': 'The Chronicles of Narnia - The Lion, the Witch and the Wardrobe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53715': {
+        'id': 'SLES53715',
+        'title': 'The Chronicles of Narnia - The Lion, the Witch and the Wardrobe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54031': {
+        'id': 'SLES54031',
+        'title': 'The Da Vinci Code',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54118': {
+        'id': 'SLES54118',
+        'title': 'The Da Vinci Code',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54483': {
+        'id': 'SLES54483',
+        'title': 'The Fast and the Furious',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50259': {
+        'id': 'SLES50259',
+        'title': 'The Flintstones in Viva Rock Vegas',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52758': {
+        'id': 'SCES52758',
+        'title': 'The Getaway - Black Monday',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES52948': {
+        'id': 'SCES52948',
+        'title': 'The Getaway - Black Monday',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53967': {
+        'id': 'SLES53967',
+        'title': 'The Godfather',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54996': {
+        'id': 'SLES54996',
+        'title': 'The Golden Compass',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55012': {
+        'id': 'SLES55012',
+        'title': 'The Golden Compass',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51315': {
+        'id': 'SLES51315',
+        'title': 'The Great Escape',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51723': {
+        'id': 'SLES51723',
+        'title': 'The Hobbit - The Prelude to the Lord of the Rings',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52821': {
+        'id': 'SLES52821',
+        'title': 'The Incredibles - Os Super-Herois',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51761': {
+        'id': 'SLES51761',
+        'title': 'The Italian Job',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52017': {
+        'id': 'SLES52017',
+        'title': 'The Lord of the Rings - The Return of the King',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52801': {
+        'id': 'SLES52801',
+        'title': 'The Lord of the Rings - The Third Age',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51252': {
+        'id': 'SLES51252',
+        'title': 'The Lord of the Rings - The Two Towers',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52370': {
+        'id': 'SLES52370',
+        'title': 'The Mouse Police',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50510': {
+        'id': 'SLES50510',
+        'title': 'The Mummy Returns',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53913': {
+        'id': 'SLES53913',
+        'title': 'The Plan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53914': {
+        'id': 'SLES53914',
+        'title': 'The Plan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53965': {
+        'id': 'SLES53965',
+        'title': 'The Plan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50662': {
+        'id': 'SLES50662',
+        'title': 'The Shadow of Zorro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51897': {
+        'id': 'SLES51897',
+        'title': 'The Simpsons - Hit & Run',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50540': {
+        'id': 'SLES50540',
+        'title': 'The Simpsons - Road Rage',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50628': {
+        'id': 'SLES50628',
+        'title': 'The Simpsons - Road Rage',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53718': {
+        'id': 'SLES53718',
+        'title': 'The Sims 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51693': {
+        'id': 'SLES51693',
+        'title': 'The Suffering',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52439': {
+        'id': 'SLES52439',
+        'title': 'The Suffering',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52531': {
+        'id': 'SLES52531',
+        'title': 'The Suffering',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52341': {
+        'id': 'SLES52341',
+        'title': 'The X-Files - Resist or Serve',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50244': {
+        'id': 'SCES50244',
+        'title': 'This Is Football 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54985': {
+        'id': 'SLES54985',
+        'title': 'Thomas & Friends - A Day at the Races',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54738': {
+        'id': 'SLES54738',
+        'title': 'Thunderbirds',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50119': {
+        'id': 'SLES50119',
+        'title': 'Tiger Woods USA Tour 2001',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50729': {
+        'id': 'SLES50729',
+        'title': 'Tiger Woods USA Tour 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53192': {
+        'id': 'SLES53192',
+        'title': "Tim Burton's The Nightmare Before Christmas - Oogie's Revenge",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50078': {
+        'id': 'SLES50078',
+        'title': 'TimeSplitters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50877': {
+        'id': 'SLES50877',
+        'title': 'TimeSplitters 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51181': {
+        'id': 'SLES51181',
+        'title': "Tom Clancy's Ghost Recon",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51182': {
+        'id': 'SLES51182',
+        'title': "Tom Clancy's Ghost Recon",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52288': {
+        'id': 'SLES52288',
+        'title': "Tom Clancy's Rainbow Six 3",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51466': {
+        'id': 'SLES51466',
+        'title': "Tom Clancy's Splinter Cell",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55442': {
+        'id': 'SLES55442',
+        'title': 'Tomb Raider - Underworld',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53534': {
+        'id': 'SLES53534',
+        'title': "Tony Hawk's American Wasteland",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53535': {
+        'id': 'SLES53535',
+        'title': "Tony Hawk's American Wasteland",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51848': {
+        'id': 'SLES51848',
+        'title': "Tony Hawk's Underground",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51851': {
+        'id': 'SLES51851',
+        'title': "Tony Hawk's Underground",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51852': {
+        'id': 'SLES51852',
+        'title': "Tony Hawk's Underground",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51853': {
+        'id': 'SLES51853',
+        'title': "Tony Hawk's Underground",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51854': {
+        'id': 'SLES51854',
+        'title': "Tony Hawk's Underground",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54664': {
+        'id': 'SLES54664',
+        'title': 'Top Gun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53492': {
+        'id': 'SLES53492',
+        'title': 'Total Overdose',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55479': {
+        'id': 'SLES55479',
+        'title': 'Truck Racer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53616': {
+        'id': 'SLES53616',
+        'title': 'True Crime - New York City',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53617': {
+        'id': 'SLES53617',
+        'title': 'True Crime - New York City',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53618': {
+        'id': 'SLES53618',
+        'title': 'True Crime - New York City',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50479': {
+        'id': 'SLES50479',
+        'title': 'Turok - Evolution',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51124': {
+        'id': 'SLES51124',
+        'title': 'Turok - Evolution',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53369': {
+        'id': 'SLES53369',
+        'title': 'Twenty 2 Party',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50360': {
+        'id': 'SCES50360',
+        'title': 'Twisted Metal - Black',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51480': {
+        'id': 'SCES51480',
+        'title': 'Twisted Metal - Black Online',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51220': {
+        'id': 'SLES51220',
+        'title': 'Ty the Tasmanian Tiger',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES53688': {
+        'id': 'SCES53688',
+        'title': 'Urban Reign',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52798': {
+        'id': 'SLES52798',
+        'title': 'Vietcong - Purple Haze',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52799': {
+        'id': 'SLES52799',
+        'title': 'Vietcong - Purple Haze',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51229': {
+        'id': 'SLES51229',
+        'title': 'Virtua Cop - Elite Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51699': {
+        'id': 'SLES51699',
+        'title': 'Virtua Fighter - 10th Anniversary Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES51684': {
+        'id': 'SCES51684',
+        'title': 'WRC 3 - The Official Game of the FIA World Rally Championship',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES50934': {
+        'id': 'SCES50934',
+        'title': 'WRC II Extreme',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50283': {
+        'id': 'SLES50283',
+        'title': 'WTA Tour Tennis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55648': {
+        'id': 'SLES55648',
+        'title': 'WWE All Stars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51372': {
+        'id': 'SLES51372',
+        'title': 'Wallace & Gromit in Project Zoo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51989': {
+        'id': 'SLES51989',
+        'title': 'Wallace & Gromit in Project Zoo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES52026': {
+        'id': 'SLES52026',
+        'title': 'Wallace & Gromit in Project Zoo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54510': {
+        'id': 'SLES54510',
+        'title': 'Walt Disney Pictures Presents Meet the Robinsons',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54679': {
+        'id': 'SLES54679',
+        'title': 'Walt Disney Pictures Presents Meet the Robinsons',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50921': {
+        'id': 'SLES50921',
+        'title': 'Way of the Samurai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53828': {
+        'id': 'SLES53828',
+        'title': 'We Love Katamari',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51958': {
+        'id': 'SLES51958',
+        'title': 'Whiplash',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51307': {
+        'id': 'SLES51307',
+        'title': 'Wild Arms 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES55411': {
+        'id': 'SLES55411',
+        'title': 'Winter Sports 2009 - The Next Challenge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53716': {
+        'id': 'SLES53716',
+        'title': 'Without Warning',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51580': {
+        'id': 'SLES51580',
+        'title': 'World Challenge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53130': {
+        'id': 'SLES53130',
+        'title': 'World Championship Poker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCES55484': {
+        'id': 'SCES55484',
+        'title': 'World Quiz 2009',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51843': {
+        'id': 'SLES51843',
+        'title': 'Worms 3D',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50589': {
+        'id': 'SLES50589',
+        'title': 'Worms Blast',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51202': {
+        'id': 'SLES51202',
+        'title': 'Wreckless - The Yakuza Missions',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50898': {
+        'id': 'SLES50898',
+        'title': 'X-Men - Next Dimension',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50899': {
+        'id': 'SLES50899',
+        'title': 'X-Men - Next Dimension',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50900': {
+        'id': 'SLES50900',
+        'title': 'X-Men - Next Dimension',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES51244': {
+        'id': 'SLES51244',
+        'title': 'XIII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54542': {
+        'id': 'SLES54542',
+        'title': 'Xena - Warrior Princess',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES54486': {
+        'id': 'SLES54486',
+        'title': 'Xiaolin Showdown',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES53079': {
+        'id': 'SLES53079',
+        'title': 'Ys - The Ark of Napishtim',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLES50933': {
+        'id': 'SLES50933',
+        'title': 'eJay Clubworld - The Music Making Experience',
         #'icon0':
         #'pic0':
         #'pic1':

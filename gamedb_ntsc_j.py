@@ -24250,4 +24250,19369 @@ games_ntsc_j = {
         #'pic1':
         #'snd0':
     },
+    #
+    # Automatically generated from the redump database for retail
+    # games that were missing. Titles are derived from the redump
+    # names; please send corrections.
+    #
+    'SLPM65002': {
+        'id': 'SLPM65002',
+        'title': '0 Story',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65003': {
+        'id': 'SLPM65003',
+        'title': '0 Story',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67505': {
+        'id': 'SLPM67505',
+        'title': '007 - Agent Under Fire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25129': {
+        'id': 'SLKA25129',
+        'title': '007 - Everything or Nothing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65446': {
+        'id': 'SLPM65446',
+        'title': '007 - Everything or Nothing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65725': {
+        'id': 'SLPM65725',
+        'title': '007 - Everything or Nothing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66616': {
+        'id': 'SLPM66616',
+        'title': '007 - Everything or Nothing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55148': {
+        'id': 'SLPM55148',
+        'title': '007 - Nagusame no Houshuu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25004': {
+        'id': 'SLKA25004',
+        'title': '007 - Nightfire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65538': {
+        'id': 'SLPM65538',
+        'title': '007 - Nightfire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66615': {
+        'id': 'SLPM66615',
+        'title': '007 - Nightfire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25203': {
+        'id': 'SLPS25203',
+        'title': '007 - Nightfire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25442': {
+        'id': 'SLKA25442',
+        'title': '007 - Quantum of Solace',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66322': {
+        'id': 'SLPM66322',
+        'title': '007 - Russia yori Ai o Komete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65843': {
+        'id': 'SLPM65843',
+        'title': '120 Yen no Haru - 120 Yen Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66901': {
+        'id': 'SLPM66901',
+        'title': '12Riven - The Psi-Climinal of Integral',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62211': {
+        'id': 'SLPM62211',
+        'title': '18 Wheeler - American Pro Trucker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65608': {
+        'id': 'SLPM65608',
+        'title': '3LDK - Shiawase ni Narou yo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65607': {
+        'id': 'SLPM65607',
+        'title': '3LDK - Shiawase ni Narou yo (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65008': {
+        'id': 'SLPM65008',
+        'title': '7 Blades',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65057': {
+        'id': 'SLPM65057',
+        'title': '7 Blades',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20509': {
+        'id': 'SLPS20509',
+        'title': '81diver',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20006': {
+        'id': 'SLPS20006',
+        'title': 'A6 - A Ressha de Ikou 6',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25906': {
+        'id': 'SLPS25906',
+        'title': 'ADK Damashii',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25052': {
+        'id': 'SLPS25052',
+        'title': 'Ace Combat 04 - Shattered Skies',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73205': {
+        'id': 'SLPS73205',
+        'title': 'Ace Combat 04 - Shattered Skies',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73410': {
+        'id': 'SLPS73410',
+        'title': 'Ace Combat 04 - Shattered Skies',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20042': {
+        'id': 'SCKA20042',
+        'title': 'Ace Combat 5 - The Unsung War',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25418': {
+        'id': 'SLPS25418',
+        'title': 'Ace Combat 5 - The Unsung War',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73218': {
+        'id': 'SLPS73218',
+        'title': 'Ace Combat 5 - The Unsung War',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20058': {
+        'id': 'SCKA20058',
+        'title': 'Action Romance Bumpy Trot',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65061': {
+        'id': 'SLPM65061',
+        'title': 'Adventure of Tokyo Disney Sea - Ushinawareta Houseki no Himitsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62301': {
+        'id': 'SLPM62301',
+        'title': 'Aerobics Revolution',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65482': {
+        'id': 'SLPM65482',
+        'title': 'After... Wasureenu Kizuna',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65481': {
+        'id': 'SLPM65481',
+        'title': 'After... Wasureenu Kizuna (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62076': {
+        'id': 'SLPM62076',
+        'title': 'Age of Empires II - The Age of Kings',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25225': {
+        'id': 'SLPS25225',
+        'title': 'Ai yori Aoshi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25224': {
+        'id': 'SLPS25224',
+        'title': 'Ai yori Aoshi (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65922': {
+        'id': 'SLPM65922',
+        'title': 'Aikagi - Nukumori to Hidamari no Naka de',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25274': {
+        'id': 'SLPS25274',
+        'title': 'Aikagi - Nukumori to Hidamari no Naka de',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65844': {
+        'id': 'SLPM65844',
+        'title': 'Air',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66982': {
+        'id': 'SLPM66982',
+        'title': 'Air',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25127': {
+        'id': 'SLPS25127',
+        'title': 'Air',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65486': {
+        'id': 'SLPM65486',
+        'title': 'AirForce Delta - Blue Wing Knights',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65722': {
+        'id': 'SLPM65722',
+        'title': 'AirForce Delta - Blue Wing Knights',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25133': {
+        'id': 'SLKA25133',
+        'title': 'AirForce Delta Strike',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20196': {
+        'id': 'SLPS20196',
+        'title': 'Akagawa Jirou - Tsuki no Hikari - Shizumeru Kane no Satsujin',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20415': {
+        'id': 'SLPS20415',
+        'title': 'Akagawa Jirou - Tsuki no Hikari - Shizumeru Kane no Satsujin',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62269': {
+        'id': 'SLPM62269',
+        'title': 'Akagi - Yami ni Oritatta Tensai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55006': {
+        'id': 'SLPM55006',
+        'title': 'Akaneiro ni Somaru Saka - Parallel',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20150': {
+        'id': 'SLPS20150',
+        'title': 'Akira Psycho Ball',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65151': {
+        'id': 'SLPM65151',
+        'title': 'Akudaikan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65339': {
+        'id': 'SLPM65339',
+        'title': 'Akudaikan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55145': {
+        'id': 'SLPM55145',
+        'title': 'Akudaikan 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20181': {
+        'id': 'SLPS20181',
+        'title': 'Alpine Racer 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25918': {
+        'id': 'SLPS25918',
+        'title': 'Amagami',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25987': {
+        'id': 'SLPS25987',
+        'title': 'Amagami (ebKore Plus)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25989': {
+        'id': 'SLPS25989',
+        'title': 'Amagami (ebKore Plus)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25702': {
+        'id': 'SLPS25702',
+        'title': 'Amagoushi no Yakata',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25847': {
+        'id': 'SLPS25847',
+        'title': 'Amagoushi no Yakata - Ichiyanagi Nagomu, Saisho no Junan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25106': {
+        'id': 'SLPS25106',
+        'title': 'America Oudan Ultra Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25229': {
+        'id': 'SLPS25229',
+        'title': 'America Oudan Ultra Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55085': {
+        'id': 'SLPM55085',
+        'title': 'Angel Profile',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66709': {
+        'id': 'SLPM66709',
+        'title': 'Angel Profile',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65828': {
+        'id': 'SLPM65828',
+        'title': 'Angel Wish - Kimi no Egao ni Chu!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65513': {
+        'id': 'SLPM65513',
+        'title': "Angel's Feather",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65512': {
+        'id': 'SLPM65512',
+        'title': "Angel's Feather (Shokai Genteiban)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65943': {
+        'id': 'SLPM65943',
+        'title': "Angel's Feather - Kuro no Zan'ei",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65239': {
+        'id': 'SLPM65239',
+        'title': 'Angelic Concert',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65715': {
+        'id': 'SLPM65715',
+        'title': 'Angelique Etoile',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66524': {
+        'id': 'SLPM66524',
+        'title': 'Angelique Etoile',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66938': {
+        'id': 'SLPM66938',
+        'title': 'Angelique Etoile',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65714': {
+        'id': 'SLPM65714',
+        'title': 'Angelique Etoile (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62022': {
+        'id': 'SLPM62022',
+        'title': 'Angelique Trois',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62021': {
+        'id': 'SLPM62021',
+        'title': 'Angelique Trois (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65044': {
+        'id': 'SLPM65044',
+        'title': 'Angelique Trois - Aizouban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65159': {
+        'id': 'SLPM65159',
+        'title': 'Angelique Trois - Aizouban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65541': {
+        'id': 'SLPM65541',
+        'title': 'Angelique Trois - Aizouban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66006': {
+        'id': 'SLPM66006',
+        'title': 'Angelique Trois - Aizouban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65037': {
+        'id': 'SLPM65037',
+        'title': 'Angelique Trois - Aizouban (Shokai Gentei Package)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65736': {
+        'id': 'SLPM65736',
+        'title': 'Ao no mama de...',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65735': {
+        'id': 'SLPM65735',
+        'title': 'Ao no mama de... (Treasure Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66959': {
+        'id': 'SLPM66959',
+        'title': 'Aoi Shiro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66958': {
+        'id': 'SLPM66958',
+        'title': 'Aoi Shiro (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25749': {
+        'id': 'SLPS25749',
+        'title': 'Aoi Sora no Neosphere - Nanoca Flanka Hatsumei Koubouki 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25748': {
+        'id': 'SLPS25748',
+        'title': 'Aoi Sora no Neosphere - Nanoca Flanka Hatsumei Koubouki 2 (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25514': {
+        'id': 'SLPS25514',
+        'title': 'Aoi Umi no Tristia - Nanoca Flanka Hatsumei Koubouki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25700': {
+        'id': 'SLPS25700',
+        'title': 'Aoi Umi no Tristia - Nanoca Flanka Hatsumei Koubouki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25513': {
+        'id': 'SLPS25513',
+        'title': 'Aoi Umi no Tristia - Nanoca Flanka Hatsumei Koubouki (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCCS40001': {
+        'id': 'SCCS40001',
+        'title': 'Ape Escape 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65710': {
+        'id': 'SLPM65710',
+        'title': 'Apocripha-0',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66551': {
+        'id': 'SLPM66551',
+        'title': 'Appleseed EX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25161': {
+        'id': 'SLKA25161',
+        'title': 'Aqua Kids',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65670': {
+        'id': 'SLPM65670',
+        'title': 'Aqua Kids',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20027': {
+        'id': 'SLPS20027',
+        'title': 'Aquaqua',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66847': {
+        'id': 'SLPM66847',
+        'title': 'Arabians Lost - The Engagement on Desert',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25371': {
+        'id': 'SLKA25371',
+        'title': 'Arangjeon - Breakblow',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20012': {
+        'id': 'SCKA20012',
+        'title': 'Arc the Lad - Jeongryeongui Hwanghon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20038': {
+        'id': 'SCAJ20038',
+        'title': 'Arc the Lad - Jing Ling Zhi Huang Hun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20019': {
+        'id': 'SCAJ20019',
+        'title': 'Arc the Lad - Seirei no Tasogare',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15041': {
+        'id': 'SCPS15041',
+        'title': 'Arc the Lad - Seirei no Tasogare',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15040': {
+        'id': 'SCPS15040',
+        'title': 'Arc the Lad - Seirei no Tasogare (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55106': {
+        'id': 'SLPM55106',
+        'title': 'Arcana Heart',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66850': {
+        'id': 'SLPM66850',
+        'title': 'Arcana Heart',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55168': {
+        'id': 'SLPM55168',
+        'title': 'Arcobaleno!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55169': {
+        'id': 'SLPM55169',
+        'title': 'Arcobaleno!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66468': {
+        'id': 'SLPM66468',
+        'title': 'Area 51',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20016': {
+        'id': 'SCAJ20016',
+        'title': 'Argus Zhanshi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20003': {
+        'id': 'SCAJ20003',
+        'title': 'Argus no Senshi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25178': {
+        'id': 'SLPS25178',
+        'title': 'Argus no Senshi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20006': {
+        'id': 'SCKA20006',
+        'title': 'Argus-ui Jeonsa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66536': {
+        'id': 'SLPM66536',
+        'title': 'Aria - The Natural - Tooi Yume no Mirage',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66967': {
+        'id': 'SLPM66967',
+        'title': 'Aria - The Natural - Tooi Yume no Mirage',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55014': {
+        'id': 'SLPM55014',
+        'title': 'Aria - The Origination - Aoi Hoshi no El Cielo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55282': {
+        'id': 'SLPM55282',
+        'title': 'Armen Noir',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM68520': {
+        'id': 'SLPM68520',
+        'title': 'Armored Core - Last Raven (Champion Tokubetsuban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25178': {
+        'id': 'SLKA25178',
+        'title': 'Armored Core - Nexus (Evolution)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65441': {
+        'id': 'SLPM65441',
+        'title': 'Ashita no Joe - Masshiro ni Moe Tsukiro!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65625': {
+        'id': 'SLPM65625',
+        'title': 'Ashita no Joe - Masshiro ni Moe Tsukiro!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15023': {
+        'id': 'SLKA15023',
+        'title': 'Assault Suits Valken',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62501': {
+        'id': 'SLPM62501',
+        'title': 'Assault Suits Valken',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25037': {
+        'id': 'SLAJ25037',
+        'title': 'Astro Boy - Tetsuwan Atom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65551': {
+        'id': 'SLPM65551',
+        'title': 'Astro Boy - Tetsuwan Atom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25159': {
+        'id': 'SLKA25159',
+        'title': 'Astro Boy Atom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20089': {
+        'id': 'SCAJ20089',
+        'title': 'Athens 2004',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20031': {
+        'id': 'SCKA20031',
+        'title': 'Athens 2004',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15074': {
+        'id': 'SCPS15074',
+        'title': 'Athens 2004',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65124': {
+        'id': 'SLPM65124',
+        'title': 'Auto Modellista',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65183': {
+        'id': 'SLPM65183',
+        'title': 'Auto Modellista (Modem Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65286': {
+        'id': 'SLPM65286',
+        'title': 'Auto Modellista - U.S.-Tuned',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66491': {
+        'id': 'SLPM66491',
+        'title': "Ayakashibito - Gen'you Ibunroku",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66862': {
+        'id': 'SLPM66862',
+        'title': "Ayakashibito - Gen'you Ibunroku",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25818': {
+        'id': 'SLPS25818',
+        'title': 'Bakumatsu Renka - Karyuu Kenshiden',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25817': {
+        'id': 'SLPS25817',
+        'title': 'Bakumatsu Renka - Karyuu Kenshiden (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65835': {
+        'id': 'SLPM65835',
+        'title': 'Bakumatsu Renka - Shinsengumi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65234': {
+        'id': 'SLPM65234',
+        'title': 'Bakusou Dekotora Densetsu - Otoko Hanamichi Yume Roman',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15062': {
+        'id': 'SCPS15062',
+        'title': 'Bakusou Mountain Bikers',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66390': {
+        'id': 'SLPM66390',
+        'title': 'Bara no Ki ni Bara no Hanasaku - Das Versprechen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15001': {
+        'id': 'SLKA15001',
+        'title': 'Barbarian',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20266': {
+        'id': 'SLPS20266',
+        'title': 'Baskelian',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25330': {
+        'id': 'SLKA25330',
+        'title': 'Battlefield 2 - Modern Combat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55034': {
+        'id': 'SLPM55034',
+        'title': 'Battlefield 2 - Modern Combat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66206': {
+        'id': 'SLPM66206',
+        'title': 'Battlefield 2 - Modern Combat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66651': {
+        'id': 'SLPM66651',
+        'title': 'Battlefield 2 - Modern Combat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25304': {
+        'id': 'SLPS25304',
+        'title': 'Beast Sapp',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66181': {
+        'id': 'SLPM66181',
+        'title': 'Beat Down',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66819': {
+        'id': 'SLPM66819',
+        'title': 'Beat Down',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25474': {
+        'id': 'SLPS25474',
+        'title': 'Beck - The Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25213': {
+        'id': 'SLKA25213',
+        'title': 'Berserk - Cheonnyeonjegug-ui Mae Pyeon - Seongmajeongi-ui Jang',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65688': {
+        'id': 'SLPM65688',
+        'title': 'Berserk - Millennium Falcon-hen - Seima Senki no Shou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65686': {
+        'id': 'SLPM65686',
+        'title': 'Berserk - Millennium Falcon-hen - Seima Senki no Shou (Branded Box - Rakuin no Hako)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25658': {
+        'id': 'SLPS25658',
+        'title': 'Binchou-tan - Shiawase Goyomi (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55143': {
+        'id': 'SLPM55143',
+        'title': 'Biohazard - Code - Veronica - Kanzenban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65022': {
+        'id': 'SLPM65022',
+        'title': 'Biohazard - Code - Veronica - Kanzenban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65357': {
+        'id': 'SLPM65357',
+        'title': 'Biohazard - Code - Veronica - Kanzenban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66520': {
+        'id': 'SLPM66520',
+        'title': 'Biohazard - Code - Veronica - Kanzenban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65428': {
+        'id': 'SLPM65428',
+        'title': 'Biohazard - Outbreak',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74201': {
+        'id': 'SLPM74201',
+        'title': 'Biohazard - Outbreak',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66213': {
+        'id': 'SLPM66213',
+        'title': 'Biohazard 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74229': {
+        'id': 'SLPM74229',
+        'title': 'Biohazard 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74262': {
+        'id': 'SLPM74262',
+        'title': 'Biohazard 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74288': {
+        'id': 'SLPM74288',
+        'title': 'Biohazard 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65348': {
+        'id': 'SLPM65348',
+        'title': 'Bistro Cupid 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65347': {
+        'id': 'SLPM65347',
+        'title': 'Bistro Cupid 2 (Tokubetsuban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25372': {
+        'id': 'SLKA25372',
+        'title': 'Black',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66354': {
+        'id': 'SLPM66354',
+        'title': 'Black',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66731': {
+        'id': 'SLPM66731',
+        'title': 'Black',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66961': {
+        'id': 'SLPM66961',
+        'title': 'Black',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15087': {
+        'id': 'SCPS15087',
+        'title': 'Bleach - Erabareshi Tamashii',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19331': {
+        'id': 'SCPS19331',
+        'title': 'Bleach - Erabareshi Tamashii',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15007': {
+        'id': 'SCPS15007',
+        'title': 'Blood - The Last Vampire - Joukan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15112': {
+        'id': 'SCPS15112',
+        'title': 'Blood+ - Souyoku no Battle Rondo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62055': {
+        'id': 'SLPM62055',
+        'title': 'Bloody Roar 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65262': {
+        'id': 'SLPM65262',
+        'title': 'Bobobo-bo Bo-bobo - Hajike Matsuri',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65912': {
+        'id': 'SLPM65912',
+        'title': 'Bobobo-bo Bo-bobo - Hajike Matsuri',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15026': {
+        'id': 'SCPS15026',
+        'title': 'Boku no Natsuyasumi 2 - Umi no Bouken-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19209': {
+        'id': 'SCPS19209',
+        'title': 'Boku no Natsuyasumi 2 - Umi no Bouken-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19303': {
+        'id': 'SCPS19303',
+        'title': 'Boku no Natsuyasumi 2 - Umi no Bouken-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11008': {
+        'id': 'SCPS11008',
+        'title': 'Boku to Maou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19102': {
+        'id': 'SCPS19102',
+        'title': 'Boku to Maou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25431': {
+        'id': 'SLPS25431',
+        'title': 'Bokujou Monogatari - Oh! Wonderful Life',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25421': {
+        'id': 'SLPS25421',
+        'title': 'Bokujou Monogatari - Oh! Wonderful Life (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73222': {
+        'id': 'SLPS73222',
+        'title': 'Bokujou Monogatari - Oh! Wonderful Life (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20104': {
+        'id': 'SLPS20104',
+        'title': 'Bokujou Monogatari 3 - Heart ni Hi o Tsukete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73003': {
+        'id': 'SLPS73003',
+        'title': 'Bokujou Monogatari 3 - Heart ni Hi o Tsukete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73102': {
+        'id': 'SLPS73102',
+        'title': 'Bokujou Monogatari 3 - Heart ni Hi o Tsukete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73109': {
+        'id': 'SLPS73109',
+        'title': 'Bokujou Monogatari 3 - Heart ni Hi o Tsukete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15088': {
+        'id': 'SCPS15088',
+        'title': 'Bokura no Kazoku - My Family Growing Up in the 21st Century',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62503': {
+        'id': 'SLPM62503',
+        'title': 'Bomberman Battles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65218': {
+        'id': 'SLPM65218',
+        'title': 'Bomberman Jetters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65485': {
+        'id': 'SLPM65485',
+        'title': 'Bomberman Jetters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62118': {
+        'id': 'SLPM62118',
+        'title': 'Bomberman Kart',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62478': {
+        'id': 'SLPM62478',
+        'title': 'Bomberman Kart DX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62599': {
+        'id': 'SLPM62599',
+        'title': 'Bomberman Kart DX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62291': {
+        'id': 'SLPM62291',
+        'title': 'Bomberman Land 2 - Game Shijou Saidai no Theme Park',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74101': {
+        'id': 'SLPM74101',
+        'title': 'Bomberman Land 2 - Game Shijou Saidai no Theme Park',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62643': {
+        'id': 'SLPM62643',
+        'title': 'Bomberman Land 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62763': {
+        'id': 'SLPM62763',
+        'title': 'Bomberman Land 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67536': {
+        'id': 'SLPM67536',
+        'title': 'Bongsin Yeonui 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65014': {
+        'id': 'SLPM65014',
+        'title': 'Bouken Jidai Katsugeki - Goemon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65066': {
+        'id': 'SLPM65066',
+        'title': 'Bouken Jidai Katsugeki - Goemon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65617': {
+        'id': 'SLPM65617',
+        'title': 'Bouken Jidai Katsugeki - Goemon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25279': {
+        'id': 'SLPS25279',
+        'title': 'Bouken Shounen Club Gahou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66060': {
+        'id': 'SLPM66060',
+        'title': 'Boukoku no Aegis 2035 - Warship Gunner',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66939': {
+        'id': 'SLPM66939',
+        'title': 'Boukoku no Aegis 2035 - Warship Gunner',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15111': {
+        'id': 'SCPS15111',
+        'title': 'Brave Story - Wataru no Bouken',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11013': {
+        'id': 'SCPS11013',
+        'title': 'Bravo Music',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19105': {
+        'id': 'SCPS19105',
+        'title': 'Bravo Music',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11023': {
+        'id': 'SCPS11023',
+        'title': 'Bravo Music - Chou Meikyoku-ban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11019': {
+        'id': 'SCPS11019',
+        'title': 'Bravo Music - Chou Meikyoku-ban (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11017': {
+        'id': 'SCPS11017',
+        'title': 'Bravo Music - Christmas Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65196': {
+        'id': 'SLPM65196',
+        'title': 'Breath of Fire V - Dragon Quarter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74410': {
+        'id': 'SLPM74410',
+        'title': 'Breath of Fire V - Dragon Quarter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25356': {
+        'id': 'SLPS25356',
+        'title': 'Broken Sword - Nemureru Ryuu no Densetsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66708': {
+        'id': 'SLPM66708',
+        'title': 'Brothers in Arms - Meiyo no Daishou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62411': {
+        'id': 'SLPM62411',
+        'title': 'Buggy Grand Prix - Kattobi! Daisakusen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25150': {
+        'id': 'SLKA25150',
+        'title': 'Bujingai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25879': {
+        'id': 'SLPS25879',
+        'title': 'Bully',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25260': {
+        'id': 'SLKA25260',
+        'title': 'Burnout Dominator',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65911': {
+        'id': 'SLPM65911',
+        'title': 'Cafe Lindbergh - Summer Season',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65910': {
+        'id': 'SLPM65910',
+        'title': 'Cafe Lindbergh - Summer Season (Sweet Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65294': {
+        'id': 'SLPM65294',
+        'title': 'Cafe Little Wish - Mahou no Recipe (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66159': {
+        'id': 'SLPM66159',
+        'title': 'Call of Duty - Finest Hour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66328': {
+        'id': 'SLPM66328',
+        'title': 'Call of Duty 2 - Big Red One',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65448': {
+        'id': 'SLPM65448',
+        'title': 'Cambrian QTS - Kaseki ni Natte mo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25219': {
+        'id': 'SLPS25219',
+        'title': 'Canary - Kono Omoi o Uta ni Nosete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65923': {
+        'id': 'SLPM65923',
+        'title': 'Canvas - Sepia-iro no Motif',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25223': {
+        'id': 'SLPS25223',
+        'title': 'Canvas - Sepia-iro no Motif',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55187': {
+        'id': 'SLPM55187',
+        'title': 'Canvas 3 - Tanshoku no Pastel',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65794': {
+        'id': 'SLPM65794',
+        'title': 'Capcom Fighting Jam',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66586': {
+        'id': 'SLPM66586',
+        'title': 'Cartagra - Tamashii no Kunou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66605': {
+        'id': 'SLPM66605',
+        'title': 'Castle Fantasia - Arihato Senki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25082': {
+        'id': 'SLKA25082',
+        'title': 'Castlevania',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65444': {
+        'id': 'SLPM65444',
+        'title': 'Castlevania',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65406': {
+        'id': 'SLPM65406',
+        'title': 'Castlevania (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66816': {
+        'id': 'SLPM66816',
+        'title': 'Chanter - Kimi no Uta ga Todoitara',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66176': {
+        'id': 'SLPM66176',
+        'title': 'Chaos Field - New Order',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25026': {
+        'id': 'SLKA25026',
+        'title': 'Chaos Legion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65249': {
+        'id': 'SLPM65249',
+        'title': 'Chaos Legion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66553': {
+        'id': 'SLPM66553',
+        'title': 'Chaos Wars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25444': {
+        'id': 'SLPS25444',
+        'title': 'Cherry Blossom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25580': {
+        'id': 'SLPS25580',
+        'title': 'Chicken Little',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65255': {
+        'id': 'SLPM65255',
+        'title': 'Chobits - Chii dake no Hito',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66001': {
+        'id': 'SLPM66001',
+        'title': 'Chocolat - Maid Cafe Curio',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65207': {
+        'id': 'SLPM65207',
+        'title': 'Chou Battle Houshin',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66095': {
+        'id': 'SLPM66095',
+        'title': 'Chou Battle Houshin',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20230': {
+        'id': 'SLPS20230',
+        'title': 'Chulip',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20283': {
+        'id': 'SLPS20283',
+        'title': 'Chulip',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20471': {
+        'id': 'SLPS20471',
+        'title': 'Chulip',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25415': {
+        'id': 'SLPS25415',
+        'title': 'Chuuka na Janshi - Tenhoo Painyan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66302': {
+        'id': 'SLPM66302',
+        'title': 'Clannad',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66981': {
+        'id': 'SLPM66981',
+        'title': 'Clannad',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55136': {
+        'id': 'SLPM55136',
+        'title': 'Clear - Atarashii Kaze no Fuku Oka de',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62129': {
+        'id': 'SLPM62129',
+        'title': 'Climax Tennis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25051': {
+        'id': 'SLKA25051',
+        'title': 'Clock Tower 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65221': {
+        'id': 'SLPM65221',
+        'title': 'Clock Tower 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55281': {
+        'id': 'SLPM55281',
+        'title': 'Clock Zero - Shuuen no Ichibyou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66137': {
+        'id': 'SLPM66137',
+        'title': "Clover Heart's - Looking for Happiness",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25391': {
+        'id': 'SLPS25391',
+        'title': "Clover Heart's - Looking for Happiness",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25390': {
+        'id': 'SLPS25390',
+        'title': "Clover Heart's - Looking for Happiness (Shokai Genteiban)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55255': {
+        'id': 'SLPM55255',
+        'title': 'Clover no Kuni no Alice - Wonderful Wonder World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25654': {
+        'id': 'SLPS25654',
+        'title': 'Cluster Edge - Kimi o Matsu Mirai e no Akashi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25653': {
+        'id': 'SLPS25653',
+        'title': 'Cluster Edge - Kimi o Matsu Mirai e no Akashi (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25860': {
+        'id': 'SLPS25860',
+        'title': 'Code Geass - Hangyaku no Lelouch - Lost Colors',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66805': {
+        'id': 'SLPM66805',
+        'title': 'Colorful Aquarium - My Little Mermaid',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66804': {
+        'id': 'SLPM66804',
+        'title': 'Colorful Aquarium - My Little Mermaid (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65589': {
+        'id': 'SLPM65589',
+        'title': 'Colorful Box - To Love',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66414': {
+        'id': 'SLPM66414',
+        'title': 'Colorful Box - To Love',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65588': {
+        'id': 'SLPM65588',
+        'title': 'Colorful Box - To Love (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65169': {
+        'id': 'SLPM65169',
+        'title': 'CombatQueen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA10006': {
+        'id': 'SCKA10006',
+        'title': 'Come on Baby',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66492': {
+        'id': 'SLPM66492',
+        'title': 'Commandos - Strike Force',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65507': {
+        'id': 'SLPM65507',
+        'title': 'Cool Girl (Aska Side)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65743': {
+        'id': 'SLPM65743',
+        'title': 'Cool Girl (Aska Side)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65505': {
+        'id': 'SLPM65505',
+        'title': 'Cool Girl (Aska Side) (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65506': {
+        'id': 'SLPM65506',
+        'title': 'Cool Girl (Ice Side)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65742': {
+        'id': 'SLPM65742',
+        'title': 'Cool Girl (Ice Side)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65504': {
+        'id': 'SLPM65504',
+        'title': 'Cool Girl (Ice Side) (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66429': {
+        'id': 'SLPM66429',
+        'title': 'Counter Terrorist Special Forces - Terror Taisaku Tokushu Butai - Nemesis no Shuurai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25550': {
+        'id': 'SLPS25550',
+        'title': 'Cowboy Bebop - Tsuioku no Serenade (Shokai Genteiban Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66067': {
+        'id': 'SLPM66067',
+        'title': 'Crash Bandicoot - Bakusou! Nitro Kart',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM64513': {
+        'id': 'SLPM64513',
+        'title': 'Crash Bandicoot - Mawangui Buhwal',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62114': {
+        'id': 'SLPM62114',
+        'title': 'Crash Bandicoot 4 - Sakuretsu! Majin Power',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74003': {
+        'id': 'SLPM74003',
+        'title': 'Crash Bandicoot 4 - Sakuretsu! Majin Power',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65801': {
+        'id': 'SLPM65801',
+        'title': 'Crash Bandicoot 5 - Eeee Crash to Cortex no Yabou!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62188': {
+        'id': 'SLPM62188',
+        'title': "Crazy Bump's - Kattobi Car Battle!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62102': {
+        'id': 'SLPM62102',
+        'title': 'Crazy Taxi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55285': {
+        'id': 'SLPM55285',
+        'title': 'Crimson Empire - Circumstances to Serve a Noble',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65547': {
+        'id': 'SLPM65547',
+        'title': 'Cross Channel - To All People',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65546': {
+        'id': 'SLPM65546',
+        'title': 'Cross Channel - To All People (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25107': {
+        'id': 'SLKA25107',
+        'title': 'Crouching Tiger, Hidden Dragon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20367': {
+        'id': 'SLPS20367',
+        'title': "Curry House CoCo Ichiban'ya - Kyou mo Genki da! Curry ga Umai!!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66905': {
+        'id': 'SLPM66905',
+        'title': 'D.C. - Da Capo - The Origin',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66226': {
+        'id': 'SLPM66226',
+        'title': 'D.C.F.S. - Da Capo - Four Seasons',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66225': {
+        'id': 'SLPM66225',
+        'title': 'D.C.F.S. - Da Capo - Four Seasons (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66924': {
+        'id': 'SLPM66924',
+        'title': 'D.C.II P.S. - Da Capo II - Plus Situation',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66925': {
+        'id': 'SLPM66925',
+        'title': 'D.C.II P.S. - Da Capo II - Plus Situation',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66922': {
+        'id': 'SLPM66922',
+        'title': 'D.C.II P.S. - Da Capo II - Plus Situation (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66923': {
+        'id': 'SLPM66923',
+        'title': 'D.C.II P.S. - Da Capo II - Plus Situation (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65400': {
+        'id': 'SLPM65400',
+        'title': 'D.C.P.S. - Da Capo - Plus Situation',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66049': {
+        'id': 'SLPM66049',
+        'title': 'D.C.P.S. - Da Capo - Plus Situation',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65399': {
+        'id': 'SLPM65399',
+        'title': 'D.C.P.S. - Da Capo - Plus Situation (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65368': {
+        'id': 'SLPM65368',
+        'title': 'D.N.Angel - TV Animation Series - Kurenai no Tsubasa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65775': {
+        'id': 'SLPM65775',
+        'title': 'DDR Festival - Dance Dance Revolution',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25026': {
+        'id': 'SLPS25026',
+        'title': 'DOA2 - Hardcore',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73406': {
+        'id': 'SLPS73406',
+        'title': 'DOA2 - Hardcore',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25374': {
+        'id': 'SLPS25374',
+        'title': 'Daidassou - The Great Escape',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20472': {
+        'id': 'SLPS20472',
+        'title': 'Daito Giken Koushiki Pachi-Slot Simulator - Hihouden',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20442': {
+        'id': 'SLPS20442',
+        'title': 'Daito Giken Koushiki Pachi-Slot Simulator - Ossu! Banchou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20376': {
+        'id': 'SLPS20376',
+        'title': 'Daito Giken Koushiki Pachi-Slot Simulator - Yoshimune',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66609': {
+        'id': 'SLPM66609',
+        'title': 'Dance Dance Revolution SuperNova',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55090': {
+        'id': 'SLPM55090',
+        'title': 'Dance Dance Revolution X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15033': {
+        'id': 'SCPS15033',
+        'title': 'Dark Chronicle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19215': {
+        'id': 'SCPS19215',
+        'title': 'Dark Chronicle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19306': {
+        'id': 'SCPS19306',
+        'title': 'Dark Chronicle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15004': {
+        'id': 'SCPS15004',
+        'title': 'Dark Cloud',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19203': {
+        'id': 'SCPS19203',
+        'title': 'Dark Cloud',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20014': {
+        'id': 'SCKA20014',
+        'title': 'Dark Cloud 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25002': {
+        'id': 'SLPS25002',
+        'title': 'Dead or Alive 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20035': {
+        'id': 'SCAJ20035',
+        'title': 'Dead to Rights',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25268': {
+        'id': 'SLPS25268',
+        'title': 'Dead to Rights',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65366': {
+        'id': 'SLPM65366',
+        'title': 'Dear Boys - Fast Break!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65624': {
+        'id': 'SLPM65624',
+        'title': 'Dear Boys - Fast Break!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65918': {
+        'id': 'SLPM65918',
+        'title': 'Dear My Friend - Love Like Powdery Snow',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25810': {
+        'id': 'SLPS25810',
+        'title': 'Dear My Sun!! Musuko Ikusei Capriccio',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25804': {
+        'id': 'SLPS25804',
+        'title': 'Dear My Sun!! Musuko Ikusei Capriccio (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25372': {
+        'id': 'SLPS25372',
+        'title': 'DearS',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25371': {
+        'id': 'SLPS25371',
+        'title': 'DearS (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55239': {
+        'id': 'SLPM55239',
+        'title': 'Death Connection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62401': {
+        'id': 'SLPM62401',
+        'title': 'Death Crimson OX+',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25422': {
+        'id': 'SLPS25422',
+        'title': 'Death by Degrees - Tekken - Nina Williams',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66463': {
+        'id': 'SLPM66463',
+        'title': 'Def Jam - Fight for NY',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65802': {
+        'id': 'SLPM65802',
+        'title': 'Def Jam - Vendetta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25275': {
+        'id': 'SLPS25275',
+        'title': 'Def Jam - Vendetta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20051': {
+        'id': 'SCKA20051',
+        'title': 'Degul Degul Jjondeuk Jjondeuk - Goehon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65913': {
+        'id': 'SLPM65913',
+        'title': 'Demento',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66638': {
+        'id': 'SLPM66638',
+        'title': 'Demento',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20115': {
+        'id': 'SCKA20115',
+        'title': 'Dennou Senki - Virtual-On Marz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65303': {
+        'id': 'SLPM65303',
+        'title': 'Dennou Senki - Virtual-On Marz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74421': {
+        'id': 'SLPM74421',
+        'title': 'Dennou Senki - Virtual-On Marz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62049': {
+        'id': 'SLPM62049',
+        'title': 'Densha de Go! 3 - Tsuukin-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65590': {
+        'id': 'SLPM65590',
+        'title': 'Densha de Go! Final',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66772': {
+        'id': 'SLPM66772',
+        'title': 'Densha de Go! Final',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74214': {
+        'id': 'SLPM74214',
+        'title': 'Densha de Go! Final',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65243': {
+        'id': 'SLPM65243',
+        'title': 'Densha de Go! Professional 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65661': {
+        'id': 'SLPM65661',
+        'title': 'Densha de Go! Professional 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65148': {
+        'id': 'SLPM65148',
+        'title': 'Densha de Go! Ryojou-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65810': {
+        'id': 'SLPM65810',
+        'title': 'Densha de Go! Ryojou-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65039': {
+        'id': 'SLPM65039',
+        'title': "Densha de Go! Shinkansen - San'you Shinkansen-hen",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74403': {
+        'id': 'SLPM74403',
+        'title': "Densha de Go! Shinkansen - San'you Shinkansen-hen",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55259': {
+        'id': 'SLPM55259',
+        'title': 'Desert Kingdom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66138': {
+        'id': 'SLPM66138',
+        'title': 'Desire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25392': {
+        'id': 'SLPS25392',
+        'title': 'Desire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66284': {
+        'id': 'SLPM66284',
+        'title': 'Dessert Love - Sweet Plus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66661': {
+        'id': 'SLPM66661',
+        'title': 'Dessert Love - Sweet Plus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66430': {
+        'id': 'SLPM66430',
+        'title': 'Destroy All Humans!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65038': {
+        'id': 'SLPM65038',
+        'title': 'Devil May Cry',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66502': {
+        'id': 'SLPM66502',
+        'title': 'Devil May Cry',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67502': {
+        'id': 'SLPM67502',
+        'title': 'Devil May Cry',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74230': {
+        'id': 'SLPM74230',
+        'title': 'Devil May Cry',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCCS40002': {
+        'id': 'SCCS40002',
+        'title': 'Devil May Cry 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCCS40003': {
+        'id': 'SCCS40003',
+        'title': 'Devil May Cry 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25012': {
+        'id': 'SLKA25012',
+        'title': 'Devil May Cry 2 (Dante)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65232': {
+        'id': 'SLPM65232',
+        'title': 'Devil May Cry 2 (Dante)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25013': {
+        'id': 'SLKA25013',
+        'title': 'Devil May Cry 2 (Lucia)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65233': {
+        'id': 'SLPM65233',
+        'title': 'Devil May Cry 2 (Lucia)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65396': {
+        'id': 'SLPM65396',
+        'title': 'Di Gi Charat Fantasy Excellent',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65395': {
+        'id': 'SLPM65395',
+        'title': 'Di Gi Charat Fantasy Excellent (Premium-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62472': {
+        'id': 'SLPM62472',
+        'title': 'Diet Channel',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25383': {
+        'id': 'SLPS25383',
+        'title': 'Digimon Battle Chronicle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25453': {
+        'id': 'SLPS25453',
+        'title': 'Digimon World X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM64532': {
+        'id': 'SLPM64532',
+        'title': 'Digital Holmes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20138': {
+        'id': 'SLPS20138',
+        'title': 'Digital Holmes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20169': {
+        'id': 'SCAJ20169',
+        'title': 'Dirge of Cerberus - Final Fantasy VII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66271': {
+        'id': 'SLPM66271',
+        'title': 'Dirge of Cerberus - Final Fantasy VII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62168': {
+        'id': 'SLPM62168',
+        'title': 'Disney Golf Classic',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25345': {
+        'id': 'SLKA25345',
+        'title': "Disney's Chicken Little",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25024': {
+        'id': 'SLPS25024',
+        'title': "Disney's Dinosaur",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25153': {
+        'id': 'SLPS25153',
+        'title': "Disney's Lilo and Stitch - Stitch no Daibouken",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20160': {
+        'id': 'SLPS20160',
+        'title': "Disney's Tarzan - Freeride",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20068': {
+        'id': 'SCKA20068',
+        'title': 'Disney-Pixar Cars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66462': {
+        'id': 'SLPM66462',
+        'title': 'Disney-Pixar Cars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66807': {
+        'id': 'SLPM66807',
+        'title': 'Disney-Pixar Remy no Oishii Restaurant',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25226': {
+        'id': 'SLKA25226',
+        'title': 'Disney-Pixar The Incredibles',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65615': {
+        'id': 'SLPM65615',
+        'title': 'Dokapon DX - Wataru Sekai wa Oni Darake',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66053': {
+        'id': 'SLPM66053',
+        'title': 'Dokapon DX - Wataru Sekai wa Oni Darake',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65750': {
+        'id': 'SLPM65750',
+        'title': 'Dokapon the World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66623': {
+        'id': 'SLPM66623',
+        'title': 'Dokapon the World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15067': {
+        'id': 'SCPS15067',
+        'title': 'Doko Demo Issho - Toro to Nagare-boshi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65866': {
+        'id': 'SLPM65866',
+        'title': 'Doko e Iku no Anohi - Hikaru Ashita e...',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM68521': {
+        'id': 'SLPM68521',
+        'title': 'Dot Hack Fraegment (Senkou Release-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25121': {
+        'id': 'SLPS25121',
+        'title': 'Dot Hack Kansen Kakudai Vol. 1',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73230': {
+        'id': 'SLPS73230',
+        'title': 'Dot Hack Kansen Kakudai Vol. 1',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65703': {
+        'id': 'SLPM65703',
+        'title': 'Double Reaction! Plus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65671': {
+        'id': 'SLPM65671',
+        'title': 'Double Wish (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20248': {
+        'id': 'SLPS20248',
+        'title': 'Downforce',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS56010': {
+        'id': 'SCPS56010',
+        'title': 'Downhill Racer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55080': {
+        'id': 'SLPM55080',
+        'title': 'Drag-on Dragoon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65266': {
+        'id': 'SLPM65266',
+        'title': 'Drag-on Dragoon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25046': {
+        'id': 'SLKA25046',
+        'title': 'Dragon Ball Z',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25174': {
+        'id': 'SLPS25174',
+        'title': 'Dragon Ball Z',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73207': {
+        'id': 'SLPS73207',
+        'title': 'Dragon Ball Z',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCCS40009': {
+        'id': 'SCCS40009',
+        'title': 'Dragon Ball Z 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25062': {
+        'id': 'SLKA25062',
+        'title': 'Dragon Ball Z 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25330': {
+        'id': 'SLPS25330',
+        'title': 'Dragon Ball Z 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73208': {
+        'id': 'SLPS73208',
+        'title': 'Dragon Ball Z 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62199': {
+        'id': 'SLPM62199',
+        'title': 'Dragon Quest Characters - Torneko no Daibouken 3 - Fushigi no Dungeon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20110': {
+        'id': 'SCAJ20110',
+        'title': 'Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65888': {
+        'id': 'SLPM65888',
+        'title': 'Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66481': {
+        'id': 'SLPM66481',
+        'title': 'Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25871': {
+        'id': 'SLPS25871',
+        'title': 'Drastic Killer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25870': {
+        'id': 'SLPS25870',
+        'title': 'Drastic Killer (Drastic Killer Excellent Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20016': {
+        'id': 'SLPS20016',
+        'title': 'Dream Audition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20060': {
+        'id': 'SLPS20060',
+        'title': 'Dream Audition 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20099': {
+        'id': 'SLPS20099',
+        'title': 'Dream Audition 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65384': {
+        'id': 'SLPM65384',
+        'title': 'Dream Mix TV - World Fighters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20426': {
+        'id': 'SLPS20426',
+        'title': 'DreamWorks Madagascar',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55139': {
+        'id': 'SLPM55139',
+        'title': 'Drift Nights - Juiced 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20007': {
+        'id': 'SLPS20007',
+        'title': 'Driving Emotion Type-S',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62001': {
+        'id': 'SLPM62001',
+        'title': 'DrumMania',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15022': {
+        'id': 'SCPS15022',
+        'title': 'Dual Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55011': {
+        'id': 'SCPS55011',
+        'title': 'Dual Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66139': {
+        'id': 'SLPM66139',
+        'title': 'Duel Savior Destiny',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25047': {
+        'id': 'SLAJ25047',
+        'title': 'Duo Luo Luo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67521': {
+        'id': 'SLPM67521',
+        'title': 'E.O.E - Eve of Extinction',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62116': {
+        'id': 'SLPM62116',
+        'title': 'EX Jinsei Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62115': {
+        'id': 'SLPM62115',
+        'title': 'EX Jinsei Game (Doukonban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65415': {
+        'id': 'SLPM65415',
+        'title': 'EX Jinsei Game II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66251': {
+        'id': 'SLPM66251',
+        'title': 'EX Jinsei Game II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74254': {
+        'id': 'SLPM74254',
+        'title': 'EX Jinsei Game II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74274': {
+        'id': 'SLPM74274',
+        'title': 'EX Jinsei Game II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62103': {
+        'id': 'SLPM62103',
+        'title': 'EX Okuman Chouja Game - The Money Battle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62596': {
+        'id': 'SLPM62596',
+        'title': 'EX Okuman Chouja Game - The Money Battle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62757': {
+        'id': 'SLPM62757',
+        'title': 'EX Okuman Chouja Game - The Money Battle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66976': {
+        'id': 'SLPM66976',
+        'title': 'Edel Blume',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66975': {
+        'id': 'SLPM66975',
+        'title': 'Edel Blume (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25468': {
+        'id': 'SLPS25468',
+        'title': 'Eien no Aselia - Kono Daichi no Hate de',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62623': {
+        'id': 'SLPM62623',
+        'title': 'Elemental Gelade - Matoe, Suifuu no Tsurugi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66585': {
+        'id': 'SLPM66585',
+        'title': 'Elvandia Story',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25220': {
+        'id': 'SLPS25220',
+        'title': 'Elysion - Eien no Sanctuary',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62047': {
+        'id': 'SLPM62047',
+        'title': 'Endonesia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25181': {
+        'id': 'SLKA25181',
+        'title': 'Energy Airforce - Aim Strike!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65374': {
+        'id': 'SLPM65374',
+        'title': 'Energy Airforce AimStrike!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25517': {
+        'id': 'SLPS25517',
+        'title': 'Enjoy Golf!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65948': {
+        'id': 'SLPM65948',
+        'title': 'Enthusia Professional Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66257': {
+        'id': 'SLPM66257',
+        'title': 'Enthusia Professional Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25188': {
+        'id': 'SLPS25188',
+        'title': 'Erde - Nezu no Ki no Shita de',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25617': {
+        'id': 'SLPS25617',
+        'title': 'Etude Prologue - Yureugoku Kokoro no Katachi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25554': {
+        'id': 'SLPS25554',
+        'title': 'Eureka Seven TR1 - New Wave',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25707': {
+        'id': 'SLPS25707',
+        'title': 'Eureka Seven TR1 - New Wave Graduation',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62284': {
+        'id': 'SLPM62284',
+        'title': 'European Game Collection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65320': {
+        'id': 'SLPM65320',
+        'title': 'Eve - Burst Error Plus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65930': {
+        'id': 'SLPM65930',
+        'title': 'Eve - Burst Error Plus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65319': {
+        'id': 'SLPM65319',
+        'title': 'Eve - Burst Error Plus (Premium DVD-Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66338': {
+        'id': 'SLPM66338',
+        'title': 'Eve - New Generation',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66337': {
+        'id': 'SLPM66337',
+        'title': 'Eve - New Generation (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25149': {
+        'id': 'SLPS25149',
+        'title': 'Ever 17 - The Out of Infinity',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55086': {
+        'id': 'SLPM55086',
+        'title': "Ever 17 - The Out of Infinity (Ren'ai Game Selection)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25138': {
+        'id': 'SLPS25138',
+        'title': 'Ever 17 - The Out of Infinity (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65421': {
+        'id': 'SLPM65421',
+        'title': 'Ever 17 - The Out of Infinity - Premium Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25003': {
+        'id': 'SLPS25003',
+        'title': 'Evergrace',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20057': {
+        'id': 'SCKA20057',
+        'title': "Everybody's Golf 4",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20105': {
+        'id': 'SCKA20105',
+        'title': "Everybody's Golf 4",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20088': {
+        'id': 'SCKA20088',
+        'title': "Everybody's Tennis",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25306': {
+        'id': 'SLKA25306',
+        'title': 'Evil Dead - Regeneration',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65296': {
+        'id': 'SLPM65296',
+        'title': 'F - Fanatic (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62243': {
+        'id': 'SLPM62243',
+        'title': 'F1 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25408': {
+        'id': 'SLKA25408',
+        'title': 'FIFA 08',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25464': {
+        'id': 'SLKA25464',
+        'title': 'FIFA 10',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65193': {
+        'id': 'SLPM65193',
+        'title': 'FIFA Soccer 2003',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25044': {
+        'id': 'SLAJ25044',
+        'title': 'FIFA Soccer 2005',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25378': {
+        'id': 'SLKA25378',
+        'title': 'FIFA World Cup Germany 2006',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66193': {
+        'id': 'SLPM66193',
+        'title': 'Fahrenheit',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65915': {
+        'id': 'SLPM65915',
+        'title': 'Fallout - Brotherhood of Steel',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25236': {
+        'id': 'SLPS25236',
+        'title': 'Fantastic Fortune 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25396': {
+        'id': 'SLPS25396',
+        'title': 'Fantastic Fortune 2 - Triple Star',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11002': {
+        'id': 'SCPS11002',
+        'title': 'Fantavision',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55032': {
+        'id': 'SCPS55032',
+        'title': 'Fantavision - For You and Me',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66513': {
+        'id': 'SLPM66513',
+        'title': 'Fate-Stay Night - Realta Nua',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74270': {
+        'id': 'SLPM74270',
+        'title': 'Fate-Stay Night - Realta Nua',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66512': {
+        'id': 'SLPM66512',
+        'title': 'Fate-Stay Night - Realta Nua (Extra Edition)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55108': {
+        'id': 'SLPM55108',
+        'title': 'Fate-Unlimited Codes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65178': {
+        'id': 'SLPM65178',
+        'title': 'Ferrari F355 Challenge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66435': {
+        'id': 'SLPM66435',
+        'title': 'Festa!! Hyper Girls Party',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66434': {
+        'id': 'SLPM66434',
+        'title': 'Festa!! Hyper Girls Party (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25373': {
+        'id': 'SLKA25373',
+        'title': 'Fight Night Round 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25545': {
+        'id': 'SLPS25545',
+        'title': 'Fighting for One Piece',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65676': {
+        'id': 'SLPM65676',
+        'title': 'Final Approach',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66323': {
+        'id': 'SLPM66323',
+        'title': 'Final Approach',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65675': {
+        'id': 'SLPM65675',
+        'title': 'Final Approach (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66943': {
+        'id': 'SLPM66943',
+        'title': 'Final Approach 2 - 1st Priority',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66942': {
+        'id': 'SLPM66942',
+        'title': 'Final Approach 2 - 1st Priority (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66124': {
+        'id': 'SLPM66124',
+        'title': 'Final Fantasy X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25050': {
+        'id': 'SLPS25050',
+        'title': 'Final Fantasy X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS72501': {
+        'id': 'SLPS72501',
+        'title': 'Final Fantasy X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65115': {
+        'id': 'SLPM65115',
+        'title': 'Final Fantasy X International',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66677': {
+        'id': 'SLPM66677',
+        'title': 'Final Fantasy X International',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67513': {
+        'id': 'SLPM67513',
+        'title': 'Final Fantasy X International',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25088': {
+        'id': 'SLPS25088',
+        'title': 'Final Fantasy X International',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25144': {
+        'id': 'SLKA25144',
+        'title': 'Final Fantasy X-2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66125': {
+        'id': 'SLPM66125',
+        'title': 'Final Fantasy X-2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25250': {
+        'id': 'SLPS25250',
+        'title': 'Final Fantasy X-2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20068': {
+        'id': 'SCAJ20068',
+        'title': 'Final Fantasy X-2 International + Last Mission',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65478': {
+        'id': 'SLPM65478',
+        'title': 'Final Fantasy X-2 International + Last Mission',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66678': {
+        'id': 'SLPM66678',
+        'title': 'Final Fantasy X-2 International + Last Mission',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'PBPX95525': {
+        'id': 'PBPX95525',
+        'title': 'Final Fantasy XII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20073': {
+        'id': 'SCKA20073',
+        'title': 'Final Fantasy XII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55022': {
+        'id': 'SLPM55022',
+        'title': 'Final Fantasy XII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66320': {
+        'id': 'SLPM66320',
+        'title': 'Final Fantasy XII',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20188': {
+        'id': 'SCAJ20188',
+        'title': 'Final Fantasy XII International - Zodiac Job System',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20110': {
+        'id': 'SCKA20110',
+        'title': 'Final Fantasy XII International - Zodiac Job System',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20138': {
+        'id': 'SCKA20138',
+        'title': 'Final Fantasy XII International - Zodiac Job System',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55210': {
+        'id': 'SLPM55210',
+        'title': 'Final Fantasy XII International - Zodiac Job System',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66750': {
+        'id': 'SLPM66750',
+        'title': 'Final Fantasy XII International - Zodiac Job System',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66254': {
+        'id': 'SLPM66254',
+        'title': 'Finalist',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65470': {
+        'id': 'SLPM65470',
+        'title': 'Firefighter F.D.18',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65744': {
+        'id': 'SLPM65744',
+        'title': 'Firefighter F.D.18',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66017': {
+        'id': 'SLPM66017',
+        'title': 'Firefighter F.D.18',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65313': {
+        'id': 'SLPM65313',
+        'title': 'First Kiss Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65256': {
+        'id': 'SLPM65256',
+        'title': 'First Kiss Stories (Special CD Doukonban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25401': {
+        'id': 'SLKA25401',
+        'title': 'FlatOut 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66591': {
+        'id': 'SLPM66591',
+        'title': 'FlatOut 2 GTR (Ganbare! Tobidase! Racing!!)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15050': {
+        'id': 'SCPS15050',
+        'title': 'Flipnic',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62096': {
+        'id': 'SLPM62096',
+        'title': 'Flying Circus - RC Copter Adventure Championship',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62095': {
+        'id': 'SLPM62095',
+        'title': 'Flying Circus - RC Copter Adventure Championship (Propo-gata Controller Doukonban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25506': {
+        'id': 'SLPS25506',
+        'title': "For Symphony - With All One's Heart",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65927': {
+        'id': 'SLPM65927',
+        'title': 'Forgotten Realms - Demon Stone',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66203': {
+        'id': 'SLPM66203',
+        'title': 'Fragments Blue',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25494': {
+        'id': 'SLPS25494',
+        'title': 'Fragrance Tale',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65548': {
+        'id': 'SLPM65548',
+        'title': 'Freedom Fighters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65803': {
+        'id': 'SLPM65803',
+        'title': 'Freedom Fighters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM64517': {
+        'id': 'SLPM64517',
+        'title': 'Freekstyle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25385': {
+        'id': 'SLPS25385',
+        'title': 'Friends - Seishun no Kagayaki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20057': {
+        'id': 'SCAJ20057',
+        'title': 'Front Mission 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65443': {
+        'id': 'SLPM65443',
+        'title': 'Front Mission 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55120': {
+        'id': 'SLPM55120',
+        'title': 'Fukakutei Sekai no Tantei Shinshi - Akugyou Souma no Jiken File',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65638': {
+        'id': 'SLPM65638',
+        'title': "Full House Kiss - Ren'ai Kaseifu Adventure",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66640': {
+        'id': 'SLPM66640',
+        'title': "Full House Kiss - Ren'ai Kaseifu Adventure",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66288': {
+        'id': 'SLPM66288',
+        'title': "Full House Kiss 2 - Ren'ai Kaseifu Adventure",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66664': {
+        'id': 'SLPM66664',
+        'title': "Full House Kiss 2 - Ren'ai Kaseifu Adventure",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25264': {
+        'id': 'SLKA25264',
+        'title': 'Full Spectrum Warrior',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66263': {
+        'id': 'SLPM66263',
+        'title': 'Full Spectrum Warrior',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25352': {
+        'id': 'SLKA25352',
+        'title': 'Fullmetal Alchemist - Dream Carnival',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65523': {
+        'id': 'SLPM65523',
+        'title': 'Furasera - Hurrah! Sailor',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65493': {
+        'id': 'SLPM65493',
+        'title': 'Furasera - Hurrah! Sailor (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66024': {
+        'id': 'SLPM66024',
+        'title': 'Fushigi Yuugi - Genbu Kaiden Gaiden - Kagami no Miko',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67000': {
+        'id': 'SLPM67000',
+        'title': 'Fushigi Yuugi - Genbu Kaiden Gaiden - Kagami no Miko',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66023': {
+        'id': 'SLPM66023',
+        'title': 'Fushigi Yuugi - Genbu Kaiden Gaiden - Kagami no Miko (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66999': {
+        'id': 'SLPM66999',
+        'title': 'Fushigi Yuugi - Suzaku Ibun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66998': {
+        'id': 'SLPM66998',
+        'title': 'Fushigi Yuugi - Suzaku Ibun (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62341': {
+        'id': 'SLPM62341',
+        'title': 'Fushigi no Kuni no Alice',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66112': {
+        'id': 'SLPM66112',
+        'title': 'Fushigi no Umi no Nadia - Inherit the Blue Water',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66110': {
+        'id': 'SLPM66110',
+        'title': "Fushigi no Umi no Nadia - Inherit the Blue Water (Collector's Edition)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25410': {
+        'id': 'SLPS25410',
+        'title': 'Futakoi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25409': {
+        'id': 'SLPS25409',
+        'title': 'Futakoi (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25624': {
+        'id': 'SLPS25624',
+        'title': 'Futakoi (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25516': {
+        'id': 'SLPS25516',
+        'title': 'Futakoi Alternative - Koi to Shoujo to Machine Gun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25633': {
+        'id': 'SLPS25633',
+        'title': 'Futakoi Alternative - Koi to Shoujo to Machine Gun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25515': {
+        'id': 'SLPS25515',
+        'title': 'Futakoi Alternative - Koi to Shoujo to Machine Gun (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25543': {
+        'id': 'SLPS25543',
+        'title': 'Futakoi-jima - Koi to Mizugi no Survival',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25625': {
+        'id': 'SLPS25625',
+        'title': 'Futakoi-jima - Koi to Mizugi no Survival',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15030': {
+        'id': 'SCPS15030',
+        'title': 'Futari no Fantavision',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25307': {
+        'id': 'SLPS25307',
+        'title': 'Future GPX Cyber Formula - Road to the Infinity',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66991': {
+        'id': 'SLPM66991',
+        'title': 'Fuuraiki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66992': {
+        'id': 'SLPM66992',
+        'title': 'Fuuraiki 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65813': {
+        'id': 'SLPM65813',
+        'title': 'Fuuun Bakumatsuden',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74228': {
+        'id': 'SLPM74228',
+        'title': 'Fuuun Bakumatsuden',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62327': {
+        'id': 'SLPM62327',
+        'title': 'G-Taste Mahjong',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62453': {
+        'id': 'SLPM62453',
+        'title': 'G-Taste Mahjong',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62326': {
+        'id': 'SLPM62326',
+        'title': 'G-Taste Mahjong (Special Ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62020': {
+        'id': 'SLPM62020',
+        'title': 'GI Jockey 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62262': {
+        'id': 'SLPM62262',
+        'title': 'GI Jockey 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62277': {
+        'id': 'SLPM62277',
+        'title': 'GI Jockey 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62536': {
+        'id': 'SLPM62536',
+        'title': 'GI Jockey 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62279': {
+        'id': 'SLPM62279',
+        'title': 'GI Jockey 3 (Premium Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62590': {
+        'id': 'SLPM62590',
+        'title': 'GI Jockey 3 - 2005-nendoban (Premium Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62258': {
+        'id': 'SLPM62258',
+        'title': 'GTC Africa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20090': {
+        'id': 'SCAJ20090',
+        'title': 'Gacha Mecha Stadium - Saru Battle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15072': {
+        'id': 'SCPS15072',
+        'title': 'Gacha Mecha Stadium - Saru Battle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11026': {
+        'id': 'SCPS11026',
+        'title': 'Gacharoku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11034': {
+        'id': 'SCPS11034',
+        'title': 'Gacharoku 2 - Kondo wa Sekai Isshuu yo!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20301': {
+        'id': 'SLPS20301',
+        'title': 'Gachinko Pro Yakyuu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25471': {
+        'id': 'SLPS25471',
+        'title': 'Gakkou o Tsukurou!! Happy Days',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25598': {
+        'id': 'SLPS25598',
+        'title': 'Gakkou o Tsukurou!! Happy Days',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25308': {
+        'id': 'SLPS25308',
+        'title': 'Gako Zouryuu - Crouching Tiger, Hidden Dragon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66293': {
+        'id': 'SLPM66293',
+        'title': 'Gakuen Alice - Kira Kira Memory Kiss',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66519': {
+        'id': 'SLPM66519',
+        'title': "Gakuen Heaven - Boy's Love Scramble!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66984': {
+        'id': 'SLPM66984',
+        'title': "Gakuen Heaven - Boy's Love Scramble!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25282': {
+        'id': 'SLPS25282',
+        'title': "Gakuen Heaven - Boy's Love Scramble!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25381': {
+        'id': 'SLPS25381',
+        'title': "Gakuen Heaven - Boy's Love Scramble! Type B",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62597': {
+        'id': 'SLPM62597',
+        'title': "Gakuen Heaven - Okawari! Boy's Love Attack!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62743': {
+        'id': 'SLPM62743',
+        'title': "Gakuen Heaven - Okawari! Boy's Love Attack!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25752': {
+        'id': 'SLPS25752',
+        'title': 'Gakuen Utopia - Manabi Straight! Kira Kira Happy Festa!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25751': {
+        'id': 'SLPS25751',
+        'title': 'Gakuen Utopia - Manabi Straight! Kira Kira Happy Festa! (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55119': {
+        'id': 'SLPM55119',
+        'title': 'Galaxy Angel II - Eigou Kaiki no Toki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25119': {
+        'id': 'SLPS25119',
+        'title': 'Galerians - Ash',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25036': {
+        'id': 'SLPS25036',
+        'title': 'Gallop Racer 5',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65318': {
+        'id': 'SLPM65318',
+        'title': 'Gambler Densetsu Tetsuya - Kurouto Choujou Kessen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62574': {
+        'id': 'SLPM62574',
+        'title': 'Gambler Densetsu Tetsuya Digest',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62009': {
+        'id': 'SLPM62009',
+        'title': 'Ganbare! Nippon! Olympic 2000',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65950': {
+        'id': 'SLPM65950',
+        'title': 'Gantz - The Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62733': {
+        'id': 'SLPM62733',
+        'title': 'Garfield - Arleene o Sukue!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25530': {
+        'id': 'SLPS25530',
+        'title': 'Garouden - Breakblow',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25747': {
+        'id': 'SLPS25747',
+        'title': 'Garouden - Breakblow - Fist or Twist',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62125': {
+        'id': 'SLPM62125',
+        'title': 'Gauntlet - Dark Legacy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20091': {
+        'id': 'SLPS20091',
+        'title': 'Gekisha Boy 2 - Tokudane Taikoku Nippon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20134': {
+        'id': 'SCAJ20134',
+        'title': 'Genji',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20052': {
+        'id': 'SCKA20052',
+        'title': 'Genji',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15095': {
+        'id': 'SCPS15095',
+        'title': 'Genji',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19318': {
+        'id': 'SCPS19318',
+        'title': 'Genji',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15014': {
+        'id': 'SCPS15014',
+        'title': 'Genshi no Kotoba',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25009': {
+        'id': 'SLKA25009',
+        'title': 'Geomho 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62276': {
+        'id': 'SLPM62276',
+        'title': "GetBackers - Dakkan'ya - Dakkan da yo! Zen'in Shuugou!!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62376': {
+        'id': 'SLPM62376',
+        'title': "GetBackers - Dakkan'ya - Dakkan da yo! Zen'in Shuugou!!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66754': {
+        'id': 'SLPM66754',
+        'title': 'Getsumento Heiki Mina - Futatsu no Project M',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66753': {
+        'id': 'SLPM66753',
+        'title': 'Getsumento Heiki Mina - Futatsu no Project M (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15034': {
+        'id': 'SLKA15034',
+        'title': 'Geunyukman Generations',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65701': {
+        'id': 'SLPM65701',
+        'title': 'Ghosthunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66530': {
+        'id': 'SLPM66530',
+        'title': 'Gift - Prism',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66786': {
+        'id': 'SLPM66786',
+        'title': 'Gift - Prism',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62209': {
+        'id': 'SLPM62209',
+        'title': 'Gigantic Drive',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66980': {
+        'id': 'SLPM66980',
+        'title': 'Gin no Eclipse',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25809': {
+        'id': 'SLPS25809',
+        'title': 'Gintama - Gin-san to Issho! Boku no Kabuki-chou Nikki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65856': {
+        'id': 'SLPM65856',
+        'title': "Girls Bravo - Romance 15's",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65855': {
+        'id': 'SLPM65855',
+        'title': "Girls Bravo - Romance 15's (DX Pack)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25216': {
+        'id': 'SLKA25216',
+        'title': 'Gitaroo Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65012': {
+        'id': 'SLPM65012',
+        'title': 'Gitaroo Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65160': {
+        'id': 'SLPM65160',
+        'title': 'Gitaroo Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67508': {
+        'id': 'SLPM67508',
+        'title': 'Gitaroo Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62062': {
+        'id': 'SLPM62062',
+        'title': 'Gitaroo Man One',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20052': {
+        'id': 'SLPS20052',
+        'title': 'Global Folktale',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66550': {
+        'id': 'SLPM66550',
+        'title': 'God Hand',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74241': {
+        'id': 'SLPM74241',
+        'title': 'God Hand',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ30010': {
+        'id': 'SCAJ30010',
+        'title': 'God of War',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67010': {
+        'id': 'SLPM67010',
+        'title': 'God of War',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67011': {
+        'id': 'SLPM67011',
+        'title': 'God of War',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67012': {
+        'id': 'SLPM67012',
+        'title': 'God of War',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA30002': {
+        'id': 'SCKA30002',
+        'title': 'God of War - Yeonghonui Banyeokja',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA30003': {
+        'id': 'SCKA30003',
+        'title': 'God of War - Yeonghonui Banyeokja',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ30011': {
+        'id': 'SCAJ30011',
+        'title': 'God of War II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA30006': {
+        'id': 'SCKA30006',
+        'title': 'God of War II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA30007': {
+        'id': 'SCKA30007',
+        'title': 'God of War II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67013': {
+        'id': 'SLPM67013',
+        'title': 'God of War II - Shuuen e no Jokyoku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65805': {
+        'id': 'SLPM65805',
+        'title': 'Godzilla - Kaijuu Dairantou - Chikyuu Saishuu Kessen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20025': {
+        'id': 'SCKA20025',
+        'title': 'Goehon - Gulryeora! Wangjanim!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65046': {
+        'id': 'SLPM65046',
+        'title': 'Gofungo no Sekai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66086': {
+        'id': 'SLPM66086',
+        'title': 'Gokujou Seitokai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66631': {
+        'id': 'SLPM66631',
+        'title': 'Gokujou Seitokai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20314': {
+        'id': 'SLPS20314',
+        'title': 'Gold X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65763': {
+        'id': 'SLPM65763',
+        'title': 'GoldenEye - Dark Agent',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66145': {
+        'id': 'SLPM66145',
+        'title': 'GoldenEye - Dark Agent',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20009': {
+        'id': 'SLPS20009',
+        'title': 'Golf Paradise',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25027': {
+        'id': 'SLPS25027',
+        'title': 'Golf Paradise DX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20027': {
+        'id': 'SCKA20027',
+        'title': 'Gonggak Gidongdae - Stand Alone Complex',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62007': {
+        'id': 'SLPM62007',
+        'title': 'Gradius III and IV - Fukkatsu no Shinwa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62063': {
+        'id': 'SLPM62063',
+        'title': 'Gradius III and IV - Fukkatsu no Shinwa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62530': {
+        'id': 'SLPM62530',
+        'title': 'Gradius III and IV - Fukkatsu no Shinwa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62462': {
+        'id': 'SLPM62462',
+        'title': 'Gradius V',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62621': {
+        'id': 'SLPM62621',
+        'title': 'Gradius V',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'PBPX95502': {
+        'id': 'PBPX95502',
+        'title': 'Gran Turismo 3 - A-Spec',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15009': {
+        'id': 'SCPS15009',
+        'title': 'Gran Turismo 3 - A-Spec',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55007': {
+        'id': 'SCPS55007',
+        'title': 'Gran Turismo 3 - A-Spec',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS72001': {
+        'id': 'SCPS72001',
+        'title': 'Gran Turismo 3 - A-Spec',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'PBPX95601': {
+        'id': 'PBPX95601',
+        'title': 'Gran Turismo 4 (Doukonban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'PBPX95523': {
+        'id': 'PBPX95523',
+        'title': 'Gran Turismo 4 - Prologue (Doukonban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'PBPX95524': {
+        'id': 'PBPX95524',
+        'title': 'Gran Turismo 4 - Prologue (PlayStation 2 Racing Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65488': {
+        'id': 'SLPM65488',
+        'title': 'Grand Theft Auto - Vice City',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66034': {
+        'id': 'SLPM66034',
+        'title': 'Grand Theft Auto - Vice City',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66790': {
+        'id': 'SLPM66790',
+        'title': 'Grand Theft Auto - Vice City',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55291': {
+        'id': 'SLPM55291',
+        'title': 'Grand Theft Auto - Vice City (Rockstar Classics)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55135': {
+        'id': 'SLPM55135',
+        'title': 'Grand Theft Auto - Vice City Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66917': {
+        'id': 'SLPM66917',
+        'title': 'Grand Theft Auto - Vice City Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65382': {
+        'id': 'SLPM65382',
+        'title': 'Grand Theft Auto III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65760': {
+        'id': 'SLPM65760',
+        'title': 'Grand Theft Auto III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66789': {
+        'id': 'SLPM66789',
+        'title': 'Grand Theft Auto III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55293': {
+        'id': 'SLPM55293',
+        'title': 'Grand Theft Auto III (Rockstar Classics)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55012': {
+        'id': 'SCPS55012',
+        'title': 'Grandia II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65081': {
+        'id': 'SLPM65081',
+        'title': 'Grandia II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65976': {
+        'id': 'SLPM65976',
+        'title': 'Grandia III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65977': {
+        'id': 'SLPM65977',
+        'title': 'Grandia III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55010': {
+        'id': 'SCPS55010',
+        'title': 'Grandia Xtreme',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65089': {
+        'id': 'SLPM65089',
+        'title': 'Grandia Xtreme',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65082': {
+        'id': 'SLPM65082',
+        'title': 'Grandia Xtreme (Limited Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20038': {
+        'id': 'SLPS20038',
+        'title': 'Grappler Baki - Baki Saikyou Retsuden',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65281': {
+        'id': 'SLPM65281',
+        'title': 'Green Green - Kane no Ne - Dynamic',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65283': {
+        'id': 'SLPM65283',
+        'title': 'Green Green - Kane no Ne - Romantic',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65324': {
+        'id': 'SLPM65324',
+        'title': 'Gregory Horror Show - Soul Collector',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25405': {
+        'id': 'SLKA25405',
+        'title': 'GrimGrimoire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25772': {
+        'id': 'SLPS25772',
+        'title': 'GrimGrimoire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25884': {
+        'id': 'SLPS25884',
+        'title': 'GrimGrimoire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25771': {
+        'id': 'SLPS25771',
+        'title': 'GrimGrimoire (Shokai Seisanban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25214': {
+        'id': 'SLPS25214',
+        'title': 'Guardian Angel',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20137': {
+        'id': 'SLPS20137',
+        'title': 'Guilty Gear X Plus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73005': {
+        'id': 'SLPS73005',
+        'title': 'Guilty Gear X Plus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20136': {
+        'id': 'SLPS20136',
+        'title': 'Guilty Gear X Plus (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65886': {
+        'id': 'SLPM65886',
+        'title': 'Guisard Revolution - Bokura wa Omoi o Mi ni Matou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25889': {
+        'id': 'SLPS25889',
+        'title': 'Guitar Hero - Aerosmith',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65060': {
+        'id': 'SLPM65060',
+        'title': 'Gun Survivor 2 - Biohazard - Code - Veronica',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65059': {
+        'id': 'SLPM65059',
+        'title': 'Gun Survivor 2 - Biohazard - Code - Veronica (With GunCon2)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74409': {
+        'id': 'SLPM74409',
+        'title': 'Gun Survivor 2 - Biohazard - Code - Veronica (With GunCon2)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65139': {
+        'id': 'SLPM65139',
+        'title': 'Gun Survivor 3 - Dino Crisis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65245': {
+        'id': 'SLPM65245',
+        'title': 'Gun Survivor 4 - Biohazard - Heroes Never Die',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62469': {
+        'id': 'SLPM62469',
+        'title': 'Gunbird 1 & 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25520': {
+        'id': 'SLPS25520',
+        'title': 'Gundam True Odyssey - Ushinawareshi G no Densetsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73246': {
+        'id': 'SLPS73246',
+        'title': 'Gundam True Odyssey - Ushinawareshi G no Densetsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS56014': {
+        'id': 'SCPS56014',
+        'title': 'Gungrave',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65153': {
+        'id': 'SLPM65153',
+        'title': 'Gungrave',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65502': {
+        'id': 'SLPM65502',
+        'title': 'Gungrave',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65152': {
+        'id': 'SLPM65152',
+        'title': 'Gungrave (Limited Edition)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20082': {
+        'id': 'SCAJ20082',
+        'title': 'Gungrave O.D.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15110': {
+        'id': 'SCPS15110',
+        'title': 'Gunparade Orchestra - Ao no Shou - Hikari no Umi kara Tegami o Okuri masu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15108': {
+        'id': 'SCPS15108',
+        'title': 'Gunparade Orchestra - Midori no Shou - Ookami to Kare no Shounen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15107': {
+        'id': 'SCPS15107',
+        'title': 'Gunparade Orchestra - Midori no Shou - Ookami to Kare no Shounen (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15104': {
+        'id': 'SCPS15104',
+        'title': 'Gunparade Orchestra - Shiro no Shou - Aomori Penguin Densetsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15103': {
+        'id': 'SCPS15103',
+        'title': 'Gunparade Orchestra - Shiro no Shou - Aomori Penguin Densetsu (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25343': {
+        'id': 'SLPS25343',
+        'title': 'Gunslinger Girl. Volume. I',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25373': {
+        'id': 'SLPS25373',
+        'title': 'Gunslinger Girl. Volume. II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25171': {
+        'id': 'SLKA25171',
+        'title': 'Guwon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25193': {
+        'id': 'SLKA25193',
+        'title': 'Gwimuja 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67518': {
+        'id': 'SLPM67518',
+        'title': 'Gwimuja 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25093': {
+        'id': 'SLKA25093',
+        'title': 'Gwimuja 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25092': {
+        'id': 'SLKA25092',
+        'title': 'Gwimuja Muroejeon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67514': {
+        'id': 'SLPM67514',
+        'title': 'Gyeoljeon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66921': {
+        'id': 'SLPM66921',
+        'title': 'H2O+ - Footprints in the Sand',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25402': {
+        'id': 'SLPS25402',
+        'title': 'Hagane no Renkinjutsushi - Dream Carnival',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65473': {
+        'id': 'SLPM65473',
+        'title': 'Hagane no Renkinjutsushi - Tobenai Tenshi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65708': {
+        'id': 'SLPM65708',
+        'title': 'Hagane no Renkinjutsushi 2 - Akaki Elixir no Akuma',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65747': {
+        'id': 'SLPM65747',
+        'title': 'Hagane no Renkinjutsushi 2 - Akaki Elixir no Akuma',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62273': {
+        'id': 'SLPM62273',
+        'title': 'Haishin 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55125': {
+        'id': 'SLPM55125',
+        'title': 'Hakarena Heart - Kimi ga Tame ni Kagayaki o',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66883': {
+        'id': 'SLPM66883',
+        'title': 'Hakarena Heart - Kimi ga Tame ni Kagayaki o',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66882': {
+        'id': 'SLPM66882',
+        'title': 'Hakarena Heart - Kimi ga Tame ni Kagayaki o (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55273': {
+        'id': 'SLPM55273',
+        'title': 'Hakuouki - Reimeiroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55283': {
+        'id': 'SLPM55283',
+        'title': 'Hakuouki - Reimeiroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55064': {
+        'id': 'SLPM55064',
+        'title': 'Hakuouki - Shinsengumi Kitan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55063': {
+        'id': 'SLPM55063',
+        'title': 'Hakuouki - Shinsengumi Kitan (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55207': {
+        'id': 'SLPM55207',
+        'title': 'Hakuouki - Zuisouroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55208': {
+        'id': 'SLPM55208',
+        'title': 'Hakuouki - Zuisouroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55057': {
+        'id': 'SLPM55057',
+        'title': 'Hakushaku to Yousei - Yume to Kizuna ni Omoi o Hasete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65997': {
+        'id': 'SLPM65997',
+        'title': 'Hametsu no Mars',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55263': {
+        'id': 'SLPM55263',
+        'title': 'Hana to Otome ni Shukufuku o - Harukaze no Okurimono',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25034': {
+        'id': 'SLPS25034',
+        'title': 'Hana to Taiyou to Ame to',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25154': {
+        'id': 'SLPS25154',
+        'title': 'Hana to Taiyou to Ame to',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25451': {
+        'id': 'SLPS25451',
+        'title': 'Hana to Taiyou to Ame to',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20309': {
+        'id': 'SLPS20309',
+        'title': 'Hanabi Hyakkei',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20308': {
+        'id': 'SLPS20308',
+        'title': 'Hanabi Hyakkei (Tokutenban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20294': {
+        'id': 'SLPS20294',
+        'title': 'Hanabi Shokunin ni Narou 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66471': {
+        'id': 'SLPM66471',
+        'title': 'Hanakisou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25868': {
+        'id': 'SLPS25868',
+        'title': 'Hanayoi Romanesque - Ai to Kanashimi - Sore wa Kimi no Tame no Aria',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25867': {
+        'id': 'SLPS25867',
+        'title': 'Hanayoi Romanesque - Ai to Kanashimi - Sore wa Kimi no Tame no Aria (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25720': {
+        'id': 'SLPS25720',
+        'title': 'Happiness! de Lucks',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25811': {
+        'id': 'SLPS25811',
+        'title': 'Happiness! de Lucks',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25719': {
+        'id': 'SLPS25719',
+        'title': 'Happiness! de Lucks (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65220': {
+        'id': 'SLPM65220',
+        'title': 'Happy Breeding - Cheerful Party',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65219': {
+        'id': 'SLPM65219',
+        'title': 'Happy Breeding - Cheerful Party (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20050': {
+        'id': 'SLPS20050',
+        'title': 'Happy! Happy!! Boarders in Hokkaido Rusutsu Resort',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20098': {
+        'id': 'SLPS20098',
+        'title': 'Hard Hitter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20173': {
+        'id': 'SLPS20173',
+        'title': 'Hard Hitter 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20270': {
+        'id': 'SLPS20270',
+        'title': 'Hard Hitter 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65695': {
+        'id': 'SLPM65695',
+        'title': 'Hard Luck - Return of the Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25076': {
+        'id': 'SLAJ25076',
+        'title': 'Harry Potter and the Goblet of Fire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25327': {
+        'id': 'SLKA25327',
+        'title': 'Harry Potter and the Goblet of Fire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25271': {
+        'id': 'SLKA25271',
+        'title': 'Harry Potter and the Order of the Phoenix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25041': {
+        'id': 'SLAJ25041',
+        'title': 'Harry Potter and the Prisoner of Azkaban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66886': {
+        'id': 'SLPM66886',
+        'title': 'Harry Potter to Fushichou no Kishidan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM68005': {
+        'id': 'SLPM68005',
+        'title': 'Harry Potter to Himitsu no Heya (Coca-Cola Kenshouhin)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65650': {
+        'id': 'SLPM65650',
+        'title': 'Harry Potter to Kenja no Ishi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66318': {
+        'id': 'SLPM66318',
+        'title': 'Haru no Ashioto - Step of Spring - Deliver Spring to Your Heart ... as Soon!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65916': {
+        'id': 'SLPM65916',
+        'title': 'Harukanaru Toki no Naka de - Hachiyou-shou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66655': {
+        'id': 'SLPM66655',
+        'title': 'Harukanaru Toki no Naka de - Hachiyou-shou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66003': {
+        'id': 'SLPM66003',
+        'title': 'Harukanaru Toki no Naka de - Hachiyou-shou (History Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65957': {
+        'id': 'SLPM65957',
+        'title': 'Harukanaru Toki no Naka de - Hachiyou-shou (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55050': {
+        'id': 'SLPM55050',
+        'title': 'Harukanaru Toki no Naka de - Maihitoyo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66548': {
+        'id': 'SLPM66548',
+        'title': 'Harukanaru Toki no Naka de - Maihitoyo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66545': {
+        'id': 'SLPM66545',
+        'title': 'Harukanaru Toki no Naka de - Maihitoyo (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55137': {
+        'id': 'SLPM55137',
+        'title': 'Harukanaru Toki no Naka de - Yume no Ukihashi Special',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55138': {
+        'id': 'SLPM55138',
+        'title': 'Harukanaru Toki no Naka de - Yume no Ukihashi Special',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65092': {
+        'id': 'SLPM65092',
+        'title': 'Harukanaru Toki no Naka de 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65833': {
+        'id': 'SLPM65833',
+        'title': 'Harukanaru Toki no Naka de 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66654': {
+        'id': 'SLPM66654',
+        'title': 'Harukanaru Toki no Naka de 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65091': {
+        'id': 'SLPM65091',
+        'title': 'Harukanaru Toki no Naka de 2 (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65851': {
+        'id': 'SLPM65851',
+        'title': 'Harukanaru Toki no Naka de 2 (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66004': {
+        'id': 'SLPM66004',
+        'title': 'Harukanaru Toki no Naka de 2 (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65834': {
+        'id': 'SLPM65834',
+        'title': 'Harukanaru Toki no Naka de 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66688': {
+        'id': 'SLPM66688',
+        'title': 'Harukanaru Toki no Naka de 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65850': {
+        'id': 'SLPM65850',
+        'title': 'Harukanaru Toki no Naka de 3 (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66128': {
+        'id': 'SLPM66128',
+        'title': 'Harukanaru Toki no Naka de 3 (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66345': {
+        'id': 'SLPM66345',
+        'title': 'Harukanaru Toki no Naka de 3 (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65849': {
+        'id': 'SLPM65849',
+        'title': 'Harukanaru Toki no Naka de 3 (SLPM-65849)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66005': {
+        'id': 'SLPM66005',
+        'title': 'Harukanaru Toki no Naka de 3 (SLPM-65849)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66100': {
+        'id': 'SLPM66100',
+        'title': 'Harukanaru Toki no Naka de 3 - Izayoiki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66759': {
+        'id': 'SLPM66759',
+        'title': 'Harukanaru Toki no Naka de 3 - Izayoiki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66099': {
+        'id': 'SLPM66099',
+        'title': 'Harukanaru Toki no Naka de 3 - Izayoiki (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66127': {
+        'id': 'SLPM66127',
+        'title': 'Harukanaru Toki no Naka de 3 - Izayoiki (Twin Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66346': {
+        'id': 'SLPM66346',
+        'title': 'Harukanaru Toki no Naka de 3 - Izayoiki (Twin Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66348': {
+        'id': 'SLPM66348',
+        'title': 'Harukanaru Toki no Naka de 3 - Unmei no Labyrinth',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66887': {
+        'id': 'SLPM66887',
+        'title': 'Harukanaru Toki no Naka de 3 - Unmei no Labyrinth',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66347': {
+        'id': 'SLPM66347',
+        'title': 'Harukanaru Toki no Naka de 3 - Unmei no Labyrinth (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66344': {
+        'id': 'SLPM66344',
+        'title': 'Harukanaru Toki no Naka de 3 - Unmei no Labyrinth (Triple Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55296': {
+        'id': 'SLPM55296',
+        'title': 'Harukanaru Toki no Naka de 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66951': {
+        'id': 'SLPM66951',
+        'title': 'Harukanaru Toki no Naka de 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66952': {
+        'id': 'SLPM66952',
+        'title': 'Harukanaru Toki no Naka de 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66026': {
+        'id': 'SLPM66026',
+        'title': 'Hatsukoi - First Kiss',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20384': {
+        'id': 'SLPS20384',
+        'title': 'Hayarigami - Keishichou Kaii Jiken File',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20501': {
+        'id': 'SLPS20501',
+        'title': 'Hayarigami 2 - Keishichou Kaii Jiken File',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20422': {
+        'id': 'SLPS20422',
+        'title': 'Hayarigami Revenge - Keishichou Kaii Jiken File',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55044': {
+        'id': 'SLPM55044',
+        'title': 'Heart no Kuni no Alice - Wonderful Wonder World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20147': {
+        'id': 'SCAJ20147',
+        'title': 'Heavy Metal Thunder.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66030': {
+        'id': 'SLPM66030',
+        'title': 'Heavy Metal Thunder.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25279': {
+        'id': 'SLKA25279',
+        'title': 'Hello Kitty - Mission Rescue',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65831': {
+        'id': 'SLPM65831',
+        'title': 'Hello Kitty no PikoPiko Daisakusen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25194': {
+        'id': 'SLPS25194',
+        'title': 'Herdy Gerdy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25111': {
+        'id': 'SLPS25111',
+        'title': 'Higanbana',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66620': {
+        'id': 'SLPM66620',
+        'title': 'Higurashi no Naku Koro ni - Matsuri',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66913': {
+        'id': 'SLPM66913',
+        'title': 'Higurashi no Naku Koro ni - Matsuri - Kakera Asobi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55214': {
+        'id': 'SLPM55214',
+        'title': 'Hiiro no Kakera - Shin Tamayori-hime Denshou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55215': {
+        'id': 'SLPM55215',
+        'title': 'Hiiro no Kakera - Shin Tamayori-hime Denshou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66454': {
+        'id': 'SLPM66454',
+        'title': 'Hiiro no Kakera - Tamayori-hime Kitan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55216': {
+        'id': 'SLPM55216',
+        'title': 'Hiiro no Kakera - Tamayori-hime Kitan (Aizou-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66453': {
+        'id': 'SLPM66453',
+        'title': 'Hiiro no Kakera - Tamayori-hime Kitan (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55245': {
+        'id': 'SLPM55245',
+        'title': 'Himawari - Pebble in the Sky',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25939': {
+        'id': 'SLPS25939',
+        'title': 'Himehibi - New Princess Days!! Zoku! Nigakki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25721': {
+        'id': 'SLPS25721',
+        'title': 'Himehibi - Princess Days',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62109': {
+        'id': 'SLPM62109',
+        'title': 'Hippa Linda',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20412': {
+        'id': 'SLPS20412',
+        'title': 'Hissatsu Pachinko Station V10 - Rerere ni Omakase!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66113': {
+        'id': 'SLPM66113',
+        'title': 'Hissatsu Ura Kagyou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25565': {
+        'id': 'SLPS25565',
+        'title': 'Hisshou Pachinko Kouryaku Series Vol. 1 - CR Shin Seiki Evangelion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25745': {
+        'id': 'SLPS25745',
+        'title': 'Hisshou Pachinko Kouryaku Series Vol. 1 - CR Shin Seiki Evangelion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66825': {
+        'id': 'SLPM66825',
+        'title': 'Hisui no Shizuku - Hiiro no Kakera 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66824': {
+        'id': 'SLPM66824',
+        'title': 'Hisui no Shizuku - Hiiro no Kakera 2 (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65728': {
+        'id': 'SLPM65728',
+        'title': 'Hobbit no Bouken - Lord of the Rings - Hajimari no Monogatari',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66439': {
+        'id': 'SLPM66439',
+        'title': 'Hokenshitsu e Youkoso (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20217': {
+        'id': 'SLPS20217',
+        'title': 'Hokka Hoka Sentou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65963': {
+        'id': 'SLPM65963',
+        'title': 'Homemaid - Tsui no Yakata',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65962': {
+        'id': 'SLPM65962',
+        'title': 'Homemaid - Tsui no Yakata (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62074': {
+        'id': 'SLPM62074',
+        'title': 'Honkakuteki Pachinko Jikki Kouryaku Series - Milky Bar & Killer Queen - Eikyuu Hozonban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66395': {
+        'id': 'SLPM66395',
+        'title': 'Honoo no Takuhaibin',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25146': {
+        'id': 'SLPS25146',
+        'title': 'Hooligan - Kimi no Naka no Yuuki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66107': {
+        'id': 'SLPM66107',
+        'title': 'Hoshi no Furu Toki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66106': {
+        'id': 'SLPM66106',
+        'title': 'Hoshi no Furu Toki (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66920': {
+        'id': 'SLPM66920',
+        'title': 'Hoshifuru - Hoshi no Furu Machi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66969': {
+        'id': 'SLPM66969',
+        'title': 'Hoshigari Empusa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66900': {
+        'id': 'SLPM66900',
+        'title': 'Hoshiiro no Okurimono',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66870': {
+        'id': 'SLPM66870',
+        'title': 'Hoshiiro no Okurimono (Shokai Special Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66914': {
+        'id': 'SLPM66914',
+        'title': 'Houkago wa Gin no Shirabe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65083': {
+        'id': 'SLPM65083',
+        'title': 'Houshin Engi 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65536': {
+        'id': 'SLPM65536',
+        'title': 'Houshin Engi 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65211': {
+        'id': 'SLPM65211',
+        'title': 'Houshin Engi 2 (Premium Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20024': {
+        'id': 'SLPS20024',
+        'title': 'Hresvelgr',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20059': {
+        'id': 'SLPS20059',
+        'title': 'Hresvelgr - International Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62404': {
+        'id': 'SLPM62404',
+        'title': 'Hudson Selection Vol. 1 - Cubic Lode Runner',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62583': {
+        'id': 'SLPM62583',
+        'title': 'Hudson Selection Vol. 1 - Cubic Lode Runner',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62584': {
+        'id': 'SLPM62584',
+        'title': 'Hudson Selection Vol. 2 - Star Soldier',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62418': {
+        'id': 'SLPM62418',
+        'title': 'Hudson Selection Vol. 3 - PC Genjin - Pithecanthropus Computerurus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62569': {
+        'id': 'SLPM62569',
+        'title': 'Hudson Selection Vol. 3 - PC Genjin - Pithecanthropus Computerurus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62422': {
+        'id': 'SLPM62422',
+        'title': 'Hudson Selection Vol. 4 - Takahashi Meijin no Boukenjima',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62570': {
+        'id': 'SLPM62570',
+        'title': 'Hudson Selection Vol. 4 - Takahashi Meijin no Boukenjima',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15046': {
+        'id': 'SCPS15046',
+        'title': 'Hungry Ghosts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62067': {
+        'id': 'SLPM62067',
+        'title': 'Hunter x Hunter - Ryuumyaku no Saidan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62278': {
+        'id': 'SLPM62278',
+        'title': 'Hunter x Hunter - Ryuumyaku no Saidan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55159': {
+        'id': 'SLPM55159',
+        'title': 'Hyakko - Yorozuya Jikenbo!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62126': {
+        'id': 'SLPM62126',
+        'title': 'Hyper Sports 2002 Winter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66570': {
+        'id': 'SLPM66570',
+        'title': "I's Pure",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66272': {
+        'id': 'SLPM66272',
+        'title': 'I-O',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66497': {
+        'id': 'SLPM66497',
+        'title': 'Ice Age 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62391': {
+        'id': 'SLPM62391',
+        'title': 'Ichigeki Satchuu!! Hoihoi-san',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62721': {
+        'id': 'SLPM62721',
+        'title': 'Ichigeki Satchuu!! Hoihoi-san',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62390': {
+        'id': 'SLPM62390',
+        'title': 'Ichigeki Satchuu!! Hoihoi-san (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66335': {
+        'id': 'SLPM66335',
+        'title': 'Ichigo 100 Percent Strawberry Diary',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25546': {
+        'id': 'SLPS25546',
+        'title': 'Ichigo Marshmallow (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20099': {
+        'id': 'SCAJ20099',
+        'title': 'Ico',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11003': {
+        'id': 'SCPS11003',
+        'title': 'Ico',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19151': {
+        'id': 'SCPS19151',
+        'title': 'Ico',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55001': {
+        'id': 'SCPS55001',
+        'title': 'Ico',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19103': {
+        'id': 'SCPS19103',
+        'title': 'Ico (PlayStation 2 the Best)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20039': {
+        'id': 'SLPS20039',
+        'title': 'Ide Yousuke no Mahjong Kazoku 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25182': {
+        'id': 'SLPS25182',
+        'title': 'Idol Janshi R - Janguru Project',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66785': {
+        'id': 'SLPM66785',
+        'title': 'Idol Janshi Suchie-Pai IV',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66783': {
+        'id': 'SLPM66783',
+        'title': "Idol Janshi Suchie-Pai IV (Collector's Edition)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66907': {
+        'id': 'SLPM66907',
+        'title': 'Iinazuke',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66732': {
+        'id': 'SLPM66732',
+        'title': 'Iinazuke (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25882': {
+        'id': 'SLPS25882',
+        'title': 'Ikki Tousen - Shining Dragon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25797': {
+        'id': 'SLPS25797',
+        'title': 'Ikki Tousen - Shining Dragon (Gentei Bakuretsu Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20498': {
+        'id': 'SLPS20498',
+        'title': 'Ikki Tousen! Sekiheki Daitobibako Enbu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15015': {
+        'id': 'SLKA15015',
+        'title': 'Ilgyeok Salchung!! Hoihoi-san',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25309': {
+        'id': 'SLKA25309',
+        'title': 'Indigo Prophecy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25008': {
+        'id': 'SLAJ25008',
+        'title': 'Initial D - Special Stage',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65268': {
+        'id': 'SLPM65268',
+        'title': 'Initial D - Special Stage',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74420': {
+        'id': 'SLPM74420',
+        'title': 'Initial D - Special Stage',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM68509': {
+        'id': 'SLPM68509',
+        'title': 'Initial D - Special Stage (Koudansha Kenshouhin)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20123': {
+        'id': 'SLPS20123',
+        'title': 'Initial D - Takahashi Ryousuke no Typing Saisoku Riron',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66554': {
+        'id': 'SLPM66554',
+        'title': 'Interlude',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25320': {
+        'id': 'SLPS25320',
+        'title': 'Inuyasha - Juso no Kamen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25552': {
+        'id': 'SLPS25552',
+        'title': 'Inuyasha - Juso no Kamen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25518': {
+        'id': 'SLPS25518',
+        'title': 'Inuyasha - Ougi Ranbu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25296': {
+        'id': 'SLKA25296',
+        'title': 'Inuyasha - Oui Nanmu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66384': {
+        'id': 'SLPM66384',
+        'title': 'Iris',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25216': {
+        'id': 'SLPS25216',
+        'title': 'Iris',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25215': {
+        'id': 'SLPS25215',
+        'title': 'Iris (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65594': {
+        'id': 'SLPM65594',
+        'title': 'Iris no Atelier - Eternal Mana',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66081': {
+        'id': 'SLPM66081',
+        'title': 'Iris no Atelier - Eternal Mana (Gust Best Price)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62421': {
+        'id': 'SLPM62421',
+        'title': 'Ishikura Noboru Kudan no Igo Kouza - Joukyuu-hen - Mezase, Jitsuryoku Shodan!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66858': {
+        'id': 'SLPM66858',
+        'title': 'Itsuka, Todoku, Ano Sora ni. - You no Michi to Hi no Tasogare to',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66857': {
+        'id': 'SLPM66857',
+        'title': 'Itsuka, Todoku, Ano Sora ni. - You no Michi to Hi no Tasogare to (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65545': {
+        'id': 'SLPM65545',
+        'title': 'Izayoi Renka - Kamifurusato',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66192': {
+        'id': 'SLPM66192',
+        'title': 'Izumo 2 - Takeki Tsurugi no Senki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66876': {
+        'id': 'SLPM66876',
+        'title': 'Izumo 2 - Takeki Tsurugi no Senki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65832': {
+        'id': 'SLPM65832',
+        'title': 'Izumo Complete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66801': {
+        'id': 'SLPM66801',
+        'title': 'Izumo Complete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20010': {
+        'id': 'SCKA20010',
+        'title': 'Jak II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15057': {
+        'id': 'SCPS15057',
+        'title': 'Jak II - Jak x Daxter 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS56003': {
+        'id': 'SCPS56003',
+        'title': 'Jak and Daxter - The Precursor Legacy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15021': {
+        'id': 'SCPS15021',
+        'title': 'Jak x Daxter - Kyuu Sekai no Isan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19210': {
+        'id': 'SCPS19210',
+        'title': 'Jak x Daxter - Kyuu Sekai no Isan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55004': {
+        'id': 'SCPS55004',
+        'title': 'Jak x Daxter - Kyuu Sekai no Isan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66937': {
+        'id': 'SLPM66937',
+        'title': 'Jan Sangoku Musou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65108': {
+        'id': 'SLPM65108',
+        'title': 'Jet de Go! 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74407': {
+        'id': 'SLPM74407',
+        'title': 'Jet de Go! 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66245': {
+        'id': 'SLPM66245',
+        'title': 'Jewels Ocean - Star of Sierra Leone',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55212': {
+        'id': 'SLPM55212',
+        'title': 'Jigoku Shoujo Mioyosuga',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62011': {
+        'id': 'SLPM62011',
+        'title': 'Jikkyou GI Stable',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62151': {
+        'id': 'SLPM62151',
+        'title': 'Jikkyou GI Stable 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55155': {
+        'id': 'SLPM55155',
+        'title': 'Jikkyou Powerful Major League 2009',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25109': {
+        'id': 'SLAJ25109',
+        'title': 'Jikkyou Powerful Major League 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55062': {
+        'id': 'SLPM55062',
+        'title': 'Jikkyou Powerful Major League 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65630': {
+        'id': 'SLPM65630',
+        'title': 'Jikkyou Powerful Pro Yakyuu 11',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65825': {
+        'id': 'SLPM65825',
+        'title': 'Jikkyou Powerful Pro Yakyuu 11 - Chou Ketteiban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66061': {
+        'id': 'SLPM66061',
+        'title': 'Jikkyou Powerful Pro Yakyuu 12',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66217': {
+        'id': 'SLPM66217',
+        'title': 'Jikkyou Powerful Pro Yakyuu 12 - Ketteiban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66450': {
+        'id': 'SLPM66450',
+        'title': 'Jikkyou Powerful Pro Yakyuu 13',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66590': {
+        'id': 'SLPM66590',
+        'title': 'Jikkyou Powerful Pro Yakyuu 13 - Ketteiban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55024': {
+        'id': 'SLPM55024',
+        'title': 'Jikkyou Powerful Pro Yakyuu 15',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62192': {
+        'id': 'SLPM62192',
+        'title': 'Jikkyou Powerful Pro Yakyuu 9',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62274': {
+        'id': 'SLPM62274',
+        'title': 'Jikkyou Powerful Pro Yakyuu 9 - Ketteiban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62002': {
+        'id': 'SLPM62002',
+        'title': 'Jikkyou World Soccer 2000',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25498': {
+        'id': 'SLPS25498',
+        'title': 'Jikuu Boukenki Zentrix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM64551': {
+        'id': 'SLPM64551',
+        'title': 'Jin Hondura',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM64501': {
+        'id': 'SLPM64501',
+        'title': 'Jin Samguk Mussang',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67523': {
+        'id': 'SLPM67523',
+        'title': 'Jin Samguk Mussang 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25160': {
+        'id': 'SLKA25160',
+        'title': 'Jin Yeosin Jeonsaeng III - Nocturne Maniax',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20373': {
+        'id': 'SLPS20373',
+        'title': 'Jissen Pachi-Slot Hisshouhou! Hokuto no Ken',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20372': {
+        'id': 'SLPS20372',
+        'title': 'Jissen Pachi-Slot Hisshouhou! Hokuto no Ken (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20268': {
+        'id': 'SLPS20268',
+        'title': 'Jissen Pachi-Slot Hisshouhou! Salaryman Kintarou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20267': {
+        'id': 'SLPS20267',
+        'title': 'Jissen Pachi-Slot Hisshouhou! Salaryman Kintarou (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20193': {
+        'id': 'SLPS20193',
+        'title': "Jissen Pachi-Slot Hisshouhou! Sammy's Collection",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20340': {
+        'id': 'SLPS20340',
+        'title': "Jissen Pachi-Slot Hisshouhou! Sammy's Collection 2",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20339': {
+        'id': 'SLPS20339',
+        'title': "Jissen Pachi-Slot Hisshouhou! Sammy's Collection 2 DX",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20293': {
+        'id': 'SLPS20293',
+        'title': 'Jissen Pachi-Slot Hisshouhou! Savanna Park',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20292': {
+        'id': 'SLPS20292',
+        'title': 'Jissen Pachi-Slot Hisshouhou! Savanna Park DX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66722': {
+        'id': 'SLPM66722',
+        'title': 'Jissen Pachinko Hisshouhou! CR Aladdin Destiny EX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25068': {
+        'id': 'SLPS25068',
+        'title': 'Jitsumei Jikkyou Keiba - Dream Classic - 2001 Autumn',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25021': {
+        'id': 'SLPS25021',
+        'title': 'Jitsumei Jikkyou Keiba - Dream Classic 2001 Spring',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25125': {
+        'id': 'SLPS25125',
+        'title': 'Jitsumei Jikkyou Keiba - Dream Classic 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65140': {
+        'id': 'SLPM65140',
+        'title': 'Jojo no Kimyou na Bouken - Ougon no Kaze',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66853': {
+        'id': 'SLPM66853',
+        'title': 'Jojo no Kimyou na Bouken - Ougon no Kaze',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25283': {
+        'id': 'SLKA25283',
+        'title': 'Juiced',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66277': {
+        'id': 'SLPM66277',
+        'title': 'Juiced - Tuned Car Densetsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25901': {
+        'id': 'SLPS25901',
+        'title': 'Junjou Romantica - Koi no Doki Doki Daisakusen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25902': {
+        'id': 'SLPS25902',
+        'title': 'Junjou Romantica - Koi no Doki Doki Daisakusen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66765': {
+        'id': 'SLPM66765',
+        'title': 'Juujigen Rippoutai Cypher - Game of Survival',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65338': {
+        'id': 'SLPM65338',
+        'title': 'Juunikoku-ki - Guren no Shirube Koujin no Michi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65616': {
+        'id': 'SLPM65616',
+        'title': 'Juunikoku-ki - Guren no Shirube Koujin no Michi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65796': {
+        'id': 'SLPM65796',
+        'title': 'Juuouki - Project Altered Beast',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11009': {
+        'id': 'SCPS11009',
+        'title': 'Ka',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19101': {
+        'id': 'SCPS19101',
+        'title': 'Ka',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20080': {
+        'id': 'SCAJ20080',
+        'title': 'Kaena',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25295': {
+        'id': 'SLPS25295',
+        'title': 'Kaena',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62254': {
+        'id': 'SLPM62254',
+        'title': 'Kaerazu no Mori',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25979': {
+        'id': 'SLPS25979',
+        'title': 'Kaeru Batake de Tsukamaete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25988': {
+        'id': 'SLPS25988',
+        'title': 'Kaeru Batake de Tsukamaete - Natsu Chigira Sansen!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65654': {
+        'id': 'SLPM65654',
+        'title': 'Kaiketsu! Osabakiina',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25424': {
+        'id': 'SLPS25424',
+        'title': 'Kaitou Apricot Kanzenban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25423': {
+        'id': 'SLPS25423',
+        'title': 'Kaitou Apricot Kanzenban (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20017': {
+        'id': 'SCAJ20017',
+        'title': 'Kaitou Sly Cooper',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15036': {
+        'id': 'SCPS15036',
+        'title': 'Kaitou Sly Cooper',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15090': {
+        'id': 'SCPS15090',
+        'title': 'Kaitou Sly Cooper 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25657': {
+        'id': 'SLPS25657',
+        'title': 'Kakutou Bijin Wulong',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25135': {
+        'id': 'SLPS25135',
+        'title': 'Kamaitachi no Yoru 2 - Kangoku-jima no Warabe-uta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73413': {
+        'id': 'SLPS73413',
+        'title': 'Kamaitachi no Yoru 2 - Kangoku-jima no Warabe-uta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25132': {
+        'id': 'SLPS25132',
+        'title': 'Kamaitachi no Yoru 2 - Kangoku-jima no Warabe-uta (Special Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66452': {
+        'id': 'SLPM66452',
+        'title': 'Kamaitachi no Yoru X3 - Mikazuki-jima Jiken no Shinsou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25944': {
+        'id': 'SLPS25944',
+        'title': 'Kamen Rider - Climax Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25302': {
+        'id': 'SLPS25302',
+        'title': 'Kamen Rider - Seigi no Keifu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20329': {
+        'id': 'SLPS20329',
+        'title': 'Kamen Rider 555',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20402': {
+        'id': 'SLPS20402',
+        'title': 'Kamen Rider Blade',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20447': {
+        'id': 'SLPS20447',
+        'title': 'Kamen Rider Hibiki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20448': {
+        'id': 'SLPS20448',
+        'title': 'Kamen Rider Hibiki - Taiko no Tatsujin Special Version',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66499': {
+        'id': 'SLPM66499',
+        'title': 'Kamisama Kazoku - Ouen Ganbou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66477': {
+        'id': 'SLPM66477',
+        'title': 'Kamiwaza',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65392': {
+        'id': 'SLPM65392',
+        'title': 'Kanojo no Densetsu, Boku no Sekiban - Amirion no Ken to Tomo ni',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55041': {
+        'id': 'SLPM55041',
+        'title': 'Kanokon Esuii',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20121': {
+        'id': 'SLPS20121',
+        'title': 'Kanon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65842': {
+        'id': 'SLPM65842',
+        'title': 'Kanon (Best-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55160': {
+        'id': 'SLPM55160',
+        'title': 'Kanuchi - Kuroki Tsubasa no Shou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55161': {
+        'id': 'SLPM55161',
+        'title': 'Kanuchi - Kuroki Tsubasa no Shou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55054': {
+        'id': 'SLPM55054',
+        'title': 'Kanuchi - Shiroki Tsubasa no Shou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55059': {
+        'id': 'SLPM55059',
+        'title': 'Kanuchi - Shiroki Tsubasa no Shou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55055': {
+        'id': 'SLPM55055',
+        'title': 'Kanuchi - Shiroki Tsubasa no Shou (Tokubetsu Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62784': {
+        'id': 'SLPM62784',
+        'title': 'Kao no Nai Tsuki - Select Story',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65629': {
+        'id': 'SLPM65629',
+        'title': 'Kappa no Kaikata - How to Breed Kappas',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65970': {
+        'id': 'SLPM65970',
+        'title': 'Kappa no Kaikata - How to Breed Kappas',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25621': {
+        'id': 'SLPS25621',
+        'title': 'Kashimashi - Girl Meets Girl - Hajimete no Natsu Monogatari.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65762': {
+        'id': 'SLPM65762',
+        'title': 'Katakamuna - Ushinawareta Ingaritsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25360': {
+        'id': 'SLPS25360',
+        'title': 'Katamari Damacy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73210': {
+        'id': 'SLPS73210',
+        'title': 'Katamari Damacy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73240': {
+        'id': 'SLPS73240',
+        'title': 'Katamari Damacy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25806': {
+        'id': 'SLPS25806',
+        'title': 'Katekyoo Hitman Reborn! Dream Hyper Battle! Shinu Ki no Honoo to Kuroki Kioku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25910': {
+        'id': 'SLPS25910',
+        'title': 'Katekyoo Hitman Reborn! Dream Hyper Battle! Shinu Ki no Honoo to Kuroki Kioku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25820': {
+        'id': 'SLPS25820',
+        'title': "Katekyoo Hitman Reborn! Let's Ansatsu! Nerawareta 10-daime!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25899': {
+        'id': 'SLPS25899',
+        'title': "Katekyoo Hitman Reborn! Let's Ansatsu! Nerawareta 10-daime!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25883': {
+        'id': 'SLPS25883',
+        'title': 'Katekyoo Hitman Reborn! Nerae! Ring x Vongola Trainers',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25931': {
+        'id': 'SLPS25931',
+        'title': 'Katekyoo Hitman Reborn! Nerae! Ring x Vongola Trainers',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65250': {
+        'id': 'SLPM65250',
+        'title': 'Kattobi!! Golf',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25597': {
+        'id': 'SLPS25597',
+        'title': 'Kawa no Nushi Tsuri - Wonderful Journey',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25033': {
+        'id': 'SLPS25033',
+        'title': 'Kaze no Klonoa 2 - Sekai ga Nozonda Wasuremono',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73404': {
+        'id': 'SLPS73404',
+        'title': 'Kaze no Klonoa 2 - Sekai ga Nozonda Wasuremono',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55167': {
+        'id': 'SLPM55167',
+        'title': 'Kazeiro Surf',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65889': {
+        'id': 'SLPM65889',
+        'title': 'Kazoku Keikaku - Kokoro no Kizuna',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62512': {
+        'id': 'SLPM62512',
+        'title': 'Keiei Simulation - Jurassic Park',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65418': {
+        'id': 'SLPM65418',
+        'title': "Kelly Slater's Pro Surfer 2003",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20058': {
+        'id': 'SLPS20058',
+        'title': 'Kengou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73002': {
+        'id': 'SLPS73002',
+        'title': 'Kengou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65700': {
+        'id': 'SLPM65700',
+        'title': 'Kengou 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74220': {
+        'id': 'SLPM74220',
+        'title': 'Kengou 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66035': {
+        'id': 'SLPM66035',
+        'title': 'Kenka Banchou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74221': {
+        'id': 'SLPM74221',
+        'title': 'Kenka Banchou (PlayStation 2 the Best)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65974': {
+        'id': 'SLPM65974',
+        'title': 'Kenka Banchou (Shokai Seisanban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66632': {
+        'id': 'SLPM66632',
+        'title': 'Kenka Banchou 2 - Full Throttle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73258': {
+        'id': 'SLPS73258',
+        'title': 'Kenka Banchou 2 - Full Throttle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15085': {
+        'id': 'SCPS15085',
+        'title': 'Kenran Butousai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25319': {
+        'id': 'SLPS25319',
+        'title': 'Kero Kero King Super DX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25399': {
+        'id': 'SLPS25399',
+        'title': 'Keroro Gunsou - Mero Mero Battle Royale',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25568': {
+        'id': 'SLPS25568',
+        'title': 'Keroro Gunsou - Mero Mero Battle Royale',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM68525': {
+        'id': 'SLPM68525',
+        'title': 'Keshikyun Puzzle - Atori Mahiro vs. Saitou Hajime vs. Noel vs. Hakkai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65001': {
+        'id': 'SLPM65001',
+        'title': 'Kessen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25020': {
+        'id': 'SLPS25020',
+        'title': 'Kidou Senshi Gundam',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25061': {
+        'id': 'SLPS25061',
+        'title': 'Kidou Senshi Gundam - Ver. 1.5',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25485': {
+        'id': 'SLPS25485',
+        'title': 'Kidou Senshi Gundam - Ver. 1.5',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'PBPX95522': {
+        'id': 'PBPX95522',
+        'title': 'Kidou Senshi Z Gundam - A.E.U.G. vs. Titans (Doukonban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25186': {
+        'id': 'SLPS25186',
+        'title': 'Kidou Shinsengumi - Moe yo Ken',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20075': {
+        'id': 'SLPS20075',
+        'title': 'Kikou Heidan J-Phoenix - Joshou-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62339': {
+        'id': 'SLPM62339',
+        'title': 'Kikou Heidan J-Phoenix 2 - Joshou-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65947': {
+        'id': 'SLPM65947',
+        'title': 'Killer7',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66744': {
+        'id': 'SLPM66744',
+        'title': 'Killer7',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20048': {
+        'id': 'SCKA20048',
+        'title': 'Killzone',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66151': {
+        'id': 'SLPM66151',
+        'title': 'Killzone',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66934': {
+        'id': 'SLPM66934',
+        'title': 'Kimi ga Aruji de Shitsuji ga Ore de - Otsukae Nikki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66933': {
+        'id': 'SLPM66933',
+        'title': 'Kimi ga Aruji de Shitsuji ga Ore de - Otsukae Nikki (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65155': {
+        'id': 'SLPM65155',
+        'title': 'Kimi ga Nozomu Eien - Rumbling Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25643': {
+        'id': 'SLPS25643',
+        'title': 'KimiKiss',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25850': {
+        'id': 'SLPS25850',
+        'title': 'KimiKiss (ebKore Plus)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66376': {
+        'id': 'SLPM66376',
+        'title': 'KimiSuta - Kimi to Study',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55233': {
+        'id': 'SLPM55233',
+        'title': "Kin'iro no Corda",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65567': {
+        'id': 'SLPM65567',
+        'title': "Kin'iro no Corda",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66424': {
+        'id': 'SLPM66424',
+        'title': "Kin'iro no Corda",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65566': {
+        'id': 'SLPM65566',
+        'title': "Kin'iro no Corda (Premium Box)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55249': {
+        'id': 'SLPM55249',
+        'title': "Kin'iro no Corda 2",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66700': {
+        'id': 'SLPM66700',
+        'title': "Kin'iro no Corda 2",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66699': {
+        'id': 'SLPM66699',
+        'title': "Kin'iro no Corda 2 (Premium Box)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66835': {
+        'id': 'SLPM66835',
+        'title': "Kin'iro no Corda 2 Encore",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66834': {
+        'id': 'SLPM66834',
+        'title': "Kin'iro no Corda 2 Encore (Premium Box)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55248': {
+        'id': 'SLPM55248',
+        'title': "Kin'iro no Corda 3",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66122': {
+        'id': 'SLPM66122',
+        'title': 'Kingdom Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25105': {
+        'id': 'SLPS25105',
+        'title': 'Kingdom Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20149': {
+        'id': 'SCAJ20149',
+        'title': 'Kingdom Hearts - Final Mix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25004': {
+        'id': 'SLAJ25004',
+        'title': 'Kingdom Hearts - Final Mix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66123': {
+        'id': 'SLPM66123',
+        'title': 'Kingdom Hearts - Final Mix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25198': {
+        'id': 'SLPS25198',
+        'title': 'Kingdom Hearts - Final Mix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25197': {
+        'id': 'SLPS25197',
+        'title': 'Kingdom Hearts - Final Mix (Platinum Limited)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65048': {
+        'id': 'SLPM65048',
+        'title': 'Kinniku Banzuke - Muscle Wars 21',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25881': {
+        'id': 'SLPS25881',
+        'title': 'Kinnikuman - Muscle Grand Prix 2 - Tokumori',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25676': {
+        'id': 'SLPS25676',
+        'title': 'Kinnikuman - Muscle Grand Prix Max',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20369': {
+        'id': 'SLPS20369',
+        'title': 'Kinnikuman Generations',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73105': {
+        'id': 'SLPS73105',
+        'title': 'Kinnikuman Generations',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25248': {
+        'id': 'SLPS25248',
+        'title': 'Kino no Tabi - The Beautiful World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25452': {
+        'id': 'SLPS25452',
+        'title': 'Kino no Tabi - The Beautiful World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25570': {
+        'id': 'SLPS25570',
+        'title': 'Kino no Tabi II - The Beautiful World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25754': {
+        'id': 'SLPS25754',
+        'title': 'Kino no Tabi II - The Beautiful World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55132': {
+        'id': 'SLPM55132',
+        'title': "Kira Kira - Rock 'N' Roll Show (Shokai Genteiban)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65491': {
+        'id': 'SLPM65491',
+        'title': 'Kishin Houkou Demonbane',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65490': {
+        'id': 'SLPM65490',
+        'title': 'Kishin Houkou Demonbane (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66379': {
+        'id': 'SLPM66379',
+        'title': 'Kishin Houkou Demonbane (Kadokawa the Best)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65569': {
+        'id': 'SLPM65569',
+        'title': 'Kita e. - Diamond Dust+ - Kiss Is Beginning.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55098': {
+        'id': 'SLPM55098',
+        'title': 'Koi Suru Otome to Shugo no Tate - The Shield of AIGIS',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55067': {
+        'id': 'SLPM55067',
+        'title': 'Koihime Musou - Doki Otome Darake no Sangokushi Engi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66161': {
+        'id': 'SLPM66161',
+        'title': 'Kokoro no Tobira',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25348': {
+        'id': 'SLPS25348',
+        'title': 'Kokoro no Tobira (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66152': {
+        'id': 'SLPM66152',
+        'title': 'Konneko - Keep a Memory Green',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66695': {
+        'id': 'SLPM66695',
+        'title': 'Kono Aozora ni Yakusoku o - Melody of the Sun and Sea',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65925': {
+        'id': 'SLPM65925',
+        'title': 'Kono Hareta Sora no Shita de - Under the Blue Sky',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66182': {
+        'id': 'SLPM66182',
+        'title': 'Kono Hareta Sora no Shita de - Under the Blue Sky',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65133': {
+        'id': 'SLPM65133',
+        'title': 'Konohana 2 - Todokanai Requiem',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65299': {
+        'id': 'SLPM65299',
+        'title': 'Konohana 3 - Itsuwari no Kage no Mukou ni',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20259': {
+        'id': 'SLPS20259',
+        'title': 'Kotoba no Puzzle - Mojipittan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73101': {
+        'id': 'SLPS73101',
+        'title': 'Kotoba no Puzzle - Mojipittan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66332': {
+        'id': 'SLPM66332',
+        'title': 'Kouenji Joshi Soccer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15060': {
+        'id': 'SCPS15060',
+        'title': 'Koufuku Sousakan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15064': {
+        'id': 'SCPS15064',
+        'title': 'Koukaku Kidoutai - Stand Alone Complex',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20074': {
+        'id': 'SLPS20074',
+        'title': 'Kousoku Tanigawa Shougi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65652': {
+        'id': 'SLPM65652',
+        'title': 'Kowloon Youma Gakuenki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65651': {
+        'id': 'SLPM65651',
+        'title': 'Kowloon Youma Gakuenki (Deluxe Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66511': {
+        'id': 'SLPM66511',
+        'title': 'Kowloon Youma Gakuenki re-charge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66987': {
+        'id': 'SLPM66987',
+        'title': 'Kowloon Youma Gakuenki re-charge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25729': {
+        'id': 'SLPS25729',
+        'title': 'Kujibiki Unbalance - Kaichou Onegai Smash Fight',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25728': {
+        'id': 'SLPS25728',
+        'title': 'Kujibiki Unbalance - Kaichou Onegai Smash Fight (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11031': {
+        'id': 'SCPS11031',
+        'title': 'Kuma Uta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25031': {
+        'id': 'SLAJ25031',
+        'title': 'Kunoichi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25135': {
+        'id': 'SLKA25135',
+        'title': 'Kunoichi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65447': {
+        'id': 'SLPM65447',
+        'title': 'Kunoichi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20078': {
+        'id': 'SCAJ20078',
+        'title': 'Kuon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25329': {
+        'id': 'SLPS25329',
+        'title': 'Kuon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66770': {
+        'id': 'SLPM66770',
+        'title': 'Kuon no Kizuna - Sairinshou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25136': {
+        'id': 'SLPS25136',
+        'title': 'Kuon no Kizuna - Sairinshou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25013': {
+        'id': 'SLPS25013',
+        'title': 'Kuri Kuri Mix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62413': {
+        'id': 'SLPM62413',
+        'title': 'Kuusen II - Combat Flight Simulation II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25663': {
+        'id': 'SLPS25663',
+        'title': 'Kyou kara Maou! Hajimari no Tabi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25662': {
+        'id': 'SLPS25662',
+        'title': 'Kyou kara Maou! Hajimari no Tabi (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25802': {
+        'id': 'SLPS25802',
+        'title': 'Kyou kara Maou! Shin Makoku no Kyuujitsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25801': {
+        'id': 'SLPS25801',
+        'title': 'Kyou kara Maou! Shin Makoku no Kyuujitsu (Limited Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65342': {
+        'id': 'SLPM65342',
+        'title': 'Kyoufu Shinbun Heisei-ban - Kaiki! Shinrei File',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65626': {
+        'id': 'SLPM65626',
+        'title': 'Kyoufu Shinbun Heisei-ban - Kaiki! Shinrei File',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66919': {
+        'id': 'SLPM66919',
+        'title': 'Kyuuketsu Kitan Moonties',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65272': {
+        'id': 'SLPM65272',
+        'title': "Kyuuketsu-hime Yui - Sen'yashou",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55009': {
+        'id': 'SLPM55009',
+        'title': 'L no Kisetsu 2 - Invisible Memories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25908': {
+        'id': 'SLPS25908',
+        'title': 'LEGO Batman - The Videogame',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62204': {
+        'id': 'SLPM62204',
+        'title': 'LEGO Racers 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20423': {
+        'id': 'SLPS20423',
+        'title': 'LEGO Star Wars - The Video Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66572': {
+        'id': 'SLPM66572',
+        'title': 'LEGO Star Wars II - The Original Trilogy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM64522': {
+        'id': 'SLPM64522',
+        'title': 'La Pucelle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20167': {
+        'id': 'SLPS20167',
+        'title': 'La Pucelle - Hikari no Seijo Densetsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20165': {
+        'id': 'SLPS20165',
+        'title': 'La Pucelle - Hikari no Seijo Densetsu (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20398': {
+        'id': 'SLPS20398',
+        'title': 'La Pucelle - Hikari no Seijo Densetsu - 2-shuume Hajimemashita.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20103': {
+        'id': 'SLPS20103',
+        'title': 'Lake Masters EX Super',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20180': {
+        'id': 'SLPS20180',
+        'title': 'Lake Masters EX Super',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25856': {
+        'id': 'SLPS25856',
+        'title': 'Lara Croft Tomb Raider - Anniversary',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66558': {
+        'id': 'SLPM66558',
+        'title': 'Lara Croft Tomb Raider - Legend',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25945': {
+        'id': 'SLPS25945',
+        'title': 'Lara Croft Tomb Raider - Legend',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25246': {
+        'id': 'SLPS25246',
+        'title': 'Lara Croft Tomb Raider - Utsukushiki Toubousha',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25957': {
+        'id': 'SLPS25957',
+        'title': 'Last Escort - Club Katze',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25958': {
+        'id': 'SLPS25958',
+        'title': 'Last Escort - Club Katze',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25673': {
+        'id': 'SLPS25673',
+        'title': 'Last Escort - Kokuchou Special Night',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25591': {
+        'id': 'SLPS25591',
+        'title': "Last Escort - Shin'ya no Kokuchou Monogatari",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25845': {
+        'id': 'SLPS25845',
+        'title': "Last Escort 2 - Shin'ya no Amai Toge",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25844': {
+        'id': 'SLPS25844',
+        'title': "Last Escort 2 - Shin'ya no Amai Toge (Gorgeous-ban)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62128': {
+        'id': 'SLPM62128',
+        'title': 'Le Mans 24 Hours',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62465': {
+        'id': 'SLPM62465',
+        'title': 'Le Mans 24 Hours',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15020': {
+        'id': 'SCPS15020',
+        'title': 'Legaia - Duel Saga',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19204': {
+        'id': 'SCPS19204',
+        'title': 'Legaia - Duel Saga',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM64514': {
+        'id': 'SLPM64514',
+        'title': 'Legends of Wrestling',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66830': {
+        'id': 'SLPM66830',
+        'title': 'Lewis to Mirai Dorobou - Wilbur no Kiken na Jikan Ryokou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65887': {
+        'id': 'SLPM65887',
+        'title': 'Like Life an Hour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66500': {
+        'id': 'SLPM66500',
+        'title': 'Like Life an Hour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25045': {
+        'id': 'SLPS25045',
+        'title': 'Lilie no Atelier - Salburg no Renkinjutsushi 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65116': {
+        'id': 'SLPM65116',
+        'title': 'Lilie no Atelier Plus - Salburg no Renkinjutsushi 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65519': {
+        'id': 'SLPM65519',
+        'title': 'Lime-iro Senkitan Jun - Meiji Nihon, Otome Sakimorisu.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65518': {
+        'id': 'SLPM65518',
+        'title': 'Lime-iro Senkitan Jun - Meiji Nihon, Otome Sakimorisu. (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25579': {
+        'id': 'SLPS25579',
+        'title': 'Little Aid',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25929': {
+        'id': 'SLPS25929',
+        'title': 'Little Anchor',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25928': {
+        'id': 'SLPS25928',
+        'title': 'Little Anchor (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55203': {
+        'id': 'SLPM55203',
+        'title': 'Little Busters! Converted Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67005': {
+        'id': 'SLPM67005',
+        'title': 'Lord of the Rings - Futatsu no Tou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS29004': {
+        'id': 'SLPS29004',
+        'title': 'Lord of the Rings - Futatsu no Tou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS29003': {
+        'id': 'SLPS29003',
+        'title': 'Lord of the Rings - Futatsu no Tou (Collectors Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65846': {
+        'id': 'SLPM65846',
+        'title': 'Lord of the Rings - Nakatsu Kuni Daisanki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65503': {
+        'id': 'SLPM65503',
+        'title': 'Lord of the Rings - Ou no Kikan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65592': {
+        'id': 'SLPM65592',
+        'title': 'Lost Aya Sophia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65591': {
+        'id': 'SLPM65591',
+        'title': 'Lost Aya Sophia (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65388': {
+        'id': 'SLPM65388',
+        'title': 'Lost Passage - Ushinawareta Issetsu (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20247': {
+        'id': 'SLPS20247',
+        'title': 'Lotus Challenge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66470': {
+        'id': 'SLPM66470',
+        'title': 'Love - Com - Punch de Conte',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66469': {
+        'id': 'SLPM66469',
+        'title': 'Love - Com - Punch de Conte (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65292': {
+        'id': 'SLPM65292',
+        'title': 'Love Hina Gorgeous - Chiratto Happening!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65879': {
+        'id': 'SLPM65879',
+        'title': 'Love Hina Gorgeous - Chiratto Happening!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65698': {
+        'id': 'SLPM65698',
+        'title': 'Love Songs - ADV Futaba Riho 14-sai - Natsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65738': {
+        'id': 'SLPM65738',
+        'title': 'Love Songs - ADV Futaba Riho 19-sai - Fuyu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65017': {
+        'id': 'SLPM65017',
+        'title': 'Love Songs - Idol ga Classmate',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65016': {
+        'id': 'SLPM65016',
+        'title': 'Love Songs - Idol ga Classmate (Shokai Gentei Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55010': {
+        'id': 'SLPM55010',
+        'title': 'LoveDrops',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66727': {
+        'id': 'SLPM66727',
+        'title': 'LoveDrops',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65969': {
+        'id': 'SLPM65969',
+        'title': 'Lovedol - Lovely Idol',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65968': {
+        'id': 'SLPM65968',
+        'title': 'Lovedol - Lovely Idol (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55149': {
+        'id': 'SLPM55149',
+        'title': 'Loveroot Zero - Kiss Kiss Labyrinth',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66874': {
+        'id': 'SLPM66874',
+        'title': 'Lucky Star - Ryouou Gakuen Outousai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66873': {
+        'id': 'SLPM66873',
+        'title': 'Lucky Star - Ryouou Gakuen Outousai (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25430': {
+        'id': 'SLPS25430',
+        'title': 'Lupin Sansei - Columbus no Isan wa Ake ni Somaru',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25740': {
+        'id': 'SLPS25740',
+        'title': 'Lupin Sansei - Lupin ni wa Shi o, Zenigata ni wa Koi o',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25171': {
+        'id': 'SLPS25171',
+        'title': 'Lupin Sansei - Majutsu-ou no Isan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73419': {
+        'id': 'SLPS73419',
+        'title': 'Lupin Sansei - Majutsu-ou no Isan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55257': {
+        'id': 'SLPM55257',
+        'title': "Luxury & Beauty - Lucian Bee's - Evil Violet",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55194': {
+        'id': 'SLPM55194',
+        'title': "Luxury & Beauty - Lucian Bee's - Resurrection Supernova",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66156': {
+        'id': 'SLPM66156',
+        'title': 'MAR Heaven - ARM Fight Dream',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66630': {
+        'id': 'SLPM66630',
+        'title': 'MAR Heaven - ARM Fight Dream',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65941': {
+        'id': 'SLPM65941',
+        'title': 'Mabino x Style',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65940': {
+        'id': 'SLPM65940',
+        'title': 'Mabino x Style (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66837': {
+        'id': 'SLPM66837',
+        'title': 'Madden NFL 08',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62153': {
+        'id': 'SLPM62153',
+        'title': 'Mageru Tsukeru Hashiru - Ore - Dead Heat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62293': {
+        'id': 'SLPM62293',
+        'title': 'Magical Pachinko Cotton - Pachinko Jikki Simulation',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20037': {
+        'id': 'SLPS20037',
+        'title': 'Magical Sports GoGoGolf',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20243': {
+        'id': 'SLPS20243',
+        'title': 'Magical Sports GoGoGolf',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65965': {
+        'id': 'SLPM65965',
+        'title': 'Magical Tale - Chitcha na Mahoutsukai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65964': {
+        'id': 'SLPM65964',
+        'title': 'Magical Tale - Chitcha na Mahoutsukai (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25401': {
+        'id': 'SLPS25401',
+        'title': 'Magna Carta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73216': {
+        'id': 'SLPS73216',
+        'title': 'Magna Carta (PlayStation 2 the Best)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20043': {
+        'id': 'SCKA20043',
+        'title': 'Magna Carta - Jinhongui Seongheun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ10010': {
+        'id': 'SCAJ10010',
+        'title': 'Mahjong Party - Gen Shuizhe Meinue Dajiquan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20349': {
+        'id': 'SLPS20349',
+        'title': 'Mahjong Party - Idol to Mahjong Shoubu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62030': {
+        'id': 'SLPM62030',
+        'title': 'Mahjong Sengen - Saken de Ron!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66751': {
+        'id': 'SLPM66751',
+        'title': 'Mahoroba Stories - Library of Fortune',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65333': {
+        'id': 'SLPM65333',
+        'title': 'Mahoromatic - Moetto Kira Kira Maid-san.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65871': {
+        'id': 'SLPM65871',
+        'title': 'Mahou Sensei Negima! 1-jikanme - Okochama Sensei wa Mahoutsukai! (Tokutaisei-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65870': {
+        'id': 'SLPM65870',
+        'title': 'Mahou Sensei Negima! 1-jikanme - Okochama Sensei wa Mahoutsukai! (Yuutousei-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66258': {
+        'id': 'SLPM66258',
+        'title': 'Mahou Sensei Negima! 1-jikanme - Okochama Sensei wa Mahoutsukai! (Yuutousei-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66063': {
+        'id': 'SLPM66063',
+        'title': 'Mahou Sensei Negima! 2-jikanme - Tatakau Otometachi! Mahora Daiundoukai Special! (Gin-medal-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66062': {
+        'id': 'SLPM66062',
+        'title': 'Mahou Sensei Negima! 2-jikanme - Tatakau Otometachi! Mahora Daiundoukai Special! (Kin-medal-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66329': {
+        'id': 'SLPM66329',
+        'title': 'Mahou Sensei Negima! Kagai Jugyou - Otome no Doki Doki Beachside',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66164': {
+        'id': 'SLPM66164',
+        'title': 'Mahoutsukai Kuro-hime',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25508': {
+        'id': 'SLPS25508',
+        'title': 'Mai-HiME - Unmei no Keitouju',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25614': {
+        'id': 'SLPS25614',
+        'title': 'Mai-HiME - Unmei no Keitouju',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25507': {
+        'id': 'SLPS25507',
+        'title': 'Mai-HiME - Unmei no Keitouju (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25681': {
+        'id': 'SLPS25681',
+        'title': 'Mai-Otome HiME - Otome Butoushi!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25680': {
+        'id': 'SLPS25680',
+        'title': 'Mai-Otome HiME - Otome Butoushi!! (Limited Edition)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55031': {
+        'id': 'SLPM55031',
+        'title': 'Majin Tantei Nougami Neuro - Battle da yo! Hannin Shuugou!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25432': {
+        'id': 'SLPS25432',
+        'title': 'Majokko A La Mode - Tonaete, Koi no Mahou! (Magical Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66755': {
+        'id': 'SLPM66755',
+        'title': 'Majokko A La Mode II - Mahou to Ken no Struggle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66990': {
+        'id': 'SLPM66990',
+        'title': 'Majokko A La Mode II - Mahou to Ken no Struggle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65367': {
+        'id': 'SLPM65367',
+        'title': 'Makai Eiyuuki Maximo - Machine Monster no Yabou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65329': {
+        'id': 'SLPM65329',
+        'title': 'Makai Tenshou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65144': {
+        'id': 'SLPM65144',
+        'title': 'Maken Shao',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25043': {
+        'id': 'SLPS25043',
+        'title': 'Maken Shao',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25042': {
+        'id': 'SLPS25042',
+        'title': 'Maken Shao (Shokai Seisan Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65934': {
+        'id': 'SLPM65934',
+        'title': 'Maple Colors - Kessen wa Gakuensai!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25331': {
+        'id': 'SLKA25331',
+        'title': "Marc Ecko's Getting Up - Contents Under Pressure",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65291': {
+        'id': 'SLPM65291',
+        'title': 'Margi - Marginal - Ano Toki no Tooi Yakusoku o',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65290': {
+        'id': 'SLPM65290',
+        'title': 'Margi - Marginal - Ano Toki no Tooi Yakusoku o (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20129': {
+        'id': 'SLPS20129',
+        'title': 'Marl de Jigsaw',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20128': {
+        'id': 'SLPS20128',
+        'title': 'Marl de Jigsaw (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62227': {
+        'id': 'SLPM62227',
+        'title': 'Marvel vs. Capcom 2 - New Age of Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM64523': {
+        'id': 'SLPM64523',
+        'title': 'Marvel vs. Capcom 2 - New Age of Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65417': {
+        'id': 'SLPM65417',
+        'title': "Mat Hoffman's Pro BMX 2003",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66141': {
+        'id': 'SLPM66141',
+        'title': 'Matantei Loki Ragnarok - Mayouga - Ushinawareta Bishou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62066': {
+        'id': 'SLPM62066',
+        'title': 'Matching Maker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11027': {
+        'id': 'SCPS11027',
+        'title': 'Mawaza',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25244': {
+        'id': 'SLPS25244',
+        'title': 'Max Payne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62127': {
+        'id': 'SLPM62127',
+        'title': 'Maximo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74004': {
+        'id': 'SLPM74004',
+        'title': 'Maximo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55037': {
+        'id': 'SLPM55037',
+        'title': 'Medal of Honor - Europe Kyoushuu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66079': {
+        'id': 'SLPM66079',
+        'title': 'Medal of Honor - Europe Kyoushuu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66514': {
+        'id': 'SLPM66514',
+        'title': 'Medal of Honor - Europe Kyoushuu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25030': {
+        'id': 'SLAJ25030',
+        'title': 'Medal of Honor - Rising Sun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25140': {
+        'id': 'SLKA25140',
+        'title': 'Medal of Honor - Rising Sun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55002': {
+        'id': 'SLPM55002',
+        'title': 'Medal of Honor - Rising Sun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65469': {
+        'id': 'SLPM65469',
+        'title': 'Medal of Honor - Rising Sun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65757': {
+        'id': 'SLPM65757',
+        'title': 'Medal of Honor - Rising Sun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65648': {
+        'id': 'SLPM65648',
+        'title': 'Medal of Honor - Shijou Saidai no Sakusen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66963': {
+        'id': 'SLPM66963',
+        'title': 'Medal of Honor - Shijou Saidai no Sakusen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25151': {
+        'id': 'SLPS25151',
+        'title': 'Medal of Honor - Shijou Saidai no Sakusen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25526': {
+        'id': 'SLPS25526',
+        'title': 'Medical 91',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65684': {
+        'id': 'SLPM65684',
+        'title': 'Meine Liebe - Yuubinaru Kioku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66076': {
+        'id': 'SLPM66076',
+        'title': 'Meine Liebe - Yuubinaru Kioku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66247': {
+        'id': 'SLPM66247',
+        'title': 'Meine Liebe Zwei - Hokori to Seigi to Ai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66667': {
+        'id': 'SLPM66667',
+        'title': 'Meine Liebe Zwei - Hokori to Seigi to Ai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25426': {
+        'id': 'SLPS25426',
+        'title': 'Meitantei Conan - Daiei Teikoku no Isan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25588': {
+        'id': 'SLPS25588',
+        'title': 'Meitantei Conan - Daiei Teikoku no Isan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66438': {
+        'id': 'SLPM66438',
+        'title': 'Melty Blood - Act Cadenza',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55183': {
+        'id': 'SLPM55183',
+        'title': 'Melty Blood - Actress Again',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25144': {
+        'id': 'SLPS25144',
+        'title': 'Memorial Song',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55041': {
+        'id': 'SCPS55041',
+        'title': 'Memories Off',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67535': {
+        'id': 'SLPM67535',
+        'title': 'Memories Off',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65858': {
+        'id': 'SLPM65858',
+        'title': 'Memories Off - After Rain Vol. 1 - Orizuru',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65857': {
+        'id': 'SLPM65857',
+        'title': 'Memories Off - After Rain Vol. 1 - Orizuru (Special Edition)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65903': {
+        'id': 'SLPM65903',
+        'title': 'Memories Off - After Rain Vol. 2 - Souen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65902': {
+        'id': 'SLPM65902',
+        'title': 'Memories Off - After Rain Vol. 2 - Souen (Special Edition)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65939': {
+        'id': 'SLPM65939',
+        'title': 'Memories Off - After Rain Vol. 3 - Sotsugyou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65938': {
+        'id': 'SLPM65938',
+        'title': 'Memories Off - After Rain Vol. 3 - Sotsugyou (Special Edition)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65610': {
+        'id': 'SLPM65610',
+        'title': 'Memories Off - Sorekara',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65609': {
+        'id': 'SLPM65609',
+        'title': 'Memories Off - Sorekara (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66353': {
+        'id': 'SLPM66353',
+        'title': 'Memories Off - Sorekara Again',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66352': {
+        'id': 'SLPM66352',
+        'title': 'Memories Off - Sorekara Again (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66147': {
+        'id': 'SLPM66147',
+        'title': 'Memories Off 5 - Togireta Film',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66146': {
+        'id': 'SLPM66146',
+        'title': 'Memories Off 5 - Togireta Film (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66791': {
+        'id': 'SLPM66791',
+        'title': 'Memories Off 5 Encore',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55197': {
+        'id': 'SLPM55197',
+        'title': 'Memories Off 6 - Next Relation',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66988': {
+        'id': 'SLPM66988',
+        'title': 'Memories Off 6 - T-Wave',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25226': {
+        'id': 'SLPS25226',
+        'title': 'Memories Off Duet - 1st & 2nd Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55101': {
+        'id': 'SLPM55101',
+        'title': "Memories Off Duet - 1st & 2nd Stories (Ren'ai Game Selection)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25278': {
+        'id': 'SLPS25278',
+        'title': 'Memories Off Mix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65764': {
+        'id': 'SLPM65764',
+        'title': 'Men at Work! 3 - Ai to Seishun no Hunter Gakuen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65942': {
+        'id': 'SLPM65942',
+        'title': 'Mercenaries',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66465': {
+        'id': 'SLPM66465',
+        'title': 'Mercenaries',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25696': {
+        'id': 'SLPS25696',
+        'title': 'Mermaid Prism',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25684': {
+        'id': 'SLPS25684',
+        'title': 'Mermaid Prism (Shokai Gentei Mermaid Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55237': {
+        'id': 'SLPM55237',
+        'title': 'Metal Gear & Metal Gear 2 - Solid Snake',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66795': {
+        'id': 'SLPM66795',
+        'title': 'Metal Gear & Metal Gear 2 - Solid Snake',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66799': {
+        'id': 'SLPM66799',
+        'title': 'Metal Gear & Metal Gear 2 - Solid Snake',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74258': {
+        'id': 'SLPM74258',
+        'title': 'Metal Gear & Metal Gear 2 - Solid Snake',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM68524': {
+        'id': 'SLPM68524',
+        'title': 'Metal Gear Online',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM68503': {
+        'id': 'SLPM68503',
+        'title': 'Metal Gear Solid 2 - Sons of Liberty (Daini-kai Metal Gear Solid-sai Hakkou Kinen)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65077': {
+        'id': 'SLPM65077',
+        'title': 'Metal Gear Solid 2 - Sons of Liberty (Premium Package)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25251': {
+        'id': 'SLKA25251',
+        'title': 'Metal Gear Solid 3 - Snake Eater',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65790': {
+        'id': 'SLPM65790',
+        'title': 'Metal Gear Solid 3 - Snake Eater',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM68516': {
+        'id': 'SLPM68516',
+        'title': 'Metal Gear Solid 3 - Snake Eater (Kabunushi Goyuutai-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65789': {
+        'id': 'SLPM65789',
+        'title': 'Metal Gear Solid 3 - Snake Eater (Premium Package)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25355': {
+        'id': 'SLKA25355',
+        'title': 'Metal Gear Solid 3 - Subsistence (Existence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66222': {
+        'id': 'SLPM66222',
+        'title': 'Metal Gear Solid 3 - Subsistence (Existence) (Shokai Seisanban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25354': {
+        'id': 'SLKA25354',
+        'title': 'Metal Gear Solid 3 - Subsistence (Persistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66224': {
+        'id': 'SLPM66224',
+        'title': 'Metal Gear Solid 3 - Subsistence (Persistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66221': {
+        'id': 'SLPM66221',
+        'title': 'Metal Gear Solid 3 - Subsistence (Persistence) (Shokai Seisanban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25353': {
+        'id': 'SLKA25353',
+        'title': 'Metal Gear Solid 3 - Subsistence (Subsistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55236': {
+        'id': 'SLPM55236',
+        'title': 'Metal Gear Solid 3 - Subsistence (Subsistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66223': {
+        'id': 'SLPM66223',
+        'title': 'Metal Gear Solid 3 - Subsistence (Subsistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66794': {
+        'id': 'SLPM66794',
+        'title': 'Metal Gear Solid 3 - Subsistence (Subsistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66798': {
+        'id': 'SLPM66798',
+        'title': 'Metal Gear Solid 3 - Subsistence (Subsistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74257': {
+        'id': 'SLPM74257',
+        'title': 'Metal Gear Solid 3 - Subsistence (Subsistence)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66220': {
+        'id': 'SLPM66220',
+        'title': 'Metal Gear Solid 3 - Subsistence (Subsistence) (Shokai Seisanban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65868': {
+        'id': 'SLPM65868',
+        'title': 'Metal Saga - Sajin no Kusari',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74226': {
+        'id': 'SLPM74226',
+        'title': 'Metal Saga - Sajin no Kusari (PlayStation 2 the Best)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25788': {
+        'id': 'SLPS25788',
+        'title': 'Metal Slug',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25049': {
+        'id': 'SLKA25049',
+        'title': 'Metal Slug 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25209': {
+        'id': 'SLPS25209',
+        'title': 'Metal Slug 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25428': {
+        'id': 'SLPS25428',
+        'title': 'Metal Slug 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25287': {
+        'id': 'SLKA25287',
+        'title': 'Metal Slug 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25376': {
+        'id': 'SLPS25376',
+        'title': 'Metal Slug 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25571': {
+        'id': 'SLPS25571',
+        'title': 'Metal Slug 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25288': {
+        'id': 'SLKA25288',
+        'title': 'Metal Slug 5',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25495': {
+        'id': 'SLPS25495',
+        'title': 'Metal Slug 5',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25634': {
+        'id': 'SLPS25634',
+        'title': 'Metal Slug 5',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25393': {
+        'id': 'SLKA25393',
+        'title': 'Metal Slug 6',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25674': {
+        'id': 'SLPS25674',
+        'title': 'Metal Slug 6',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25333': {
+        'id': 'SLKA25333',
+        'title': 'Metal Slug Complete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25762': {
+        'id': 'SLPS25762',
+        'title': 'Metal Slug Complete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25937': {
+        'id': 'SLPS25937',
+        'title': 'Metal Slug Complete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65552': {
+        'id': 'SLPM65552',
+        'title': 'Metal Wolf REV (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65480': {
+        'id': 'SLPM65480',
+        'title': 'Michigan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20068': {
+        'id': 'SLPS20068',
+        'title': 'Midnight Club - Street Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66052': {
+        'id': 'SLPM66052',
+        'title': 'Mikomai - Towa no Omoi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20255': {
+        'id': 'SLPS20255',
+        'title': 'Million God',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25467': {
+        'id': 'SLPS25467',
+        'title': 'Minna Daisuki Katamari Damacy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73241': {
+        'id': 'SLPS73241',
+        'title': 'Minna Daisuki Katamari Damacy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20094': {
+        'id': 'SCAJ20094',
+        'title': 'Minna no Golf 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15059': {
+        'id': 'SCPS15059',
+        'title': 'Minna no Golf 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19301': {
+        'id': 'SCPS19301',
+        'title': 'Minna no Golf 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19319': {
+        'id': 'SCPS19319',
+        'title': 'Minna no Golf 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20181': {
+        'id': 'SCAJ20181',
+        'title': 'Minna no Tennis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15113': {
+        'id': 'SCPS15113',
+        'title': 'Minna no Tennis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19332': {
+        'id': 'SCPS19332',
+        'title': 'Minna no Tennis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65973': {
+        'id': 'SLPM65973',
+        'title': 'Mirai Shounen Conan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25039': {
+        'id': 'SLPS25039',
+        'title': 'Missing Blue (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66768': {
+        'id': 'SLPM66768',
+        'title': 'Missing Parts Side A - The Tantei Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25301': {
+        'id': 'SLPS25301',
+        'title': 'Missing Parts Side A - The Tantei Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66769': {
+        'id': 'SLPM66769',
+        'title': 'Missing Parts Side B - The Tantei Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25340': {
+        'id': 'SLPS25340',
+        'title': 'Missing Parts Side B - The Tantei Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25028': {
+        'id': 'SLKA25028',
+        'title': 'Mission - Impossible - Operation Surma',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65529': {
+        'id': 'SLPM65529',
+        'title': 'Mission - Impossible - Operation Surma',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66115': {
+        'id': 'SLPM66115',
+        'title': 'Mizu no Senritsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66563': {
+        'id': 'SLPM66563',
+        'title': 'Mizu no Senritsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66114': {
+        'id': 'SLPM66114',
+        'title': 'Mizu no Senritsu (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66532': {
+        'id': 'SLPM66532',
+        'title': 'Mizu no Senritsu 2 - Hi no Kioku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66840': {
+        'id': 'SLPM66840',
+        'title': 'Mizu no Senritsu 2 - Hi no Kioku (Best Hit Selection)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66531': {
+        'id': 'SLPM66531',
+        'title': 'Mizu no Senritsu 2 - Hi no Kioku (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65841': {
+        'id': 'SLPM65841',
+        'title': 'Mizuiro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25191': {
+        'id': 'SLPS25191',
+        'title': 'Mizuiro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25627': {
+        'id': 'SLPS25627',
+        'title': 'Mobile Suit Gundam - Climax U.C.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25955': {
+        'id': 'SLPS25955',
+        'title': 'Moe Moe 2-ji Taisen 2 (Ryaku)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25977': {
+        'id': 'SLPS25977',
+        'title': 'Moe Moe 2-ji Taisen Deluxe (Ryaku)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65425': {
+        'id': 'SLPM65425',
+        'title': 'Moekan - Moekko-jima e Youkoso',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62475': {
+        'id': 'SLPM62475',
+        'title': 'Momotarou Dentetsu 11 - Black Bonby Shutsugen! no Maki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62416': {
+        'id': 'SLPM62416',
+        'title': 'Momotarou Dentetsu 12 - Nishi Nihon-hen mo Arimasse!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74102': {
+        'id': 'SLPM74102',
+        'title': 'Momotarou Dentetsu 12 - Nishi Nihon-hen mo Arimasse!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62117': {
+        'id': 'SLPM62117',
+        'title': 'Momotarou Dentetsu Batten - Kyushu-hen mo Arubai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20381': {
+        'id': 'SLPS20381',
+        'title': 'Monkey Turn V',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20428': {
+        'id': 'SLPS20428',
+        'title': 'Monkey Turn V',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65682': {
+        'id': 'SLPM65682',
+        'title': 'Monochrome',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65681': {
+        'id': 'SLPM65681',
+        'title': 'Monochrome (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55103': {
+        'id': 'SLPM55103',
+        'title': 'Monochrome Factor - Cross Road',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25123': {
+        'id': 'SLKA25123',
+        'title': 'Mononoke Imullok',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62286': {
+        'id': 'SLPM62286',
+        'title': 'Monster Bass',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25035': {
+        'id': 'SLPS25035',
+        'title': 'Monster Farm',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20084': {
+        'id': 'SCKA20084',
+        'title': 'Monster House',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65495': {
+        'id': 'SLPM65495',
+        'title': 'Monster Hunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65869': {
+        'id': 'SLPM65869',
+        'title': 'Monster Hunter G',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74248': {
+        'id': 'SLPM74248',
+        'title': 'Monster Hunter G',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20008': {
+        'id': 'SLPS20008',
+        'title': 'Morita Shougi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20040': {
+        'id': 'SLPS20040',
+        'title': 'MotoGP',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66867': {
+        'id': 'SLPM66867',
+        'title': 'MotoGP 07',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20155': {
+        'id': 'SLPS20155',
+        'title': 'MotoGP 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25204': {
+        'id': 'SLPS25204',
+        'title': 'MotoGP 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20183': {
+        'id': 'SLPS20183',
+        'title': 'Motto Golful Golf',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55264': {
+        'id': 'SLPM55264',
+        'title': 'Moujuutsukai to Oujisama',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55286': {
+        'id': 'SLPM55286',
+        'title': 'Moujuutsukai to Oujisama - Snow Bride',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55287': {
+        'id': 'SLPM55287',
+        'title': 'Moujuutsukai to Oujisama - Snow Bride',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65759': {
+        'id': 'SLPM65759',
+        'title': 'Mr. Incredible',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66359': {
+        'id': 'SLPM66359',
+        'title': 'Mutsu-boshi Kirari - Hoshifuru Miyako',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25463': {
+        'id': 'SLPS25463',
+        'title': 'My Home o Tsukurou 2! Takumi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25613': {
+        'id': 'SLPS25613',
+        'title': 'My Home o Tsukurou 2! Takumi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20177': {
+        'id': 'SLPS20177',
+        'title': 'My Home o Tsukurou! Make Your Dream Home',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25193': {
+        'id': 'SLPS25193',
+        'title': 'My Merry May',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25192': {
+        'id': 'SLPS25192',
+        'title': 'My Merry May (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66045': {
+        'id': 'SLPM66045',
+        'title': 'My Merry May with Be',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25238': {
+        'id': 'SLPS25238',
+        'title': 'My Merry Maybe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55164': {
+        'id': 'SLPM55164',
+        'title': 'Myself; Yourself',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66891': {
+        'id': 'SLPM66891',
+        'title': 'Myself; Yourself (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55162': {
+        'id': 'SLPM55162',
+        'title': 'Myself; Yourself - Sorezore no Finale',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55163': {
+        'id': 'SLPM55163',
+        'title': 'Myself; Yourself - Sorezore no Finale',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66416': {
+        'id': 'SLPM66416',
+        'title': 'Mystereet - Yasogami Kaoru no Jiken File',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66415': {
+        'id': 'SLPM66415',
+        'title': 'Mystereet - Yasogami Kaoru no Jiken File (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25924': {
+        'id': 'SLPS25924',
+        'title': 'NBA 2K9',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25069': {
+        'id': 'SLAJ25069',
+        'title': 'NBA Live 06',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25404': {
+        'id': 'SLKA25404',
+        'title': 'NBA Live 08',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20107': {
+        'id': 'SLPS20107',
+        'title': 'NBA Street',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25009': {
+        'id': 'SLAJ25009',
+        'title': 'NBA Street Vol. 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25925': {
+        'id': 'SLPS25925',
+        'title': 'NHL 2K9',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55223': {
+        'id': 'SLPM55223',
+        'title': 'NadePro!! Kisama mo Seiyuu Yatte Miro!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25505': {
+        'id': 'SLPS25505',
+        'title': 'Namco x Capcom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65914': {
+        'id': 'SLPM65914',
+        'title': 'Nana',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66256': {
+        'id': 'SLPM66256',
+        'title': 'Nana',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25758': {
+        'id': 'SLPS25758',
+        'title': 'Nanatsuiro Drops Pure!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25757': {
+        'id': 'SLPS25757',
+        'title': 'Nanatsuiro Drops Pure!! (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25263': {
+        'id': 'SLKA25263',
+        'title': 'Nanobreaker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65809': {
+        'id': 'SLPM65809',
+        'title': 'Nanobreaker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25848': {
+        'id': 'SLPS25848',
+        'title': 'Naraku no Shiro - Ichiyanagi Nagomu, 2-dome no Junan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25626': {
+        'id': 'SLPS25626',
+        'title': 'Narnia-koku Monogatari - Dai-1-shou - Lion to Majo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25293': {
+        'id': 'SLPS25293',
+        'title': 'Naruto - Narutimate Hero',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73212': {
+        'id': 'SLPS73212',
+        'title': 'Naruto - Narutimate Hero (PlayStation 2 the Best)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25398': {
+        'id': 'SLPS25398',
+        'title': 'Naruto - Narutimate Hero 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73221': {
+        'id': 'SLPS73221',
+        'title': 'Naruto - Narutimate Hero 2 (PlayStation 2 the Best)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25232': {
+        'id': 'SLKA25232',
+        'title': 'Naruto - Ultimate Ninja',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25542': {
+        'id': 'SLPS25542',
+        'title': 'Naruto - Uzumaki Ninden',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65634': {
+        'id': 'SLPM65634',
+        'title': 'Natsu Shoujo - Promised Summer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66383': {
+        'id': 'SLPM66383',
+        'title': "Natsu Yume Ya Wa - The Tale of a Midsummer Night's Dream",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25276': {
+        'id': 'SLPS25276',
+        'title': "Natsu Yume Ya Wa - The Tale of a Midsummer Night's Dream",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65786': {
+        'id': 'SLPM65786',
+        'title': 'Natsuiro - Hoshikuzu no Memory',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65785': {
+        'id': 'SLPM65785',
+        'title': 'Natsuiro - Hoshikuzu no Memory (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65355': {
+        'id': 'SLPM65355',
+        'title': 'Natsuiro Komachi - Ichijitsu Senka (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65136': {
+        'id': 'SLPM65136',
+        'title': 'Natsuiro no Sunadokei',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55267': {
+        'id': 'SLPM55267',
+        'title': 'Natsuzora no Monologue',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55089': {
+        'id': 'SLPM55089',
+        'title': 'Naxat Soft Reach Mania Vol. 1 - CR Galaxy Angel',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25314': {
+        'id': 'SLPS25314',
+        'title': 'Nebula - Echo Night',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55061': {
+        'id': 'SLPM55061',
+        'title': 'Need for Speed - Carbon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66617': {
+        'id': 'SLPM66617',
+        'title': 'Need for Speed - Carbon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66869': {
+        'id': 'SLPM66869',
+        'title': 'Need for Speed - Carbon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25091': {
+        'id': 'SLAJ25091',
+        'title': "Need for Speed - Carbon - Collector's Edition",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25185': {
+        'id': 'SLKA25185',
+        'title': "Need for Speed - Carbon - Collector's Edition",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25411': {
+        'id': 'SLKA25411',
+        'title': 'Need for Speed - ProStreet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25446': {
+        'id': 'SLKA25446',
+        'title': 'Need for Speed - Undercover',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55127': {
+        'id': 'SLPM55127',
+        'title': 'Need for Speed - Undercover',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65471': {
+        'id': 'SLPM65471',
+        'title': 'Need for Speed - Underground',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25054': {
+        'id': 'SLAJ25054',
+        'title': 'Need for Speed - Underground 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65614': {
+        'id': 'SLPM65614',
+        'title': 'Need for Speed - Underground J',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66592': {
+        'id': 'SLPM66592',
+        'title': 'Negima! 3-jikanme - Koi to Mahou to Sekaiju Densetsu! (Engeki-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66593': {
+        'id': 'SLPM66593',
+        'title': 'Negima! 3-jikanme - Koi to Mahou to Sekaiju Densetsu! (Live-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66705': {
+        'id': 'SLPM66705',
+        'title': 'Negima! Dream Tactic - Yume Miru Otome wa Princess (Diva-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66704': {
+        'id': 'SLPM66704',
+        'title': 'Negima! Dream Tactic - Yume Miru Otome wa Princess (Prima-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66340': {
+        'id': 'SLPM66340',
+        'title': 'Neo Angelique',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66758': {
+        'id': 'SLPM66758',
+        'title': 'Neo Angelique',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66339': {
+        'id': 'SLPM66339',
+        'title': 'Neo Angelique (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66955': {
+        'id': 'SLPM66955',
+        'title': 'Neo Angelique - Full Voice',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66956': {
+        'id': 'SLPM66956',
+        'title': 'Neo Angelique - Full Voice',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25016': {
+        'id': 'SLPS25016',
+        'title': 'Neo Atlas III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25176': {
+        'id': 'SLPS25176',
+        'title': 'Neo Atlas III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25227': {
+        'id': 'SLKA25227',
+        'title': 'Neo Contra',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65752': {
+        'id': 'SLPM65752',
+        'title': 'Neo Contra',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65990': {
+        'id': 'SLPM65990',
+        'title': 'Neo Contra',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25737': {
+        'id': 'SLPS25737',
+        'title': 'NeoGeo Battle Coliseum',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25936': {
+        'id': 'SLPS25936',
+        'title': 'NeoGeo Online Collection Vol. 11 - Sunsoft Collection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25503': {
+        'id': 'SLPS25503',
+        'title': 'NeoGeo Online Collection Vol. 2 - Bakumatsu Roman - Gekka no Kenshi 1, 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25792': {
+        'id': 'SLPS25792',
+        'title': 'NeoGeo Online Collection Vol. 2 - Bakumatsu Roman - Gekka no Kenshi 1, 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25971': {
+        'id': 'SLPS25971',
+        'title': 'NeoGeo Online Collection Vol. 2 - Bakumatsu Roman - Gekka no Kenshi 1, 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25610': {
+        'id': 'SLPS25610',
+        'title': 'NeoGeo Online Collection Vol. 4 - Ryuuko no Ken - Ten Chi Jin',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25975': {
+        'id': 'SLPS25975',
+        'title': 'NeoGeo Online Collection Vol. 9 - World Heroes Gorgeous',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20190': {
+        'id': 'SLPS20190',
+        'title': 'Netchuu! Pro Yakyuu 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25350': {
+        'id': 'SLPS25350',
+        'title': 'Netchuu! Pro Yakyuu 2004',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66860': {
+        'id': 'SLPM66860',
+        'title': 'Nettai Teikiatsu Shoujo (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25256': {
+        'id': 'SLPS25256',
+        'title': 'Never 7 - The End of Infinity',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66552': {
+        'id': 'SLPM66552',
+        'title': 'Neverland Kenkyuushi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66694': {
+        'id': 'SLPM66694',
+        'title': 'Nickelodeon SpongeBob SquarePants',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20098': {
+        'id': 'SCKA20098',
+        'title': 'Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25272': {
+        'id': 'SLKA25272',
+        'title': 'Nickelodeon Tak 2 - The Staff of Dreams',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66936': {
+        'id': 'SLPM66936',
+        'title': 'Night Wizard the Video Game - Denial of the World',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66926': {
+        'id': 'SLPM66926',
+        'title': 'Nights into Dreams...',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62099': {
+        'id': 'SLPM62099',
+        'title': 'Nihon Sumou Kyoukai Kounin - Nihon Oozumou - Kakutou-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS51014': {
+        'id': 'SCPS51014',
+        'title': 'Ninja Assault',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS56015': {
+        'id': 'SCPS56015',
+        'title': 'Ninja Assault',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20218': {
+        'id': 'SLPS20218',
+        'title': 'Ninja Assault',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55268': {
+        'id': 'SLPM55268',
+        'title': 'Nobunaga no Yabou - Kakushin with Power-Up Kit',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25891': {
+        'id': 'SLPS25891',
+        'title': 'Nogizaka Haruka no Himitsu - Cosplay, Hajimemashita',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65961': {
+        'id': 'SLPM65961',
+        'title': 'North Wind - Eien no Yakusoku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55192': {
+        'id': 'SLPM55192',
+        'title': 'Nuga-Cel! Nurture Garment Celebration',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65457': {
+        'id': 'SLPM65457',
+        'title': 'Nurse Witch Komugi-chan - Maji-Karte',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20114': {
+        'id': 'SCKA20114',
+        'title': 'Obscure II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20107': {
+        'id': 'SCKA20107',
+        'title': 'Odin Sphere',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66474': {
+        'id': 'SLPM66474',
+        'title': 'Odin Sphere',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74259': {
+        'id': 'SLPM74259',
+        'title': 'Odin Sphere',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66726': {
+        'id': 'SLPM66726',
+        'title': 'Ojousama Kumikyoku - Sweet Concert',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66385': {
+        'id': 'SLPM66385',
+        'title': 'Omoi no Kakera - Close to',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25173': {
+        'id': 'SLPS25173',
+        'title': 'Omoide ni Kawaru Kimi - Memories Off',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25299': {
+        'id': 'SLKA25299',
+        'title': 'One Piece - Grand Battle! Rush',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25473': {
+        'id': 'SLPS25473',
+        'title': 'One Piece - Grand Battle! Rush',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25351': {
+        'id': 'SLKA25351',
+        'title': 'One Piece - Pirates Carnival',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25576': {
+        'id': 'SLPS25576',
+        'title': 'One Piece - Pirates Carnival',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25583': {
+        'id': 'SLPS25583',
+        'title': 'One Piece - Pirates Carnival (Multi Tap Doukonban) (SCPH-10090)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25584': {
+        'id': 'SLPS25584',
+        'title': 'One Piece - Pirates Carnival (Multi Tap Doukonban) (SCPH-70120)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25208': {
+        'id': 'SLKA25208',
+        'title': 'One Piece - Round the Land!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25382': {
+        'id': 'SLPS25382',
+        'title': 'One Piece - Round the Land!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65010': {
+        'id': 'SLPM65010',
+        'title': 'Onimusha',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66501': {
+        'id': 'SLPM66501',
+        'title': 'Onimusha',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65101': {
+        'id': 'SLPM65101',
+        'title': 'Onimusha 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66504': {
+        'id': 'SLPM66504',
+        'title': 'Onimusha 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65100': {
+        'id': 'SLPM65100',
+        'title': 'Onimusha 2 (Shokai Press-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65413': {
+        'id': 'SLPM65413',
+        'title': 'Onimusha 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65411': {
+        'id': 'SLPM65411',
+        'title': 'Onimusha Buraiden',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62195': {
+        'id': 'SLPM62195',
+        'title': 'Online Games - Dai Guru Guru Onsen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25150': {
+        'id': 'SLPS25150',
+        'title': 'Only You - Rebel Cross',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25237': {
+        'id': 'SLPS25237',
+        'title': 'Only You - Rebel Cross',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20417': {
+        'id': 'SLPS20417',
+        'title': 'Onmyou Taisenki - Byakko Enbu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20416': {
+        'id': 'SLPS20416',
+        'title': 'Onmyou Taisenki - Byakko Enbu (EyeToy Camera Doukonban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25501': {
+        'id': 'SLPS25501',
+        'title': 'Onmyou Taisenki - Hasha no In',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20095': {
+        'id': 'SCKA20095',
+        'title': 'Ookami',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66375': {
+        'id': 'SLPM66375',
+        'title': 'Ookami',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74239': {
+        'id': 'SLPM74239',
+        'title': 'Ookami',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66441': {
+        'id': 'SLPM66441',
+        'title': 'Oookuki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15039': {
+        'id': 'SCPS15039',
+        'title': "Operator's Side",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15038': {
+        'id': 'SCPS15038',
+        'title': "Operator's Side (Doukonban)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19213': {
+        'id': 'SCPS19213',
+        'title': "Operator's Side (Doukonban)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25767': {
+        'id': 'SLPS25767',
+        'title': 'Orange Honey - Boku wa Kimi ni Koi shiteru',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25859': {
+        'id': 'SLPS25859',
+        'title': 'Orange Honey - Boku wa Kimi ni Koi shiteru',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25766': {
+        'id': 'SLPS25766',
+        'title': 'Orange Honey - Boku wa Kimi ni Koi shiteru (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65525': {
+        'id': 'SLPM65525',
+        'title': 'Orange Pocket - Root',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65524': {
+        'id': 'SLPM65524',
+        'title': 'Orange Pocket - Root (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65056': {
+        'id': 'SLPM65056',
+        'title': 'Ore ga Kantoku da! Volume 2 - Gekitou Pennant Race',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25796': {
+        'id': 'SLPS25796',
+        'title': 'Ore no Shita de Agake',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62660': {
+        'id': 'SLPM62660',
+        'title': 'Oretachi Geesen Zoku - Super Volleyball',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65535': {
+        'id': 'SLPM65535',
+        'title': 'Oshiete! Popotan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55220': {
+        'id': 'SLPM55220',
+        'title': 'Osouji Sentai Clean Keeper H',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66508': {
+        'id': 'SLPM66508',
+        'title': 'Otome no Jijou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66165': {
+        'id': 'SLPM66165',
+        'title': 'Otome wa Boku ni Koishiteru',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66238': {
+        'id': 'SLPM66238',
+        'title': 'Otome-teki Koi Kakumei - Love Revo!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66985': {
+        'id': 'SLPM66985',
+        'title': 'Otome-teki Koi Kakumei - Love Revo!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66237': {
+        'id': 'SLPM66237',
+        'title': 'Otome-teki Koi Kakumei - Love Revo!! (Love Revo Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62549': {
+        'id': 'SLPM62549',
+        'title': 'Otona no Gal-jong - Kimi ni Haneman!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66194': {
+        'id': 'SLPM66194',
+        'title': 'Otona no Gal-jong 2 - Koishite Bai Man!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11024': {
+        'id': 'SCPS11024',
+        'title': 'Otostaz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55023': {
+        'id': 'SCPS55023',
+        'title': 'Otostaz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS56004': {
+        'id': 'SCPS56004',
+        'title': 'Otostaz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66406': {
+        'id': 'SLPM66406',
+        'title': 'Ouka - Kokoro Kagayakaseru Sakura',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66628': {
+        'id': 'SLPM66628',
+        'title': 'OutRun 2 SP',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15017': {
+        'id': 'SCPS15017',
+        'title': 'PaRappa the Rapper 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19201': {
+        'id': 'SCPS19201',
+        'title': 'PaRappa the Rapper 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62739': {
+        'id': 'SLPM62739',
+        'title': 'Pachi-Slot Kanzen Kouryaku - Slot Genjin, Onihama Bakusou Gurentai - Gekitou-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62620': {
+        'id': 'SLPM62620',
+        'title': 'Pachi-Slot Winning Post',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55280': {
+        'id': 'SLPM55280',
+        'title': 'Palais de Reine',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66817': {
+        'id': 'SLPM66817',
+        'title': 'Palais de Reine',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55269': {
+        'id': 'SLPM55269',
+        'title': 'Pandora - Kimi no Namae o Boku wa Shiru',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25148': {
+        'id': 'SLPS25148',
+        'title': 'Panel Quiz Attack 25',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25187': {
+        'id': 'SLPS25187',
+        'title': 'Panel Quiz Attack 25',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66762': {
+        'id': 'SLPM66762',
+        'title': 'Panic Palette',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66761': {
+        'id': 'SLPM66761',
+        'title': 'Panic Palette (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66398': {
+        'id': 'SLPM66398',
+        'title': 'Parfait - Chocolat Second Style',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65640': {
+        'id': 'SLPM65640',
+        'title': 'Patissier na Nyanko - Hatsukoi wa Ichigo Aji',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65639': {
+        'id': 'SLPM65639',
+        'title': 'Patissier na Nyanko - Hatsukoi wa Ichigo Aji (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66445': {
+        'id': 'SLPM66445',
+        'title': 'Persona 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66690': {
+        'id': 'SLPM66690',
+        'title': 'Persona 3 FES',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74277': {
+        'id': 'SLPM74277',
+        'title': 'Persona 3 FES',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25337': {
+        'id': 'SLKA25337',
+        'title': "Peter Jackson's King Kong - The Official Game of the Movie",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66211': {
+        'id': 'SLPM66211',
+        'title': "Peter Jackson's King Kong - The Official Game of the Movie",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62298': {
+        'id': 'SLPM62298',
+        'title': 'Petit Copter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62315': {
+        'id': 'SLPM62315',
+        'title': 'Petit Copter (Controller Set)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66945': {
+        'id': 'SLPM66945',
+        'title': 'Petit Four',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66944': {
+        'id': 'SLPM66944',
+        'title': 'Petit Four (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66031': {
+        'id': 'SLPM66031',
+        'title': 'Phantasy Star Universe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74244': {
+        'id': 'SLPM74244',
+        'title': 'Phantasy Star Universe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65204': {
+        'id': 'SLPM65204',
+        'title': 'Phantom - Phantom of Inferno',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65203': {
+        'id': 'SLPM65203',
+        'title': 'Phantom - Phantom of Inferno (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73108': {
+        'id': 'SLPS73108',
+        'title': 'Phantom Brave - 2-shuume Hajimemashita.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20410': {
+        'id': 'SLPS20410',
+        'title': 'Phantom Kingdom',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20409': {
+        'id': 'SLPS20409',
+        'title': 'Phantom Kingdom (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15005': {
+        'id': 'SCPS15005',
+        'title': 'Phase Paradox',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66896': {
+        'id': 'SLPM66896',
+        'title': 'Pia Carrot e Youkoso!! G.O. Summer Fair',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55102': {
+        'id': 'SLPM55102',
+        'title': 'Pia Carrot e Youkoso!! G.P. Gakuen Princess',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55032': {
+        'id': 'SLPM55032',
+        'title': 'Piyo-tan - Oyashiki Sennyuu Daisakusen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66412': {
+        'id': 'SLPM66412',
+        'title': "Pizzicato Polka - Ensa Gen'ya",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66472': {
+        'id': 'SLPM66472',
+        'title': 'Planetarian - Chiisa na Hoshi no Yume',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25639': {
+        'id': 'SLPS25639',
+        'title': 'Plus Plumb 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15013': {
+        'id': 'SCPS15013',
+        'title': "Poinie's Poin",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55045': {
+        'id': 'SCPS55045',
+        'title': "Poinie's Poin",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25854': {
+        'id': 'SLPS25854',
+        'title': 'Poison Pink',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25457': {
+        'id': 'SLPS25457',
+        'title': 'Ponkotsu Roman Daikatsugeki - Bumpy Trot',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25683': {
+        'id': 'SLPS25683',
+        'title': 'Ponkotsu Roman Daikatsugeki - Bumpy Trot',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66314': {
+        'id': 'SLPM66314',
+        'title': "Pop'n Music 12 - Iroha",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62288': {
+        'id': 'SLPM62288',
+        'title': "Pop'n Music Best Hits!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62464': {
+        'id': 'SLPM62464',
+        'title': "Pop'n Taisen Puzzle-dama Online",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55012': {
+        'id': 'SLPM55012',
+        'title': 'Ppoi! Hito Natsu no Keiken!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55011': {
+        'id': 'SLPM55011',
+        'title': 'Ppoi! Hito Natsu no Keiken! (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66890': {
+        'id': 'SLPM66890',
+        'title': 'Pri-Saga! Princess o Sagase!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66391': {
+        'id': 'SLPM66391',
+        'title': 'Prince of Persia - Futatsu no Tamashii',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15066': {
+        'id': 'SCPS15066',
+        'title': 'Prince of Persia - Jikan no Suna',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25247': {
+        'id': 'SLKA25247',
+        'title': 'Prince of Persia - Warrior Within',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66002': {
+        'id': 'SLPM66002',
+        'title': 'Prince of Persia - Warrior Within',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66673': {
+        'id': 'SLPM66673',
+        'title': 'Prince of Persia - Warrior Within',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66285': {
+        'id': 'SLPM66285',
+        'title': 'Princess Concerto',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65585': {
+        'id': 'SLPM65585',
+        'title': "Princess Holiday - Korogaru Ringo Tei Sen'ya Ichiya",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55195': {
+        'id': 'SLPM55195',
+        'title': 'Princess Lover! Eternal Love for My Lady (Shokai Gentei Tokubetsu Doukonban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15031': {
+        'id': 'SLKA15031',
+        'title': 'Princess Maker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20361': {
+        'id': 'SLPS20361',
+        'title': 'Princess Maker',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15033': {
+        'id': 'SLKA15033',
+        'title': 'Princess Maker 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20393': {
+        'id': 'SLPS20393',
+        'title': 'Princess Maker 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65936': {
+        'id': 'SLPM65936',
+        'title': 'Princess Maker 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65935': {
+        'id': 'SLPM65935',
+        'title': "Princess Maker 4 (Collector's Edition)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66918': {
+        'id': 'SLPM66918',
+        'title': 'Princess Maker 5',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66973': {
+        'id': 'SLPM66973',
+        'title': 'Princess Nightmare',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25694': {
+        'id': 'SLPS25694',
+        'title': 'Princess Princess - Himetachi no Abunai Houkago',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25693': {
+        'id': 'SLPS25693',
+        'title': 'Princess Princess - Himetachi no Abunai Houkago (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66846': {
+        'id': 'SLPM66846',
+        'title': 'Prism Ark - Awake',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25262': {
+        'id': 'SLPS25262',
+        'title': 'Private Nurse - Maria',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66316': {
+        'id': 'SLPM66316',
+        'title': 'Pro Soccer Club o Tsukurou! Europe Championship',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55130': {
+        'id': 'SLPM55130',
+        'title': 'Pro Yakyuu Spirits 5 - Kanzenban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65863': {
+        'id': 'SLPM65863',
+        'title': 'Professional Drift - D1 Grand Prix Series',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66144': {
+        'id': 'SLPM66144',
+        'title': 'Professional Drift - D1 Grand Prix Series 2005',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66020': {
+        'id': 'SLPM66020',
+        'title': 'Psi-Ops - Psychic Operation',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62686': {
+        'id': 'SLPM62686',
+        'title': 'Psikyo Shooting Collection Vol. 2 - Sengoku Ace & Sengoku Blade',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66235': {
+        'id': 'SLPM66235',
+        'title': 'Psychic Force Complete',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65862': {
+        'id': 'SLPM65862',
+        'title': 'Pure Pure - Mimi to Shippo no Monogatari',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66814': {
+        'id': 'SLPM66814',
+        'title': 'Pure x Cure Recovery',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65532': {
+        'id': 'SLPM65532',
+        'title': 'Puyo Puyo Fever',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74210': {
+        'id': 'SLPM74210',
+        'title': 'Puyo Puyo Fever',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62754': {
+        'id': 'SLPM62754',
+        'title': 'Puyo Puyo!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62779': {
+        'id': 'SLPM62779',
+        'title': 'Puyo Puyo!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65986': {
+        'id': 'SLPM65986',
+        'title': 'Quartett! The Stage of Love (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66757': {
+        'id': 'SLPM66757',
+        'title': 'Que - Ancient Leaf no Yousei',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66756': {
+        'id': 'SLPM66756',
+        'title': 'Que - Ancient Leaf no Yousei (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66735': {
+        'id': 'SLPM66735',
+        'title': 'Quilt - Anata to Tsumugu Yume to Koi no Dress',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66734': {
+        'id': 'SLPM66734',
+        'title': 'Quilt - Anata to Tsumugu Yume to Koi no Dress (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62769': {
+        'id': 'SLPM62769',
+        'title': 'Quiz & Variety - Suku Suku Inufuku 2 - Motto Suku Suku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25300': {
+        'id': 'SLPS25300',
+        'title': 'R-Racing Evolution - Life in the Fast Lane',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20009': {
+        'id': 'SCKA20009',
+        'title': 'R-Type Final',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25247': {
+        'id': 'SLPS25247',
+        'title': 'R-Type Final',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73244': {
+        'id': 'SLPS73244',
+        'title': 'R-Type Final',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62044': {
+        'id': 'SLPM62044',
+        'title': 'RC Revenge Pro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66043': {
+        'id': 'SLPM66043',
+        'title': 'Racing Game - Chuui!!!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66703': {
+        'id': 'SLPM66703',
+        'title': 'Racing Game - Chuui!!!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65800': {
+        'id': 'SLPM65800',
+        'title': 'Radiata Stories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65637': {
+        'id': 'SLPM65637',
+        'title': 'Rakugaki Oukoku 2 - Maou-jou no Tatakai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66355': {
+        'id': 'SLPM66355',
+        'title': 'Rakugaki Oukoku 2 - Maou-jou no Tatakai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66084': {
+        'id': 'SLPM66084',
+        'title': 'Ramune - Garasu-bin ni Utsuru Umi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'PBPX95516': {
+        'id': 'PBPX95516',
+        'title': 'Ratchet & Clank',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15037': {
+        'id': 'SCPS15037',
+        'title': 'Ratchet & Clank',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19211': {
+        'id': 'SCPS19211',
+        'title': 'Ratchet & Clank',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19316': {
+        'id': 'SCPS19316',
+        'title': 'Ratchet & Clank',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25078': {
+        'id': 'SLKA25078',
+        'title': 'Rayman 3 - Hoodlum Havoc',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25029': {
+        'id': 'SLPS25029',
+        'title': 'Rayman Revolution',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55104': {
+        'id': 'SLPM55104',
+        'title': 'Real Rode',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66029': {
+        'id': 'SLPM66029',
+        'title': 'Realize - Panorama Luminary',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25094': {
+        'id': 'SLPS25094',
+        'title': 'Reavel Fantasia - Mariel to Yousei Monogatari',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25201': {
+        'id': 'SLPS25201',
+        'title': 'Reavel Fantasia - Mariel to Yousei Monogatari',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65854': {
+        'id': 'SLPM65854',
+        'title': 'Red Dead Revolver',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65945': {
+        'id': 'SLPM65945',
+        'title': 'Red Ninja - Kekka no Mai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25011': {
+        'id': 'SLKA25011',
+        'title': 'Reign of Fire',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65004': {
+        'id': 'SLPM65004',
+        'title': 'Reiselied - Ephemeral Fantasia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65550': {
+        'id': 'SLPM65550',
+        'title': 'Remember 11 - The Age of Infinity',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55087': {
+        'id': 'SLPM55087',
+        'title': 'Remember 11 - The Age of Infinity (Infinity Plus)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65549': {
+        'id': 'SLPM65549',
+        'title': 'Remember 11 - The Age of Infinity (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25073': {
+        'id': 'SLAJ25073',
+        'title': 'Resident Evil 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62680': {
+        'id': 'SLPM62680',
+        'title': 'Rilakkuma - Ojama shite masu 2-shuukan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62764': {
+        'id': 'SLPM62764',
+        'title': 'Rilakkuma - Ojama shite masu 2-shuukan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62679': {
+        'id': 'SLPM62679',
+        'title': 'Rilakkuma - Ojama shite masu 2-shuukan (Shokai Gentei Nuigurumi Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25393': {
+        'id': 'SLPS25393',
+        'title': 'Rim Runners',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62340': {
+        'id': 'SLPM62340',
+        'title': 'Ripuru no Tamago - Apprentice Magician',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62321': {
+        'id': 'SLPM62321',
+        'title': 'RoboCop - Aratanaru Kiki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66059': {
+        'id': 'SLPM66059',
+        'title': 'Robots',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62491': {
+        'id': 'SLPM62491',
+        'title': 'Rockman - Power Battle Fighters',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65643': {
+        'id': 'SLPM65643',
+        'title': 'Rockman X - Command Mission',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25115': {
+        'id': 'SLKA25115',
+        'title': 'Rockman X7',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65331': {
+        'id': 'SLPM65331',
+        'title': 'Rockman X7',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65730': {
+        'id': 'SLPM65730',
+        'title': 'Rockman X8',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65463': {
+        'id': 'SLPM65463',
+        'title': 'Rocky',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15102': {
+        'id': 'SCPS15102',
+        'title': 'Rogue Galaxy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS17013': {
+        'id': 'SCPS17013',
+        'title': "Rogue Galaxy - Director's Cut",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19254': {
+        'id': 'SCPS19254',
+        'title': "Rogue Galaxy - Director's Cut",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65534': {
+        'id': 'SLPM65534',
+        'title': 'Rogue Ops',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65920': {
+        'id': 'SLPM65920',
+        'title': 'Romancing SaGa - Minstrel Song',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66422': {
+        'id': 'SLPM66422',
+        'title': 'Romancing SaGa - Minstrel Song',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65110': {
+        'id': 'SLPM65110',
+        'title': 'Roommania 203',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25130': {
+        'id': 'SLPS25130',
+        'title': 'Roommate Asami - Okusama wa Joshikousei',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55188': {
+        'id': 'SLPM55188',
+        'title': 'Rosario to Vampire Capu 2 - Koi to Yume no Rhapsodia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25727': {
+        'id': 'SLPS25727',
+        'title': 'Routes PE',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25722': {
+        'id': 'SLPS25722',
+        'title': 'Routes PE (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66357': {
+        'id': 'SLPM66357',
+        'title': 'Rozen Maiden - Duellwalzer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20168': {
+        'id': 'SCAJ20168',
+        'title': 'Rule of Rose',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15093': {
+        'id': 'SCPS15093',
+        'title': 'Rule of Rose',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25234': {
+        'id': 'SLKA25234',
+        'title': 'Rumble Roses',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65885': {
+        'id': 'SLPM65885',
+        'title': 'Rumble Roses',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66085': {
+        'id': 'SLPM66085',
+        'title': 'Rumble Roses',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65603': {
+        'id': 'SLPM65603',
+        'title': 'Run Like Hell',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25108': {
+        'id': 'SLPS25108',
+        'title': 'Runabout 3 - Neo Age',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66157': {
+        'id': 'SLPM66157',
+        'title': 'Rune Princess',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25685': {
+        'id': 'SLPS25685',
+        'title': 'Rurouni Kenshin - Meiji Kenkaku Romantan - Enjou! Kyoto Rinne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73253': {
+        'id': 'SLPS73253',
+        'title': 'Rurouni Kenshin - Meiji Kenkaku Romantan - Enjou! Kyoto Rinne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66535': {
+        'id': 'SLPM66535',
+        'title': 'Ryu-Koku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66534': {
+        'id': 'SLPM66534',
+        'title': 'Ryu-Koku (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66168': {
+        'id': 'SLPM66168',
+        'title': 'Ryuu ga Gotoku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74234': {
+        'id': 'SLPM74234',
+        'title': 'Ryuu ga Gotoku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74253': {
+        'id': 'SLPM74253',
+        'title': 'Ryuu ga Gotoku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74269': {
+        'id': 'SLPM74269',
+        'title': 'Ryuu ga Gotoku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55247': {
+        'id': 'SLPM55247',
+        'title': 'S.Y.K - Renshouden',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55205': {
+        'id': 'SLPM55205',
+        'title': 'S.Y.K - Shinsetsu Saiyuuki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55206': {
+        'id': 'SLPM55206',
+        'title': 'S.Y.K - Shinsetsu Saiyuuki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25425': {
+        'id': 'SLPS25425',
+        'title': 'SD Gundam Force - Daikessen! Jigen Kaizoku De Scar!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25125': {
+        'id': 'SLKA25125',
+        'title': 'SNK vs. Capcom - SVC Chaos',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25316': {
+        'id': 'SLPS25316',
+        'title': 'SNK vs. Capcom - SVC Chaos',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25484': {
+        'id': 'SLPS25484',
+        'title': 'SNK vs. Capcom - SVC Chaos',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15044': {
+        'id': 'SCPS15044',
+        'title': 'SOCOM - U.S. Navy SEALs',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55077': {
+        'id': 'SLPM55077',
+        'title': 'SSX 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65449': {
+        'id': 'SLPM65449',
+        'title': 'SSX 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65793': {
+        'id': 'SLPM65793',
+        'title': 'SSX 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25917': {
+        'id': 'SLPS25917',
+        'title': 'Sacred Blaze',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62785': {
+        'id': 'SLPM62785',
+        'title': 'Saikyou Shougi - Gekisashi Special',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25808': {
+        'id': 'SLPS25808',
+        'title': 'Saint Beast - Rasen no Shou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25807': {
+        'id': 'SLPS25807',
+        'title': 'Saint Beast - Rasen no Shou (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25744': {
+        'id': 'SLPS25744',
+        'title': 'Saint Seiya - Meiou Hades Juunikyuu-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25476': {
+        'id': 'SLPS25476',
+        'title': 'Saint Seiya - Sanctuary Juunikyuu-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65275': {
+        'id': 'SLPM65275',
+        'title': 'Saishuu Heiki Kanojo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66312': {
+        'id': 'SLPM66312',
+        'title': 'Saishuu Heiki Kanojo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66809': {
+        'id': 'SLPM66809',
+        'title': 'Saishuu Shiken Kujira - Alive',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20260': {
+        'id': 'SLPS20260',
+        'title': 'Sakigake!! Cromartie Koukou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62417': {
+        'id': 'SLPM62417',
+        'title': 'Sakigake!! Cromartie Koukou - Kore wa Hyotto Shite Game Nano ka! Hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20436': {
+        'id': 'SLPS20436',
+        'title': 'Sakigake!! Otokojuku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65307': {
+        'id': 'SLPM65307',
+        'title': 'Sakura - Setsu Gekka',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65306': {
+        'id': 'SLPM65306',
+        'title': 'Sakura - Setsu Gekka (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA35003': {
+        'id': 'SLKA35003',
+        'title': 'Sakura Daejeon - Tteugeoun Yeoljeongeuro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67003': {
+        'id': 'SLPM67003',
+        'title': 'Sakura Taisen - Atsuki Chishio ni',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65900': {
+        'id': 'SLPM65900',
+        'title': 'Sakura Taisen 3 - Paris wa Moeteiru ka (Shokai Press-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65515': {
+        'id': 'SLPM65515',
+        'title': 'Sakura Taisen Monogatari - Mysterious Paris',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25089': {
+        'id': 'SLPS25089',
+        'title': 'Salt Lake 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS51005': {
+        'id': 'SCPS51005',
+        'title': 'Samurai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20178': {
+        'id': 'SLPS20178',
+        'title': 'Samurai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25360': {
+        'id': 'SLKA25360',
+        'title': 'Samurai Champloo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25600': {
+        'id': 'SLPS25600',
+        'title': 'Samurai Champloo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74405': {
+        'id': 'SLPM74405',
+        'title': 'Samurai Kanzenban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20092': {
+        'id': 'SCAJ20092',
+        'title': 'Samurai Spirits Zero',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25346': {
+        'id': 'SLPS25346',
+        'title': 'Samurai Spirits Zero',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25572': {
+        'id': 'SLPS25572',
+        'title': 'Samurai Spirits Zero',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65755': {
+        'id': 'SLPM65755',
+        'title': 'Samurai Western - Katsugeki Samurai-dou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55289': {
+        'id': 'SLPM55289',
+        'title': 'Sangoku Rensenki - Otome no Heihou!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65162': {
+        'id': 'SLPM65162',
+        'title': 'Sanguozhi Zhanji',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20102': {
+        'id': 'SLPS20102',
+        'title': 'Sanyo Pachinko Paradise 6 - Ginpani Daisuizokukan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20203': {
+        'id': 'SLPS20203',
+        'title': 'Sanyo Pachinko Paradise 7 - Edokko Gen-san',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20138': {
+        'id': 'SCAJ20138',
+        'title': 'Saru! Get You! 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15096': {
+        'id': 'SCPS15096',
+        'title': 'Saru! Get You! 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19311': {
+        'id': 'SCPS19311',
+        'title': 'Saru! Get You! 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19327': {
+        'id': 'SCPS19327',
+        'title': 'Saru! Get You! 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15001': {
+        'id': 'SCPS15001',
+        'title': 'Scandal',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55265': {
+        'id': 'SLPM55265',
+        'title': 'Scared Rider Xechs',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55266': {
+        'id': 'SLPM55266',
+        'title': 'Scared Rider Xechs',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55290': {
+        'id': 'SLPM55290',
+        'title': 'Scared Rider Xechs - Stardust Lovers',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55079': {
+        'id': 'SLPM55079',
+        'title': 'Scarlet - Nichijou no Kyoukaisen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67015': {
+        'id': 'SLPM67015',
+        'title': 'School Days LxH',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66641': {
+        'id': 'SLPM66641',
+        'title': 'School Love! Koi to Kibou no Metronome',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66612': {
+        'id': 'SLPM66612',
+        'title': 'School Love! Koi to Kibou no Metronome (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25540': {
+        'id': 'SLPS25540',
+        'title': 'School Rumble - Neru Musume wa Sodatsu.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25671': {
+        'id': 'SLPS25671',
+        'title': 'School Rumble - Neru Musume wa Sodatsu.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25539': {
+        'id': 'SLPS25539',
+        'title': 'School Rumble - Neru Musume wa Sodatsu. (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25795': {
+        'id': 'SLPS25795',
+        'title': 'School Rumble Nigakki - Kyoufu no Natsu Gasshuku! Youkan ni Yuurei Arawaru! Otakara o Megutte Makkou Shoubu!!! no Maki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55028': {
+        'id': 'SLPM55028',
+        'title': 'Secret Game - Killer Queen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65483': {
+        'id': 'SLPM65483',
+        'title': 'Secret Weapons over Normandy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55084': {
+        'id': 'SLPM55084',
+        'title': 'Secret of Evangelion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66569': {
+        'id': 'SLPM66569',
+        'title': 'Secret of Evangelion',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62446': {
+        'id': 'SLPM62446',
+        'title': 'Sega Ages 2500 Series Vol. 10 - After Burner II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62432': {
+        'id': 'SLPM62432',
+        'title': 'Sega Ages 2500 Series Vol. 11 - Hokuto no Ken',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62655': {
+        'id': 'SLPM62655',
+        'title': 'Sega Ages 2500 Series Vol. 11 - Hokuto no Ken',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62447': {
+        'id': 'SLPM62447',
+        'title': 'Sega Ages 2500 Series Vol. 13 - OutRun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62675': {
+        'id': 'SLPM62675',
+        'title': 'Sega Ages 2500 Series Vol. 13 - OutRun',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62500': {
+        'id': 'SLPM62500',
+        'title': 'Sega Ages 2500 Series Vol. 14 - Alien Syndrome',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62364': {
+        'id': 'SLPM62364',
+        'title': 'Sega Ages 2500 Series Vol. 2 - Monaco GP',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62709': {
+        'id': 'SLPM62709',
+        'title': 'Sega Ages 2500 Series Vol. 23 - Sega Memorial Selection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62717': {
+        'id': 'SLPM62717',
+        'title': 'Sega Ages 2500 Series Vol. 26 - Dynamite Deka',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62718': {
+        'id': 'SLPM62718',
+        'title': 'Sega Ages 2500 Series Vol. 27 - Panzer Dragoon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62366': {
+        'id': 'SLPM62366',
+        'title': 'Sega Ages 2500 Series Vol. 3 - Fantasy Zone',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62766': {
+        'id': 'SLPM62766',
+        'title': 'Sega Ages 2500 Series Vol. 30 - Galaxy Force II - Special Extended Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62780': {
+        'id': 'SLPM62780',
+        'title': 'Sega Ages 2500 Series Vol. 33 - Fantasy Zone Complete Collection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62384': {
+        'id': 'SLPM62384',
+        'title': 'Sega Ages 2500 Series Vol. 4 - Space Harrier',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62669': {
+        'id': 'SLPM62669',
+        'title': 'Sega Ages 2500 Series Vol. 4 - Space Harrier',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62385': {
+        'id': 'SLPM62385',
+        'title': 'Sega Ages 2500 Series Vol. 5 - Golden Axe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62671': {
+        'id': 'SLPM62671',
+        'title': 'Sega Ages 2500 Series Vol. 6 - Ichini no Tant-R to Bonanza Bros.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62425': {
+        'id': 'SLPM62425',
+        'title': 'Sega Ages 2500 Series Vol. 7 - Columns',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62672': {
+        'id': 'SLPM62672',
+        'title': 'Sega Ages 2500 Series Vol. 7 - Columns',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62443': {
+        'id': 'SLPM62443',
+        'title': 'Sega Ages 2500 Series Vol. 8 - Virtua Racing - FlatOut',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25362': {
+        'id': 'SLKA25362',
+        'title': 'Sega Rally 2006',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66212': {
+        'id': 'SLPM66212',
+        'title': 'Sega Rally 2006',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15059': {
+        'id': 'SLKA15059',
+        'title': 'Sega Rally Championship',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62703': {
+        'id': 'SLPM62703',
+        'title': 'Sega Rally Championship',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11016': {
+        'id': 'SCPS11016',
+        'title': 'Seigi no Mikata',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66692': {
+        'id': 'SLPM66692',
+        'title': 'Seikai no Senki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20101': {
+        'id': 'SCKA20101',
+        'title': 'Seiken Densetsu 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66576': {
+        'id': 'SLPM66576',
+        'title': 'Seiken Densetsu 4',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66544': {
+        'id': 'SLPM66544',
+        'title': 'Sekai no Subete - Two of Us',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55227': {
+        'id': 'SLPM55227',
+        'title': 'Sekirei - Mirai kara no Okurimono',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66058': {
+        'id': 'SLPM66058',
+        'title': 'Sengoku Basara',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66287': {
+        'id': 'SLPM66287',
+        'title': 'Sengoku Basara',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66859': {
+        'id': 'SLPM66859',
+        'title': 'Sengoku Basara',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25435': {
+        'id': 'SLKA25435',
+        'title': 'Sengoku Basara X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55008': {
+        'id': 'SLPM55008',
+        'title': 'Sengoku Basara X',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55218': {
+        'id': 'SLPM55218',
+        'title': 'Sengoku Hime - Senran ni Mau Otometachi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55225': {
+        'id': 'SLPM55225',
+        'title': 'Sengoku Hime - Senran ni Mau Otometachi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55277': {
+        'id': 'SLPM55277',
+        'title': 'Sengoku Hime 2 - En - Hyakka, Senran Tatsukaze no Gotoku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25919': {
+        'id': 'SLPS25919',
+        'title': 'Sengoku Tenka Touitsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66196': {
+        'id': 'SLPM66196',
+        'title': 'Sentimental Prelude',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66298': {
+        'id': 'SLPM66298',
+        'title': 'Separate Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25154': {
+        'id': 'SLKA25154',
+        'title': 'Seven Samurai 20XX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25313': {
+        'id': 'SLPS25313',
+        'title': 'Seven Samurai 20XX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25041': {
+        'id': 'SLPS25041',
+        'title': 'Shadow Hearts',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73418': {
+        'id': 'SLPS73418',
+        'title': 'Shadow Hearts (PlayStation 2 the Best)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25334': {
+        'id': 'SLPS25334',
+        'title': 'Shadow Hearts II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25335': {
+        'id': 'SLPS25335',
+        'title': 'Shadow Hearts II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25317': {
+        'id': 'SLPS25317',
+        'title': 'Shadow Hearts II (Gentei DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25318': {
+        'id': 'SLPS25318',
+        'title': 'Shadow Hearts II (Gentei DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73214': {
+        'id': 'SLPS73214',
+        'title': "Shadow Hearts II - Director's Cut",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73215': {
+        'id': 'SLPS73215',
+        'title': "Shadow Hearts II - Director's Cut",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65013': {
+        'id': 'SLPM65013',
+        'title': 'Shadow of Memories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65883': {
+        'id': 'SLPM65883',
+        'title': 'Shadow of Rome',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66745': {
+        'id': 'SLPM66745',
+        'title': 'Shadow of Rome',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25335': {
+        'id': 'SLKA25335',
+        'title': 'Shadow the Hedgehog',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66166': {
+        'id': 'SLPM66166',
+        'title': 'Shadow the Hedgehog',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25599': {
+        'id': 'SLPS25599',
+        'title': 'Shakugan no Shana',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25858': {
+        'id': 'SLPS25858',
+        'title': 'Shakugan no Shana',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25359': {
+        'id': 'SLPS25359',
+        'title': 'Shaman King - Funbari Spirits',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ30005': {
+        'id': 'SCAJ30005',
+        'title': 'Shenqi Jiqi Jingjichang - Bibohou Zhongji Rezhan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55053': {
+        'id': 'SLPM55053',
+        'title': 'Shi no Homura',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55111': {
+        'id': 'SLPM55111',
+        'title': 'Shi no Homura',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66698': {
+        'id': 'SLPM66698',
+        'title': "Shijou Saikyou no Deshi Ken'ichi - Gekitou! Ragnarok Hachikengou",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66803': {
+        'id': 'SLPM66803',
+        'title': 'Shikaku Tantei Sora no Sekai - Thousand Dreams',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65816': {
+        'id': 'SLPM65816',
+        'title': 'Shin Bakusou Dekotora Densetsu - Tenka Touitsu Choujou Kessen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66387': {
+        'id': 'SLPM66387',
+        'title': 'Shin Bakusou Dekotora Densetsu - Tenka Touitsu Choujou Kessen (Spike the Best)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65105': {
+        'id': 'SLPM65105',
+        'title': 'Shin Combat Choro Q',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66319': {
+        'id': 'SLPM66319',
+        'title': 'Shin Combat Choro Q',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62247': {
+        'id': 'SLPM62247',
+        'title': 'Shin Contra',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62264': {
+        'id': 'SLPM62264',
+        'title': 'Shin Contra',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62361': {
+        'id': 'SLPM62361',
+        'title': 'Shin Contra',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66278': {
+        'id': 'SLPM66278',
+        'title': 'Shin Gouketsuji Ichizoku - Bonnou Kaihou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20015': {
+        'id': 'SCAJ20015',
+        'title': 'Shin Megami Tensei III - Nocturne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65242': {
+        'id': 'SLPM65242',
+        'title': 'Shin Megami Tensei III - Nocturne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74205': {
+        'id': 'SLPM74205',
+        'title': 'Shin Megami Tensei III - Nocturne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65241': {
+        'id': 'SLPM65241',
+        'title': 'Shin Megami Tensei III - Nocturne (Deluxe Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65259': {
+        'id': 'SLPM65259',
+        'title': 'Shin Megami Tensei III - Nocturne (Tsutaya Original Version)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65462': {
+        'id': 'SLPM65462',
+        'title': 'Shin Megami Tensei III - Nocturne Maniax',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66681': {
+        'id': 'SLPM66681',
+        'title': 'Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65334': {
+        'id': 'SLPM65334',
+        'title': 'Shin Seiki Evangelion - Ayanami Ikusei Keikaku with Asuka Hokan Keikaku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66097': {
+        'id': 'SLPM66097',
+        'title': 'Shin Seiki Evangelion - Ayanami Ikusei Keikaku with Asuka Hokan Keikaku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65867': {
+        'id': 'SLPM65867',
+        'title': 'Shin Seiki Evangelion - Koutetsu no Girlfriend 2nd',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66315': {
+        'id': 'SLPM66315',
+        'title': 'Shin Seiki Evangelion - Koutetsu no Girlfriend 2nd',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66336': {
+        'id': 'SLPM66336',
+        'title': 'Shin Seiki Evangelion - Koutetsu no Girlfriend Tokubetsu-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25299': {
+        'id': 'SLPS25299',
+        'title': 'Shin Seiki Evangelion 2 - Evangelions',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65120': {
+        'id': 'SLPM65120',
+        'title': 'Shine - Kotoba o Tsumui de',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65119': {
+        'id': 'SLPM65119',
+        'title': 'Shine - Kotoba o Tsumui de (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66646': {
+        'id': 'SLPM66646',
+        'title': 'Shining Force EXA',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74260': {
+        'id': 'SLPM74260',
+        'title': 'Shining Force EXA',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65908': {
+        'id': 'SLPM65908',
+        'title': 'Shining Force Neo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65773': {
+        'id': 'SLPM65773',
+        'title': 'Shining Tears',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74218': {
+        'id': 'SLPM74218',
+        'title': 'Shining Tears',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66671': {
+        'id': 'SLPM66671',
+        'title': 'Shining Wind',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74261': {
+        'id': 'SLPM74261',
+        'title': 'Shining Wind',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25916': {
+        'id': 'SLPS25916',
+        'title': 'Shinjuku no Ookami',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66743': {
+        'id': 'SLPM66743',
+        'title': 'Shinkyoku Soukai Polyphonica',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66977': {
+        'id': 'SLPM66977',
+        'title': 'Shinkyoku Soukai Polyphonica - 0~4-wa Full Pack',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66909': {
+        'id': 'SLPM66909',
+        'title': 'Shinkyoku Soukai Polyphonica - 3 & 4-wa Kanketsu-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55270': {
+        'id': 'SLPM55270',
+        'title': 'Shinkyoku Soukai Polyphonica - After School',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55095': {
+        'id': 'SLPM55095',
+        'title': 'Shinkyoku Soukai Polyphonica - The Black - Episode 1 & 2 CS Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25021': {
+        'id': 'SLKA25021',
+        'title': 'Shinobi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65200': {
+        'id': 'SLPM65200',
+        'title': 'Shinobi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74415': {
+        'id': 'SLPM74415',
+        'title': 'Shinobi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66091': {
+        'id': 'SLPM66091',
+        'title': 'Shinobido - Imashime',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66556': {
+        'id': 'SLPM66556',
+        'title': 'Shinobido - Imashime',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65328': {
+        'id': 'SLPM65328',
+        'title': 'Shirachuu Tankenbu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65660': {
+        'id': 'SLPM65660',
+        'title': 'Shirachuu Tankenbu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55026': {
+        'id': 'SLPM55026',
+        'title': 'Shirogane no Soleil - Contract to the Future - Mirai e no Keiyaku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55201': {
+        'id': 'SLPM55201',
+        'title': 'Shirogane no Soleil - Contract to the Future - Mirai e no Keiyaku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66150': {
+        'id': 'SLPM66150',
+        'title': 'Shirogane no Torikago - The Angels with Strange Wings',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66149': {
+        'id': 'SLPM66149',
+        'title': 'Shirogane no Torikago - The Angels with Strange Wings (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62726': {
+        'id': 'SLPM62726',
+        'title': 'Shooting Love - Trizeal',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66633': {
+        'id': 'SLPM66633',
+        'title': 'Shoujo Mahou Gaku Littlewitch Romanesque - Aria to Kaya to Kuro no Tou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65364': {
+        'id': 'SLPM65364',
+        'title': 'Shoujo Yoshitsune-den',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66041': {
+        'id': 'SLPM66041',
+        'title': 'Shoujo Yoshitsune-den',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65363': {
+        'id': 'SLPM65363',
+        'title': 'Shoujo Yoshitsune-den (Tokubetsuban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65989': {
+        'id': 'SLPM65989',
+        'title': 'Shoujo Yoshitsune-den Ni - Toki o Koeru Chigiri',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65988': {
+        'id': 'SLPM65988',
+        'title': 'Shoujo Yoshitsune-den Ni - Toki o Koeru Chigiri (Tokubetsuban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66872': {
+        'id': 'SLPM66872',
+        'title': 'Shoukan Shoujo - Elemental Girl Calling',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66730': {
+        'id': 'SLPM66730',
+        'title': 'Shounen Onmyouji - Tsubasa yo Ima, Sora e Kaere',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66729': {
+        'id': 'SLPM66729',
+        'title': 'Shounen Onmyouji - Tsubasa yo Ima, Sora e Kaere (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25060': {
+        'id': 'SLAJ25060',
+        'title': 'Shouwangji - Project Altered Beast',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66134': {
+        'id': 'SLPM66134',
+        'title': 'Shuffle! On the Stage',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66806': {
+        'id': 'SLPM66806',
+        'title': 'Shuffle! On the Stage',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66133': {
+        'id': 'SLPM66133',
+        'title': 'Shuffle! On the Stage (DX Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66996': {
+        'id': 'SLPM66996',
+        'title': 'Shuumatsu Shoujo Gensou Alicematic - Apocalypse (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55231': {
+        'id': 'SLPM55231',
+        'title': 'Silent Hill - Shattered Memories',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25001': {
+        'id': 'SLKA25001',
+        'title': 'Silent Hill 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65051': {
+        'id': 'SLPM65051',
+        'title': 'Silent Hill 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65098': {
+        'id': 'SLPM65098',
+        'title': 'Silent Hill 2 - Saigo no Uta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65341': {
+        'id': 'SLPM65341',
+        'title': 'Silent Hill 2 - Saigo no Uta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65631': {
+        'id': 'SLPM65631',
+        'title': 'Silent Hill 2 - Saigo no Uta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25065': {
+        'id': 'SLKA25065',
+        'title': 'Silent Hill 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65257': {
+        'id': 'SLPM65257',
+        'title': 'Silent Hill 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65622': {
+        'id': 'SLPM65622',
+        'title': 'Silent Hill 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66018': {
+        'id': 'SLPM66018',
+        'title': 'Silent Hill 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25149': {
+        'id': 'SLKA25149',
+        'title': 'Silent Hill 4 - The Room',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55140': {
+        'id': 'SLPM55140',
+        'title': 'Silent Hill 4 - The Room',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65574': {
+        'id': 'SLPM65574',
+        'title': 'Silent Hill 4 - The Room',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66032': {
+        'id': 'SLPM66032',
+        'title': 'Silent Hill 4 - The Room',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25422': {
+        'id': 'SLKA25422',
+        'title': 'Silent Hill Origins',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62026': {
+        'id': 'SLPM62026',
+        'title': 'Silent Scope',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62085': {
+        'id': 'SLPM62085',
+        'title': 'Silent Scope 2 - Innocent Sweeper',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62246': {
+        'id': 'SLPM62246',
+        'title': 'Silent Scope 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62015': {
+        'id': 'SLPM62015',
+        'title': 'Silpheed - The Lost Planet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62228': {
+        'id': 'SLPM62228',
+        'title': 'Silpheed - The Lost Planet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25689': {
+        'id': 'SLPS25689',
+        'title': 'Simoun - Ibara Sensou - Fuuin no Ri Maajon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25688': {
+        'id': 'SLPS25688',
+        'title': 'Simoun - Ibara Sensou - Fuuin no Ri Maajon (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62180': {
+        'id': 'SLPM62180',
+        'title': 'Simple 2000 Honkaku Shikou Series Vol. 1 - The Shougi - Morita Kazurou no Shougi Shinan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62179': {
+        'id': 'SLPM62179',
+        'title': 'Simple 2000 Honkaku Shikou Series Vol. 2 - The Igo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62174': {
+        'id': 'SLPM62174',
+        'title': 'Simple 2000 Honkaku Shikou Series Vol. 3 - The Chess',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62198': {
+        'id': 'SLPM62198',
+        'title': 'Simple 2000 Honkaku Shikou Series Vol. 4 - The Mahjong',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62397': {
+        'id': 'SLPM62397',
+        'title': 'Simple 2000 Honkaku Shikou Series Vol. 5 - The Kiryoku Kentei - Tanoshiku Manaberu Igo Nyuumon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62249': {
+        'id': 'SLPM62249',
+        'title': 'Simple 2000 Series - Hello Kitty Vol. 1 - Starlight Puzzle - Isogashi Cube Dossun Fuwawa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62250': {
+        'id': 'SLPM62250',
+        'title': 'Simple 2000 Series - Hello Kitty Vol. 2 - Minna de Sugoroku - Fushigi na Sekai no Nakayoshi Sugoroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15028': {
+        'id': 'SLKA15028',
+        'title': 'Simple 2000 Series - Love - Upper!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15030': {
+        'id': 'SLKA15030',
+        'title': 'Simple 2000 Series - The Block - Hyper',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62093': {
+        'id': 'SLPM62093',
+        'title': 'Simple 2000 Series Ultimate Vol. 1 - Love - Smash!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65352': {
+        'id': 'SLPM65352',
+        'title': 'Simple 2000 Series Ultimate Vol. 10 - Love - Songs - Idol ga Classmate',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65350': {
+        'id': 'SLPM65350',
+        'title': 'Simple 2000 Series Ultimate Vol. 11 - Wandaba Style - Totsugeki! Mix Live Juice',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62399': {
+        'id': 'SLPM62399',
+        'title': 'Simple 2000 Series Ultimate Vol. 13 - Kyousou! Tansha King - Kattobi! Bari Bari Densetsu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62431': {
+        'id': 'SLPM62431',
+        'title': 'Simple 2000 Series Ultimate Vol. 14 - Touhai! Dramatic Mahjong - Ten - Tenhoo Doori no Kaidanji',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62468': {
+        'id': 'SLPM62468',
+        'title': 'Simple 2000 Series Ultimate Vol. 17 - Taisen! Bakudan Poi Poi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62467': {
+        'id': 'SLPM62467',
+        'title': 'Simple 2000 Series Ultimate Vol. 18 - Love - Aerobi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62544': {
+        'id': 'SLPM62544',
+        'title': 'Simple 2000 Series Ultimate Vol. 19 - Akagi - Yami ni Oritatta Tensai',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65107': {
+        'id': 'SLPM65107',
+        'title': 'Simple 2000 Series Ultimate Vol. 2 - Edit Racing',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62542': {
+        'id': 'SLPM62542',
+        'title': 'Simple 2000 Series Ultimate Vol. 20 - Love - Mahjong! 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62571': {
+        'id': 'SLPM62571',
+        'title': 'Simple 2000 Series Ultimate Vol. 22 - Stylish Mahjong - Usagi - Yasei no Touhai & Usagi - Yasei no Touhai - The Arcade Double Pack',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65579': {
+        'id': 'SLPM65579',
+        'title': 'Simple 2000 Series Ultimate Vol. 27 - Houkago no Love Beat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25566': {
+        'id': 'SLPS25566',
+        'title': 'Simple 2000 Series Ultimate Vol. 27 - Houkago no Love Beat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20445': {
+        'id': 'SLPS20445',
+        'title': 'Simple 2000 Series Ultimate Vol. 28 - Tousou! Kenka Grand Prix - Drive to Survive',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66028': {
+        'id': 'SLPM66028',
+        'title': 'Simple 2000 Series Ultimate Vol. 33 - Ururun Quest - Koiyuuki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25717': {
+        'id': 'SLPS25717',
+        'title': 'Simple 2000 Series Ultimate Vol. 33 - Ururun Quest - Koiyuuki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62233': {
+        'id': 'SLPM62233',
+        'title': 'Simple 2000 Series Ultimate Vol. 4 - Urawaza Ikasa Mahjonggai - Nii-san, Tsukanjimatta You da ne',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62296': {
+        'id': 'SLPM62296',
+        'title': 'Simple 2000 Series Ultimate Vol. 6 - Love - Upper!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65345': {
+        'id': 'SLPM65345',
+        'title': 'Simple 2000 Series Ultimate Vol. 9 - Bakusou! Manhattan - Runabout 3 - Neo Age',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62065': {
+        'id': 'SLPM62065',
+        'title': 'Simple 2000 Series Vol. 1 - The Table Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62231': {
+        'id': 'SLPM62231',
+        'title': 'Simple 2000 Series Vol. 12 - The Quiz 20,000-mon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25833': {
+        'id': 'SLPS25833',
+        'title': "Simple 2000 Series Vol. 122 - Onna no Ko Sen'you - The Ningyo-hime Monogatari - Mermaid Prism",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25723': {
+        'id': 'SLPS25723',
+        'title': 'Simple 2000 Series Vol. 123 - The Office Love Jikenbo - Reijou Tantei',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25874': {
+        'id': 'SLPS25874',
+        'title': 'Simple 2000 Series Vol. 123 - The Office Love Jikenbo - Reijou Tantei',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62234': {
+        'id': 'SLPM62234',
+        'title': "Simple 2000 Series Vol. 13 - Onna no Ko no Tame no - The Ren'ai Adventure - Garasu no Mori",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62232': {
+        'id': 'SLPM62232',
+        'title': 'Simple 2000 Series Vol. 15 - The Rugby',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62252': {
+        'id': 'SLPM62252',
+        'title': 'Simple 2000 Series Vol. 17 - The Suiri - Arata naru 20 no Jikenbo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62272': {
+        'id': 'SLPM62272',
+        'title': 'Simple 2000 Series Vol. 18 - The Party Sugoroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62270': {
+        'id': 'SLPM62270',
+        'title': "Simple 2000 Series Vol. 19 - The Ren'ai Simulation - Watashi ni Oma-Cafe",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62094': {
+        'id': 'SLPM62094',
+        'title': 'Simple 2000 Series Vol. 2 - The Party Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62295': {
+        'id': 'SLPM62295',
+        'title': 'Simple 2000 Series Vol. 22 - The Tsuukin Densha Untenshi - Densha de Go! 3 - Tsuukin-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62334': {
+        'id': 'SLPM62334',
+        'title': "Simple 2000 Series Vol. 29 - The Ren'ai Board Game - Seishun 18 Radio",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62343': {
+        'id': 'SLPM62343',
+        'title': "Simple 2000 Series Vol. 34 - The Ren'ai Horror Adventure - Hyouryuu Shoujo",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62398': {
+        'id': 'SLPM62398',
+        'title': 'Simple 2000 Series Vol. 39 - The Boku no Machi-zukuri - Matching Maker++',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62160': {
+        'id': 'SLPM62160',
+        'title': 'Simple 2000 Series Vol. 4 - The Double Mahjong Puzzle',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62430': {
+        'id': 'SLPM62430',
+        'title': 'Simple 2000 Series Vol. 43 - The Saiban - Shinmai Shihoukan Momota Tsukasa no 10 no Saiban File',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65414': {
+        'id': 'SLPM65414',
+        'title': 'Simple 2000 Series Vol. 45 - The Koi to Namida to, Tsuioku to... Thread Colors - Sayonara no Mukougawa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62171': {
+        'id': 'SLPM62171',
+        'title': 'Simple 2000 Series Vol. 5 - The Block Kuzushi Hyper',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62496': {
+        'id': 'SLPM62496',
+        'title': 'Simple 2000 Series Vol. 52 - The Chikyuu Shinryakugun - Space Raiders',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62556': {
+        'id': 'SLPM62556',
+        'title': 'Simple 2000 Series Vol. 66 - The Party Unou Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62557': {
+        'id': 'SLPM62557',
+        'title': 'Simple 2000 Series Vol. 67 - The Suiri - Soshite Dare mo Inaku Natta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62580': {
+        'id': 'SLPM62580',
+        'title': 'Simple 2000 Series Vol. 69 - The Board Game Collection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62586': {
+        'id': 'SLPM62586',
+        'title': 'Simple 2000 Series Vol. 70 - The Kanshikikan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65874': {
+        'id': 'SLPM65874',
+        'title': "Simple 2000 Series Vol. 71 - The Fantasy Ren'ai Adventure - Kanojo no Densetsu, Boku no Sekiban",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62588': {
+        'id': 'SLPM62588',
+        'title': 'Simple 2000 Series Vol. 73 - The Saiyuu Touenden',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62579': {
+        'id': 'SLPM62579',
+        'title': "Simple 2000 Series Vol. 74 - Onna no Ko Sen'you - The Oujisama to Romance - Ripuru no Tamago",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62604': {
+        'id': 'SLPM62604',
+        'title': 'Simple 2000 Series Vol. 76 - The Hanasou Eigo no Tabi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20439': {
+        'id': 'SLPS20439',
+        'title': 'Simple 2000 Series Vol. 79 - Akko ni Omakase! The Party Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62651': {
+        'id': 'SLPM62651',
+        'title': 'Simple 2000 Series Vol. 83 - The Konchuu Saishuu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65381': {
+        'id': 'SLPM65381',
+        'title': 'Simple 2000 Series Vol. 84 - The Boku ni Oma-Cafe - Kimagure Strawberry Cafe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66088': {
+        'id': 'SLPM66088',
+        'title': 'Simple 2000 Series Vol. 84 - The Boku ni Oma-Cafe - Kimagure Strawberry Cafe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62649': {
+        'id': 'SLPM62649',
+        'title': 'Simple 2000 Series Vol. 85 - The Sekai Meisaku Gekijou Quiz',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20431': {
+        'id': 'SLPS20431',
+        'title': 'Simple 2000 Series Vol. 86 - The Menkyo Shutoku Simulation - Kaisei Douro Koutsuuhou Taiou-ban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20446': {
+        'id': 'SLPS20446',
+        'title': 'Simple 2000 Series Vol. 89 - The Party Game 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62207': {
+        'id': 'SLPM62207',
+        'title': "Simple 2000 Series Vol. 9 - The Ren'ai Adventure - Bittersweet Fools",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25581': {
+        'id': 'SLPS25581',
+        'title': 'Simple 2000 Series Vol. 92 - The Noroi no Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20454': {
+        'id': 'SLPS20454',
+        'title': 'Simple 2000 Series Vol. 93 - The Unou Drill - Kodama Mitsuo Sensei Kanshuu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20455': {
+        'id': 'SLPS20455',
+        'title': 'Simple 2000 Series Vol. 94 - The Aka-Champion - Come on Baby',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65653': {
+        'id': 'SLPM65653',
+        'title': 'Simple 2000 Series Vol. 97 - The Koi no Engine - Darling Special Backlash - Koi no Exhaust Heat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25632': {
+        'id': 'SLPS25632',
+        'title': 'Simple 2000 Series Vol. 97 - The Koi no Engine - Darling Special Backlash - Koi no Exhaust Heat',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65737': {
+        'id': 'SLPM65737',
+        'title': 'Simple 2000 Series Vol. 98 - The Roman Sabou - Meshimase Roman Sabou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25631': {
+        'id': 'SLPS25631',
+        'title': 'Simple 2000 Series Vol. 98 - The Roman Sabou - Meshimase Roman Sabou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25047': {
+        'id': 'SLKA25047',
+        'title': 'Sin Combat Choro Q',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ30003': {
+        'id': 'SCAJ30003',
+        'title': 'Siren',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15053': {
+        'id': 'SCPS15053',
+        'title': 'Siren',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19305': {
+        'id': 'SCPS19305',
+        'title': 'Siren',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19312': {
+        'id': 'SCPS19312',
+        'title': 'Siren',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25616': {
+        'id': 'SLPS25616',
+        'title': 'Ski Jumping Pairs - Reloaded',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55170': {
+        'id': 'SLPM55170',
+        'title': 'Skip Beat!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20286': {
+        'id': 'SLPS20286',
+        'title': 'Slotter Up Core 2 - Gouda! Minami no Teiou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62622': {
+        'id': 'SLPM62622',
+        'title': 'Slotter Up Core 7 - Gekitouda! Street Fighter II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62682': {
+        'id': 'SLPM62682',
+        'title': 'Slotter Up Core 8 - Gokuenda! Kyojin no Hoshi III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20278': {
+        'id': 'SLPS20278',
+        'title': 'Slotter Up Mania - Chou Oki-Slot! Pioneer Special',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62778': {
+        'id': 'SLPM62778',
+        'title': 'Slotter Up Mania 10 - Pioneer Special III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55228': {
+        'id': 'SLPM55228',
+        'title': 'Slotter Up Mania 11 - 2027 vs. 2027 II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20306': {
+        'id': 'SLPS20306',
+        'title': 'Slotter Up Mania 2 - Kokuchi no Kyoku! Juggler Special',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20338': {
+        'id': 'SLPS20338',
+        'title': 'Slotter Up Mania 3 - Densetsu Fukkatsu! New Pegasus Special',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20351': {
+        'id': 'SLPS20351',
+        'title': 'Slotter Up Mania 4 - Nangoku no Kou! Super Hana Hana & Shiomahal & Oase',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20396': {
+        'id': 'SLPS20396',
+        'title': 'Slotter Up Mania 5 - Soukai Gekida! Mach GoGoGo & Daruma Neko',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62615': {
+        'id': 'SLPM62615',
+        'title': 'Slotter Up Mania 6 - Oki no Neppuu! Pioneer Special II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62693': {
+        'id': 'SLPM62693',
+        'title': 'Slotter Up Mania 7 - Saishin Saikyou! Pioneer MAX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62694': {
+        'id': 'SLPM62694',
+        'title': 'Slotter Up Mania 8 - Senkou Kokuchi! Juggler Special II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62773': {
+        'id': 'SLPM62773',
+        'title': 'Slotter Up Mania 9 - Atsu Oki da ze! Mensoore-30 & Mensoore 2-30',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20044': {
+        'id': 'SCKA20044',
+        'title': 'Sly Cooper 2 - Goedo Brothers Daejakjeon!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20074': {
+        'id': 'SCKA20074',
+        'title': 'Sly Cooper 2 - Goedo Brothers Daejakjeon!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20063': {
+        'id': 'SCKA20063',
+        'title': 'Sly Cooper 3 - Choehu-ui Daedo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20111': {
+        'id': 'SCKA20111',
+        'title': 'Sly Cooper 3 - Choehu-ui Daedo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20171': {
+        'id': 'SLPS20171',
+        'title': 'Smash Court Pro Tournament',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20033': {
+        'id': 'SCKA20033',
+        'title': 'Smash Court Pro Tournament 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25361': {
+        'id': 'SLPS25361',
+        'title': 'Smash Court Pro Tournament 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25308': {
+        'id': 'SLKA25308',
+        'title': 'Sonic Gems Collection',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25027': {
+        'id': 'SLAJ25027',
+        'title': 'Sonic Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25122': {
+        'id': 'SLKA25122',
+        'title': 'Sonic Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65431': {
+        'id': 'SLPM65431',
+        'title': 'Sonic Heroes',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66281': {
+        'id': 'SLPM66281',
+        'title': 'Sonic Riders',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65848': {
+        'id': 'SLPM65848',
+        'title': 'Sorairo no Organ Remix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55013': {
+        'id': 'SLPM55013',
+        'title': 'Sorayume',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65065': {
+        'id': 'SLPM65065',
+        'title': 'Sorcerous Stabber Orphen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25008': {
+        'id': 'SLPS25008',
+        'title': 'Sorcerous Stabber Orphen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65971': {
+        'id': 'SLPM65971',
+        'title': 'Soshite Bokura wa, ... and He Said',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66351': {
+        'id': 'SLPM66351',
+        'title': 'Soshite Kono Sora ni Kirameku Kimi no Uta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66659': {
+        'id': 'SLPM66659',
+        'title': 'Soshite Kono Sora ni Kirameku Kimi no Uta XXX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55040': {
+        'id': 'SLPM55040',
+        'title': 'Soukoku no Kusabi - Hiiro no Kakera 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55039': {
+        'id': 'SLPM55039',
+        'title': 'Soukoku no Kusabi - Hiiro no Kakera 3 (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25739': {
+        'id': 'SLPS25739',
+        'title': 'Soul Cradle - Sekai o Kurau Mono',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25738': {
+        'id': 'SLPS25738',
+        'title': 'Soul Cradle - Sekai o Kurau Mono (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25912': {
+        'id': 'SLPS25912',
+        'title': 'Soul Eater - Battle Resonance',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66437': {
+        'id': 'SLPM66437',
+        'title': 'Soul Link Extension',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55013': {
+        'id': 'SCPS55013',
+        'title': 'Soul Reaver 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67516': {
+        'id': 'SLPM67516',
+        'title': 'Soul Reaver 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25085': {
+        'id': 'SLPS25085',
+        'title': 'Soul Reaver 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20016': {
+        'id': 'SCKA20016',
+        'title': 'Soulcalibur II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25230': {
+        'id': 'SLPS25230',
+        'title': 'Soulcalibur II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20159': {
+        'id': 'SCAJ20159',
+        'title': 'Soulcalibur III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20059': {
+        'id': 'SCKA20059',
+        'title': 'Soulcalibur III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25577': {
+        'id': 'SLPS25577',
+        'title': 'Soulcalibur III',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65095': {
+        'id': 'SLPM65095',
+        'title': 'Space Channel 5',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65096': {
+        'id': 'SLPM65096',
+        'title': 'Space Channel 5 Part 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM74404': {
+        'id': 'SLPM74404',
+        'title': 'Space Channel 5 Part 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS11025': {
+        'id': 'SCPS11025',
+        'title': 'Space Fishermen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15002': {
+        'id': 'SLKA15002',
+        'title': 'Space Raiders',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62275': {
+        'id': 'SLPM62275',
+        'title': 'Space Raiders',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25018': {
+        'id': 'SLKA25018',
+        'title': 'Sphinx and the Cursed Mummy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65205': {
+        'id': 'SLPM65205',
+        'title': 'Spider-Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66121': {
+        'id': 'SLPM66121',
+        'title': 'Spider-Man 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65113': {
+        'id': 'SLPM65113',
+        'title': 'Splashdown',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25007': {
+        'id': 'SLKA25007',
+        'title': 'Spy Fiction',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25311': {
+        'id': 'SLPS25311',
+        'title': 'Spy Fiction',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65090': {
+        'id': 'SLPM65090',
+        'title': 'Spyhunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55019': {
+        'id': 'SCPS55019',
+        'title': 'Star Ocean - Till the End of Time',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65209': {
+        'id': 'SLPM65209',
+        'title': 'Star Ocean - Till the End of Time',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65438': {
+        'id': 'SLPM65438',
+        'title': "Star Ocean - Till the End of Time - Director's Cut",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65439': {
+        'id': 'SLPM65439',
+        'title': "Star Ocean - Till the End of Time - Director's Cut",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66478': {
+        'id': 'SLPM66478',
+        'title': "Star Ocean - Till the End of Time - Director's Cut",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66479': {
+        'id': 'SLPM66479',
+        'title': "Star Ocean - Till the End of Time - Director's Cut",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65687': {
+        'id': 'SLPM65687',
+        'title': 'Star Wars - Battlefront',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66148': {
+        'id': 'SLPM66148',
+        'title': 'Star Wars - Battlefront',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66046': {
+        'id': 'SLPM66046',
+        'title': 'Star Wars - Episode III - Sith no Fukushuu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66252': {
+        'id': 'SLPM66252',
+        'title': 'Star Wars - Episode III - Sith no Fukushuu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66515': {
+        'id': 'SLPM66515',
+        'title': 'Star Wars - Episode III - Sith no Fukushuu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65726': {
+        'id': 'SLPM65726',
+        'title': 'Star Wars - Jango Fett',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25147': {
+        'id': 'SLPS25147',
+        'title': 'Star Wars - Jedi Starfighter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66879': {
+        'id': 'SLPM66879',
+        'title': 'StarTRain - Your Past Makes Your Future (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25090': {
+        'id': 'SLKA25090',
+        'title': 'Starsky & Hutch',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66485': {
+        'id': 'SLPM66485',
+        'title': 'State of Emergency Revenge',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65558': {
+        'id': 'SLPM65558',
+        'title': 'Steady x Study',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25502': {
+        'id': 'SLPS25502',
+        'title': 'Steamboy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25611': {
+        'id': 'SLPS25611',
+        'title': 'Strawberry Panic! (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20003': {
+        'id': 'SLPS20003',
+        'title': 'Street Fighter EX3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55173': {
+        'id': 'SLPM55173',
+        'title': 'Strike Witches - Anata to Dekiru Koto - A Little Peaceful Days',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55174': {
+        'id': 'SLPM55174',
+        'title': 'Strike Witches - Anata to Dekiru Koto - A Little Peaceful Days',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20152': {
+        'id': 'SLPS20152',
+        'title': 'Stunt GP',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55047': {
+        'id': 'SLPM55047',
+        'title': 'Sugar + Spice! Ano Ko no Suteki na Nani mo Kamo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25587': {
+        'id': 'SLPS25587',
+        'title': 'Sugar^2 Rune - Koi mo Oshare mo Pick-Up',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62437': {
+        'id': 'SLPM62437',
+        'title': 'Sui Sui Sweet - Amai Koi no Mitsukekata',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65751': {
+        'id': 'SLPM65751',
+        'title': 'Suigetsu - Mayoigokoro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66787': {
+        'id': 'SLPM66787',
+        'title': 'Suika A.S+ - Eternal Name',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20352': {
+        'id': 'SLPS20352',
+        'title': 'Suki na Mono wa Suki dakara Shou ga Nai!! First Limit & Target Nights - Sukishou! Episode 01+02 (First Limit - Sukishou! Episode 01)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20353': {
+        'id': 'SLPS20353',
+        'title': 'Suki na Mono wa Suki dakara Shou ga Nai!! First Limit & Target Nights - Sukishou! Episode 01+02 (Target Nights - Sukishou! Episode 02)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20394': {
+        'id': 'SLPS20394',
+        'title': 'Suki na Mono wa Suki dakara Shou ga Nai!! Rain - Sukishou! Episode 03',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25267': {
+        'id': 'SLPS25267',
+        'title': 'Summon Night 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73211': {
+        'id': 'SLPS73211',
+        'title': 'Summon Night 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25778': {
+        'id': 'SLPS25778',
+        'title': 'Sumomomo Momomo - Chijou Saikyou no Yome - Keishou Shimasho! Koi no Hanamuko Soudatsusen!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25777': {
+        'id': 'SLPS25777',
+        'title': 'Sumomomo Momomo - Chijou Saikyou no Yome - Keishou Shimasho! Koi no Hanamuko Soudatsusen!! (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65021': {
+        'id': 'SLPM65021',
+        'title': 'Super Galdelic Hour',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25290': {
+        'id': 'SLKA25290',
+        'title': 'Super Monkey Ball Deluxe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65909': {
+        'id': 'SLPM65909',
+        'title': 'Super Monkey Ball Deluxe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62471': {
+        'id': 'SLPM62471',
+        'title': 'SuperLite 2000 Vol. 16 - UNO Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62143': {
+        'id': 'SLPM62143',
+        'title': 'SuperLite 2000 Vol. 17 - Hakoniwa Tetsudou - Blue Train Tokkyuu-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62460': {
+        'id': 'SLPM62460',
+        'title': 'SuperLite 2000 Vol. 17 - Hakoniwa Tetsudou - Blue Train Tokkyuu-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62487': {
+        'id': 'SLPM62487',
+        'title': 'SuperLite 2000 Vol. 19 - Hanafuda',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65601': {
+        'id': 'SLPM65601',
+        'title': 'SuperLite 2000 Vol. 20 - Omoide ni Kawaru Kimi - Memories Off',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65664': {
+        'id': 'SLPM65664',
+        'title': 'SuperLite 2000 Vol. 22 - Memories Off Duet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55088': {
+        'id': 'SLPM55088',
+        'title': 'SuperLite 2000 Vol. 23 - Never 7 - The End of Infinity',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65689': {
+        'id': 'SLPM65689',
+        'title': 'SuperLite 2000 Vol. 23 - Never 7 - The End of Infinity',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65691': {
+        'id': 'SLPM65691',
+        'title': 'SuperLite 2000 Vol. 24 - Ever 17 - The Out of Infinity - Premium Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65928': {
+        'id': 'SLPM65928',
+        'title': 'SuperLite 2000 Vol. 29 - Memories Off Mix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62608': {
+        'id': 'SLPM62608',
+        'title': 'SuperLite 2000 Vol. 30 - Yoshinoya',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65994': {
+        'id': 'SLPM65994',
+        'title': 'SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66015': {
+        'id': 'SLPM66015',
+        'title': 'SuperLite 2000 Vol. 32 - Ai yori Aoshi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66039': {
+        'id': 'SLPM66039',
+        'title': 'SuperLite 2000 Vol. 33 - Memories Off - Sorekara',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65732': {
+        'id': 'SLPM65732',
+        'title': 'SuperLite 2000 Vol. 34 - Akai Ito',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66136': {
+        'id': 'SLPM66136',
+        'title': 'SuperLite 2000 Vol. 34 - Akai Ito',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66195': {
+        'id': 'SLPM66195',
+        'title': 'SuperLite 2000 Vol. 35 - Monochrome',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66273': {
+        'id': 'SLPM66273',
+        'title': 'SuperLite 2000 Vol. 37 - Memories Off - After Rain Vol. 1 - Orizuru',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66282': {
+        'id': 'SLPM66282',
+        'title': 'SuperLite 2000 Vol. 38 - Memories Off - After Rain Vol. 2 - Souen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65690': {
+        'id': 'SLPM65690',
+        'title': 'SuperLite 2000 Vol. 39 - Konohana 4 - Yami o Harau Inori',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66361': {
+        'id': 'SLPM66361',
+        'title': 'SuperLite 2000 Vol. 39 - Konohana 4 - Yami o Harau Inori',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66283': {
+        'id': 'SLPM66283',
+        'title': 'SuperLite 2000 Vol. 40 - Memories Off - After Rain Vol. 3 - Sotsugyou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65982': {
+        'id': 'SLPM65982',
+        'title': 'SuperLite 2000 Vol. 41 - Tokyo Bus Guide 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66555': {
+        'id': 'SLPM66555',
+        'title': 'SuperLite 2000 Vol. 41 - Tokyo Bus Guide 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66571': {
+        'id': 'SLPM66571',
+        'title': 'SuperLite 2000 Vol. 42 - Memories Off 5 - Togireta Film',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66696': {
+        'id': 'SLPM66696',
+        'title': 'SuperLite 2000 Vol. 43 - Memories Off - Sorekara Again',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55165': {
+        'id': 'SLPM55165',
+        'title': 'SuperLite 2000 Vol. 44 - Aoi Shiro',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65032': {
+        'id': 'SLPM65032',
+        'title': 'SuperLite 2000 Vol. 5 - Tokyo Bus Guide - Kyou kara Kimi mo Untenshu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65349': {
+        'id': 'SLPM65349',
+        'title': 'SuperLite 2000 Vol. 5 - Tokyo Bus Guide - Kyou kara Kimi mo Untenshu',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65353': {
+        'id': 'SLPM65353',
+        'title': 'SuperLite 2000 Vol. 6 - Konohana 2 - Todokanai Requiem',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20197': {
+        'id': 'SLPS20197',
+        'title': 'Surfing Air Show with RatBoy',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25131': {
+        'id': 'SLKA25131',
+        'title': 'Suwanggi - Project Altered Beast',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25821': {
+        'id': 'SLPS25821',
+        'title': 'Suzumiya Haruhi no Tomadoi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25822': {
+        'id': 'SLPS25822',
+        'title': 'Suzumiya Haruhi no Tomadoi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73264': {
+        'id': 'SLPS73264',
+        'title': 'Suzumiya Haruhi no Tomadoi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55243': {
+        'id': 'SLPM55243',
+        'title': 'Suzunone Seven! Rebirth Knot',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55185': {
+        'id': 'SLPM55185',
+        'title': 'Sweet Honey Coming',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25190': {
+        'id': 'SLPS25190',
+        'title': 'Sweet Legacy - Boku to Kanojo no Na mo Nai Okashi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25483': {
+        'id': 'SLPS25483',
+        'title': 'Sweet Season',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65121': {
+        'id': 'SLPM65121',
+        'title': 'Switch',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20032': {
+        'id': 'SCKA20032',
+        'title': 'Syphon Filter - The Omega Strain',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65369': {
+        'id': 'SLPM65369',
+        'title': 'TBS All Star Kanshasai 2003 Aki - Chou Gouka! Quiz Ketteiban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65261': {
+        'id': 'SLPM65261',
+        'title': 'TBS All Star Kanshasai Vol. 1 - Chou Gouka! Quiz Ketteiban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65578': {
+        'id': 'SLPM65578',
+        'title': 'TBS All Star Kanshasai Vol. 1 - Chou Gouka! Quiz Ketteiban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66498': {
+        'id': 'SLPM66498',
+        'title': 'TOCA Race Driver 2 - Ultimate Racing Simulator',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15002': {
+        'id': 'SCPS15002',
+        'title': 'TVDJ',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20414': {
+        'id': 'SLPS20414',
+        'title': 'Taiko no Tatsujin - Taiko Drum Master',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20413': {
+        'id': 'SLPS20413',
+        'title': 'Taiko no Tatsujin - Taiko Drum Master (Tatacon Doukon Set)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20117': {
+        'id': 'SLPS20117',
+        'title': 'Taikyoku Mahjong - Net de Ron!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62612': {
+        'id': 'SLPM62612',
+        'title': 'Taisen Hot Gimmick - Axes-jong',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62611': {
+        'id': 'SLPM62611',
+        'title': 'Taisen Hot Gimmick - Axes-jong (Special-ban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65228': {
+        'id': 'SLPM65228',
+        'title': 'Taishou Mononoke Ibunroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15056': {
+        'id': 'SLKA15056',
+        'title': 'Taito Legends',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66092': {
+        'id': 'SLPM66092',
+        'title': 'Taito Memories - Gekan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66776': {
+        'id': 'SLPM66776',
+        'title': 'Taito Memories - Gekan (Eternal Hits)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66521': {
+        'id': 'SLPM66521',
+        'title': 'Taito Memories - Gekan (Taito Best)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66057': {
+        'id': 'SLPM66057',
+        'title': 'Taito Memories - Joukan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66775': {
+        'id': 'SLPM66775',
+        'title': 'Taito Memories - Joukan (Eternal Hits)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66402': {
+        'id': 'SLPM66402',
+        'title': 'Taito Memories - Joukan (Taito Best)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55018': {
+        'id': 'SLPM55018',
+        'title': 'Taito Memories II - Gekan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66713': {
+        'id': 'SLPM66713',
+        'title': 'Taito Memories II - Gekan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55017': {
+        'id': 'SLPM55017',
+        'title': 'Taito Memories II - Joukan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66649': {
+        'id': 'SLPM66649',
+        'title': 'Taito Memories II - Joukan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25142': {
+        'id': 'SLKA25142',
+        'title': 'Tak and the Power of Juju',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62407': {
+        'id': 'SLPM62407',
+        'title': 'Takahashi Naoko no Marathon Shiyou yo!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20145': {
+        'id': 'SCAJ20145',
+        'title': 'Tales of Legendia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20050': {
+        'id': 'SCKA20050',
+        'title': 'Tales of Legendia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25533': {
+        'id': 'SLPS25533',
+        'title': 'Tales of Legendia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73242': {
+        'id': 'SLPS73242',
+        'title': 'Tales of Legendia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25450': {
+        'id': 'SLPS25450',
+        'title': 'Tales of Rebirth',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20163': {
+        'id': 'SCAJ20163',
+        'title': 'Tales of the Abyss',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25586': {
+        'id': 'SLPS25586',
+        'title': 'Tales of the Abyss',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73252': {
+        'id': 'SLPS73252',
+        'title': 'Tales of the Abyss',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62073': {
+        'id': 'SLPM62073',
+        'title': 'Tam Tam Paradise',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25054': {
+        'id': 'SLPS25054',
+        'title': 'Tamamayu Monogatari 2 - Horobi no Mushi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66432': {
+        'id': 'SLPM66432',
+        'title': 'Tamayura - Mitama Okuri no Uta (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65450': {
+        'id': 'SLPM65450',
+        'title': 'Tantei Gakuen Q - Kioukan no Satsui (Shokai Seisanban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65173': {
+        'id': 'SLPM65173',
+        'title': 'Tantei Jinguuji Saburou - Innocent Black',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65576': {
+        'id': 'SLPM65576',
+        'title': 'Tantei Jinguuji Saburou - Kind of Blue',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20055': {
+        'id': 'SLPS20055',
+        'title': 'Technictix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20401': {
+        'id': 'SLPS20401',
+        'title': 'Tecmo Hit Parade',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66518': {
+        'id': 'SLPM66518',
+        'title': 'Teikoku Sensenki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25436': {
+        'id': 'SLPS25436',
+        'title': 'Teikoku Sensenki',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25433': {
+        'id': 'SLPS25433',
+        'title': 'Teikoku Sensenki (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS56002': {
+        'id': 'SCPS56002',
+        'title': 'Tekken Tag Tournament',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20015': {
+        'id': 'SLPS20015',
+        'title': 'Tekken Tag Tournament',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS71501': {
+        'id': 'SLPS71501',
+        'title': 'Tekken Tag Tournament',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73104': {
+        'id': 'SLPS73104',
+        'title': 'Tekken Tag Tournament',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA15037': {
+        'id': 'SLKA15037',
+        'title': 'Tengai Premium Package',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65777': {
+        'id': 'SLPM65777',
+        'title': 'Tenkuu Danzai - Skelter Heaven',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65776': {
+        'id': 'SLPM65776',
+        'title': 'Tenkuu Danzai - Skelter Heaven (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66669': {
+        'id': 'SLPM66669',
+        'title': 'Tennis no Oujisama - Card Hunter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66642': {
+        'id': 'SLPM66642',
+        'title': 'Tennis no Oujisama - Card Hunter (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66610': {
+        'id': 'SLPM66610',
+        'title': 'Tennis no Oujisama - Doki Doki Survival - Umibe no Secret',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66832': {
+        'id': 'SLPM66832',
+        'title': 'Tennis no Oujisama - Doki Doki Survival - Umibe no Secret',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65398': {
+        'id': 'SLPM65398',
+        'title': 'Tennis no Oujisama - Kiss of Prince - Flame',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65397': {
+        'id': 'SLPM65397',
+        'title': 'Tennis no Oujisama - Kiss of Prince - Ice',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65819': {
+        'id': 'SLPM65819',
+        'title': 'Tennis no Oujisama - Kiss of Prince - Ice',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65510': {
+        'id': 'SLPM65510',
+        'title': 'Tennis no Oujisama - Love of Prince - Bitter',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65509': {
+        'id': 'SLPM65509',
+        'title': 'Tennis no Oujisama - Love of Prince - Sweet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65817': {
+        'id': 'SLPM65817',
+        'title': 'Tennis no Oujisama - Love of Prince - Sweet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65560': {
+        'id': 'SLPM65560',
+        'title': 'Tenohira o, Taiyou ni - Eikyuu no Kizuna',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65559': {
+        'id': 'SLPM65559',
+        'title': 'Tenohira o, Taiyou ni - Eikyuu no Kizuna (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66396': {
+        'id': 'SLPM66396',
+        'title': 'Tensei Hakkenshi - Fuumaroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20066': {
+        'id': 'SLPS20066',
+        'title': 'Tenshi no Present - Marl Oukoku Monogatari',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20053': {
+        'id': 'SLPS20053',
+        'title': 'Tenshi no Present - Marl Oukoku Monogatari (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66566': {
+        'id': 'SLPM66566',
+        'title': 'Tenshou Gakuen Gekkouroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66906': {
+        'id': 'SLPM66906',
+        'title': 'Tenshou Gakuen Gekkouroku (Asmik Tokudane Series)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65598': {
+        'id': 'SLPM65598',
+        'title': 'Tenshou Gakuen Gensouroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66382': {
+        'id': 'SLPM66382',
+        'title': 'Tenshou Gakuen Gensouroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66486': {
+        'id': 'SLPM66486',
+        'title': 'Tentama - 1st Sunny Side',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25298': {
+        'id': 'SLPS25298',
+        'title': 'Tentama - 1st Sunny Side',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65520': {
+        'id': 'SLPM65520',
+        'title': 'Tentama 2 wins (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20058': {
+        'id': 'SCAJ20058',
+        'title': 'Terminator 3 - Rise of the Machines',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65442': {
+        'id': 'SLPM65442',
+        'title': 'Terminator 3 - Rise of the Machines',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62142': {
+        'id': 'SLPM62142',
+        'title': 'Tetsu One - Densha de Battle! World Grand Prix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM64544': {
+        'id': 'SLPM64544',
+        'title': 'Tetsu One - Jeoncharo Battle! World Grand Prix',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25362': {
+        'id': 'SLPS25362',
+        'title': 'Tetsujin 28-gou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65143': {
+        'id': 'SLPM65143',
+        'title': 'The Anime Super Remix - Ashita no Joe 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65142': {
+        'id': 'SLPM65142',
+        'title': 'The Anime Super Remix - Kyojin no Hoshi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25246': {
+        'id': 'SLKA25246',
+        'title': "The Bard's Tale",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25023': {
+        'id': 'SLPS25023',
+        'title': 'The Bouncer',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25382': {
+        'id': 'SLKA25382',
+        'title': 'The Chronicles of Narnia - The Lion, the Witch and the Wardrobe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62322': {
+        'id': 'SLPM62322',
+        'title': 'The Conveni 3 - Ano Machi o Dokusen seyo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62601': {
+        'id': 'SLPM62601',
+        'title': 'The Conveni 3 - Ano Machi o Dokusen seyo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62724': {
+        'id': 'SLPM62724',
+        'title': 'The Conveni 4 - Ano Machi o Dokusen seyo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66183': {
+        'id': 'SLPM66183',
+        'title': 'The Getaway - Black Monday',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66710': {
+        'id': 'SLPM66710',
+        'title': 'The Godfather',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66966': {
+        'id': 'SLPM66966',
+        'title': 'The Godfather',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25080': {
+        'id': 'SLAJ25080',
+        'title': 'The Godfather - The Game',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15035': {
+        'id': 'SCPS15035',
+        'title': 'The Keihin Kyuukou - Train Simulator Real',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62097': {
+        'id': 'SLPM62097',
+        'title': 'The Keisatsukan - Shinjuku 24-ji',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25983': {
+        'id': 'SLPS25983',
+        'title': 'The King of Fighters 2002 - Unlimited Match - Tougeki Ver.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25458': {
+        'id': 'SLKA25458',
+        'title': 'The King of Fighters Collection - The Orochi Saga',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25098': {
+        'id': 'SLKA25098',
+        'title': 'The Lord of the Rings - The Return of the King',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65212': {
+        'id': 'SLPM65212',
+        'title': 'The Lord of the Rings - The Two Towers',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62078': {
+        'id': 'SLPM62078',
+        'title': 'The Maestromusic II',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62077': {
+        'id': 'SLPM62077',
+        'title': 'The Maestromusic II (Doukonban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20031': {
+        'id': 'SLPS20031',
+        'title': 'The MechSmith - Run=Dim',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25377': {
+        'id': 'SLPS25377',
+        'title': 'The Nightmare of Druaga - Fushigi no Dungeon',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65919': {
+        'id': 'SLPM65919',
+        'title': 'The Rumble Fish',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15003': {
+        'id': 'SCPS15003',
+        'title': 'The Sky Odyssey',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62566': {
+        'id': 'SLPM62566',
+        'title': 'The Typing of the Dead - Zombie Panic',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65187': {
+        'id': 'SLPM65187',
+        'title': 'Thread Colors - Sayonara no Mukougawa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25343': {
+        'id': 'SLKA25343',
+        'title': 'Thrillville - Off the Rails',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65739': {
+        'id': 'SLPM65739',
+        'title': "Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66131': {
+        'id': 'SLPM66131',
+        'title': "Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20038': {
+        'id': 'SCKA20038',
+        'title': 'Time Crisis - Crisis Zone',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25207': {
+        'id': 'SLPS25207',
+        'title': 'TimeSplitter - Jikuu no Shinryakusha',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25020': {
+        'id': 'SLKA25020',
+        'title': 'TimeSplitters 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25412': {
+        'id': 'SLPS25412',
+        'title': 'ToHeart',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25414': {
+        'id': 'SLPS25414',
+        'title': 'ToHeart 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25411': {
+        'id': 'SLPS25411',
+        'title': 'ToHeart 2 (Gentei Deluxe Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25413': {
+        'id': 'SLPS25413',
+        'title': 'ToHeart 2 (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66856': {
+        'id': 'SLPM66856',
+        'title': 'Togainu no Chi - True Blood',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65145': {
+        'id': 'SLPM65145',
+        'title': "Tokimeki Memorial - Girl's Side",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65365': {
+        'id': 'SLPM65365',
+        'title': "Tokimeki Memorial - Girl's Side",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65745': {
+        'id': 'SLPM65745',
+        'title': "Tokimeki Memorial - Girl's Side",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66482': {
+        'id': 'SLPM66482',
+        'title': "Tokimeki Memorial - Girl's Side 2nd Kiss",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66330': {
+        'id': 'SLPM66330',
+        'title': "Tokimeki Memorial - Girl's Side 2nd Kiss (Shokai Seisanban)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65118': {
+        'id': 'SLPM65118',
+        'title': 'Tokimeki Memorial 2 - Music Video Clips - Circus de Aimashou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25379': {
+        'id': 'SLPS25379',
+        'title': 'Tokyo Majin Gakuen - Gehouchou Keppuuroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25405': {
+        'id': 'SLPS25405',
+        'title': 'Tokyo Majin Gakuen - Gehouchou Keppuuroku',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25378': {
+        'id': 'SLPS25378',
+        'title': 'Tokyo Majin Gakuen - Gehouchou Keppuuroku (Shokai Gentei)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65244': {
+        'id': 'SLPM65244',
+        'title': "Tom Clancy's Ghost Recon",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65954': {
+        'id': 'SLPM65954',
+        'title': "Tom Clancy's Ghost Recon",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25173': {
+        'id': 'SLKA25173',
+        'title': "Tom Clancy's Rainbow Six 3",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65731': {
+        'id': 'SLPM65731',
+        'title': "Tom Clancy's Rainbow Six 3",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65422': {
+        'id': 'SLPM65422',
+        'title': "Tom Clancy's Splinter Cell",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65955': {
+        'id': 'SLPM65955',
+        'title': "Tom Clancy's Splinter Cell",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67552': {
+        'id': 'SLPM67552',
+        'title': 'Tomak - Save the Earth - Complete Edition',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20242': {
+        'id': 'SLPS20242',
+        'title': 'Tomak - Save the Earth - Love Story',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25927': {
+        'id': 'SLPS25927',
+        'title': 'Tomb Raider - Underworld',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66611': {
+        'id': 'SLPM66611',
+        'title': "Tomoyo After - It's a Wonderful Life - CS Edition",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25447': {
+        'id': 'SLPS25447',
+        'title': 'Top o Nerae! GunBuster',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65302': {
+        'id': 'SLPM65302',
+        'title': 'ToraCap! Daash!!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65301': {
+        'id': 'SLPM65301',
+        'title': 'ToraCap! Daash!! (Deluxe Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25812': {
+        'id': 'SLPS25812',
+        'title': 'Tori no Hoshi - Aerial Planet',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25668': {
+        'id': 'SLPS25668',
+        'title': 'Torikago no Mukougawa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20225': {
+        'id': 'SLPS20225',
+        'title': 'Toudai Shougi - Shiken Bisha Doujou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62613': {
+        'id': 'SLPM62613',
+        'title': 'Tough - Dark Fight',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55200': {
+        'id': 'SLPM55200',
+        'title': 'Touka Gettan - Koufuu no Ryouou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25189': {
+        'id': 'SLPS25189',
+        'title': 'Toukon Inoki-michi - Puzzle de Daaa!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66845': {
+        'id': 'SLPM66845',
+        'title': 'Towa no Sakura',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66844': {
+        'id': 'SLPM66844',
+        'title': 'Towa no Sakura (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM67007': {
+        'id': 'SLPM67007',
+        'title': 'Train Simulator - Keisei, Toei Asakusa, Keikyuusen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65223': {
+        'id': 'SLPM65223',
+        'title': 'Triangle Again',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65273': {
+        'id': 'SLPM65273',
+        'title': 'Triangle Again 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55052': {
+        'id': 'SLPM55052',
+        'title': 'Triggerheart Exelica Enhanced',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66626': {
+        'id': 'SLPM66626',
+        'title': 'Trouble Fortune Company - HapiCure',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66625': {
+        'id': 'SLPM66625',
+        'title': 'Trouble Fortune Company - HapiCure (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20062': {
+        'id': 'SLPS20062',
+        'title': 'Truck Kyousoukyoku - Ai to Kanashimi no Rodeo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25880': {
+        'id': 'SLPS25880',
+        'title': 'True Fortune',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25245': {
+        'id': 'SLPS25245',
+        'title': 'True Love Story - Summer Days, and Yet...',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25387': {
+        'id': 'SLPS25387',
+        'title': 'True Love Story - Summer Days, and Yet...',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25038': {
+        'id': 'SLPS25038',
+        'title': 'True Love Story 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25281': {
+        'id': 'SLPS25281',
+        'title': 'True Love Story 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66935': {
+        'id': 'SLPM66935',
+        'title': 'True Tears',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65717': {
+        'id': 'SLPM65717',
+        'title': 'Tsuki wa Higashi ni Hi wa Nishi ni - Operation Sanctuary',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65896': {
+        'id': 'SLPM65896',
+        'title': 'Tsuki wa Kirisaku - Tantei Sagara Kyouichirou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65895': {
+        'id': 'SLPM65895',
+        'title': 'Tsuki wa Kirisaku - Tantei Sagara Kyouichirou (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65826': {
+        'id': 'SLPM65826',
+        'title': 'Tsukiyo ni Saraba',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66408': {
+        'id': 'SLPM66408',
+        'title': 'Tsuyokiss - Mighty Heart',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66624': {
+        'id': 'SLPM66624',
+        'title': 'Tsuyokiss - Mighty Heart',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66407': {
+        'id': 'SLPM66407',
+        'title': 'Tsuyokiss - Mighty Heart (Kanzen Seisan Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55153': {
+        'id': 'SLPM55153',
+        'title': 'Tsuyokiss 2-gakki - Swift Love',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55154': {
+        'id': 'SLPM55154',
+        'title': 'Tsuyokiss 2-gakki - Swift Love',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20081': {
+        'id': 'SLPS20081',
+        'title': 'Typing Namidabashi - Ashita no Joe Touda',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20080': {
+        'id': 'SLPS20080',
+        'title': 'Typing Namidabashi - Ashita no Joe Touda (USB Keyboard Doukonban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20175': {
+        'id': 'SLPS20175',
+        'title': "Typing Ren'ai Hakusho - Boys Be...",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20174': {
+        'id': 'SLPS20174',
+        'title': "Typing Ren'ai Hakusho - Boys Be... (Keyboard Set)",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS56011': {
+        'id': 'SCPS56011',
+        'title': 'U - Underwater Unit',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20194': {
+        'id': 'SLPS20194',
+        'title': 'U - Underwater Unit',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25256': {
+        'id': 'SLKA25256',
+        'title': 'UEFA Champions League 2006-2007',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25294': {
+        'id': 'SLPS25294',
+        'title': 'Uchuu no Stellvia',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66404': {
+        'id': 'SLPM66404',
+        'title': 'Ultimate Spider-Man',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73220': {
+        'id': 'SLPS73220',
+        'title': 'Ultraman',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66864': {
+        'id': 'SLPM66864',
+        'title': 'Umishou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55175': {
+        'id': 'SLPM55175',
+        'title': 'Under the Moon - Crescent',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15069': {
+        'id': 'SCPS15069',
+        'title': 'Uo - 7-tsu no Mizu to Densetsu no Nushi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55274': {
+        'id': 'SLPM55274',
+        'title': 'Uragiri wa Boku no Namae o Shitteiru - Tasogare ni Ochita Inori',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20152': {
+        'id': 'SCAJ20152',
+        'title': 'Urban Reign',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20065': {
+        'id': 'SCKA20065',
+        'title': 'Urban Reign',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25557': {
+        'id': 'SLPS25557',
+        'title': 'Urban Reign',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20207': {
+        'id': 'SLPS20207',
+        'title': 'Usagi - Yasei no Touhai - Dramatic Mahjong',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20264': {
+        'id': 'SLPS20264',
+        'title': 'Usagi - Yasei no Touhai - The Arcade',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62533': {
+        'id': 'SLPM62533',
+        'title': 'Usagi - Yasei no Touhai - The Arcade - Yamashiro Mahjong-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65641': {
+        'id': 'SLPM65641',
+        'title': 'Utau - Tumbling Dice - Watashitachi 3-nin, A Ge Ru',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25679': {
+        'id': 'SLPS25679',
+        'title': 'Utawarerumono - Chiri Yuku Mono e no Komoriuta',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25678': {
+        'id': 'SLPS25678',
+        'title': 'Utawarerumono - Chiri Yuku Mono e no Komoriuta (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62205': {
+        'id': 'SLPM62205',
+        'title': 'Virtua Cop Re-Birth',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM68008': {
+        'id': 'SLPM68008',
+        'title': 'Virtua Fighter - 10th Anniversary Fukkoku-ban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM68018': {
+        'id': 'SLPM68018',
+        'title': 'Virtua Fighter - 10th Anniversary Fukkoku-ban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25761': {
+        'id': 'SLPS25761',
+        'title': 'VitaminX - We are Super Supriment Boys',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25760': {
+        'id': 'SLPS25760',
+        'title': 'VitaminX - We are Super Supriment Boys (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25923': {
+        'id': 'SLPS25923',
+        'title': 'VitaminZ - Welcome Our New Supplement Boys',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25922': {
+        'id': 'SLPS25922',
+        'title': 'VitaminZ - Welcome Our New Supplement Boys (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65583': {
+        'id': 'SLPM65583',
+        'title': 'WRC 3 - The Official Game of the FIA World Rally Championship',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66103': {
+        'id': 'SLPM66103',
+        'title': 'WRC 3 - The Official Game of the FIA World Rally Championship',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65284': {
+        'id': 'SLPM65284',
+        'title': 'WRC II Extreme',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65573': {
+        'id': 'SLPM65573',
+        'title': 'WRC II Extreme',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62046': {
+        'id': 'SLPM62046',
+        'title': 'WTA Tour Tennis',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55176': {
+        'id': 'SLPM55176',
+        'title': 'Wand of Fortune',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55177': {
+        'id': 'SLPM55177',
+        'title': 'Wand of Fortune',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55246': {
+        'id': 'SLPM55246',
+        'title': 'Wand of Fortune - Mirai e no Prologue',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20061': {
+        'id': 'SCKA20061',
+        'title': 'Wander and the Colossus',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15097': {
+        'id': 'SCPS15097',
+        'title': 'Wander to Kyozou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19320': {
+        'id': 'SCPS19320',
+        'title': 'Wander to Kyozou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19335': {
+        'id': 'SCPS19335',
+        'title': 'Wander to Kyozou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20146': {
+        'id': 'SCAJ20146',
+        'title': 'Wang Da Yu Ju Xiang',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20196': {
+        'id': 'SCAJ20196',
+        'title': 'Wang Da Yu Ju Xiang',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62292': {
+        'id': 'SLPM62292',
+        'title': 'Warrior Blade - Rastan vs. Barbarian-hen',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM64507': {
+        'id': 'SLPM64507',
+        'title': 'Wave Rally',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20170': {
+        'id': 'SLPS20170',
+        'title': 'Wave Rally',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66449': {
+        'id': 'SLPM66449',
+        'title': 'We Are-',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66448': {
+        'id': 'SLPM66448',
+        'title': 'We Are- (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62349': {
+        'id': 'SLPM62349',
+        'title': 'Welcome to Universal Studios Japan',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66607': {
+        'id': 'SLPM66607',
+        'title': 'White Breath - Kizuna',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66606': {
+        'id': 'SLPM66606',
+        'title': 'White Breath - Kizuna (Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66215': {
+        'id': 'SLPM66215',
+        'title': 'White Clarity - And, the Tears Became You',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66214': {
+        'id': 'SLPM66214',
+        'title': 'White Clarity - And, the Tears Became You (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66078': {
+        'id': 'SLPM66078',
+        'title': "White Princess the Second - Yappari Ichizu ni Ittemo Soujanakutemo OK na Gotsugou Shugi Gakuen Ren'ai Adventure!!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66588': {
+        'id': 'SLPM66588',
+        'title': "White Princess the Second - Yappari Ichizu ni Ittemo Soujanakutemo OK na Gotsugou Shugi Gakuen Ren'ai Adventure!!",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15024': {
+        'id': 'SCPS15024',
+        'title': 'Wild Arms - Advanced 3rd',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19205': {
+        'id': 'SCPS19205',
+        'title': 'Wild Arms - Advanced 3rd',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19323': {
+        'id': 'SCPS19323',
+        'title': 'Wild Arms - Advanced 3rd',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS55006': {
+        'id': 'SCPS55006',
+        'title': 'Wild Arms - Advanced 3rd',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS15023': {
+        'id': 'SCPS15023',
+        'title': 'Wild Arms - Advanced 3rd (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS17002': {
+        'id': 'SCPS17002',
+        'title': 'Wild Arms - Alter Code - F',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19251': {
+        'id': 'SCPS19251',
+        'title': 'Wild Arms - Alter Code - F',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS19253': {
+        'id': 'SCPS19253',
+        'title': 'Wild Arms - Alter Code - F',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55051': {
+        'id': 'SLPM55051',
+        'title': "Will O' Wisp - Easter no Kiseki",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65464': {
+        'id': 'SLPM65464',
+        'title': 'Wind - A Breath of Heart',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66635': {
+        'id': 'SLPM66635',
+        'title': 'Wind - A Breath of Heart',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62123': {
+        'id': 'SLPM62123',
+        'title': 'Winning Post 5',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62221': {
+        'id': 'SLPM62221',
+        'title': 'Winning Post 5 Maximum 2002',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62280': {
+        'id': 'SLPM62280',
+        'title': 'Winning Post 5 Maximum 2002 (Premium Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65298': {
+        'id': 'SLPM65298',
+        'title': 'Winning Post 5 Maximum 2003',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65893': {
+        'id': 'SLPM65893',
+        'title': 'Winning Post 6 - 2005-nendoban (Premium Pack)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ25111': {
+        'id': 'SLAJ25111',
+        'title': 'World Soccer Winning Eleven 2009',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25455': {
+        'id': 'SLKA25455',
+        'title': 'World Soccer Winning Eleven 2009',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55131': {
+        'id': 'SLPM55131',
+        'title': 'World Soccer Winning Eleven 2009',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55294': {
+        'id': 'SLPM55294',
+        'title': 'World Soccer Winning Eleven 2012',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55056': {
+        'id': 'SLPM55056',
+        'title': 'Wrestle Angels Survivor 2',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20025': {
+        'id': 'SLPS20025',
+        'title': 'X-treme Racing SSX',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62318': {
+        'id': 'SLPM62318',
+        'title': 'XII Stag',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25375': {
+        'id': 'SLPS25375',
+        'title': 'XIII - Daitouryou o Koroshita Otoko',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25472': {
+        'id': 'SLPS25472',
+        'title': 'XIII - Daitouryou o Koroshita Otoko',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25367': {
+        'id': 'SLPS25367',
+        'title': 'Xenosaga Episode II - Jenseits von Gut und Bose (Premium Box)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66897': {
+        'id': 'SLPM66897',
+        'title': 'Xyanide',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20287': {
+        'id': 'SLPS20287',
+        'title': 'Yakiniku Bugyou Bonfire!',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20289': {
+        'id': 'SLPS20289',
+        'title': 'Yamasa Digi World SP - Umi Ichiban R',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS20357': {
+        'id': 'SLPS20357',
+        'title': 'Yamasa Digi World SP - Umi Ichiban R',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM62051': {
+        'id': 'SLPM62051',
+        'title': 'Yanya! Caballista featuring Gawoo',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20099': {
+        'id': 'SCKA20099',
+        'title': 'Yeosin Jeonsaeng Persona 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20109': {
+        'id': 'SCKA20109',
+        'title': 'Yeosin Jeonsaeng Persona 3 FES',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLAJ35003': {
+        'id': 'SLAJ35003',
+        'title': 'Yinghua Dazhan - Chire Zhi Xue',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66543': {
+        'id': 'SLPM66543',
+        'title': 'Yo-Jin-Bo - Unmei no Freude',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66584': {
+        'id': 'SLPM66584',
+        'title': 'Yoake Mae yori Ruriiro na - Brighter than Dawning Blue',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLKA25342': {
+        'id': 'SLKA25342',
+        'title': 'Yonggwa Gachi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66928': {
+        'id': 'SLPM66928',
+        'title': "Your Memories Off - Girl's Style",
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM65830': {
+        'id': 'SLPM65830',
+        'title': 'Ys - The Ark of Napishtim',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66326': {
+        'id': 'SLPM66326',
+        'title': 'Ys - The Ark of Napishtim',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25482': {
+        'id': 'SLPS25482',
+        'title': 'Yukigatari - Renewal-ban',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66707': {
+        'id': 'SLPM66707',
+        'title': 'Yukinko Daisenpuu - Sayuki to Koyuki no Hie Hie Daisoudou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM68502': {
+        'id': 'SLPM68502',
+        'title': 'Zeonic Front - Kidou Senshi Gundam 0079 (Tokubetsuban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCPS56008': {
+        'id': 'SCPS56008',
+        'title': 'Zero',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25074': {
+        'id': 'SLPS25074',
+        'title': 'Zero',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73255': {
+        'id': 'SLPS73255',
+        'title': 'Zero',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73405': {
+        'id': 'SLPS73405',
+        'title': 'Zero',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25303': {
+        'id': 'SLPS25303',
+        'title': 'Zero - Akai Chou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73201': {
+        'id': 'SLPS73201',
+        'title': 'Zero - Akai Chou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73256': {
+        'id': 'SLPS73256',
+        'title': 'Zero - Akai Chou',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCKA20023': {
+        'id': 'SCKA20023',
+        'title': 'Zero - Bulgeun Nabi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25544': {
+        'id': 'SLPS25544',
+        'title': 'Zero - Shisei no Koe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73245': {
+        'id': 'SLPS73245',
+        'title': 'Zero - Shisei no Koe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73257': {
+        'id': 'SLPS73257',
+        'title': 'Zero - Shisei no Koe',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25709': {
+        'id': 'SLPS25709',
+        'title': 'Zero no Tsukaima - Koakuma to Harukaze no Concerto',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25825': {
+        'id': 'SLPS25825',
+        'title': 'Zero no Tsukaima - Koakuma to Harukaze no Concerto',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25708': {
+        'id': 'SLPS25708',
+        'title': 'Zero no Tsukaima - Koakuma to Harukaze no Concerto (Shokai Genteiban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25113': {
+        'id': 'SLPS25113',
+        'title': 'Zettai Zetsumei Toshi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS73204': {
+        'id': 'SLPS73204',
+        'title': 'Zettai Zetsumei Toshi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25606': {
+        'id': 'SLPS25606',
+        'title': 'Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25851': {
+        'id': 'SLPS25851',
+        'title': 'Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20144': {
+        'id': 'SCAJ20144',
+        'title': 'Zhuo Hou La 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SCAJ20195': {
+        'id': 'SCAJ20195',
+        'title': 'Zhuo Hou La 3',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66460': {
+        'id': 'SLPM66460',
+        'title': '_summer Double Sharp',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM66877': {
+        'id': 'SLPM66877',
+        'title': '_summer Double Sharp',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55241': {
+        'id': 'SLPM55241',
+        'title': 'ef - A Fairy Tale of the Two.',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPM55240': {
+        'id': 'SLPM55240',
+        'title': 'ef - A Fairy Tale of the Two. (Shokai Gentei Tokubetsu Doukonban)',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
+    'SLPS25803': {
+        'id': 'SLPS25803',
+        'title': 'xxxHOLiC - Watanuki no Izayoi Souwa',
+        #'icon0':
+        #'pic0':
+        #'pic1':
+        #'snd0':
+    },
 }

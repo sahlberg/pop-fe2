@@ -528,7 +528,8 @@ class PopFe2Ps3App:
         self.master.config(cursor='watch')
         self.master.update()
 
-        if not popfe2.check_redump(package_iso):
+        redump_entry = popfe2.check_redump(package_iso)
+        if not redump_entry:
             self.master.config(cursor='')
             d = ErrorDialog(self.master,
                             popfe2.redump_warning(package_iso,
@@ -549,6 +550,14 @@ class PopFe2Ps3App:
                             'Is this really a PS2 disc image?' % iso)
             self.master.wait_window(d)
             return
+
+        serial_warning = popfe2.check_serial(redump_entry, disc_id)
+        if serial_warning:
+            self.master.config(cursor='')
+            d = ErrorDialog(self.master, serial_warning)
+            self.master.wait_window(d)
+            self.master.config(cursor='watch')
+            self.master.update()
 
             
         if disc == 'd1':

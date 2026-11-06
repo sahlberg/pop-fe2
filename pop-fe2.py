@@ -1025,9 +1025,10 @@ def check_redump(image):
     the raw 2352 byte/sector track 1 .bin for a CD based game, which is
     exactly what the redump track 1 md5 is computed over.
 
-    Returns the redump name of the disc, or None if it does not match,
-    in which case a big ALL CAPS warning has been printed.  The caller
-    decides what to do about it; we never refuse to convert.
+    Returns the redump entry for the disc, a dict with 'name' and
+    'serials', or None if it does not match, in which case a big ALL CAPS
+    warning has been printed.  The caller decides what to do about it;
+    we never refuse to convert.
     """
     print('Verifying against redump:', image)
     h = hashlib.md5()
@@ -1037,10 +1038,37 @@ def check_redump(image):
     md5 = h.hexdigest()
     print('MD5              :', md5)
     if md5 in redump_games:
-        print('REDUMP           :', redump_games[md5])
-        return redump_games[md5]
+        entry = redump_games[md5]
+        print('REDUMP           :', entry['name'])
+        print('REDUMP SERIALS   :', ', '.join(entry['serials']) or '(none)')
+        return entry
     print(redump_warning(image, md5))
     return None
+
+
+def check_serial(entry, gameid):
+    """Check the game id we read from SYSTEM.CNF against redump.
+
+    entry is what check_redump() returned.  Returns a warning message if
+    redump lists serials for this disc and gameid is not one of them,
+    otherwise None.  Nothing to check if the disc did not match redump
+    (that has already been warned about) or redump has no serial for it.
+    """
+    if not entry or not entry['serials'] or gameid in entry['serials']:
+        return None
+    msg = '\n'.join([
+        '#' * 72,
+        '#####  WARNING! GAME ID DOES NOT MATCH REDUMP!',
+        '#####  GAME ID FROM THE DISC : %s' % gameid,
+        '#####  REDUMP SERIAL(S)      : %s' % ', '.join(entry['serials']),
+        '#####  REDUMP NAME           : %s' % entry['name'],
+        '#####',
+        '#####  THE WRONG ASSETS OR CONFIGURATION MAY BE USED FOR THIS GAME.',
+        '#####  PLEASE REPORT THIS AT https://github.com/sahlberg/pop-fe2',
+        '#' * 72,
+    ])
+    print(msg)
+    return msg
 
 
 def redump_warning(image, md5):
@@ -1769,6 +1797,8 @@ if __name__ == "__main__":
     print('ART pack         :', art)
     if not os.path.isdir(art):
         print('No ART directory found. Download and install \'https://archive.org/details/ps2-opl-cover-art-set\' in', os.path.dirname(art))
+        sys.stdout.flush()
+        sys.stderr.flush()
         os._exit(0)
 
     package_files = list(args.files)
@@ -1788,15 +1818,20 @@ if __name__ == "__main__":
             package_files[i] = package_file
             package_media[i] = media_type
 
-    bad_dumps = [f for f in package_files if not check_redump(f)]
+    redump_entries = [check_redump(f) for f in package_files]
+    bad_dumps = [f for f, e in zip(package_files, redump_entries) if not e]
 
     disc_gameids = []
     for metadata_file in args.files:
         disc_gameid = get_gameid_from_iso(metadata_file)
         if not disc_gameid:
             print('Could not identify the game')
+            sys.stdout.flush()
+            sys.stderr.flush()
             os._exit(1)
         disc_gameids.append(disc_gameid)
+    for disc_gameid, entry in zip(disc_gameids, redump_entries):
+        check_serial(entry, disc_gameid)
     gameid = disc_gameids[0]
     print('GAMEID:', gameid)
     print('TITLE:', games[gameid]['title'])
