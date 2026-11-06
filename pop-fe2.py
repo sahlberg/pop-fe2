@@ -14,6 +14,7 @@ except:
 
 import argparse
 import binascii
+import hashlib
 import glob
 import io
 import os
@@ -29,6 +30,7 @@ import sys
 from bchunk import bchunk
 from cue import is_abs_path, path_basename, path_dirname
 from gamedb import games
+from db import games as redump_games
 from riff import copy_riff, create_riff, parse_riff
 
 have_ytdlp = False
@@ -1016,6 +1018,52 @@ def prepare_cd_image(cue_path, metadata_iso):
     return metadata_iso, os.path.abspath(track['FILE']), 'cd'
 
 
+def check_redump(image):
+    """Verify a disc image against the redump database.
+
+    image is the file we will package: the .iso for a DVD based game or
+    the raw 2352 byte/sector track 1 .bin for a CD based game, which is
+    exactly what the redump track 1 md5 is computed over.
+
+    Returns the redump name of the disc, or None if it does not match,
+    in which case a big ALL CAPS warning has been printed.  The caller
+    decides what to do about it; we never refuse to convert.
+    """
+    print('Verifying against redump:', image)
+    h = hashlib.md5()
+    with open(image, 'rb') as f:
+        for buf in iter(lambda: f.read(16 * 1024 * 1024), b''):
+            h.update(buf)
+    md5 = h.hexdigest()
+    print('MD5              :', md5)
+    if md5 in redump_games:
+        print('REDUMP           :', redump_games[md5])
+        return redump_games[md5]
+    print(redump_warning(image, md5))
+    return None
+
+
+def redump_warning(image, md5):
+    bar = '#' * 72
+    return '\n'.join([
+        bar,
+        '#####  WARNING!  WARNING!  WARNING!',
+        '#####',
+        '#####  THIS DISC IMAGE DOES NOT MATCH ANY KNOWN REDUMP DUMP!',
+        '#####  %s' % image,
+        '#####  MD5 %s' % md5,
+        '#####',
+        '#####  IT IS EITHER A BAD DUMP, A MODIFIED/PATCHED/TRIMMED IMAGE,',
+        '#####  OR IT HAS BEEN CONVERTED TO THE WRONG FORMAT.',
+        '#####  DVD GAMES MUST BE A PLAIN .ISO (2048 BYTE SECTORS).',
+        '#####  CD GAMES MUST BE A RAW .BIN/.CUE (2352 BYTE SECTORS).',
+        '#####',
+        '#####  THE RESULTING PKG MAY NOT WORK.',
+        '#####  DO NOT REPORT BUGS FOR GAMES THAT DO NOT MATCH REDUMP!',
+        bar,
+    ])
+
+
 def get_pic_from_game(pic, gameid, filename):
     try:
         image = Image.open(filename)
@@ -1740,6 +1788,8 @@ if __name__ == "__main__":
             package_files[i] = package_file
             package_media[i] = media_type
 
+    bad_dumps = [f for f in package_files if not check_redump(f)]
+
     disc_gameids = []
     for metadata_file in args.files:
         disc_gameid = get_gameid_from_iso(metadata_file)
@@ -1789,3 +1839,7 @@ if __name__ == "__main__":
     create_pkg(package_files, gameid, icon0, pic0, pic1, snd0,
                args.ps3_pkg, subdir, swap=s, disc_gameids=disc_gameids,
                disc_media=package_media)
+
+    # Repeat it at the end so it is not lost in the scrollback.
+    for f in bad_dumps:
+        print('\n' + redump_warning(f, 'DOES NOT MATCH REDUMP'))

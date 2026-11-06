@@ -527,6 +527,16 @@ class PopFe2Ps3App:
 
         self.master.config(cursor='watch')
         self.master.update()
+
+        if not popfe2.check_redump(package_iso):
+            self.master.config(cursor='')
+            d = ErrorDialog(self.master,
+                            popfe2.redump_warning(package_iso,
+                                                  'DOES NOT MATCH REDUMP'))
+            self.master.wait_window(d)
+            self.master.config(cursor='watch')
+            self.master.update()
+
         print('Processing', iso)
 
         disc_id = popfe2.get_gameid_from_iso(iso)
